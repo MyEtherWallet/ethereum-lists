@@ -1,17 +1,197 @@
 [
 {
-  "address":"0x25dc5894DB8eF7F7Ff7096eA73B890C1a188D549",
-  "comment":"Fake Coindash Address"
-  "date":"2017-07-18",
+  "address": "0x25dc5894DB8eF7F7Ff7096eA73B890C1a188D549",
+  "comment": "FAKE_Coindash_1",
+  "date": "2017-07-18"
 },
 {
-  "address":"0x7da6955457b72fdd0e80709d704520ff85d79e39",
-  "comment":"Fake Coindash Address"
-  "date":"2017-07-18",
+  "address": "0x7da6955457b72fdd0e80709d704520ff85d79e39",
+  "comment": "FAKE_Coindash_2",
+  "date": "2017-07-18"
 },
 {
-  "address":"0x6a164122d5cf7c840d26e829b46dcc4ed6c0ae48",
-  "comment":"Fake Coindash Address"
-  "date":"2017-07-18",
+  "address": "0x6a164122d5cf7c840d26e829b46dcc4ed6c0ae48",
+  "comment": "FAKE_Coindash_3",
+  "date": "2017-07-18"
+},
+{
+  "address": "0x41dfc5797c8043a2f4f7e7abf71291064e091fc6",
+  "comment": "PHISH_Scambots_1",
+  "date": "7/18/17"
+},
+{
+  "address": "0xc57f1148855e67763a694f7f2c0e68230adc686e",
+  "comment": "PHISH_Scambots_2",
+  "date": "7/18/17"
+},
+{
+  "address": "0x42c5459911ae51d1d005cbe39749bd8d8e533c22",
+  "comment": "PHISH_Scambots_3",
+  "date": "7/18/17"
+},
+{
+  "address": "0x5b67a30108e1a5f3d5a809d57e76cd16fdfde7a7",
+  "comment": "PHISH_Scambots_4",
+  "date": "7/18/17"
+},
+{
+  "address": "0xba83e9ce38b10522e3d6061a12779b7526839eda",
+  "comment": "PHISH_Scambots_5",
+  "date": "7/18/17"
+},
+{
+  "address": "0xaca33c43bd8deac8e1d144baa51fe9c7dd7b010f",
+  "comment": "PHISH_Scambots_6",
+  "date": "7/18/17"
+},
+{
+  "address": "0xa4fcbc4a0508b11d5ef34d41d72020a5def1c712",
+  "comment": "PHISH_Scambots_7",
+  "date": "7/18/17"
+},
+{
+  "address": "0x22eb0b23e5ad7ef827aff13b2e40ed63e277844e",
+  "comment": "PHISH_Scambots_8",
+  "date": "7/18/17"
+},
+{
+  "address": "0x7822b7b190604eaeb4dcaabd2dd5e1daafcb9d46",
+  "comment": "PHISH_Scambots_9",
+  "date": "7/18/17"
+},
+{
+  "address": "0x07425527076b4f73b5616716dda54fb14cf1219e",
+  "comment": "PHISH_Scambots_10",
+  "date": "7/18/17"
+},
+{
+  "address": "0x8e6be4cc78557cf3087b15963bf7139b0154e0e0",
+  "comment": "PHISH_Scambots_11",
+  "date": "7/18/17"
+},
+{
+  "address": "0xed2d26eed06ecfbfd796d1ec551d2a649a31e576",
+  "comment": "PHISH_Scambots_12",
+  "date": "7/18/17"
+},
+{
+  "address": "0x1D60606d8A09b5015D773A80b0C660Bb8d91809c",
+  "comment": "PHISH_Scambots_13",
+  "date": "7/18/17"
+},
+{
+  "address": "0x240e125c20a4cC84Bd6E7F8D1FD07Aff4c06D43d",
+  "comment": "FAKE_district0x_2",
+  "date": ""
+},
+{
+  "address": "0xadF5b0c2103598fb66a61714152F1d1717D49FE0",
+  "comment": "FAKE_Status_4 (contribute-status[.]im)",
+  "date": ""
+},
+{
+  "address": "0x93D8d5Bb1F1E4822F3C614D9A09e7C5e3Fabc13a",
+  "comment": "FAKE_district0x_1",
+  "date": ""
+},
+{
+  "address": "0x0C9D1b3Ca852C67bbeabeEB51E9482A845d56868",
+  "comment": "FAKE_FundYourself",
+  "date": ""
+},
+{
+  "address": "0x0d979f9fFDD579D67C29531ccCba568D2172D0b0",
+  "comment": "FAKE_TenX_2",
+  "date": ""
+},
+{
+  "address": "0x122c7f492c51c247e293b0f996fa63de61474959",
+  "comment": "FAKE_StarbaseCrowdsale",
+  "date": ""
+},
+{
+  "address": "0x199eee5b6ca1aaf030c77f0b5c50e39908fd2072",
+  "comment": "FAKE_TenX_3",
+  "date": ""
+},
+{
+  "address": "0x285cFe87F4AD22228a625DCd1F64b2BC6b27ecff",
+  "comment": "FAKE_TenX_5",
+  "date": ""
+},
+{
+  "address": "0x3018A3EaB048a0a1c15003b383A181F089A039cC",
+  "comment": "FAKE_Status_3",
+  "date": ""
+},
+{
+  "address": "0x905475CbcA398e8Fee6E35bCb2f530a3474B78Ce",
+  "comment": "FAKE_OmiseGo_1",
+  "date": ""
+},
+{
+  "address": "0x9327cb34984c3992ec1EA0eAE98Ccf80A74f95B9",
+  "comment": "FAKE_Status_2",
+  "date": ""
+},
+{
+  "address": "FAKE_DaoCasinoCrowdsale",
+  "comment": "0x944a3F5641d6FAf7a6AbDE4ec31e40d0929955eD",
+  "date": ""
+},
+{
+  "address": "0xa8454096f4a18e0252b411f670b3dd9d21465e75",
+  "comment": "FAKE_Status_4",
+  "date": ""
+},
+{
+  "address": "0xaF70168cdAc454Fa9fF94E5458D450ae7EEB7ae8",
+  "comment": "FAKE_TenX_2",
+  "date": ""
+},
+{
+  "address": "0xbc85a12364c9e375801c00aad17b893fc4c8f5b6",
+  "comment": "FAKE_TenX_1",
+  "date": ""
+},
+{
+  "address": "0xc9f32ce1127e44c51cbd182d6364f3d707fd0d47",
+  "comment": "FAKE_Status_1",
+  "date": ""
+},
+{
+  "address": "0xEe2c2C2DCd952429147B62Fd4DcD7F565313E419",
+  "comment": "FAKE_AKASHA",
+  "date": ""
+},
+{
+  "address": "0xce52d38539e1e557f184f1073a59f69c9ba95f28",
+  "comment": "FAKE_Santiment_1",
+  "date": ""
+},
+{
+  "address": "0xdb82af76f9ccddfe9e8f7996492f4c5bd5f9d53d",
+  "comment": "FAKE_Santiment_2",
+  "date": ""
+},
+{
+  "address": "0xe112784753273eBEdE055968eCB78DCAD8fF6da2",
+  "comment": "FAKE_TenX_6",
+  "date": ""
+},
+{
+  "address": "0xeaB1d82E96541718e645fDef4A5ee9dF78605B76",
+  "comment": "FAKE_TenX_7",
+  "date": ""
+},
+{
+  "address": "0xed44fC770EAA76dB9AdE24d86CE3B409F4AeD009",
+  "comment": "FAKE_TenX_4",
+  "date": ""
+},
+{
+  "address": "0x36db23fd8e0fabb300ba95bfdf4a0f20b05eebfb",
+  "comment": "FAKE_Tezos",
+  "date": ""
 }
 ]
