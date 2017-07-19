@@ -1,0 +1,955 @@
+//   ???
+//   CryptoPunks:
+//   http://www.larvalabs.com/cryptopunks
+//
+//   Etheroll (ROL):
+//   https://etheroll.com/
+//   http://crowdfund.etheroll.com/
+//   https://www.reddit.com/user/etheroll
+//
+//   Realto.ai:
+//   https://www.rialto.ai
+//   connect@rialto.ai
+//   support@rialto.ai
+//
+//   SPHRE:
+//   http://www.sphre.co
+//   https://sphreco.herokuapp.com/
+//   http://www.telegram.me/airplatform
+//   https://www.reddit.com/r/SphreCo/
+//   https://bitcointalk.org/index.php?topic=1830900
+
+
+[
+{
+  "symbol":"1ST",
+  "name":"FirstBlood",
+  "address":"0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://slack.firstblood.io/",
+  "website":"https://firstblood.io/"
+},
+{
+  "symbol":"ADST",
+  "name":"AdShares",
+  "address":"0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+  "decimal":"0",
+  "logo":"",
+  "support":"office@adshares.net",
+  "community":"",
+  "website":"https://adshares.net"
+},
+{
+  "symbol":"ADT",
+  "name":"AdToken",
+  "address":"0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
+  "decimal":"9",
+  "logo":"",
+  "support":"hello@metax.io",
+  "community":"https://twitter.com/ad_chain",
+  "website":"https://adtoken.com"
+},
+{
+  "symbol":"ADX",
+  "name":"AdEx Network ",
+  "address":"0x4470BB87d77b963A013DB939BE332f927f2b992e",
+  "decimal":"4",
+  "logo":"",
+  "support":"https://t.me/AdExNetwork",
+  "community":"https://twitter.com/AdEx_Network",
+  "website":"https://www.adex.network"
+},
+{
+  "symbol":"ANT",
+  "name":"ANT",
+  "address":"0x960b236A07cf122663c4303350609A66A7B288C0",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"ARC",
+  "name":"ARC",
+  "address":"0xAc709FcB44a43c35F0DA4e3163b117A17F3770f5",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"BAT",
+  "name":"BAT",
+  "address":"0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"BeerCoin",
+  "name":"BeerCoin",
+  "address":"0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac",
+  "decimal":"0",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"BCDN",
+  "name":"BCDN",
+  "address":"0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
+  "decimal":"15",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"BNC",
+  "name":"BNC",
+  "address":"0xdD6Bf56CA2ada24c683FAC50E37783e55B57AF9F",
+  "decimal":"12",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"BNT",
+  "name":"BNT",
+  "address":"0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+  "decimal":"18",
+  "logo":"",
+  "support":"info@bitquence.com",
+  "community":"https://t.me/joinchat/AAAAAEN05nZ0Fzxm_lmYiw",
+  "website":"https://www.bitquence.com/"
+},
+{
+  "symbol":"BQX",
+  "name":"Bitquence",
+  "address":"0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":"https://www.bitquence.com/"
+},
+{
+  "symbol":"CAT",
+  "name":"Blockcat",
+  "address":"0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8",
+  "decimal":"18",
+  "logo":"",
+  "support":"team@blockcat.io",
+  "community":"https://twitter.com/blockcatio",
+  "website":"https://blockcat.io"
+},
+{
+  "symbol":"CFI",
+  "name":"CFI",
+  "address":"0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"CRB",
+  "name":"CRB",
+  "address":"0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"CREDO",
+  "name":"CREDO",
+  "address":"0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be",
+  "decimal":"18",
+  "logo":"",
+  "support":"stewart@team.bitbounce.io",
+  "community":"",
+  "website":"https://bitbounce.io/"
+},
+{
+  "symbol":"CTL",
+  "name":"CTL",
+  "address":"0xbf4cfd7d1edeeea5f6600827411b41a21eb08abd",
+  "decimal":"2",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"CryptoCarbon",
+  "name":"CryptoCarbon",
+  "address":"0xE4c94d45f7Aef7018a5D66f44aF780ec6023378e",
+  "decimal":"6",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"CVC",
+  "name":"CVC",
+  "address":"0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"DAO",
+  "name":"DAO",
+  "address":"0xBB9bc244D798123fDe783fCc1C72d3Bb8C189413",
+  "decimal":"16",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"DDF",
+  "name":"DDF",
+  "address":"0xcC4eF9EEAF656aC1a2Ab886743E98e97E090ed38",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"DGD",
+  "name":"DGD",
+  "address":"0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+  "decimal":"9",
+  "logo":"",
+  "support":"",
+  "community":"https://www.reddit.com/r/digix/",
+  "website":"https://www.dgx.io/"
+},
+{
+  "symbol":"DGX 1.0",
+  "name":"DGX 1.0",
+  "address":"0x55b9a11c2e8351b4Ffc7b11561148bfaC9977855",
+  "decimal":"9",
+  "logo":"",
+  "support":"",
+  "community":"https://www.reddit.com/r/digix/",
+  "website":"https://www.dgx.io/"
+},
+{
+  "symbol":"DICE",
+  "name":"DICE",
+  "address":"0x2e071D2966Aa7D8dECB1005885bA1977D6038A65",
+  "decimal":"16",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"DCorp",
+  "name":"DRP",
+  "address":"0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+  "decimal":"2",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":"https://www.dcorp.it/"
+},
+{
+  "symbol":"DistrictOx",
+  "name":"DNT",
+  "address":"0x0abdace70d3790235af448c88547603b945604ea",
+  "decimal":"18",
+  "logo":"",
+  "support":"https://twitter.com/district0x",
+  "community":"https://district0x-slack.herokuapp.com/",
+  "website":"https://district0x.io"
+},
+{
+  "symbol":"Edgeless",
+  "name":"EDG",
+  "address":"0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c",
+  "decimal":"0",
+  "logo":"",
+  "support":"",
+  "community":"https://edgelessethcasino.signup.team/",
+  "website":"https://edgeless.io/"
+},
+{
+  "symbol":"EMovieVenture",
+  "name":"EMV",
+  "address":"0xB802b24E0637c2B87D2E8b7784C055BBE921011a",
+  "decimal":"2",
+  "logo":"",
+  "support":"",
+  "community":"support@emovieventure.com",
+  "website":"http://emovieventure.com/"
+},
+{
+  "symbol":"EOS",
+  "name":"EOS",
+  "address":"0x86fa049857e0209aa7d9e616f7eb3b3b78ecfdb0",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"FAM",
+  "name":"FAM",
+  "address":"0x190e569bE071F40c704e15825F285481CB74B6cC",
+  "decimal":"12",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"FUN",
+  "name":"Funfair",
+  "address":"0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+  "decimal":"8",
+  "logo":"",
+  "support":"https://funfair-slackin.herokuapp.com/",
+  "community":"https://www.reddit.com/r/FunfairTech/",
+  "website":"http://funfair.io"
+},
+{
+  "symbol":"Gnosis",
+  "name":"GNO",
+  "address":"0x6810e776880C02933D47DB1b9fc05908e5386b96",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://slack.gnosis.pm/",
+  "website":"https://gnosis.pm/"
+},
+{
+  "symbol":"Golem",
+  "name":"GNT",
+  "address":"0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"http://golemproject.org:3000/",
+  "website":"https://golem.network/"
+},
+{
+  "symbol":"GUP",
+  "name":"GUP",
+  "address":"0xf7B098298f7C69Fc14610bf71d5e02c60792894C",
+  "decimal":"3",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"GT",
+  "name":"GT",
+  "address":"0x1D921EeD55a6a9ccaA9C79B1A4f7B25556e44365",
+  "decimal":"0",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"HKG",
+  "name":"HKG",
+  "address":"0x14F37B574242D366558dB61f3335289a5035c506",
+  "decimal":"3",
+  "logo":"",
+  "support":"",
+  "community":"https://ether-camp-friends.slack.com",
+  "website":"http://www.ether.camp/"
+},
+{
+  "symbol":"HMQ",
+  "name":"HMQ",
+  "address":"0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
+  "decimal":"8",
+  "logo":"",
+  "support":"info@humaniq.com",
+  "community":"",
+  "website":"https://humaniq.co/"
+},
+{
+  "symbol":"ICN",
+  "name":"ICN",
+  "address":"0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"LUN",
+  "name":"LUN",
+  "address":"0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"MCAP",
+  "name":"MCAP",
+  "address":"0x93E682107d1E9defB0b5ee701C71707a4B2E46Bc",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"MCO",
+  "name":"MCO",
+  "address":"0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"MGO",
+  "name":"MGO",
+  "address":"0x40395044ac3c0c57051906da938b54bd6557f212",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"MDA",
+  "name":"MDA",
+  "address":"0xd0b171Eb0b0F2CbD35cCD97cDC5EDC3ffe4871aa",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"MIT",
+  "name":"MIT",
+  "address":"0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"MakerDAO",
+  "name":"MKR",
+  "address":"0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://chat.makerdao.com/",
+  "website":"https://makerdao.com/"
+},
+{
+  "symbol":"Melonport",
+  "name":"MLN",
+  "address":"0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"http://chat.melonport.com/",
+  "website":"https://melonport.com/"
+},
+{
+  "symbol":"MNE",
+  "name":"MNE",
+  "address":"0x1a95B271B0535D15fa49932Daba31BA612b52946",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"Mothership",
+  "name":"MSP",
+  "address":"0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
+  "decimal":"18",
+  "logo":"",
+  "support":"hello@mothership.cx",
+  "community":"https://t.me/mothershipcx",
+  "website":"https://mothership.cx"
+},
+{
+  "symbol":"MetalPay",
+  "name":"MTL",
+  "address":"0xf433089366899d83a9f26a773d59ec7ecf30355e",
+  "decimal":"8",
+  "logo":"",
+  "support":"https://support.metalpay.com",
+  "community":"https://www.metalpay.chat",
+  "website":"https://www.metalpay.com"
+},
+{
+  "symbol":"MYST",
+  "name":"Mysterium",
+  "address":"0xa645264C5603E96c3b0B078cdab68733794B0A71",
+  "decimal":"8",
+  "logo":"",
+  "support":"https://mysterium.network/faq/",
+  "community":"https://t.me/mysterium_network",
+  "website":"https://mysterium.network/"
+},
+{
+  "symbol":"NIMIQ",
+  "name":"NET",
+  "address":"0xcfb98637bcae43C13323EAa1731cED2B716962fD",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://nimiq-slackin.herokuapp.com/",
+  "website":"https://nimiq.com/"
+},
+{
+  "symbol":"NMR",
+  "name":"NMR",
+  "address":"0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"NxC",
+  "name":"Beyond the Void",
+  "address":"0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
+  "decimal":"3",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":"https://beyond-the-void.net"
+},
+{
+  "symbol":"OAX",
+  "name":"OAX",
+  "address":"0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "decimal":"18",
+  "logo":"",
+  "support":"https://www.reddit.com/r/OpenANX/",
+  "community":"https://openanx.slack.com",
+  "website":"https://www.openanx.org/en/"
+},
+{
+  "symbol":"OMG",
+  "name":"OMG",
+  "address":"0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"PAY",
+  "name":"PAY",
+  "address":"0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"PLBT",
+  "name":"Polybius",
+  "address":"0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+  "decimal":"6",
+  "logo":"",
+  "support":"support@polybius.io",
+  "community":"https://t.me/polybius_eng",
+  "website":"https://polybius.io"
+},
+{
+  "symbol":"PTOY",
+  "name":"PTOY",
+  "address":"0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"Plutus",
+  "name":"PLU",
+  "address":"0xD8912C10681D8B21Fd3742244f44658dBA12264E",
+  "decimal":"18",
+  "logo":"",
+  "support":"support@quantumproject.org",
+  "community":"https://bitcointalk.org/index.php?topic=1870606.760",
+  "website":"https://plutus.it/"
+},
+{
+  "symbol":"QAU",
+  "name":"QAU",
+  "address":"0x671AbBe5CE652491985342e85428EB1b07bC6c64",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"http://slack.plutus.it/",
+  "website":"http://www.quantumproject.org/"
+},
+{
+  "symbol":"QRL",
+  "name":"QRL",
+  "address":"0x697beac28B09E122C4332D163985e8a73121b97F",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"REP",
+  "name":"Augur",
+  "address":"0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://www.reddit.com/r/Augur",
+  "website":"https://augur.net"
+},
+{
+  "symbol":"IEx.ec",
+  "name":"RLC",
+  "address":"0x607F4C5BB672230e8672085532f7e901544a7375",
+  "decimal":"9",
+  "logo":"",
+  "support":"",
+  "community":"http://52.44.51.109:3000/",
+  "website":"http://crowdsale.iex.ec/"
+},
+{
+  "symbol":"RLT",
+  "name":"RLT",
+  "address":"0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+  "decimal":"10",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"ROUND",
+  "name":"ROUND",
+  "address":"0x4993CB95c7443bdC06155c5f5688Be9D8f6999a5",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+
+  {
+  "symbol":"SGEL",
+  "name":"SGELDER",
+  "address":"0xa1ccc166faf0E998b3E33225A1A0301B1C86119D",
+  "decimal":"18",
+  "logo":"",
+  "support":"supportgelder@gmail.com",
+  "community":"",
+  "website":"https://www.soerengelder.com"
+},
+{
+  "symbol":"SGT",
+  "name":"SGT",
+  "address":"0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
+  "decimal":"1",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"SHIT",
+  "name":"SHIT",
+  "address":"0xEF2E9966eb61BB494E5375d5Df8d67B7dB8A780D",
+  "decimal":"0",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"SKIN",
+  "name":"SKIN",
+  "address":"0x2bDC0D42996017fCe214b21607a515DA41A9E0C5",
+  "decimal":"6",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"SKO1",
+  "name":"Sikoba",
+  "address":"0x4994e81897a920c0FEA235eb8CEdEEd3c6fFF697",
+  "decimal":"18",
+  "logo":"",
+  "support":"support@sikoba.com",
+  "community":"https://sikoba-presale.herokuapp.com",
+  "website":"http://www.sikoba.com"
+},
+{
+  "symbol":"SingularDTV",
+  "name":"SNGLS",
+  "address":"0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
+  "decimal":"0",
+  "logo":"",
+  "support":"",
+  "community":"https://slack.singulardtv.com/",
+  "website":"https://singulardtv.com/"
+},
+{
+  "symbol":"SNM",
+  "name":"SNM",
+  "address":"0x983F6d60db79ea8cA4eB9968C6aFf8cfA04B3c63",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"SNT",
+  "name":"SNT",
+  "address":"0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"SRC",
+  "name":"SRC",
+  "address":"0x1dCE4Fa03639B7F0C38ee5bB6065045EdCf9819a",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"STORJ",
+  "name":"STORJ",
+  "address":"0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"SNC",
+  "name":"SNC",
+  "address":"0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+  "decimal":"18",
+  "logo":"",
+  "support":"https://www.reddit.com/r/suncontract/",
+  "community":"https://twitter.com/sun_contract",
+  "website":"https://suncontract.org"
+},
+{
+  "symbol":"Swarm City Token",
+  "name":"SWT",
+  "address":"0xB9e7F8568e08d5659f5D29C4997173d84CdF2607",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://swarm-slack-invite.herokuapp.com/",
+  "website":"http://swarm.city/"
+},
+{
+  "symbol":"Token-as-a-Service",
+  "name":"TaaS",
+  "address":"0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "decimal":"6",
+  "logo":"",
+  "support":"https://taasfund.signup.team/",
+  "community":"",
+  "website":"https://taas.fund/"
+},
+{
+  "symbol":"TrueFlip",
+  "name":"TFL",
+  "address":"0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"https://bitcointalk.org/index.php?topic=1928663.60",
+  "website":"https://trueflip.io/"
+},
+{
+  "symbol":"Chronobank",
+  "name":"TIME",
+  "address":"0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
+  "decimal":"8",
+  "logo":"",
+  "support":"https://chronobank.io/faq",
+  "community":"https://chronobank.herokuapp.com/",
+  "website":"https://chronobank.io"
+},
+{
+  "symbol":"TIX",
+  "name":"Blocktix",
+  "address":"0xEa1f346faF023F974Eb5adaf088BbCdf02d761F4",
+  "decimal":"18",
+  "logo":"",
+  "support":"info@blocktix.io",
+  "community":"https://slack.blocktix.io",
+  "website":"www.blocktix.io"
+},
+{
+  "symbol":"TokenCard",
+  "name":"TKN",
+  "address":"0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"https://tokencard-team.herokuapp.com/",
+  "website":""
+},
+{
+  "symbol":"TRST",
+  "name":"TRST",
+  "address":"0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B",
+  "decimal":"6",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"Unicorn",
+  "name":"Unicorn",
+  "address":"0x89205A3A3b2A69De6Dbf7f01ED13B2108B2c43e7",
+  "decimal":"0",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"Vdice",
+  "name":"VSL",
+  "address":"0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
+  "decimal":"18",
+  "logo":"",
+  "support":"",
+  "community":"https://vdice-slack-invite-page.stamplayapp.com/",
+  "website":"https://www.vdice.io/"
+},
+{
+  "symbol":"VSM",
+  "name":"Voise",
+  "address":"0x82665764ea0b58157E1e5E9bab32F68c76Ec0CdF",
+  "decimal":"0",
+  "logo":"",
+  "support":"support@voise.it",
+  "community":"",
+  "website":"https://voise.it"
+},
+{
+  "symbol":"VERI",
+  "name":"Veritas",
+  "address":"0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
+  "decimal":"18",
+  "logo":"",
+  "support":"reggie@veritaseum.com",
+  "community":"",
+  "website":"http://veritas.veritaseum.com/index.php"
+},
+{
+  "symbol":"VRS",
+  "name":"Veros",
+  "address":"0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
+  "decimal":"5",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":"https://veros.org/"
+},
+{
+  "symbol":"WeTrust",
+  "name":"TRST",
+  "address":"0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
+  "decimal":"5",
+  "logo":"",
+  "support":"",
+  "community":"https://www.wetrust.io/slack-invite",
+  "website":"https://www.wetrust.io/"
+},
+{
+  "symbol":"WINGS",
+  "name":"WINGS",
+  "address":"0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+  "decimal":"18",
+  "logo":"",
+  "support":"support@wings.ai",
+  "community":"https://hi.wings.ai/",
+  "website":"https://wings.ai/"
+},
+{
+  "symbol":"XAUR",
+  "name":"Xaurum",
+  "address":"0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":"http://www.xaurum.org/"
+},
+{
+  "symbol":"XID",
+  "name":"XID",
+  "address":"0xB110eC7B1dcb8FAB8dEDbf28f53Bc63eA5BEdd84",
+  "decimal":"8",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+},
+{
+  "symbol":"XRL",
+  "name":"XRL",
+  "address":"0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
+  "decimal":"9",
+  "logo":"",
+  "support":"",
+  "community":"",
+  "website":""
+}
+]
