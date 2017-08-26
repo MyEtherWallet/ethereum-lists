@@ -832,8 +832,8 @@
   }
 },
 {
-  "symbol"              :"DCorp",
-  "name"                :"DRP",
+  "symbol"              :"DRP",
+  "name"                :"DCorp",
   "address"             :"0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
   "decimals"            :"2",
   "website"             :"https://www.dcorp.it/",
@@ -864,8 +864,8 @@
   }
 },
 {
-  "symbol"              :"DistrictOx",
-  "name"                :"DNT",
+  "symbol"              :"DNT",
+  "name"                :"DistrictOx",
   "address"             :"0x0abdace70d3790235af448c88547603b945604ea",
   "decimals"            :"18",
   "website"             :"https://district0x.io",
@@ -896,8 +896,8 @@
   }
 },
 {
-  "symbol"              :"Edgeless",
-  "name"                :"EDG",
+  "symbol"              :"EDG",
+  "name"                :"Edgeless",
   "address"             :"0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c",
   "decimals"            :"0",
   "website"             :"https://edgeless.io/",
@@ -928,8 +928,8 @@
   }
 },
 {
-  "symbol"              :"EMovieVenture",
-  "name"                :"EMV",
+  "symbol"              :"EMV",
+  "name"                :"EMovieVenture",
   "address"             :"0xB802b24E0637c2B87D2E8b7784C055BBE921011a",
   "decimals"            :"2",
   "website"             :"http://emovieventure.com/",
@@ -973,38 +973,6 @@
   },
   "support": {
     "email"             :"eos@block.one",
-    "url"               :""
-  },
-  "social": {
-    "blog"              :"",
-    "chat"              :"",
-    "facebook"          :"",
-    "fourm"             :"",
-    "github"            :"",
-    "gitter"            :"",
-    "instagram"         :"",
-    "linkedin"          :"",
-    "reddit"            :"",
-    "slack"             :"",
-    "telegram"          :"",
-    "twitter"           :"",
-    "youtube"           :""
-  }
-},
-{
-  "symbol"              :"FAM",
-  "name"                :"FAM",
-  "address"             :"0x190e569bE071F40c704e15825F285481CB74B6cC",
-  "decimals"            :"12",
-  "website"             :"",
-  "logo": {
-    "src"               :"",
-    "width"             :"",
-    "height"            :"",
-    "ipfs_hash"         :""
-  },
-  "support": {
-    "email"             :"",
     "url"               :""
   },
   "social": {
@@ -1120,8 +1088,8 @@
   }
 },
 {
-  "symbol"              :"Gnosis",
-  "name"                :"GNO",
+  "symbol"              :"GNO",
+  "name"                :"Gnosis",
   "address"             :"0x6810e776880C02933D47DB1b9fc05908e5386b96",
   "decimals"            :"18",
   "website"             :"https://gnosis.pm/",
@@ -1152,8 +1120,8 @@
   }
 },
 {
-  "symbol"              :"Golem",
-  "name"                :"GNT",
+  "symbol"              :"GNT",
+  "name"                :"Golem",
   "address"             :"0xa74476443119A942dE498590Fe1f2454d7D4aC0d",
   "decimals"            :"18",
   "website"             :"https://golem.network/",
@@ -1502,6 +1470,37 @@
     "twitter"           :"",
     "youtube"           :""
   }
+},{
+  "symbol"              :"MANA",
+  "name"                :"Decentraland MANA",
+  "address"             :"0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+  "decimals"            :"18",
+  "website"             :"https://decentraland.org",
+  "logo": {
+    "src"               :"",
+    "width"             :"",
+    "height"            :"",
+    "ipfs_hash"         :""
+  },
+  "support": {
+    "email"             :"",
+    "url"               :""
+  },
+  "social": {
+    "blog"              :"https://blog.decentraland.org",
+    "chat"              :"",
+    "facebook"          :"",
+    "fourm"             :"",
+    "github"            :"https://github.com/decentraland",
+    "gitter"            :"",
+    "instagram"         :"",
+    "linkedin"          :"",
+    "reddit"            :"",
+    "slack"             :"https://slack.decentraland.org",
+    "telegram"          :"",
+    "twitter"           :"https://twitter.com/decentraland",
+    "youtube"           :""
+  }
 },
 {
   "symbol"              :"MCAP",
@@ -1664,8 +1663,8 @@
   }
 },
 {
-  "symbol"              :"MakerDAO",
-  "name"                :"MKR",
+  "symbol"              :"MKR",
+  "name"                :"MakerDAO",
   "address"             :"0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
   "decimals"            :"18",
   "website"             :"https://makerdao.com/",
@@ -1696,8 +1695,8 @@
   }
 },
 {
-  "symbol"              :"Melonport",
-  "name"                :"MLN",
+  "symbol"              :"MLN",
+  "name"                :"Melonport",
   "address"             :"0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1",
   "decimals"            :"18",
   "website"             :"https://melonport.com/",
@@ -1792,8 +1791,8 @@
   }
 },
 {
-  "symbol"              :"Mothership",
-  "name"                :"MSP",
+  "symbol"              :"MSP",
+  "name"                :"Mothership",
   "address"             :"0x68AA3F232dA9bdC2343465545794ef3eEa5209BD",
   "decimals"            :"18",
   "website"             :"https://mothership.cx",
@@ -1824,8 +1823,8 @@
   }
 },
 {
-  "symbol"              :"MetalPay",
-  "name"                :"MTL",
+  "symbol"              :"MTL",
+  "name"                :"MetalPay",
   "address"             :"0xF433089366899D83a9f26A773D59ec7eCF30355e",
   "decimals"            :"8",
   "website"             :"https://www.metalpay.com",
@@ -1920,8 +1919,8 @@
   }
 },
 {
-  "symbol"              :"NIMIQ",
-  "name"                :"NET",
+  "symbol"              :"NET",
+  "name"                :"NIMIQ",
   "address"             :"0xcfb98637bcae43C13323EAa1731cED2B716962fD",
   "decimals"            :"18",
   "website"             :"https://nimiq.com/",
@@ -2336,8 +2335,8 @@
   }
 },
 {
-  "symbol"              :"Plutus",
-  "name"                :"PLU",
+  "symbol"              :"PLU",
+  "name"                :"Plutus",
   "address"             :"0xD8912C10681D8B21Fd3742244f44658dBA12264E",
   "decimals"            :"18",
   "website"             :"https://plutus.it/",
@@ -2496,8 +2495,8 @@
   }
 },
 {
-  "symbol"              :"IEx.ec",
-  "name"                :"RLC",
+  "symbol"              :"RLC",
+  "name"                :"IEx.ec",
   "address"             :"0x607F4C5BB672230e8672085532f7e901544a7375",
   "decimals"            :"9",
   "website"             :"http://crowdsale.iex.ec/",
@@ -2816,8 +2815,8 @@
   }
 },
 {
-  "symbol"              :"SingularDTV",
-  "name"                :"SNGLS",
+  "symbol"              :"SNGLS",
+  "name"                :"SingularDTV",
   "address"             :"0xaeC2E87E0A235266D9C5ADc9DEb4b2E29b54D009",
   "decimals"            :"0",
   "website"             :"https://singulardtv.com/",
@@ -2880,8 +2879,8 @@
   }
 },
 {
-  "symbol"              :"Status Network Token",
-  "name"                :"SNT",
+  "symbol"              :"SNT",
+  "name"                :"Status Network Token",
   "address"             :"0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
   "decimals"            :"18",
   "website"             :"https://status.im/",
@@ -3072,8 +3071,8 @@
   }
 },
 {
-  "symbol"              :"Swarm City Token",
-  "name"                :"SWT",
+  "symbol"              :"SWT",
+  "name"                :"Swarm City Token",
   "address"             :"0xB9e7F8568e08d5659f5D29C4997173d84CdF2607",
   "decimals"            :"18",
   "website"             :"http://swarm.city/",
@@ -3104,8 +3103,8 @@
   }
 },
 {
-  "symbol"              :"Token-as-a-Service",
-  "name"                :"TaaS",
+  "symbol"              :"TaaS",
+  "name"                :"Token-as-a-Service",
   "address"             :"0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
   "decimals"            :"6",
   "website"             :"https://taas.fund/",
@@ -3136,8 +3135,8 @@
   }
 },
 {
-  "symbol"              :"TrueFlip",
-  "name"                :"TFL",
+  "symbol"              :"TFL",
+  "name"                :"TrueFlip",
   "address"             :"0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
   "decimals"            :"8",
   "website"             :"https://trueflip.io/",
@@ -3168,8 +3167,8 @@
   }
 },
 {
-  "symbol"              :"Chronobank",
-  "name"                :"TIME",
+  "symbol"              :"TIME",
+  "name"                :"Chronobank",
   "address"             :"0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
   "decimals"            :"8",
   "website"             :"https://chronobank.io",
@@ -3232,8 +3231,8 @@
   }
 },
 {
-  "symbol"              :"TokenCard",
-  "name"                :"TKN",
+  "symbol"              :"TKN",
+  "name"                :"TokenCard",
   "address"             :"0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a",
   "decimals"            :"8",
   "website"             :"https://etherscan.io/token/TokenCard",
@@ -3260,6 +3259,38 @@
     "slack"             :"https://tokencard-team.herokuapp.com/",
     "telegram"          :"",
     "twitter"           :"",
+    "youtube"           :""
+  }
+},
+{
+  "symbol"              :"TNT",
+  "name"                :"Tierion Network Token",
+  "address"             :"0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8",
+  "decimals"            :"8",
+  "website"             :"https://tierion.com",
+  "logo": {
+    "src"               :"",
+    "width"             :"",
+    "height"            :"",
+    "ipfs_hash"         :""
+  },
+  "support": {
+    "email"             :"team@tierion.com",
+    "url"               :"https://tierion.com/contact"
+  },
+  "social": {
+    "blog"              :"https://medium.com/tierion",
+    "chat"              :"",
+    "facebook"          :"https://facebook.com/TierionInc",
+    "fourm"             :"",
+    "github"            :"https://github.com/tierion",
+    "gitter"            :"",
+    "instagram"         :"",
+    "linkedin"          :"https://linkedin.com/company/tierion",
+    "reddit"            :"https://reddit.com/r/tierion",
+    "slack"             :"",
+    "telegram"          :"https://t.me/tierion",
+    "twitter"           :"https://twitter.com/tierion",
     "youtube"           :""
   }
 },
@@ -3328,8 +3359,8 @@
   }
 },
 {
-  "symbol"              :"Vdice",
-  "name"                :"VSL",
+  "symbol"              :"VSL",
+  "name"                :"Vdice",
   "address"             :"0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
   "decimals"            :"18",
   "website"             :"https://www.vdice.io/",
