@@ -837,6 +837,37 @@
   "youtube"        :""
 }
 },{
+"symbol"           :"DALC",
+"name"             :"DaleCoin",
+"address"          :"0x07d9e49ea402194bf48a8276dafb16e4ed633317",
+"decimals"         :"8",
+"website"          :"http://www.dalecoin.org/",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"support@dalecoin.org",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://web.facebook.com/dalecoin/",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2057829.0",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"https://t.me/dalecoin",
+  "twitter"        :"http://twitter.com/DalecoinN",
+  "youtube"        :""
+}
+},{
 "symbol"           :"DATA",
 "name"             :"DATACoin",
 "address"          :"0x0cf0ee63788a0849fe5297f3407f701e122cc023",
@@ -1346,6 +1377,37 @@
 },
 "support": {
   "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"FTC",
+"name"             :"FTC",
+"address"          :"0xe6f74dcfa0e20883008d8c16b6d9a329189d0c30",
+"decimals"         :"2",
+"website"          :"",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"support@ftccoins.org",
   "url"            :""
 },
 "social": {
@@ -2759,6 +2821,37 @@
   "youtube"        :""
 }
 },{
+"symbol"           :"PIX",
+"name"             :"PIX",
+"address"          :"0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+"decimals"         :"0",
+"website"          :"www.lampix.co",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/Lampix.co/",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2044884.0",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"https://www.reddit.com/r/Lampix/",
+  "slack"          :"https://lampix-invite.herokuapp.com/",
+  "telegram"       :"",
+  "twitter"        :"https://twitter.com/lampix_co",
+  "youtube"        :""
+}
+},{
 "symbol"           :"PRO",
 "name"             :"Propy",
 "address"          :"0x226bb599a12C826476e3A771454697EA52E9E220",
@@ -4087,6 +4180,68 @@
   "linkedin"       :"",
   "reddit"         :"",
   "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"VIBE",
+"name"             :"VIBE",
+"address"          :"0x882448f83d90b2bf477af2ea79327fdea1335d93",
+"decimals"         :"18",
+"website"          :"http://vibehub.io",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"VIBEX",
+"name"             :"VIBEX",
+"address"          :"0xe8ff5c9c75deb346acac493c463c8950be03dfba",
+"decimals"         :"18",
+"website"          :"http://vibehub.io",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
   "telegram"       :"",
   "twitter"        :"",
   "youtube"        :""
