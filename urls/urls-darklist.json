@@ -1,5 +1,253 @@
 [
 {
+ "id": "change-bank.org",
+ "comment": "Fake change bank crowdsale site"
+},
+{
+ "id": "charge-bank.com",
+ "comment": "Fake change bank crowdsale site"
+},
+{
+ "id": "myetherwalletsingin.com",
+ "comment": "Fake MEW, stealing private keys with log.php"
+},
+{
+ "id": "myetherwalletcontract.com",
+ "comment": "Fake MEW, stealing private keys with log.php"
+},
+{
+ "id": "change-bank.io",
+ "comment": "Fake change-bank crowdsale site"
+},
+{
+ "id": "chainlink.tech",
+ "comment": "Fake chainlink crowdsale site"
+},
+{
+ "id": "myetherwalletconfirm.com",
+ "comment": "Fake MEW, stealing private keys with log.php"
+},
+{
+ "id": "myetherwallet-confirm.com",
+ "comment": "Fake MEW, stealing private keys with log.php"
+},
+{
+ "id": "kybernet.network",
+ "comment": "Fake kyber crowdsale site (Fake token sale: tokensale.kybernet.network)"
+},
+{
+ "id": "myetherwalletconfirm.com",
+ "comment": "Fake MyEtherWallet"
+},
+{
+ "id": "kvnuke.github.io",
+ "comment": "Fake github of kvhnuke.github.io"
+},
+{
+ "id": "kin.kikpro.co",
+ "comment":"Fake KIN crowdsale site"
+},
+{
+ "id": "kyber-network.co",
+ "comment": "Fake Kyber crowdsale site" 
+},
+{
+  "id": "pyro0.github.io",
+  "comment": "Says it sells domain names, it doesn't. Fake ENS seller"
+},
+{
+  "id": "kyber.digital",
+  "comment": "Fake kyber crowdsale site (fake token sale: tokensale.kyber.digital)"
+},
+{
+  "id": "omise-go.me",
+  "comment": "Fake omiseGo site"
+},
+{
+  "id": "my.etherwallet.com.de",
+  "comment": "MEW phishing site"
+},
+{
+  "id": "change-bank.co",
+  "comment": "Fake change-bank.com crowdsale site"
+},
+{
+  "id": "enigma-tokens.co",
+  "comment": "Fake enigma token sale, also reported hosting malware"
+},
+{
+  "id": "coinbase.com.eslogin.co",
+  "comment": "Fake coinbase site, phishing for logins"
+},
+{
+  "id": "xn--bittrx-mva.com",
+  "comment": "Fake bittrex site"
+},
+{
+  "id": "ethrdelta.github.io",
+  "comment": "Fake etherdelta, stealing private keys"
+},    
+{
+  "id": "etherdellta.com",
+  "comment": "Fake etherdelta, stealing private keys"
+},  
+{
+  "id": "ico-nexus.social",
+  "comment": "Fake nexus social ico crowdsale site"
+},
+{
+  "id": "coin.red-pulse.tech",
+  "comment": "Fake crowdsale site"
+},
+{
+  "id": "xn--bttrex-bwa.com",
+  "comment": "Fake Bittrex site"
+},
+{
+  "id": "kin-klk.com",
+  "comment": "Fake KIN crowdsale site"
+},
+{
+  "id": "kin-crowdsale.com",
+  "comment": "Fake KIN crowdsale site"
+},
+{
+  "id": "ethedelta.com",
+  "comment": "Fake EtherDelta site, stealing private keys"
+},
+{
+  "id": "myethereumwallet.uk",
+  "comment": "MyEtherWallet phishing"
+},
+{
+  "id": "iconexu.social",
+  "comment": "Nexus social phishing"
+},
+{
+  "id": "wanchain.co",
+  "comment": "Phishing - Wanchain"
+},
+{
+  "id": "enigrna.co",
+  "comment": "Phishing - Enigma"
+},
+{
+  "id": "linknetwork.co",
+  "comment": "Fake crowdsale site - clone of https://smartcontract.com/link"
+},
+{
+  "id": "qtum-token.com",
+  "comment": "Fake airdrop site - phishing for private keys"
+},
+{
+  "id": "omisego.com.co",
+  "comment": "Fake omise airdrop, asking for private keys"
+},   
+{
+  "id": "rivetzintl.org",
+  "comment": "Fake Rivetz crowdsale site"
+},  
+{
+  "id": "etherdelta.one",
+  "comment": "Etherdelta google ad"
+},
+{
+  "id": "the-ether.pro",
+  "comment": "Web wallet - can't withdraw funds"
+},
+{
+  "id": "etherdelta.gitnub.io",
+  "comment": "Fake etherdelta site, stealing private keys"
+},
+{
+  "id": "kirkik.com",
+  "comment": "Fake KIN (by KIK) crowdsale site - address: 0xF8E676094628776690DBf83fa31f08aA14FD3fb8"
+},
+{
+  "id": "monetha.ltd",
+  "comment": "Fake monetha crowdsale site - address; 0x4999924fD714092FE92cA9A792a8549f798c1Dc2"
+},
+{
+  "id": "vlberate.io",
+  "comment": "Fake Viberate crowdsale site"
+},
+{
+  "id": "ethereumwallet-kr.info",
+  "comment": "MEW skin. Not in the 'LEGIT URLS' documentation provided by MEW. Assuming scam"
+},
+{
+  "id": "iconexus.social",
+  "comment": "Fake ico.nexus.social crowdsale site"
+},
+{
+  "id": "omise-go.org",
+  "comment": "Fake omise airdrop site"
+},  
+{
+  "id": "aventus.pro",
+  "comment": "Fake Aventus.io crowdsale site"
+},  
+{
+  "id": "atlant.solutions",
+  "comment": "Fake atlant.io crowdsale site"
+},
+{
+  "id": "aventus.group",
+  "comment": "Fake Aventus.io crowdsale site"
+},  
+{
+  "id": "omise.com.co",
+  "comment": "Fake omise website"
+},
+{
+  "id": "herotokens.io",
+  "comment": "Fake herotoken.io site - crowdsale ico scam"
+},
+{
+  "id": "starbase.pro",
+  "comment": "Fake starbase site - taking advantage of postponed ICO"
+},
+{
+  "id": "etherdelta.githulb.io",
+  "comment": "Fake etherdelta site"
+},
+{
+  "id": "herotoken.co",
+  "comment": "Fake herotoken.io site - early ICO to a non-contract contribution address 0xfbf6f29c126382cf15795bb209ee506a174cc709"
+},    
+{
+  "id": "kinico.net",
+  "comment": "Fake KIN site - ico crowdsale."
+},  
+{
+  "id": "dmarket.ltd",
+  "comment": "Fake DMarket site - phase2 of ico"
+},
+{
+  "id": "etherdelta.gilthub.io",
+  "comment": "EtherDelta clone - paid google ad. See https://github.com/409H/EtherAddressLookup/commit/12e75d02ce6e4b5a541faf7e763b746b6f288df4"
+},  
+{
+  "id": "golem-network.com",
+  "comment": "Fake Golem site - airdrop asking for private key"
+},
+{
+  "id": "etnerscan.io",
+  "comment": "Cloned Etherscan for Monetha ICO - 0x1de23F02E185fDc4f6BACc98D6c6419370E38538"
+},
+{
+  "id": "bllttriex.com",
+  "comment": "Bittrex clone - phishing for login details"
+},  
+{
+  "id": "monetha.me",
+  "comment": "Monetha crowdsale phish - paid google ad - https://twitter.com/michaelmsm89/status/903247265489412096"
+}, 
+{
+  "id": "shapeshift.pro",
+  "comment": "Shapeshift clone"
+},  
+{
   "id": "monetha.co",
   "comment": "Monetha crowdsale phish - https://github.com/409H/EtherAddressLookup/commit/24b49ae4f8b46fdc9d4b2739da99e1fd1806907e"
 },
@@ -8593,5 +8841,10 @@
 {
   "id":"ṃyetherwallet.com",
   "comment":""
+},
+{
+  "id":"myelterwallet.com",
+  "comment":"https://www.reddit.com/r/ethereum/comments/6ykrr2/scam_alert_myelterwallet_dot_com"
 }
+
 ]
