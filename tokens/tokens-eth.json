@@ -5454,5 +5454,37 @@
   "twitter"        :"",
   "youtube"        :""
 }
+},
+{
+"symbol"           :"GIM",
+"name"             :"Gimli",
+"address"          :"0xaE4f56F072c34C0a65B3ae3E4DB797D831439D93",
+"decimals"         :"18",
+"website"          :"https://www.gimli.io/token-launch/",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/thegimliproject/",
+  "fourm"          :"",
+  "github"         :"https://github.com/thegimliproject/GimliToken",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"https://slack.firstblood.io/",
+  "telegram"       :"https://www.t.me/thegimliproject",
+  "twitter"        :"https://twitter.com/thegimliproject",
+  "youtube"        :""
+}
 }
 ]
