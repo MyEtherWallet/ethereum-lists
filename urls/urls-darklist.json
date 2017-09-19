@@ -1,7 +1,7 @@
 [{
 "id":       "augurproject.co",
 "comment":  "Phish: phishing private key by pretending airdrop of augur"
-},{  
+},{
 "id":       "bittrex.comze.com",
 "comment":  "Phish: Bittrex - Distributing on cryptocompare forums as a goo.gl short link"
 },{
@@ -117,7 +117,7 @@
 "comment":  "Fake Address/Site: Enigma"
 },{
 "id":       "golem-network.com",
-"comment":  "Fake Address/Site: Golem - Airdrop asking for private key"
+"comment":  "Fake Address/Site: Golem - Airdrop asking for private key. https://golem-network.com/airdrop https://golem-network.com/blog.html @juliantaylor"
 },{
 "id":       "herotoken.co",
 "comment":  "Fake Address/Site: herotoken.io - early ICO to a non-contract contribution address 0xfbf6f29c126382cf15795bb209ee506a174cc709"
@@ -280,6 +280,9 @@
 },{
 "id":       "myetherwallet-confirm.com",
 "comment":  "Phish: MEW; stealing private keys with log.php"
+},{
+"id":       "myetheremwallet.com",
+"comment":  "Phish: MEW - @felicia.rodriguez8790, 0x slack, 9/17/17"
 },{
 "id":       "myetherwalletconfirm.com",
 "comment":  "Phish: MEW"
