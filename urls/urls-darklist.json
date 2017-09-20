@@ -1,4 +1,13 @@
 [{
+"id":       "centra.credit",
+"comment":  "Phish: centra.tech fake crowdsale site. Paid Google ad"
+},{
+"id":       "myetherwallet-singin.com",
+"comment":  "Phish: MEW - stealing private keys with log.php"
+},{
+"id":       "0xtoken.io",
+"comment":  "Phish: phishing private key by pretending 0x swap"
+},{
 "id":       "augurproject.co",
 "comment":  "Phish: phishing private key by pretending airdrop of augur"
 },{
@@ -318,6 +327,9 @@
 "comment":  "Phish: MEW - fake 2FA"
 },{
 "id":       "shapeshift.pro",
+"comment":  "Phish: Shapeshift"
+},{
+"id":       "shapesshift.io",
 "comment":  "Phish: Shapeshift"
 },{
 "id":       "wanchain.co",
@@ -6640,4 +6652,7 @@
 },{
 "id":       "pyetherwallet.com",
 "comment":  "Typo Squatting: MEW"
+},{
+"id":       "https://smartcontractlink.com",
+"comment":  "SmartContract/LINK fake crowdsale site"
 }]
