@@ -1,10 +1,106 @@
 [{
+<<<<<<< HEAD
 "id":       "myetherermwallet.com",
 "comment":  "Typo Squatting: MEW"
 },{    
 "id":       "myelheriwallet.com",
 "comment":  "Typo Squatting: MEW"
 },{  
+=======
+"id":       "myetherwallett.neocities.org",
+"comment":  "Phish: MEW. Stealing private keys with api.amplitude.com"
+},{
+"id":       "myetherwallet-secure.com",
+"comment":  "Phish: MEW. Stealing private keys with h/h.php"
+},{
+"id":       "real-markets.io",
+"comment":  "Phish: real.markets fake crowdsale site. address: 0x143494359bBACC878308075C1c9FA05fcda96651"
+},{
+"id":       "wallet-ethereum.org",
+"comment":  "Scam: web wallet; can't withdraw funds. same as coin-wallet.info same as ether-wall.com same as happy-coin.org"
+},{
+"id":       "request-network.com",
+"comment":  "Phish: request.network"
+},{
+"id":       "shiapeshift.in",
+"comment":  "Phish: shapeshift.io"
+},{
+"id":       "shapeshifth.io",
+"comment":  "Phish: shapeshift.io"
+},{
+"id":       "myetherwallettq.com",
+"comment":  "Typo Squatting: MEW"
+},{  
+"id":       "ibittreix.com",
+"comment":  "Phish: bittrex.com. Fake bittrex, phishing for emails"
+},{
+"id":       "coinkbase.com",
+"comment":  "Phish: coinbase.com. Fake coinbase, phishing for emails"
+},{
+"id":       "cindicator.pro",
+"comment":  "Phish: Cindicator.com. Fake crowdsale site"
+},{
+"id":       "myetherwallet.us.com",
+"comment":  "Typo Squatting: MEW"
+},{  
+"id":       "eventchain.co",
+"comment":  "Phish: eventchain.io. Fake crowdsale site"
+},{
+"id":       "kinkik.in",
+"comment":  "Phish: KIN. Fake crowdsale site"
+},{
+"id":       "protostokenhub.com",
+"comment":  "Phish: PRTS. Fake crowdsale site"
+},{
+"id":       "myetherumwalletview.com",
+"comment":  "Phish: MEW. Stealing private keys with log.php"
+},{
+"id":       "coinrbase.com",
+"comment":  "Phish: Coinbase. Stealing e-mail access"
+},{
+"id":       "myetherwalletlogin.com",
+"comment":  "Phish: MEW. Stealing private keys with log.php"
+},{
+"id":       "omisegotoken.com",
+"comment":  "Phish: OmiseGo. Fake airdrop site asking for privae keys"
+},{
+"id":       "myethereumwalletntw.com",
+"comment":  "Phish: MyEtherWallet. Stealing private keys with log.php"
+},{
+"id":       "reall.markets",
+"comment":  "Phish: real.markets fake crowdsale site. Paid Google ad"
+},{
+"id":       "cobinhood.org",
+"comment":  "Phish: cobinhood.com fake site. Paid Google ad"
+},{
+"id":       "happy-coin.org",
+"comment":  "Scam: web wallet; can't withdraw funds. same as coin-wallet.info same as ether-wall.com"
+},{
+"id":       "bitfinex.com.co",
+"comment":  "Phish: bitfinex.com fake side. Paid Google ad"
+},{
+"id":       "bitfienex.com",
+"comment":  "Phish: bitfinex.com fake side. Paid Google ad"
+},{
+"id":       "iconn.foundation",
+"comment":  "Phish: icon.foundation fake crowdsale site. HTTrack fingerprint"
+},{
+"id":       "centra.vip",
+"comment":  "Phish: centra.tech fake crowdsale site."
+},{
+"id":       "smartcontract.live",
+"comment":  "Phish: smartcontract.com fake crowdsale site."
+},{
+"id":       "icon.community",
+"comment":  "Phish: icon.foundation fake crowdsale site."
+},{
+"id":       "air-token.com",
+"comment":  "Phish: airtoken.com fake crowdsale site. HTTrack fingerprint"
+},{
+"id":       "centra.credit",
+"comment":  "Phish: centra.tech fake crowdsale site. Paid Google ad"
+},{
+>>>>>>> MyEtherWallet/master
 "id":       "myetherwallet-singin.com",
 "comment":  "Phish: MEW - stealing private keys with log.php"
 },{
@@ -13,7 +109,7 @@
 },{
 "id":       "augurproject.co",
 "comment":  "Phish: phishing private key by pretending airdrop of augur"
-},{  
+},{
 "id":       "bittrex.comze.com",
 "comment":  "Phish: Bittrex - Distributing on cryptocompare forums as a goo.gl short link"
 },{
@@ -129,7 +225,7 @@
 "comment":  "Fake Address/Site: Enigma"
 },{
 "id":       "golem-network.com",
-"comment":  "Fake Address/Site: Golem - Airdrop asking for private key"
+"comment":  "Fake Address/Site: Golem - Airdrop asking for private key. https://golem-network.com/airdrop https://golem-network.com/blog.html @juliantaylor"
 },{
 "id":       "herotoken.co",
 "comment":  "Fake Address/Site: herotoken.io - early ICO to a non-contract contribution address 0xfbf6f29c126382cf15795bb209ee506a174cc709"
@@ -292,6 +388,9 @@
 },{
 "id":       "myetherwallet-confirm.com",
 "comment":  "Phish: MEW; stealing private keys with log.php"
+},{
+"id":       "myetheremwallet.com",
+"comment":  "Phish: MEW - @felicia.rodriguez8790, 0x slack, 9/17/17"
 },{
 "id":       "myetherwalletconfirm.com",
 "comment":  "Phish: MEW"
