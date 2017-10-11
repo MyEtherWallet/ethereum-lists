@@ -3,6 +3,7 @@ package ethereum
 import com.beust.klaxon.JsonArray
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser
+import com.beust.klaxon.string
 import java.io.File
 
 fun main(args: Array<String>) {
@@ -12,10 +13,10 @@ fun main(args: Array<String>) {
                 optionalFields = listOf("logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social")
         )
     })
-    check("addresses", { it.checkFields(mandatoryFields = listOf("address", "comment", "date")) })
-    check("urls", { it.checkFields(mandatoryFields = listOf("id", "comment")) })
+    check("addresses", { it.checkFields(mandatoryFields = listOf("address", "comment"), optionalFields = listOf("date")) })
+    check("urls", { it.checkFields(mandatoryFields = listOf("id"), optionalFields = listOf("comment")) })
     check("ens", { it.checkFields(mandatoryFields = listOf("id", "comment")) })
-    check("contracts", { it.checkFields(mandatoryFields = listOf("name", "address", "comment", "abi")) })
+    check("contracts", { it.checkFields(mandatoryFields = listOf("name", "address", "abi"), optionalFields = listOf("comment")) })
     check("emails", { it.checkEmails() })
 
 }
@@ -44,6 +45,13 @@ fun File.checkFields(mandatoryFields: List<String>, optionalFields: List<String>
         if (!jsonObject.keys.containsAll(mandatoryFields)) {
             throw IllegalArgumentException("$jsonObject does not contain " + mandatoryFields.minus(jsonObject.keys))
         }
+
+        mandatoryFields.forEach {
+            if (jsonObject[it] is String && jsonObject.string(it)?.isBlank() == true) {
+                throw IllegalArgumentException("$jsonObject has blank value for $it")
+            }
+        }
+
 
         val unknownFields = jsonObject.keys.minus(mandatoryFields.plus(optionalFields))
         if (unknownFields.isNotEmpty()) {
