@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
     check("tokens", {
         it.checkFields(
                 mandatoryFields = listOf("name", "symbol", "address", "decimals"),
-                optionalFields = listOf("logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social")
+                optionalFields = listOf("logo", "support", "community", "website", "github", "img-16x16", "img-128x128", "social", "ens_address")
         )
     })
     check("addresses", { it.checkFields(mandatoryFields = listOf("address", "comment"), optionalFields = listOf("date")) })
