@@ -288,6 +288,38 @@
   "youtube"        :""
 }
 },{
+"symbol"           :"AMIS",
+"address"          :"0x949bed886c739f1a3273629b3320db0c5024c719",
+"decimals"         :"9",
+"name"             :"AMIS",
+"ens_address"      :"",
+"website"          :"http://erc20-amis.amisolution.net",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"info@amisolution.net",
+  "url"            :""
+},
+"social": {
+  "blog"           :"https://medium.com/@AMIS_ERC20",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=1816765.0",
+  "github"         :"https://github.com/amisolution/ERC20-AMIS",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"https://amisolution.herokuapp.com/",
+  "telegram"       :"",
+  "twitter"        :"https://twitter.com/AMIS_ERC20",
+  "youtube"        :""
+}
+},{
 "symbol"           :"ANT",
 "address"          :"0x960b236A07cf122663c4303350609A66A7B288C0",
 "decimals"         :"18",
@@ -639,38 +671,6 @@
   "youtube"        :""
 }
 },{
-"symbol"           :"BET",
-"address"          :"0x725803315519de78d232265a8f1040f054e70b98",
-"decimals"         :"18",
-"name"             :"BET",
-"ens_address"      :"",
-"website"          :"",
-"logo": {
-  "src"            :"",
-  "width"          :"",
-  "height"         :"",
-  "ipfs_hash"      :""
-},
-"support": {
-  "email"          :"",
-  "url"            :""
-},
-"social": {
-  "blog"           :"",
-  "chat"           :"",
-  "facebook"       :"",
-  "fourm"          :"",
-  "github"         :"",
-  "gitter"         :"",
-  "instagram"      :"",
-  "linkedin"       :"",
-  "reddit"         :"",
-  "slack"          :"",
-  "telegram"       :"",
-  "twitter"        :"",
-  "youtube"        :""
-}
-},{
 "symbol"           :"BCDN",
 "address"          :"0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
 "decimals"         :"15",
@@ -703,10 +703,10 @@
   "youtube"        :""
 }
 },{
-"symbol"           :"BNC",
-"address"          :"0xdD6Bf56CA2ada24c683FAC50E37783e55B57AF9F",
-"decimals"         :"12",
-"name"             :"BNC",
+"symbol"           :"BET",
+"address"          :"0x725803315519de78d232265a8f1040f054e70b98",
+"decimals"         :"18",
+"name"             :"BET",
 "ens_address"      :"",
 "website"          :"",
 "logo": {
@@ -731,6 +731,102 @@
   "reddit"         :"",
   "slack"          :"",
   "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"BKB",
+"address"          :"0xb2bfeb70b903f1baac7f2ba2c62934c7e5b974c4",
+"decimals"         :"8",
+"name"             :"BetKing Bankroll Token",
+"ens_address"      :"",
+"website"          :"https://betking.io",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"admin@betking.io",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/betkingcasino/",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2150057",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"https://www.reddit.com/r/BetKing/",
+  "slack"          :"",
+  "telegram"       :"https://t.me/joinchat/GmNTqw7kaxhGRqsJhRuzzw",
+  "twitter"        :"https://twitter.com/betkingio",
+  "youtube"        :""
+}
+},{
+"symbol"           :"BLX",
+"address"          :"0xce59d29b09aae565feeef8e52f47c3cd5368c663",
+"decimals"         :"18",
+"name"             :"Bullion Crypto",
+"ens_address"      :"",
+"website"          :"www.bullioncrypto.info",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"support@bullioncrypto.info",
+  "url"            :"https://iconomi.zendesk.com/hc/en-us/requests/new"
+},
+"social": {
+  "blog"           :"http://www.bullioncrypto.info/blog/",
+  "chat"           :"",
+  "facebook"       :"https://facebook.com/bullioncrypto",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2072092.0",
+  "github"         :"https://github.com/bullioncoin",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"https://bullioncoin.slack.com/",
+  "telegram"       :"https://t.me/bullion_coin",
+  "twitter"        :"https://twitter.com/bullion_coin",
+  "youtube"        :""
+}
+},{
+"symbol"           :"BMC",
+"address"          :"0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
+"decimals"         :"8",
+"name"             :"Blackmoon Crypto BMC Token",
+"ens_address"      :"",
+"website"          :"https://blackmooncrypto.com",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"account@blackmooncrypto.com",
+  "url"            :""
+},
+"social": {
+  "blog"           :"https://medium.com/blackmoon-crypto",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"https://github.com/blackmoonfg",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"https://blackmooncrypto.herokuapp.com/",
+  "telegram"       :"https://t.me/blackmooncrypto",
   "twitter"        :"",
   "youtube"        :""
 }
@@ -767,6 +863,38 @@
   "youtube"        :""
 }
 },{
+"symbol"           :"BNC",
+"address"          :"0xdD6Bf56CA2ada24c683FAC50E37783e55B57AF9F",
+"decimals"         :"12",
+"name"             :"BNC",
+"ens_address"      :"",
+"website"          :"",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
 "symbol"           :"BNT",
 "address"          :"0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
 "decimals"         :"18",
@@ -799,12 +927,12 @@
   "youtube"        :""
 }
 },{
-"symbol"           :"BLX",
-"address"          :"0xce59d29b09aae565feeef8e52f47c3cd5368c663",
-"decimals"         :"18",
-"name"             :"Bullion Crypto",
+"symbol"           :"BOP",
+"address"          :"0x7f1e2c7d6a69bf34824d72c53b4550e895c0d8c2",
+"decimals"         :"8",
+"name"             :"BlockOptiopns Token",
 "ens_address"      :"",
-"website"          :"www.bullioncrypto.info",
+"website"          :"https://blockoptions.io",
 "logo": {
   "src"            :"",
   "width"          :"",
@@ -812,22 +940,22 @@
   "ipfs_hash"      :""
 },
 "support": {
-  "email"          :"support@bullioncrypto.info",
-  "url"            :"https://iconomi.zendesk.com/hc/en-us/requests/new"
+  "email"          :"",
+  "url"            :""
 },
 "social": {
-  "blog"           :"http://www.bullioncrypto.info/blog/",
+  "blog"           :"",
   "chat"           :"",
-  "facebook"       :"https://facebook.com/bullioncrypto",
-  "fourm"          :"https://bitcointalk.org/index.php?topic=2072092.0",
-  "github"         :"https://github.com/bullioncoin",
+  "facebook"       :"https://facebook.com/Blockoptions-1282191258569444",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2047320",
+  "github"         :"",
   "gitter"         :"",
   "instagram"      :"",
   "linkedin"       :"",
   "reddit"         :"",
-  "slack"          :"https://bullioncoin.slack.com/",
-  "telegram"       :"https://t.me/bullion_coin",
-  "twitter"        :"https://twitter.com/bullion_coin",
+  "slack"          :"http://slack.blockoptions.io",
+  "telegram"       :"",
+  "twitter"        :"https://twitter.com/blockoptions_io",
   "youtube"        :""
 }
 },{
@@ -895,6 +1023,70 @@
   "youtube"        :""
 }
 },{
+"symbol"           :"BRAT",
+"address"          :"0x9E77D5a1251b6F7D456722A6eaC6D2d5980bd891",
+"decimals"         :"8",
+"name"             :"BRAT",
+"ens_address"      :"",
+"website"          :"",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"info@brat.red",
+  "url"            :"https://brat.red"
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2024699.0",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"https://t.me/coinbrat",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"BTE",
+"address"          :"0x73dd069c299a5d691e9836243bcaec9c8c1d8734",
+"decimals"         :"8",
+"name"             :"",
+"ens_address"      :"",
+"website"          :"http://bitcoineum.com/miner/",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :"http://bitcoineum.com/"
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2098740.0;prev_next=prev",
+  "github"         :"https://github.com/bitcoineum/Sharkpool",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"https://reddit.com/r/ethereum/comments/6oo54i/bitcoineum_virtual_mining_on_ethereum/",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"https://twitter.com/bitcoineum",
+  "youtube"        :""
+}
+},{
 "symbol"           :"C20",
 "address"          :"0x26E75307Fc0C021472fEb8F727839531F112f317",
 "decimals"         :"18",
@@ -959,6 +1151,38 @@
   "youtube"        :""
 }
 },{
+"symbol"           :"CAN",
+"address"          :" 0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+"decimals"         :"6",
+"name"             :"CAN",
+"ens_address"      :"",
+"website"          :"https://canya.io",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :"support@canya.io"
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"https://www.reddit.com/user/canya-io",
+  "slack"          :"",
+  "telegram"       :"https://t.me/joinchat/HBzcbUP42NwHZKBwnEIkkw",
+  "twitter"        :"https://twitter.com/canya_io",
+  "youtube"        :""
+}
+},{
 "symbol"           :"CAT",
 "address"          :"0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8",
 "decimals"         :"18",
@@ -988,6 +1212,38 @@
   "slack"          :"https://slack.blockcat.io",
   "telegram"       :"",
   "twitter"        :"https://twitter.com/blockcatio",
+  "youtube"        :""
+}
+},{
+"symbol"           :"CCC",
+"address"          :"0x28577A6d31559bd265Ce3ADB62d0458550F7b8a7",
+"decimals"         :"18",
+"name"             :"CryptoCrashCourse",
+"ens_address"      :"",
+"website"          :"http://cryptocrashcourse.com",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"support@blockchainlead.com",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/blockchainlead",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"https://www.reddit.com/r/CryptoCrashCourse/",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
   "youtube"        :""
 }
 },{
@@ -1153,7 +1409,7 @@
 },{
 "symbol"           :"COSS",
 "address"          :"0x65292eeadf1426cd2df1c4793a3d7519f253913b",
-"decimals"         :"",
+"decimals"         :"18",
 "name"             :"Coss Token",
 "ens_address"      :"",
 "website"          :"https://coss.io",
@@ -1665,7 +1921,7 @@
 },{
 "symbol"           :"DLT",
 "address"          :"0x07e3c70653548b04f0a75970c1f81b4cbbfb606f",
-"decimals"         :"",
+"decimals"         :"18",
 "name"             :"Agrello",
 "ens_address"      :"",
 "website"          :"https://www.agrello.org/",
