@@ -3,11 +3,22 @@
   "symbol":"BHNT",
   "name":"Berlin Hack&Tell winner token",
   "address":"0xe27826eE778B6F78a49a686dA7D64f6E7b084a4f",
-  "decimal":"0",
+  "decimals":"0",
   "logo":"",
   "support":"ligi@ligi.de",
   "community":"https://twitter.com/BerlinHacknTell",
   "website":"http://berlin.hackandtell.org",
   "github":"https://github.com/berlin-hack-and-tell"  
+},
+{
+  "symbol":"WALL",
+  "name":"WALLETH Community-Token",
+  "address":"0x0A057a87CE9C56D7e336B417c79cf30E8d27860B",
+  "decimals":"15",
+  "logo":"",
+  "support":"ligi@ligi.de",
+  "community":"",
+  "website":"http://walleth.org",
+  "github":"https://github.com/walleth"  
 }
 ]
