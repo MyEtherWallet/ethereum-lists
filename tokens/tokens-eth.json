@@ -1474,9 +1474,9 @@
 "symbol"           :"CMT",
 "address"          :"0xEEEE4c4eb88d03013E9C1E188B79A054Db6147CB",
 "decimals"         :"18",
-"name"             :"CyberMilesToken",
+"name"             :"CyberMiles Token",
 "ens_address"      :"",
-"website"          :"https://www.facebook.com/cybermiles",
+"website"          :"https://cm.5miles.com",
 "logo": {
   "src"            :"",
   "width"          :"",
@@ -5053,6 +5053,38 @@
   "slack"          :"",
   "telegram"       :"",
   "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"PIPL",
+"address"          :"0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
+"decimals"         :"8",
+"name"             :"PIPL Coin",
+"ens_address"      :"",
+"website"          :"https://piplcoin.com/",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"support@piplcoin.com",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/PiplCoin",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2018431.0",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"https://twitter.com/piplcoin?lang=en",
   "youtube"        :""
 }
 },{
