@@ -7870,5 +7870,38 @@
   "twitter"        :"https://twitter.com/ExchangeZeus",
   "youtube"        :""
 }
-}
+},
+{
+	"symbol": "CDL",
+	"address": "0x5301c5e92e03474a751d015aeed0873a4db01357",
+	"decimals": "18",
+	"name": "Confideal",
+	"ens_address": "",
+	"website": "https://confideal.io",
+	"logo": {
+		"src": "",
+		"width": "",
+		"height": "",
+		"ipfs_hash": ""
+	},
+	"support": {
+		"email": "support@confideal.io",
+		"url": ""
+	},
+	"social": {
+		"blog": "",
+		"chat": "",
+		"facebook": "",
+		"fourm": "",
+		"github": "",
+		"gitter": "",
+		"instagram": "",
+		"linkedin": "",
+		"reddit": "https://www.reddit.com/r/Confideal/",
+		"slack": "",
+		"telegram": "https://t.me/confidealioeng",
+		"twitter": "",
+		"youtube": ""
+	}
+}  
 ]
