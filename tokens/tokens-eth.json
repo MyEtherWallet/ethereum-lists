@@ -2690,33 +2690,33 @@
 "symbol"           :"FUEL",
 "address"          :"0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
 "decimals"         :"18",
-"name"             :"FUEL",
+"name"             :"Etherparty FUEL",
 "ens_address"      :"",
 "website"          :"https://etherparty.io",
 "logo": {
-  "src"            :"",
-  "width"          :"",
-  "height"         :"",
-  "ipfs_hash"      :""
+  "src"            :"https://image.ibb.co/mzeWD6/EP3_Blue.png",
+  "width"          :"804",
+  "height"         :"804",
+  "ipfs_hash"      :"ipfs/QmNLpXoqbZzZ7jEn8Pn58A3UwW38sMCeAVoJra2BUwxqvA"
 },
 "support": {
   "email"          :"support@etherparty.io",
   "url"            :""
 },
 "social": {
-  "blog"           :"",
-  "chat"           :"",
-  "facebook"       :"",
-  "fourm"          :"",
-  "github"         :"",
+  "blog"           :"https://medium.com/etherparty",
+  "chat"           :"https://t.me/etherparty",
+  "facebook"       :"https://www.facebook.com/etherparty",
+  "fourm"          :"https://bitcointalk.org/index.php?topic=2005965",
+  "github"         :"https://github.com/etherparty",
   "gitter"         :"",
-  "instagram"      :"",
-  "linkedin"       :"",
-  "reddit"         :"",
+  "instagram"      :"https://www.instagram.com/etherparty_io/",
+  "linkedin"       :"https://www.linkedin.com/company/etherparty/",
+  "reddit"         :"https://www.reddit.com/r/etherparty/",
   "slack"          :"",
-  "telegram"       :"",
-  "twitter"        :"",
-  "youtube"        :""
+  "telegram"       :"https://t.me/etherparty",
+  "twitter"        :"https://twitter.com/etherparty_io",
+  "youtube"        :"https://www.youtube.com/channel/UCwBzpneop1za6w4DYJJgsIQ"
 }
 },{
 "symbol"           :"FUN",
