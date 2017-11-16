@@ -2303,6 +2303,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DOW",
+"address"     : "0xEEF6E90034eEa89E31Eb4B8eaCd323F28A92eaE4",
+"decimals"    : "18",
+"name"        : "DOW",
+"ens_address" : "",
+"website"     : "https://www.dowico.com/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@dowico.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "DPP",
 "address"     : "0x01b3Ec4aAe1B8729529BEB4965F27d008788B0EB",
 "decimals"    : "18",
@@ -2879,36 +2911,36 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "FUEL",
-"address"     : "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
-"decimals"    : "18",
-"name"        : "FUEL",
-"ens_address" : "",
-"website"     : "https://etherparty.io",
+"symbol"      :"FUEL",
+"address"     :"0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+"decimals"    :"18",
+"name"        :"Etherparty FUEL",
+"ens_address" :"",
+"website"     :"https://etherparty.io",
 "logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
-  "ipfs_hash" : ""
+  "src"       :"https://image.ibb.co/mzeWD6/EP3_Blue.png",
+  "width"     :"804",
+  "height"    :"804",
+  "ipfs_hash" :"ipfs/QmNLpXoqbZzZ7jEn8Pn58A3UwW38sMCeAVoJra2BUwxqvA"
 },
 "support": {
-  "email"     : "support@etherparty.io",
-  "url"       : ""
+  "email"     :"support@etherparty.io",
+  "url"       :""
 },
 "social": {
-  "blog"      : "",
-  "chat"      : "",
-  "facebook"  : "",
-  "fourm"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "",
-  "twitter"   : "",
-  "youtube"   : ""
+  "blog"      :"https://medium.com/etherparty",
+  "chat"      :"https://t.me/etherparty",
+  "facebook"  :"https://www.facebook.com/etherparty",
+  "fourm"     :"https://bitcointalk.org/index.php?topic=2005965",
+  "github"    :"https://github.com/etherparty",
+  "gitter"    :"",
+  "instagram" :"https://www.instagram.com/etherparty_io/",
+  "linkedin"  :"https://www.linkedin.com/company/etherparty/",
+  "reddit"    :"https://www.reddit.com/r/etherparty/",
+  "slack"     :"",
+  "telegram"  :"https://t.me/etherparty",
+  "twitter"   :"https://twitter.com/etherparty_io",
+  "youtube"   :"https://www.youtube.com/channel/UCwBzpneop1za6w4DYJJgsIQ"
 }
 },{
 "symbol"      : "FUN",
@@ -5745,7 +5777,7 @@
   "url"       : ""
 },
 "social": {
-  "blog"      : "",
+  "blog"      : "https://medium.com/@BitPopulous/",
   "chat"      : "",
   "facebook"  : "",
   "fourm"     : "",
@@ -6048,8 +6080,40 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "REBL",
+"address"     : "0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf",
+"decimals"    : "18",
+"name"        : "Rebellious",
+"ens_address" : "",
+"website"     : "https://www.rebellious.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "https://discord.gg/q4yBxct",
+  "facebook"  : "",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2357352.0",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/RebelliousCoin",
+  "twitter"   : "https://twitter.com/RebelliousCoin",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "REP",
-"address"     : "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
+"address"     : "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5",
 "decimals"    : "18",
 "name"        : "Augur",
 "ens_address" : "",
@@ -6911,6 +6975,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "SNIP",
+"address"     : "0x44F588aEeB8C44471439D1270B3603c66a9262F1",
+"decimals"    : "18",
+"name"        : "SNIP",
+"ens_address" : "",
+"website"     : "https://www.snip.network",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@snip.today",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/sniptoday",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/sniptoday",
+  "twitter"   : "https://www.twitter.com/sniptoday",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "SND",
 "address"     : "0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
 "decimals"    : "0",
@@ -7103,8 +7199,40 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "ST",
+"address"     : "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
+"decimals"    : "18",
+"name"        : "ST",
+"ens_address" : "",
+"website"     : "https://simpletoken.org/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@simpletoken.org",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/simple-token",
+  "chat"      : "https://gitter.im/OpenSTFoundation/SimpleToken",
+  "facebook"  : "https://www.facebook.com/simpletoken/",
+  "fourm"     : "",
+  "github"    : "https://github.com/OpenSTFoundation",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/18209852/",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://www.t.me/simpletoken",
+  "twitter"   : "https://twitter.com/TheSimpleToken",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "STAR",
-"address"     : "0xc301b935d0fd1f5d0b6d68491deca39d44e2da6e",
+"address"     : "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc",
 "decimals"    : "18",
 "name"        : "Star Token",
 "ens_address" : "",
@@ -8252,38 +8380,6 @@
   "slack"     : "",
   "telegram"  : "https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw",
   "twitter"   : "https://twitter.com/wolkinc",
-  "youtube"   : ""
-}
-},{
-"symbol"      : "WRC",
-"address"     : "0xcA46C2716C85624ecDfF0C18071C95B6543B4862",
-"decimals"    : "8",
-"name"        : "WRC",
-"ens_address" : "",
-"website"     : "https://www.wrcoin.net",
-"logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
-  "ipfs_hash" : ""
-},
-"support": {
-  "email"     : "",
-  "url"       : "support@wrcoin.net"
-},
-"social": {
-  "blog"      : "",
-  "chat"      : "",
-  "facebook"  : "",
-  "fourm"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "",
-  "twitter"   : "",
   "youtube"   : ""
 }
 },{
