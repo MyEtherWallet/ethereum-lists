@@ -1375,10 +1375,42 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "CAT",
+"symbol"      : "CAT (BitClave)",
+"address"     : "0x111111f7e9B1Fe072ade438F77E1Ce861C7eE4E3",
+"decimals"    : "18",
+"name"        : "CAT (BitClave)",
+"ens_address" : "",
+"website"     : "https://www.bitclave.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "help@bitclave.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "CAT (Blockcat)",
 "address"     : "0x56ba2Ee7890461f463F7be02aAC3099f6d5811A8",
 "decimals"    : "18",
-"name"        : "Blockcat",
+"name"        : "CAT (Blockcat)",
 "ens_address" : "",
 "website"     : "https://blockcat.io",
 "logo": {
