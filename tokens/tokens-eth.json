@@ -1401,7 +1401,39 @@
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "",
-  "slack"     : "",
+  "slack"     : "https://slack.bitclave.com",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "CATs (BitClave)",
+"address"     : "0x68e14bb5A45B9681327E16E528084B9d962C1a39",
+"decimals"    : "18",
+"name"        : "CAT (BitClave)",
+"ens_address" : "",
+"website"     : "https://www.bitclave.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "help@bitclave.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "https://slack.bitclave.com",
   "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
@@ -3100,6 +3132,38 @@
   "slack"     : "http://fundyourselfnowslack.herokuapp.com/",
   "telegram"  : "https://t.me/fundyourselfnow",
   "twitter"   : "https://twitter.com/fundyourselfnow",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "GAVEL",
+"address"     : "0x708876f486e448ee89eb332bfbc8e593553058b9",
+"decimals"    : "18",
+"name"        : "GAVEL",
+"ens_address" : "",
+"website"     : "http://gavelcoin.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@gavelcoin.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
@@ -5377,9 +5441,41 @@
 }
 },{
 "symbol"      : "NXX",
-"address"     : "0x5c6183d10A00CD747a6Dbb5F658aD514383e9419",
+"address"     : "0x7627de4b93263a6a7570b8dafa64bae812e5c394",
 "decimals"    : "8",
 "name"        : "NXX",
+"ens_address" : "",
+"website"     : "https://www.nexxuscoin.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@nexxusuniversity.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "NXX OLD",
+"address"     : "0x5c6183d10A00CD747a6Dbb5F658aD514383e9419",
+"decimals"    : "8",
+"name"        : "NXX OLD",
 "ens_address" : "",
 "website"     : "https://www.nexxuscoin.com",
 "logo": {
@@ -5632,6 +5728,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "PBL",
+"address"     : "0x55648de19836338549130b1af587f16bea46f66b",
+"decimals"    : "18",
+"name"        : "PBL",
+"ens_address" : "",
+"website"     : "https://publica.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@publica.io",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2079885",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/publicaio/",
+  "slack"     : "",
+  "telegram"  : "https://t.me/publicaofficial",
+  "twitter"   : "https://twitter.com/PublicaIO",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "PIPL",
 "address"     : "0xE64509F0bf07ce2d29A7eF19A8A9bc065477C1B4",
 "decimals"    : "8",
@@ -5693,6 +5821,38 @@
   "slack"     : "https://lampix-invite.herokuapp.com/",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/lampix_co",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "PIXEL",
+"address"     : "0x7e7DC49715816d1f5712A1d7dFf083e4F9E588B6",
+"decimals"    : "14",
+"name"        : "PIXEL",
+"ens_address" : "",
+"website"     : "http://vr-pixel.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "securityxiii@gmail.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/user/vr-pixel/",
+  "slack"     : "",
+  "telegram"  : "https://t.me/vrpixel",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
@@ -7487,6 +7647,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "SPF",
+"address"     : "0x85089389C14Bd9c77FC2b8F0c3d1dC3363Bf06Ef",
+"decimals"    : "18",
+"name"        : "Sportify",
+"ens_address" : "",
+"website"     : "https://sportyfi.io/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@sportyfi.io",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/sportyfi_io",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "ST",
 "address"     : "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
 "decimals"    : "18",
@@ -8639,6 +8831,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "WaBi",
+"address"     : "0x0f641b9f7329ba4706580d086d8063c5a3c23dbb",
+"decimals"    : "18",
+"name"        : "WaBi",
+"ens_address" : "",
+"website"     : "https://www.wacoin.io/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "",
+  "url"       : "support@wacoin.io"
+},
+"social": {
+  "blog"      : "https://medium.com/@wabiico",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/wabiico/",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2038385.0",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/WabiToken/",
+  "slack"     : "",
+  "telegram"  : "https://t.me/joinchat/GOTG3EIRK4fBEURKmiOYFg",
+  "twitter"   : "https://twitter.com/wabiico",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "WBA",
 "address"     : "0x74951B677de32D596EE851A233336926e6A2cd09",
 "decimals"    : "7",
@@ -8793,6 +9017,38 @@
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "XGM",
+"address"     : "0x533ef0984b2FAA227AcC620C67cce12aA39CD8CD",
+"decimals"    : "8",
+"name"        : "XGM",
+"ens_address" : "",
+"website"     : "https://www.xaurum.org/gamma",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "gamma@xaurum.pro",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/xaurumofficial/",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2057494.0",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/xaurum/",
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "",
