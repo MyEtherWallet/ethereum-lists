@@ -2815,6 +2815,37 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "eBTC",
+"address"     : "0xeb7c20027172e5d143fb030d50f91cece2d1485d",
+"decimals"    : "8",
+"name"        : "eBTC",
+"ens_address" : "",
+"website"     : "https://ebitcoin.org",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "contact@ebitcoin.org",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/@eBTCFoundation",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/eBitcoin.org",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2210565.0",
+  "github"    : "https://github.com/eBTCCommunityTrustToken/eBTC",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/eBTC/",
+  "slack"     : "",
+  "telegram"  : "https://t.me/ComTrust/",
+  "twitter"   : "https://twitter.com/ebtcfoundation",
+  "youtube"   : "https://www.youtube.com/channel/UC3qfrY1tpUFEy3nOjqaGBDw/videos"
+},{
 "symbol"      : "ECN",
 "address"     : "0xa578acc0cb7875781b7880903f4594d13cfa8b98",
 "decimals"    : "2",
