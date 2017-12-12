@@ -2143,6 +2143,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DAT",
+"address"     : "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c",
+"decimals"    : "18",
+"name"        : "Datum Token",
+"ens_address" : "",
+"website"     : "https://datum.org",
+"logo": {
+  "src"       : "https://datum.org/assets/images/datumlogo_square_128px.png",
+  "width"     : "128",
+  "height"    : "128",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@datum.org",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://facebook.com/datumnetwork",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2049312.0",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/datumnetwork",
+  "twitter"   : "https://twitter.com/datumnetwork",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "DAB",
 "address"     : "0xdab0C31BF34C897Fb0Fe90D12EC9401caf5c36Ec",
 "decimals"    : "0",
