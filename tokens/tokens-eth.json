@@ -2368,6 +2368,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DAI",
+"address"     : "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+"decimals"    : "18",
+"name"        : "Dai Stablecoin v1.0",
+"ens_address" : "",
+"website"     : "https://makerdao.com/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com/"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "https://chat.makerdao.com/",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "https://github.com/makerdao",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/MakerDAO/",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/MakerDAO",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "DALC",
 "address"     : "0x07d9e49ea402194bf48a8276dafb16e4ed633317",
 "decimals"    : "8",
