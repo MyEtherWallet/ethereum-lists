@@ -3136,38 +3136,38 @@
   "youtube"   : ""
 }
 },{
-		"symbol": "EAGLE",
-		"address": "0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9",
-		"decimals": "18",
-		"name": "EagleCoin",
-		"ens_address": "",
-		"website": "https://eaglepay.io",
-		"logo": {
-			"src": "https://pasteboard.co/GYomPdv.jpg",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "team@eaglepay.io",
-			"url": ""
-		},
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/EagleCoin",
-			"fourm": "",
-			"github": "https://github.com/elangindonesia/EagleCoin",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "https://www.linkedin.com/company/13453528/",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/eaglecoinworld",
-			"twitter": "https://twitter.com/EaglecoinID",
-			"youtube": "https://www.youtube.com/channel/UCMj7jcOXML6pqsWWajLgKKQ"
-		}
-	},{
+"symbol"      : "EAGLE",
+"address"     : "0x994f0dffdbae0bbf09b652d6f11a493fd33f42b9",
+"decimals"    : "18",
+"name"        : "EagleCoin",
+"ens_address" : "",
+"website"     : "https://eaglepay.io",
+"logo"        : {
+  "src"       : "https://pasteboard.co/GYomPdv.jpg",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support"     : {
+  "email"     : "team@eaglepay.io",
+  "url"       : ""
+},
+"social"      : {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/EagleCoin",
+  "fourm"     : "",
+  "github"    : "https://github.com/elangindonesia/EagleCoin",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/13453528/",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/eaglecoinworld",
+  "twitter"   : "https://twitter.com/EaglecoinID",
+  "youtube"   : "https://www.youtube.com/channel/UCMj7jcOXML6pqsWWajLgKKQ"
+}
+},{
 "symbol"      : "EHT",
 "address"     : "0xf9F0FC7167c311Dd2F1e21E9204F87EBA9012fB2",
 "decimals"    : "8",
