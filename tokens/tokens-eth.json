@@ -1055,6 +1055,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "BTL",
+"address"     : "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
+"decimals"    : "4",
+"name"        : "Bitlle Token",
+"ens_address" : "",
+"website"     : "https://bitlle.com",
+"logo": {
+  "src"       : "https://bitlle.com/img/btl.png",
+  "width"     : "28",
+  "height"    : "28",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@bitlle.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/bitlle",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "BLX",
 "address"     : "0xce59d29b09aae565feeef8e52f47c3cd5368c663",
 "decimals"    : "18",
@@ -10714,39 +10746,6 @@
   "slack"     : "",
   "telegram"  : "https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw",
   "twitter"   : "https://twitter.com/ExchangeZeus",
-  "youtube"   : ""
-}
-},
-  {
-"symbol"      : "BTL",
-"address"     : "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
-"decimals"    : "4",
-"name"        : "Bitlle Token",
-"ens_address" : "",
-"website"     : "https://bitlle.com",
-"logo": {
-  "src"       : "https://bitlle.com/img/btl.png",
-  "width"     : "28",
-  "height"    : "28",
-  "ipfs_hash" : ""
-},
-"support": {
-  "email"     : "info@bitlle.com",
-  "url"       : ""
-},
-"social": {
-  "blog"      : "",
-  "chat"      : "",
-  "facebook"  : "",
-  "fourm"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "https://t.me/bitlle",
-  "twitter"   : "",
   "youtube"   : ""
 }
 }
