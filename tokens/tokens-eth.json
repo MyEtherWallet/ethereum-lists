@@ -5633,11 +5633,11 @@
 }
 },{
 "symbol"      : "MKR",
-"address"     : "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+"address"     : "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
 "decimals"    : "18",
 "name"        : "MakerDAO",
 "ens_address" : "",
-"website"     : "https://makerdao.com/",
+"website"     : "https://makerdao.com",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -5645,22 +5645,22 @@
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "",
-  "url"       : ""
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com"
 },
 "social": {
   "blog"      : "",
-  "chat"      : "https://chat.makerdao.com/",
+  "chat"      : "https://chat.makerdao.com",
   "facebook"  : "",
   "fourm"     : "",
-  "github"    : "",
+  "github"    : "https://github.com/makerdao",
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "https://reddit.com/r/makerdao",
   "slack"     : "",
   "telegram"  : "",
-  "twitter"   : "",
+  "twitter"   : "https://twitter.com/MakerDAO",
   "youtube"   : ""
 }
 },{
@@ -6397,6 +6397,38 @@
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "OLD_MKR",
+"address"     : "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+"decimals"    : "18",
+"name"        : "MakerDAO",
+"ens_address" : "",
+"website"     : "https://makerdao.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "https://chat.makerdao.com",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "https://github.com/makerdao",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://reddit.com/r/makerdao",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/MakerDAO",
   "youtube"   : ""
 }
 },{
