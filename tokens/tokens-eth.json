@@ -2368,6 +2368,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DAI",
+"address"     : "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+"decimals"    : "18",
+"name"        : "Dai Stablecoin v1.0",
+"ens_address" : "",
+"website"     : "https://makerdao.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "https://chat.makerdao.com",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "https://github.com/makerdao",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/MakerDAO",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/MakerDAO",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "DALC",
 "address"     : "0x07d9e49ea402194bf48a8276dafb16e4ed633317",
 "decimals"    : "8",
@@ -3293,6 +3325,38 @@
   "slack"     : "https://enjincoin.io/slack/",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/enjincs",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "ENV",
+"address"     : "0xd780Ae2Bf04cD96E577D3D014762f831d97129d0",
+"decimals"    : "18",
+"name"        : "Envion AG",
+"ens_address" : "",
+"website"     : "https://envion.org/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "question@envion.org",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/@envion",
+  "chat"      : "https://bitcointalk.org/index.php?topic=2348435",
+  "facebook"  : "https://www.facebook.com/envion.org",
+  "fourm"     : "",
+  "github"    : "https://github.com/envion/Smart-Contracts",
+  "gitter"    : "",
+  "instagram" : "https://www.instagram.com/envion_official/",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/Envion",
+  "twitter"   : "https://twitter.com/Envion_org",
   "youtube"   : ""
 }
 },{
@@ -4320,6 +4384,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "HVN",
+"address"     : "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
+"decimals"    : "8",
+"name"        : "HVN",
+"ens_address" : "",
+"website"     : "https://www.hive-project.net/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@hive-project.net",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/Hiveproject.net/",
+  "fourm"     : "",
+  "github"    : "https://github.com/HiveProjectLTD",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/hiveproject_net",
+  "reddit"    : "https://www.reddit.com/r/HiveProject_net/",
+  "slack"     : "",
+  "telegram"  : "https://t.me/hiveprojectnet",
+  "twitter"   : "https://twitter.com/hiveproject_net",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "ICE",
 "address"     : "0x5a84969bb663fb64F6d015DcF9F622Aedc796750",
 "decimals"    : "18",
@@ -5024,6 +5120,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "LGR",
+"address"     : "0x2eb86e8fc520e0f6bb5d9af08f924fe70558ab89",
+"decimals"    : "8",
+"name"        : "Logarithm",
+"ens_address" : "",
+"website"     : "https://getlogarithm.com",
+"logo": {
+  "src"       : "https://getlogarithm.com/images/logo256.png",
+  "width"     : "256",
+  "height"    : "256",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "one@getlogarithm.com",
+  "url"       : "https://getlogarithm.com/contact/"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "https://t.me/joinchat/CkoPiQxH8UujJ5tkifNIGA",
+  "facebook"  : "https://www.facebook.com/getlogarithm",
+  "fourm"     : "https://bitcointalk.org/index.php?topic=2348732",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/joinchat/CkoPiQxH8UujJ5tkifNIGA",
+  "twitter"   : "https://twitter.com/getlogarithm",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "LIFE",
 "address"     : "0xff18dbc487b4c2e3222d115952babfda8ba52f5f",
 "decimals"    : "18",
@@ -5633,11 +5761,11 @@
 }
 },{
 "symbol"      : "MKR",
-"address"     : "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+"address"     : "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
 "decimals"    : "18",
 "name"        : "MakerDAO",
 "ens_address" : "",
-"website"     : "https://makerdao.com/",
+"website"     : "https://makerdao.com",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -5645,22 +5773,22 @@
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "",
-  "url"       : ""
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com"
 },
 "social": {
   "blog"      : "",
-  "chat"      : "https://chat.makerdao.com/",
+  "chat"      : "https://chat.makerdao.com",
   "facebook"  : "",
   "fourm"     : "",
-  "github"    : "",
+  "github"    : "https://github.com/makerdao",
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "https://reddit.com/r/makerdao",
   "slack"     : "",
   "telegram"  : "",
-  "twitter"   : "",
+  "twitter"   : "https://twitter.com/MakerDAO",
   "youtube"   : ""
 }
 },{
@@ -6397,6 +6525,38 @@
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "OLD_MKR",
+"address"     : "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+"decimals"    : "18",
+"name"        : "MakerDAO",
+"ens_address" : "",
+"website"     : "https://makerdao.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "https://chat.makerdao.com",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "https://github.com/makerdao",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://reddit.com/r/makerdao",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/MakerDAO",
   "youtube"   : ""
 }
 },{
@@ -9085,10 +9245,10 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "SXD",
-"address"     : "0x554c98b3ec772f79eE5b96d47A1D10852ED274C8",
+"symbol"      : "SXDT",
+"address"     : "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf",
 "decimals"    : "18",
-"name"        : "SXD",
+"name"        : "Spectre.ai D-Token",
 "ens_address" : "",
 "website"     : "www.spectre.ai",
 "logo": {
@@ -9117,10 +9277,10 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "SXU",
-"address"     : "0xaADB05F449072D275833bAf7C82e8fCa4ee46575",
+"symbol"      : "SXUT",
+"address"     : "0x2c82c73d5b34aa015989462b2948cd616a37641f",
 "decimals"    : "18",
-"name"        : "SXU",
+"name"        : "Spectre.ai U-Token",
 "ens_address" : "",
 "website"     : "www.spectre.ai",
 "logo": {
@@ -10397,6 +10557,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "XNT",
+"address"     : "0x572e6f318056ba0c5d47a422653113843d250691",
+"decimals"    : "0",
+"name"        : "XNT",
+"ens_address" : "",
+"website"     : "https://exante.eu",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "nt@exante.eu",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "XRL",
 "address"     : "0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
 "decimals"    : "9",
@@ -10522,6 +10714,39 @@
   "slack"     : "",
   "telegram"  : "https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw",
   "twitter"   : "https://twitter.com/ExchangeZeus",
+  "youtube"   : ""
+}
+},
+  {
+"symbol"      : "BTL",
+"address"     : "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
+"decimals"    : "4",
+"name"        : "Bitlle Token",
+"ens_address" : "",
+"website"     : "https://bitlle.com",
+"logo": {
+  "src"       : "https://bitlle.com/img/btl.png",
+  "width"     : "28",
+  "height"    : "28",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@bitlle.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/bitlle",
+  "twitter"   : "",
   "youtube"   : ""
 }
 }
