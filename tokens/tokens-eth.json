@@ -4483,33 +4483,33 @@
 "symbol"      : "HVN",
 "address"     : "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
 "decimals"    : "8",
-"name"        : "HVN",
+"name"        : "Hive Project",
 "ens_address" : "",
-"website"     : "https://www.hive-project.net/",
+"website"     : "https://hive-project.net",
 "logo": {
-  "src"       : "",
+  "src"       : "https://hive-project.net/images/hive-logo.png",
   "width"     : "",
   "height"    : "",
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "info@hive-project.net",
-  "url"       : ""
+  "email"     : "support@hive-project.net",
+  "url"       : "https://hive-project.zendesk.com"
 },
 "social": {
-  "blog"      : "",
+  "blog"      : "https://blog.hive-project.net",
   "chat"      : "",
-  "facebook"  : "https://www.facebook.com/Hiveproject.net/",
+  "facebook"  : "https://www.facebook.com/HiveProject.net",
   "fourm"     : "",
   "github"    : "https://github.com/HiveProjectLTD",
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "https://www.linkedin.com/company/hiveproject_net",
-  "reddit"    : "https://www.reddit.com/r/HiveProject_net/",
+  "reddit"    : "https://www.reddit.com/r/HiveProject_net",
   "slack"     : "",
   "telegram"  : "https://t.me/hiveprojectnet",
   "twitter"   : "https://twitter.com/hiveproject_net",
-  "youtube"   : ""
+  "youtube"   : "https://www.youtube.com/channel/UCpV4Wwhy5sZbjH9hqAdHlKw"
 }
 },{
 "symbol"      : "ICE",
