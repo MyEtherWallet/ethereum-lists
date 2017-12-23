@@ -4483,23 +4483,23 @@
 "symbol"      : "HVN",
 "address"     : "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
 "decimals"    : "8",
-"name"        : "HVN",
+"name"        : "Hive Project",
 "ens_address" : "",
-"website"     : "https://www.hive-project.net",
+"website"     : "https://hive-project.net",
 "logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
+  "src"       : "https://hive-project.net/images/hive-logo.png",
+  "width"     : 151,
+  "height"    : 64,
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "info@hive-project.net",
-  "url"       : ""
+  "email"     : "support@hive-project.net",
+  "url"       : "https://hive-project.zendesk.com"
 },
 "social": {
-  "blog"      : "",
+  "blog"      : "https://blog.hive-project.net",
   "chat"      : "",
-  "facebook"  : "https://www.facebook.com/Hiveproject.net",
+  "facebook"  : "https://www.facebook.com/HiveProject.net",
   "fourm"     : "",
   "github"    : "https://github.com/HiveProjectLTD",
   "gitter"    : "",
@@ -4509,7 +4509,7 @@
   "slack"     : "",
   "telegram"  : "https://t.me/hiveprojectnet",
   "twitter"   : "https://twitter.com/hiveproject_net",
-  "youtube"   : ""
+  "youtube"   : "https://www.youtube.com/channel/UCpV4Wwhy5sZbjH9hqAdHlKw"
 }
 },{
 "symbol"      : "ICE",
@@ -6974,6 +6974,38 @@
   "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
+}
+},{
+"symbol"      : "PEXT",
+"address"     : "0x55c2A0C171D920843560594dE3d6EEcC09eFc098",
+"decimals"    : "4",
+"name"        : "PEX-Token",
+"ens_address" : "",
+"website"     : "https://prime-ex.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "erc20@prime-ex.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://prime-ex.com/pex-blog",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/PEXTokens",
+  "forum"     : "https://bitcointalk.org/index.php?topic=2150472.msg21513985#msg21513985",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/25037545",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/PEXTokens",
+  "twitter"   : "https://twitter.com/PEXTokens",
+  "youtube"   : "https://www.youtube.com/channel/UCQ_4BHl1qE1dz_vijSt_tqw?view_as=subscriber"
 }
 },{
 "symbol"      : "PIPL",
@@ -10906,6 +10938,38 @@
   "slack"     : "",
   "telegram"  : "https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw",
   "twitter"   : "https://twitter.com/ExchangeZeus",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "WPC",
+"address"     : "0x62087245087125d3DB5B9A3D713d78E7BBc31e54",
+"decimals"    : "8",
+"name"        : "WorldPeaceCoin",
+"ens_address" : "",
+"website"     : "http://www.worldpeacecoin.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@worldpeacecoin.info",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/worldpeacecoin",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/WorldPeaceCoin1",
   "youtube"   : ""
 }
 }
