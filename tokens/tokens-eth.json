@@ -1826,13 +1826,13 @@
 "symbol"      : "CAR",
 "address"     : " 0x423e4322cdda29156b49a17dfbd2acc4b280600d",
 "decimals"    : "9",
-"name"        : "CAR SHARING COMMUNITY",
+"name"        : "Car Sharing Community",
 "ens_address" : "",
 "website"     : "https://mycarcoin.com",
 "logo": {
   "src"       : "https://mycarcoin.com/Carcoin/img/logo-carcoin.png",
-  "width"     : "291px",
-  "height"    : "291px",
+  "width"     : 291,
+  "height"    : 291,
   "ipfs_hash" : ""
 },
 "support": {
