@@ -3008,6 +3008,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DRGN",
+"address"     : "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
+"decimals"    : "18",
+"name"        : "Dragon",
+"ens_address" : "dragonchain.eth",
+"website"     : "https://dragonchain.com/",
+"logo": {
+  "src"       : "https://dragonchain.com/assets/images/dragon.png",
+  "width"     : "813",
+  "height"    : "879",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@dragonchain.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://dragonchain.com/blog/",
+  "chat"      : "https://t.me/dragontalk",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "https://github.com/dragonchain/dragonchain",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/18216867/",
+  "reddit"    : "https://www.reddit.com/r/dragonchain",
+  "slack"     : "",
+  "telegram"  : "https://t.me/dragontalk",
+  "twitter"   : "https://twitter.com/dragonchaingang",
+  "youtube"   : "https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
+}
+},{
 "symbol"      : "DROP",
 "address"     : "0x3c75226555FC496168d48B88DF83B95F16771F37",
 "decimals"    : "0",
