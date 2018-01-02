@@ -11484,5 +11484,37 @@
   "twitter"   : "https://twitter.com/ExchangeZeus",
   "youtube"   : ""
 }
+},{
+"symbol"      : "TRV",
+"address"     : "0xBa138976D8e7644BA8fE74409286a85Dba85Ba2a",
+"decimals"    : "18",
+"name"        : "Trive",
+"ens_address" : "trivenews.eth",
+"website"     : "https://trive.news",
+"logo": {
+  "src"       : "https://github.com/trivenews/marketing/blob/master/TriveLogo.png",
+  "width"     : "339",
+  "height"    : "385",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@trive.news",
+  "url"       : "https://trive.news/contact/"
+},
+"social": {
+  "blog"      : "https://trive.news/blog/",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/TriveNews/",
+  "fourm"     : "",
+  "github"    : "https://github.com/trivenews",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/trivenews/",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "tg://join?invite=AAAAAEQwY9PYi742xEuIIQ",
+  "twitter"   : "https://twitter.com/Trive_News",
+  "youtube"   : ""
+}
 }
 ]
