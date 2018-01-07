@@ -1025,7 +1025,7 @@
 }
 },{
 "symbol"      : "BET",
-"address"     : "0x725803315519de78d232265a8f1040f054e70b98",
+"address"     : "0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2",
 "decimals"    : "18",
 "name"        : "BET",
 "ens_address" : "",
@@ -1120,38 +1120,6 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "BTL",
-"address"     : "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
-"decimals"    : "4",
-"name"        : "Bitlle Token",
-"ens_address" : "",
-"website"     : "https://bitlle.com",
-"logo": {
-  "src"       : "https://bitlle.com/img/btl.png",
-  "width"     : "28",
-  "height"    : "28",
-  "ipfs_hash" : ""
-},
-"support": {
-  "email"     : "info@bitlle.com",
-  "url"       : ""
-},
-"social": {
-  "blog"      : "",
-  "chat"      : "",
-  "facebook"  : "",
-  "fourm"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "https://t.me/bitlle",
-  "twitter"   : "",
-  "youtube"   : ""
-}
-},{
 "symbol"      : "BLT",
 "address"     : "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
 "decimals"    : "18",
@@ -1184,7 +1152,7 @@
   "youtube"   : "https://www.youtube.com/channel/UCaMfVoHQzwX47XKUawWVCzg"
 }
 },{
-"symbol"      : "BLX",
+"symbol"      : "BLX (Bullion)",
 "address"     : "0xce59d29b09aae565feeef8e52f47c3cd5368c663",
 "decimals"    : "18",
 "name"        : "Bullion Crypto",
@@ -1213,6 +1181,38 @@
   "slack"     : "https://bullioncoin.slack.com",
   "telegram"  : "https://t.me/bullion_coin",
   "twitter"   : "https://twitter.com/bullion_coin",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "BLX (Iconomi)",
+"address"     : "0xE5a7c12972f3bbFe70ed29521C8949b8Af6a0970",
+"decimals"    : "18",
+"name"        : "Iconomi",
+"ens_address" : "",
+"website"     : "",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "",
+  "url"       : "w"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
@@ -1696,10 +1696,10 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "BTL",
+"symbol"      : "BTL (Battle)",
 "address"     : "0x2accaB9cb7a48c3E82286F0b2f8798D201F4eC3f",
 "decimals"    : "18",
-"name"        : "BTL",
+"name"        : "BTL (Battle)",
 "ens_address" : "",
 "website"     : "http://persians.network",
 "logo": {
@@ -1725,6 +1725,38 @@
   "slack"     : "https://battlesmartcontract.slack.com",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/persian_token",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "BTL (Bitlle)",
+"address"     : "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
+"decimals"    : "4",
+"name"        : "Bitlle Token",
+"ens_address" : "",
+"website"     : "https://bitlle.com",
+"logo": {
+  "src"       : "https://bitlle.com/img/btl.png",
+  "width"     : 28,
+  "height"    : 28,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@bitlle.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/bitlle",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
@@ -3842,7 +3874,7 @@
 }
 },{
 "symbol"      : "ENJ",
-"address"     : "0x9b73D1779C41DcA36314fB7c4D3309838e20C4E7",
+"address"     : "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
 "decimals"    : "18",
 "name"        : "ENJIN",
 "ens_address" : "",
@@ -5507,7 +5539,7 @@
 },{
 "symbol"      : "ITT",
 "address"     : "0x0aeF06DcCCC531e581f0440059E6FfCC206039EE",
-"decimals"    : "18",
+"decimals"    : "8",
 "name"        : "ITT Token",
 "ens_address" : "",
 "website"     : "http://intelligenttrading.org",
@@ -5602,7 +5634,7 @@
 }
 },{
 "symbol"      : "JET",
-"address"     : "0xc1E6C6C681B286Fb503B36a9dD6c1dbFF85E73CF",
+"address"     : "0x8727c112c712c4a03371ac87a74dd6ab104af768",
 "decimals"    : "18",
 "name"        : "JET",
 "ens_address" : "",
@@ -8610,7 +8642,7 @@
 }
 },{
 "symbol"      : "REP",
-"address"     : "0x48c80F1f4D53D5951e5D5438B54Cba84f29F32a5",
+"address"     : "0xE94327D07Fc17907b4DB788E5aDf2ed424adDff6",
 "decimals"    : "18",
 "name"        : "Augur",
 "ens_address" : "",
@@ -8706,9 +8738,10 @@
 }
 },{
 "symbol"      : "RIPT",
-"name"        : "RiptideCoin",
 "address"     : "0xdd007278b667f6bef52fd0a4c23604aa1f96039a",
 "decimals"    : "8",
+"name"        : "RiptideCoin",
+"ens_address" : "",
 "website"     : "https://riptidecoin.com",
 "logo": {
   "src"       : "https://etherscan.io/token/images/riptide_28.png",
@@ -9567,11 +9600,11 @@
 }
 },{
 "symbol"      : "SMART",
-"name"        : "Smart Billions",
 "address"     : "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
 "decimals"    : "0",
-"website"     : "http://smartbillions.com",
+"name"        : "Smart Billions",
 "ens_address" : "",
+"website"     : "http://smartbillions.com",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -11424,7 +11457,7 @@
 },{
 "symbol"      : "WPC",
 "address"     : "0x62087245087125d3DB5B9A3D713d78E7BBc31e54",
-"decimals"    : "8",
+"decimals"    : "18",
 "name"        : "WorldPeaceCoin",
 "ens_address" : "",
 "website"     : "http://www.worldpeacecoin.io",
@@ -11451,38 +11484,6 @@
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/WorldPeaceCoin1",
-  "youtube"   : ""
-}
-},{
-"symbol"      : "XAUR",
-"address"     : "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
-"decimals"    : "8",
-"name"        : "Xaurum",
-"ens_address" : "",
-"website"     : "http://www.xaurum.org",
-"logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
-  "ipfs_hash" : ""
-},
-"support": {
-  "email"     : "",
-  "url"       : ""
-},
-"social": {
-  "blog"      : "",
-  "chat"      : "",
-  "facebook"  : "",
-  "fourm"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "",
-  "twitter"   : "",
   "youtube"   : ""
 }
 },{
@@ -11518,12 +11519,12 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "XSC",
-"address"     : "0x0F513fFb4926ff82D7F60A05069047AcA295C413",
-"decimals"    : "18",
-"name"        : "XSC",
+"symbol"      : "XAUR",
+"address"     : "0x4DF812F6064def1e5e029f1ca858777CC98D2D81",
+"decimals"    : "8",
+"name"        : "Xaurum",
 "ens_address" : "",
-"website"     : "http://crowdstart.capital",
+"website"     : "http://www.xaurum.org",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -11531,7 +11532,7 @@
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "info@crowdstart.capital",
+  "email"     : "",
   "url"       : ""
 },
 "social": {
@@ -11544,7 +11545,7 @@
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "",
-  "slack"     : "http://bit.ly/2zMX0hm",
+  "slack"     : "",
   "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
@@ -11737,6 +11738,70 @@
   "linkedin"  : "",
   "reddit"    : "",
   "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "XSC",
+"address"     : "0x0F513fFb4926ff82D7F60A05069047AcA295C413",
+"decimals"    : "18",
+"name"        : "XSC",
+"ens_address" : "",
+"website"     : "http://crowdstart.capital",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@crowdstart.capital",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "http://bit.ly/2zMX0hm",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "YUPIE",
+"address"     : "0x0F33bb20a282A7649C7B3AFf644F084a9348e933",
+"decimals"    : "18",
+"name"        : "YUPIE",
+"ens_address" : "",
+"website"     : "",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "tiboyv@seznam.cz",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "https://goalman.slack.com",
   "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
