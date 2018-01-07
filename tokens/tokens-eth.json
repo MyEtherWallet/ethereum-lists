@@ -610,9 +610,10 @@
 },{
 "symbol"      : "AST",
 "address"     : "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
-"website"     : "https://airswap.io",
-"name"        : "Airswap",
 "decimals"    : "4",
+"name"        : "Airswap",
+"ens_address" : "",
+"website"     : "https://airswap.io",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -2242,7 +2243,7 @@
 },{
 "symbol"      : "CMC",
 "address"     : "0x7e667525521cF61352e2E01b50FaaaE7Df39749a",
-"decimals"    : "198",
+"decimals"    : "18",
 "name"        : "CryptoMart",
 "ens_address" : "",
 "website"     : "https://www.cryptomart.me",
