@@ -9217,6 +9217,38 @@
 },{
 "symbol"      : "SENSE",
 "address"     : "0x4ca74185532dc1789527194e5b9c866dd33f4e82",
+"decimals"    : "8",
+"name"        : "Sensay",
+"ens_address" : "",
+"website"     : "https://sensay.it/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/sensay",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "SenSatorI",
+"address"     : "0x4ca74185532dc1789527194e5b9c866dd33f4e82",
 "decimals"    : "18",
 "name"        : "SenSatorI Token",
 "ens_address" : "",
