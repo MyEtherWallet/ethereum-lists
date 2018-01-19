@@ -832,6 +832,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "BCBC",
+"address"     : "0x7367a68039d4704f30bfbf6d948020c3b07dfc59",
+"decimals"    : "18",
+"name"        : "Beercoin",
+"ens_address" : "beercoin-bcbc.eth",
+"website"     : "https://www.beerchain.technology",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "contact@beerchain.technology",
+  "url"       : "https://www.beerchain.technology"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/beerchain.technology",
+  "forum"     : "",
+  "github"    : "https://github.com/beerchain/beercoin",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/beerchaintechnology",
+  "reddit"    : "https://www.reddit.com/r/beerchain",
+  "slack"     : "",
+  "telegram"  : "https://t.me/beerchaintechnology",
+  "twitter"   : "https://twitter.com/beerchaintech",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "BCDN",
 "address"     : "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
 "decimals"    : "15",
