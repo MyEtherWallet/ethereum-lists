@@ -6273,38 +6273,6 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "MWAT",
-"address"     : "0x6425c6be902d692ae2db752b3c268afadb099d3b",
-"decimals"    : "18",
-"name"        : "RED MWAT",
-"ens_address" : "",
-"website"     : "https://www.restartenergy.io",
-"logo": {
-  "src"       : "https://restartenergy.io/images/re-logo.png",
-  "width"     : "342",
-  "height"    : "189",
-  "ipfs_hash" : ""
-},
-"support": {
-  "email"     : "sales@restartenergy.io",
-  "url"       : ""
-},
-"social": {
-  "blog"      : "https://blog.restartenergy.io",
-  "chat"      : "",
-  "facebook"  : "https://fb.com/restartenergydemocracy",
-  "forum"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "https://t.me/restartenergy",
-  "twitter"   : "",
-  "youtube"   : ""
-}
-},{
 "symbol"      : "M-ETH",
 "address"     : "0x3f4b726668da46f5e0e75aa5d478acec9f38210f",
 "decimals"    : "18",
@@ -6910,6 +6878,38 @@
   "slack"     : "",
   "telegram"  : "https://t.me/matryxai",
   "twitter"   : "https://twitter.com/matryx_ai",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "MWAT",
+"address"     : "0x6425c6be902d692ae2db752b3c268afadb099d3b",
+"decimals"    : "18",
+"name"        : "RED MWAT",
+"ens_address" : "",
+"website"     : "https://www.restartenergy.io",
+"logo": {
+  "src"       : "https://restartenergy.io/images/re-logo.png",
+  "width"     : 342,
+  "height"    : 189,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "sales@restartenergy.io",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://blog.restartenergy.io",
+  "chat"      : "",
+  "facebook"  : "https://fb.com/restartenergydemocracy",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/restartenergy",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
