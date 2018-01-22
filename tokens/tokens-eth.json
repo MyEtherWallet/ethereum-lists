@@ -415,6 +415,36 @@
   "youtube"   : ""
 }
 },{
+ "symbol"           :"APPC",
+ "name"             :"AppCoins",
+ "address"          :"0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
+ "decimals"         :"18",
+ "website"          :"https://appcoins.io",
+ "logo": {
+  "src"            :"https://ibb.co/jFsGsG",
+  "width"          :250,
+  "height"         :250,
+  "ipfs_hash"      :""
+},
+ "support": {
+  "email"          :"info@appcoins.io",
+  "url"            :"https://appcoins.io"
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/AppCoinsOfficial",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"https://www.reddit.com/r/AppcoinsProtocol",
+  "slack"          :"",
+  "telegram"       :"https://t.me/appcoinsofficial",
+  "twitter"        :"https://twitter.com/AppCoinsProject",
+  "youtube"        :""
+}
+},{
 "symbol"      : "APT",
 "address"     : "0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530",
 "decimals"    : "18",
@@ -2045,6 +2075,36 @@
   "telegram"  : "",
   "twitter"   : "https://twitter.com/CSCGLOBALL1",
   "youtube"   : ""
+}
+ },{
+ "symbol"           :"CAS",
+ "name"             :"Cashaa",
+ "address"          :"0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+ "decimals"         :"18",
+ "website"          :"https://cashaa.com",
+ "logo": {
+  "src"            :"https://cashaa.com/img/tkn-icon1.png",
+  "width"          :20,
+  "height"         :20,
+  "ipfs_hash"      :""
+},
+ "support": {
+  "email"          :"hello@cashaa.com",
+  "url"            :"https://cashaa.com"
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/cashaaLtd",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"https://t.me/CashaaLtd",
+  "twitter"        :"https://twitter.com/CashaaLTD",
+  "youtube"        :"https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg"
 }
 },{
 "symbol"      : "CAT (BitClave)",
