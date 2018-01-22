@@ -4137,8 +4137,8 @@
 "website"     : "https://gameflip.com",
 "logo": {
   "src"       : "https://tokensale.gameflip.com/img/ico/flip_logo_64x64.png",
-  "width"     : "64px",
-  "height"    : "64px",
+  "width"     : 64,
+  "height"    : 64,
   "ipfs_hash" : ""
 },
 "support": {
@@ -4154,7 +4154,7 @@
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
-  "reddit"    : "https://www.reddit.com/r/Gameflip/",
+  "reddit"    : "https://www.reddit.com/r/Gameflip",
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/Gameflip",
