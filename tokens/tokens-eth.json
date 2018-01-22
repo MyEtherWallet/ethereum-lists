@@ -864,6 +864,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "BCBC",
+"address"     : "0x7367a68039d4704f30bfbf6d948020c3b07dfc59",
+"decimals"    : "18",
+"name"        : "Beercoin",
+"ens_address" : "beercoin-bcbc.eth",
+"website"     : "https://www.beerchain.technology",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "contact@beerchain.technology",
+  "url"       : "https://www.beerchain.technology"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/beerchain.technology",
+  "forum"     : "",
+  "github"    : "https://github.com/beerchain/beercoin",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/beerchaintechnology",
+  "reddit"    : "https://www.reddit.com/r/beerchain",
+  "slack"     : "",
+  "telegram"  : "https://t.me/beerchaintechnology",
+  "twitter"   : "https://twitter.com/beerchaintech",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "BCDN",
 "address"     : "0x1e797Ce986C3CFF4472F7D38d5C4aba55DfEFE40",
 "decimals"    : "15",
@@ -3873,6 +3905,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "EMON",
+"address"     : "0xb67b88a25708a35ae7c2d736d398d268ce4f7f83",
+"decimals"    : "8",
+"name"        : "Etheremon Token",
+"ens_address" : "",
+"website"     : "https://www.etheremon.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "contact@etheremon.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/@myetheremon",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/etheremon",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/etheremon",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/myetheremon",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "EMV",
 "address"     : "0xB802b24E0637c2B87D2E8b7784C055BBE921011a",
 "decimals"    : "2",
@@ -3937,7 +4001,39 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "ENV",
+"symbol"      : "EVE",
+"address"     : "0x923108a439C4e8C2315c4f6521E5cE95B44e9B4c",
+"decimals"    : "18",
+"name"        : "EVE",
+"ens_address" : "",
+"website"     : "https://devery.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "contact@devery.io",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/devery-io",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/devery.io",
+  "forum"     : "",
+  "github"    : "https://github.com/devery",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/18282115",
+  "reddit"    : "https://www.reddit.com/r/deveryofficial",
+  "slack"     : "",
+  "telegram"  : "https://t.me/deverychat",
+  "twitter"   : "https://twitter.com/deveryofficial",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "EVN",
 "address"     : "0xd780Ae2Bf04cD96E577D3D014762f831d97129d0",
 "decimals"    : "18",
 "name"        : "Envion AG",
@@ -4384,6 +4480,39 @@
   "twitter"   : "",
   "youtube"   : ""
 }
+},
+{
+  "symbol"      : "GAM",
+  "address"     : "0xf67451dc8421f0e0afeb52faa8101034ed081ed9",
+  "decimals"    : "8",
+  "name"        : "Gambit",
+  "ens_address" : "",
+  "website"     : "http://gambitcrypto.com",
+  "logo": {
+    "src"       : "https://gateway.ipfs.io/ipfs/QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
+    "width"     : 4167,
+    "height"    : 4167,
+    "ipfs_hash" : "QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh"
+  },
+  "support": {
+    "email"     : "raithe@gmail.com",
+    "url"       : ""
+  },
+  "social": {
+    "blog"      : "",
+    "chat"      : "",
+    "facebook"  : "",
+    "forum"     : "",
+    "github"    : "https://github.com/BlockchainLabsNZ/gambit",
+    "gitter"    : "",
+    "instagram" : "",
+    "linkedin"  : "",
+    "reddit"    : "",
+    "slack"     : "",
+    "telegram"  : "",
+    "twitter"   : "https://twitter.com/gambitcrypto",
+    "youtube"   : ""
+  }
 },{
 "symbol"      : "GBT",
 "address"     : "0x7585F835ae2d522722d2684323a0ba83401f32f5",
@@ -4483,7 +4612,7 @@
 },{
 "symbol"      : "GIM",
 "address"     : "0xaE4f56F072c34C0a65B3ae3E4DB797D831439D93",
-"decimals"    : "18",
+"decimals"    : "8",
 "name"        : "Gimli",
 "ens_address" : "",
 "website"     : "https://gimli.io",
@@ -9248,6 +9377,38 @@
 }
 },{
 "symbol"      : "SENSE",
+"address"     : "0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf",
+"decimals"    : "8",
+"name"        : "Sensay",
+"ens_address" : "",
+"website"     : "https://sensay.it/",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/sensay",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "SenSatorI",
 "address"     : "0x4ca74185532dc1789527194e5b9c866dd33f4e82",
 "decimals"    : "18",
 "name"        : "SenSatorI Token",
@@ -11323,6 +11484,38 @@
   "reddit"    : "",
   "slack"     : "https://wepower.network/slack",
   "telegram"  : "https://t.me/Wepower",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "WETH",
+"address"     : "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+"decimals"    : "18",
+"name"        : "WETH",
+"ens_address" : "",
+"website"     : "https://weth.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@makerdao.com",
+  "url"       : "https://chat.makerdao.com"
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
 }
