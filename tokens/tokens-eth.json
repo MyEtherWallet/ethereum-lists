@@ -12191,6 +12191,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "WYV",
+"address"     : "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff",
+"decimals"    : "18", 
+"name"        : "WyvernToken",
+"ens_address" : "wyverntoken.eth",
+"website"     : "https://projectwyvern.com",
+"logo": {
+  "src"       : "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
+  "width"     : 28, 
+  "height"    : 28, 
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "team@projectwyvern.com",
+  "url"       : "https://projectwyvern.com/contact"
+},
+"social": {
+  "blog"      : "https://blog.projectwyvern.com",
+  "chat"      : "https://riot.im/app/#/room/#projectwyvern:matrix.org",
+  "facebook"  : "https://www.facebook.com/WyvernExchange",
+  "forum"     : "", 
+  "github"    : "https://github.com/ProjectWyvern",
+  "gitter"    : "", 
+  "instagram" : "", 
+  "linkedin"  : "", 
+  "reddit"    : "https://www.reddit.com/r/projectwyvern",
+  "slack"     : "", 
+  "telegram"  : "", 
+  "twitter"   : "https://twitter.com/WyvernExchange",
+  "youtube"   : ""  
+}
+},{
 "symbol"      : "X8X",
 "address"     : "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
 "decimals"    : "18",
