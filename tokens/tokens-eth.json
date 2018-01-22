@@ -1000,8 +1000,8 @@
 "website"     : "https://bitdegree.org",
 "logo": {
   "src"       : "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
-  "width"     : "28",
-  "height"    : "28",
+  "width"     : 28,
+  "height"    : 28,
   "ipfs_hash" : ""
 },
 "support": {
@@ -1015,7 +1015,7 @@
   "forum"     : "",
   "github"    : "https://github.com/bitdegree",
   "gitter"    : "",
-  "instagram" : "https://www.instagram.com/bitdegree/",
+  "instagram" : "https://www.instagram.com/bitdegree",
   "linkedin"  : "https://www.linkedin.com/company/bitdegree",
   "reddit"    : "reddit.com/r/bitdegree",
   "slack"     : "",
