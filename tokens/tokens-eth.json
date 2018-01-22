@@ -160,6 +160,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "ADI",
+"address"     : "0x8810C63470d38639954c6B41AaC545848C46484a",
+"decimals"    : "18",
+"name"        : "Aditus",
+"ens_address" : "",
+"website"     : "https://aditus.net",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@aditus.net",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/aditusnetwork",
+  "chat"      : "",
+  "facebook"  : "",
+  "fourm"     : "",
+  "github"    : "https://github.com/aditus",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/aditus",
+  "slack"     : "",
+  "telegram"  : "http://t.me/aditusnetwork",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "ADT",
 "address"     : "0xD0D6D6C5Fe4a677D343cC433536BB717bAe167dD",
 "decimals"    : "9",
@@ -419,13 +451,13 @@
 "symbol"      : "APPC",
 "address"     : "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
 "decimals"    : "18",
-"name"        : "APPC",
+"name"        : "AppCoins",
 "ens_address" : "",
 "website"     : "https://appcoins.io",
 "logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
+  "src"       :"https://ibb.co/jFsGsG",
+  "width"     :250,
+  "height"    :250,
   "ipfs_hash" : ""
 },
 "support": {
@@ -541,6 +573,38 @@
   "slack"     : "",
   "telegram"  : "https://t.me/ArbitrageCT",
   "twitter"   : "https://twitter.com/arbitrage_ct",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "ARD",
+"address"     : "0x75aa7b0d02532f3833b66c7f0ad35376d373ddf8",
+"decimals"    : "18",
+"name"        : "Accord",
+"ens_address" : "",
+"website"     : "https://accordtoken.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "contact@accordtoken.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/accord-ard",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/AccordToken",
+  "fourm"     : "",
+  "github"    : "https://github.com/accordtoken",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/Accord_Token",
   "youtube"   : ""
 }
 },{
@@ -1888,6 +1952,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "BTT",
+"address"     : "0x080aa07e2c7185150d7e4da98838a8d2feac3dfc",
+"decimals"    : "0",
+"name"        : "Bitether",
+"ens_address" : "",
+"website"     : "https://bytom.io",
+"logo": {
+  "src"       : "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+  "width"     : 164,
+  "height"    : 63,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@bitether.co",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://t.me/BitEthercoin",
+  "forum"     : "",
+  "github"    : "https://github.com/Andyss4545/BitEther",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/BitEthercoin",
+  "twitter"   : "https://twitter.com/bitEther_coin",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "C20",
 "address"     : "0x26E75307Fc0C021472fEb8F727839531F112f317",
 "decimals"    : "18",
@@ -1917,6 +2013,38 @@
   "slack"     : "https://join.slack.com/t/cryptotwenty/shared_invite/enQtMjU1NjI1NDg3NjMyLWU3NTUwMzY3NzA1MzFlYTMyMDYxYTQ5OTFhMzhhZDU4NWJkZjVhN2M2NTE2MDhhYTEyM2IwNWE4ZmQ3YTk5N2Y",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/CRYPTOtwenty",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "BTQ",
+"address"     : "0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3",
+"decimals"    : "18",
+"name"        : "Bitcoin Boutique",
+"ens_address" : "",
+"website"     : "https://thebtcbtq.com",
+"logo": {
+  "src"       : "https://s9.postimg.org/6r4j2hc3z/btcbtq.png",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "btcbtq@gmail.com",
+  "url"       : "https://thebtcbtq.com/contact"
+},
+"social": {
+  "blog"      : "https://thebtcbtq.com/blog",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "https://bitcointalk.org/index.php?action=profile;u=1380159",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "https://instagram.com/btcbtq",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/u/thebtcbtq",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
@@ -2014,6 +2142,36 @@
   "telegram"  : "",
   "twitter"   : "https://twitter.com/CSCGLOBALL1",
   "youtube"   : ""
+}
+ },{
+ "symbol"           :"CAS",
+ "name"             :"Cashaa",
+ "address"          :"0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+ "decimals"         :"18",
+ "website"          :"https://cashaa.com",
+ "logo": {
+  "src"            :"https://cashaa.com/img/tkn-icon1.png",
+  "width"          :20,
+  "height"         :20,
+  "ipfs_hash"      :""
+},
+ "support": {
+  "email"          :"hello@cashaa.com",
+  "url"            :"https://cashaa.com"
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"https://www.facebook.com/cashaaLtd",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"https://t.me/CashaaLtd",
+  "twitter"        :"https://twitter.com/CashaaLTD",
+  "youtube"        :"https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg"
 }
 },{
 "symbol"      : "CAT (BitClave)",
@@ -2170,6 +2328,38 @@
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "https://www.reddit.com/r/CryptoCrashCourse",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "CCC",
+"address"     : " 0xbe11eeb186e624b8f26a5045575a1340e4054552",
+"decimals"    : "18",
+"name"        : "CCC (ICONOMI)",
+"ens_address" : "",
+"website"     : "https://www.iconomi.net/dashboard/#/daa/CCC",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@iconomi.net",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "",
@@ -3169,6 +3359,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DCN",
+"address"     : "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
+"decimals"    : "0",
+"name"        : "Dentacoin",
+"ens_address" : "Dentacoin.eth",
+"website"     : "https://dentacoin.com",
+"logo": {
+  "src"       : "https://dentacoin.com/web/img/DCNlogo.png",
+  "width"     : 28,
+  "height"    : 28,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "admin@dentacoin.com",
+  "url"       : "https://dentacoin.com"
+},
+"social": {
+  "blog"      : "https://www.blog.dentacoin.com",
+  "chat"      : "https://dentacoin.com",
+  "facebook"  : "https://www.facebook.com/dentacoin",
+  "forum"     : "https://bitcointalk.org/index.php?topic=1944236.0",
+  "github"    : "https://github.com/Dentacoin",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/Dentacoin",
+  "slack"     : "",
+  "telegram"  : "https://t.me/dentacoin",
+  "twitter"   : "https://twitter.com/dentacoin?lang=en",
+  "youtube"   : "https://www.youtube.com/channel/UCSL-UsN8dc4CzHWiCv-NfrQ"
+}
+},{
 "symbol"      : "Devcon2 Token",
 "address"     : "0xdd94De9cFE063577051A5eb7465D08317d8808B6",
 "decimals"    : "0",
@@ -3649,6 +3871,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "DUBI",
+"address"     : "0xd4cffeef10f60eca581b5e1146b5aca4194a4c3b",
+"decimals"    : "18",
+"name"        : "Decentralized Universal Basic Income",
+"ens_address" : "",
+"website"     : "https://prps.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@gamingforgood.net",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "https://github.com/nionis/purpose",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/PRPS",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/prps_io",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "eBCH",
 "address"     : "0xafc39788c51f0c1ff7b55317f3e70299e521fff6",
 "decimals"    : "8",
@@ -3727,6 +3981,38 @@
 },
 "support": {
   "email"     : "info@cewrd.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "ECO2",
+"address"     : "0x17F93475d2A978f527c3f7c44aBf44AdfBa60D5C ",
+"decimals"    : "2",
+"name"        : "EtherCO2",
+"ens_address" : "",
+"website"     : "http://www.ethco2.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "ethco2@163.com",
   "url"       : ""
 },
 "social": {
@@ -4159,6 +4445,38 @@
   "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
+}
+},{
+"symbol"      : "ESZ",
+"address"     : "0xe8a1df958be379045e2b46a31a98b93a2ecdfded",
+"decimals"    : "18",
+"name"        : "ESZCoin",
+"ens_address" : "",
+"website"     : "https://ethersportz.com",
+"logo": {
+  "src"       : "https://ethersportz.com/ESZCoin200by200.png",
+  "width"     : 200,
+  "height"    : 200,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@ethersportz.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "http://medium.com/@EtherSportz",
+  "chat"      : "https://discord.gg/Hf2eMvV",
+  "facebook"  : "https://www.facebook.com/ethersportz",
+  "forum"     : "",
+  "github"    : "https://github.com/EtherSportz/ESZCoin",
+  "gitter"    : "",
+  "instagram" : "https://www.facebook.com/EtherSportz",
+  "linkedin"  : "http://linkedin.com/company/ethersportz",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/ESZCoin",
+  "twitter"   : "https://www.instagram.com/EtherSportz",
+  "youtube"   : "https://youtube.com/ethersportz"
 }
 },{
 "symbol"      : "ETBS",
@@ -7714,6 +8032,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "onG",
+"address"     : "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae",
+"decimals"    : "18",
+"name"        : "onG",
+"ens_address" : "",
+"website"     : "https://ongcoin.io",
+"logo": {
+  "src"       : "https://etherscan.io/token/images/ongcoin_28.png",
+  "width"     : 28,
+  "height"    : 28,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "success@ong.social",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/@onG.Social",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/OfficialonGsocial",
+  "forum"     : "https://ong.social",
+  "github"    : "https://github.com/onGsocial",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "https://ongsocial.slack.com",
+  "telegram"  : "https://t.me/onG_social",
+  "twitter"   : "https://twitter.com/Ong_Social",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "OPT",
 "address"     : "0x4355fC160f74328f9b383dF2EC589bB3dFd82Ba0",
 "decimals"    : "18",
@@ -8610,6 +8960,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "PRPS",
+"address"     : "0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f",
+"decimals"    : "18",
+"name"        : "Purpose",
+"ens_address" : "",
+"website"     : "https://prps.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@gamingforgood.net",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "https://github.com/nionis/purpose",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/PRPS",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/prps_io",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "PRS",
 "address"     : "0x163733bcc28dbf26B41a8CfA83e369b5B3af741b",
 "decimals"    : "18",
@@ -8681,29 +9063,61 @@
 "ens_address" : "",
 "website"     : "https://www.porntoken.io",
 "logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
+  "src"       : "https://www.porntoken.io/porntoken.256.png",
+  "width"     : 256,
+  "height"    : 256,
   "ipfs_hash" : ""
 },
 "support": {
   "email"     : "support@porntoken.io",
-  "url"       : ""
+  "url"       : "https://www.porntoken.io/contact"
 },
 "social": {
-  "blog"      : "",
+  "blog"      : "https://www.porntoken.io/blog",
   "chat"      : "",
   "facebook"  : "",
   "forum"     : "",
-  "github"    : "",
+  "github"    : "https://github.com/porntoken/smart_contract",
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
+  "reddit"    : "https://www.reddit.com/r/porntoken",
+  "slack"     : "https://porntoken.slack.com",
   "telegram"  : "",
-  "twitter"   : "",
-  "youtube"   : ""
+  "twitter"   : "http://www.twitter.com/porntoken",
+  "youtube"   : "https://www.youtube.com/channel/UCwYD8VSclMxBOAksP5MZJow"
+}
+},{
+"symbol"      : "PTWO",
+"address"     : "0x5512e1d6a7be424b4323126b4f9e86d023f95764",
+"decimals"    : "18",
+"name"        : "PornTokenV2",
+"ens_address" : "",
+"website"     : "https://www.porntoken.io",
+"logo": {
+  "src"       : "https://www.porntoken.io/PorntokenV2.256.png",
+  "width"     : "256",
+  "height"    : "256",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@porntoken.io",
+  "url"       : "https://www.porntoken.io/contact"
+},
+"social": {
+  "blog"      : "https://www.porntoken.io/blog",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "https://github.com/porntoken/smart_contract",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/porntoken",
+  "slack"     : "https://porntoken.slack.com",
+  "telegram"  : "",
+  "twitter"   : "http://www.twitter.com/porntoken",
+  "youtube"   : "https://www.youtube.com/channel/UCwYD8VSclMxBOAksP5MZJow"
 }
 },{
 "symbol"      : "PTOY",
@@ -9541,7 +9955,7 @@
 "decimals"    : "8",
 "name"        : "Sensay",
 "ens_address" : "",
-"website"     : "https://sensay.it/",
+"website"     : "https://sensay.it",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -10112,6 +10526,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "SNOV",
+"address"     : "0xbdc5bac39dbe132b1e030e898ae3830017d7d969",
+"decimals"    : "18",
+"name"        : "SNOV",
+"ens_address" : "",
+"website"     : "https://tokensale.snov.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "ico@snov.io",
+  "url"       : "https://tokensale.snov.io"
+},
+"social": {
+  "blog"      : "https://snov.io/blog",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/Snovio-ICO-147118702534568",
+  "fourm"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/Snovio_ICO",
+  "slack"     : "",
+  "telegram"  : "https://t.me/snovio_ico",
+  "twitter"   : "https://twitter.com/snovio_ico",
+  "youtube"   : "https://www.youtube.com/channel/UCfvMUI2tXgc0Pcjk0hF5pSw"
+}
+},{
 "symbol"      : "SNT",
 "address"     : "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
 "decimals"    : "18",
@@ -10174,6 +10620,38 @@
   "telegram"  : "https://t.me/solaplatform",
   "twitter"   : "https://twitter.com/solaplatform",
   "youtube"   : ""
+}
+},{
+"symbol"      : "SPANK",
+"address"     : "0x42d6622dece394b54999fbd73d108123806f6a18",
+"decimals"    : "18",
+"name"        : "SpankChain",
+"ens_address" : "spankchain.eth",
+"website"     : "https://spankchain.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/spankchain",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "https://www.instagram.com/_spankchain",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/SpankChain",
+  "discord"   : "https://discord.gg/WEsDaWZ",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/SpankChain",
+  "youtube"   : "https://www.youtube.com/channel/UCRonD1SJuucnq9GJCJL_crQ"
 }
 },{
 "symbol"      : "SPARC",
@@ -10301,6 +10779,38 @@
   "slack"     : "",
   "telegram"  : "https://t.me/sirinlabs",
   "twitter"   : "https://twitter.com/SIRINLABS",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "STAC",
+"address"     : "0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4",
+"decimals"    : "18",
+"name"        : "Starter Coin",
+"ens_address" : "",
+"website"     : "https://coinstarter.com",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@coinstarter.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/realCoinStarter",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/coinstarter",
+  "twitter"   : "https://twitter.com/realCoinStarter",
   "youtube"   : ""
 }
 },{
@@ -10461,6 +10971,38 @@
   "slack"     : "",
   "telegram"  : "https://t.me/joinchat/GHTZGQwsy9mZk0KFEEjGtg",
   "twitter"   : "https://twitter.com/storm_token",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "STP",
+"address"     : "0xecd570bBf74761b960Fa04Cc10fe2c4e86FfDA36",
+"decimals"    : "8",
+"name"        : "StashPay",
+"ens_address" : "",
+"website"     : "https://stashpay.io",
+"logo": {
+  "src"       : "https://etherscan.io/token/images/stash_28.png",
+  "width"     : 28,
+  "height"    : 28,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@stashpay.io",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/stashpay.io",
+  "forum"     : "",
+  "github"    : "https://github.com/stashpayio",
+  "gitter"    : "",
+  "instagram" : "https://www.instagram.com/stashpay.io",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/stashpay",
   "youtube"   : ""
 }
 },{
@@ -10752,6 +11294,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "TAU",
+"address"     : "0xc27a2f05fa577a83ba0fdb4c38443c0718356501",
+"decimals"    : "18",
+"name"        : "Lamden Tau",
+"ens_address" : "",
+"website"     : "https://www.lamden.io",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "team@lamden.io",
+  "url"       : "https://www.lamden.io"
+},
+"social": {
+  "blog"      : "https://blog.lamden.io",
+  "chat"      : "https://t.me/lamdenchat",
+  "facebook"  : "https://www.facebook.com/LamdenTau",
+  "forum"     : "",
+  "github"    : "https://github.com/lamden",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/lamden",
+  "slack"     : "",
+  "telegram"  : "https://t.me/lamdenchat",
+  "twitter"   : "https://www.twitter.com/LamdenTau",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "TBC2",
 "address"     : "0xFACCD5Fc83c3E4C3c1AC1EF35D15adf06bCF209C",
 "decimals"    : "8",
@@ -10814,6 +11388,38 @@
   "telegram"  : "",
   "twitter"   : "https://twitter.com/tbit_bot",
   "youtube"   : ""
+}
+},{
+"symbol"      : "TEL",
+"address"     : "0x85e076361cc813a908ff672f9bad1541474402b2",
+"decimals"    : "2",
+"name"        : "Telcoin",
+"ens_address" : "",
+"website"     : "https://www.telco.in",
+"logo": {
+  "src"       : "https://www.telco.in/logo.png",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "tokensupport@telco.in",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://medium.com/@telcoin",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "https://github.com/telcoin",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/Telcoin",
+  "slack"     : "",
+  "telegram"  : "https://t.me/TelcoinCommunity",
+  "twitter"   : "https://twitter.com/telcoin_team",
+  "youtube"   : "https://www.youtube.com/channel/UCBEKBh64cZy7U3O7VtKsLOg"
 }
 },{
 "symbol"      : "TFL",
@@ -11033,7 +11639,7 @@
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
-  "reddit"    : "https://www.reddit.com/r/WeTrustPlatform/",
+  "reddit"    : "https://www.reddit.com/r/WeTrustPlatform",
   "slack"     : "https://www.wetrust.io/slack-invite",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/wetrustplatform",
@@ -11322,7 +11928,7 @@
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "",
-  "slack"     : "https://vechainofficial.slack.com/",
+  "slack"     : "https://vechainofficial.slack.com",
   "telegram"  : "",
   "twitter"   : "",
   "youtube"   : ""
@@ -11379,13 +11985,13 @@
 "social": {
   "blog"      : "",
   "chat"      : "",
-  "facebook"  : "https://www.facebook.com/vibehubvr/",
+  "facebook"  : "https://www.facebook.com/vibehubvr",
   "forum"     : "",
   "github"    : "",
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
-  "reddit"    : "https://www.reddit.com/r/VibeHub/",
+  "reddit"    : "https://www.reddit.com/r/VibeHub",
   "slack"     : "https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/VibeHubVR",
@@ -11776,6 +12382,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "WYV",
+"address"     : "0x056017c55aE7AE32d12AeF7C679dF83A85ca75Ff",
+"decimals"    : "18",
+"name"        : "WyvernToken",
+"ens_address" : "wyverntoken.eth",
+"website"     : "https://projectwyvern.com",
+"logo": {
+  "src"       : "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
+  "width"     : 28,
+  "height"    : 28,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "team@projectwyvern.com",
+  "url"       : "https://projectwyvern.com/contact"
+},
+"social": {
+  "blog"      : "https://blog.projectwyvern.com",
+  "chat"      : "https://riot.im/app/#/room/#projectwyvern:matrix.org",
+  "facebook"  : "https://www.facebook.com/WyvernExchange",
+  "forum"     : "",
+  "github"    : "https://github.com/ProjectWyvern",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/r/projectwyvern",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "https://twitter.com/WyvernExchange",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "X8X",
 "address"     : "0x910Dfc18D6EA3D6a7124A6F8B5458F281060fa4c",
 "decimals"    : "18",
@@ -11837,6 +12475,38 @@
   "slack"     : "",
   "telegram"  : "",
   "twitter"   : "",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "XCC",
+"address"     : "0x4d829f8c92a6691c56300d020c9e0db984cfe2ba",
+"decimals"    : "18",
+"name"        : "CoinCrowd",
+"ens_address" : "coincrowd.eth",
+"website"     : "https://www.coincrowd.it",
+"logo": {
+  "src"       : "",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "staff@coincrowd.it",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "",
+  "github"    : "https://github.com/coincrowd-it",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/coincrowd",
+  "twitter"   : "https://twitter.com/coincrowdit",
   "youtube"   : ""
 }
 },{
