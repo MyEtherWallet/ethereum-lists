@@ -11399,8 +11399,8 @@
 "website"     : "https://projectwyvern.com",
 "logo": {
   "src"       : "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
-  "width"     : "28", 
-  "height"    : "28", 
+  "width"     : 28, 
+  "height"    : 28, 
   "ipfs_hash" : ""
 },
 "support": {
@@ -11416,7 +11416,7 @@
   "gitter"    : "", 
   "instagram" : "", 
   "linkedin"  : "", 
-  "reddit"    : "https://www.reddit.com/r/projectwyvern/",
+  "reddit"    : "https://www.reddit.com/r/projectwyvern",
   "slack"     : "", 
   "telegram"  : "", 
   "twitter"   : "https://twitter.com/WyvernExchange",
