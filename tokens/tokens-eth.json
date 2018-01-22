@@ -1799,10 +1799,13 @@
 "ens_address" : "",
 "website"     : "https://bytom.io",
 "logo": {
- https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png
+  "src"       : "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+  "width"     : 164,
+  "height"    : 63,
+  "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "SUPPORT@BITETHER.CO",
+  "email"     : "support@bitether.co",
   "url"       : ""
 },
 "social": {
@@ -1817,7 +1820,8 @@
   "reddit"    : "",
   "slack"     : "",
   "telegram"  : "https://t.me/BitEthercoin",
-  "twitter"   : "https://twitter.com/bitEther_coin"   : ""
+  "twitter"   : "https://twitter.com/bitEther_coin",
+  "youtube"   : ""
 }
 },{
 "symbol"      : "C20",
