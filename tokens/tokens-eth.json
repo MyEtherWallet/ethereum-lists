@@ -1,5 +1,4 @@
-[
-{
+[{
 "symbol"      : "1WO",
 "address"     : "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
 "decimals"    : "8",
@@ -1917,6 +1916,38 @@
   "slack"     : "https://join.slack.com/t/cryptotwenty/shared_invite/enQtMjU1NjI1NDg3NjMyLWU3NTUwMzY3NzA1MzFlYTMyMDYxYTQ5OTFhMzhhZDU4NWJkZjVhN2M2NTE2MDhhYTEyM2IwNWE4ZmQ3YTk5N2Y",
   "telegram"  : "",
   "twitter"   : "https://twitter.com/CRYPTOtwenty",
+  "youtube"   : ""
+}
+},{
+"symbol"      : "BTQ",
+"address"     : "0x16B0E62aC13a2fAeD36D18bce2356d25Ab3CfAD3",
+"decimals"    : "18",
+"name"        : "Bitcoin Boutique",
+"ens_address" : "",
+"website"     : "https://thebtcbtq.com",
+"logo": {
+  "src"       : "https://s9.postimg.org/6r4j2hc3z/btcbtq.png",
+  "width"     : "",
+  "height"    : "",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "btcbtq@gmail.com",
+  "url"       : "https://thebtcbtq.com/contact"
+},
+"social": {
+  "blog"      : "https://thebtcbtq.com/blog",
+  "chat"      : "",
+  "facebook"  : "",
+  "forum"     : "https://bitcointalk.org/index.php?action=profile;u=1380159",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "https://instagram.com/btcbtq",
+  "linkedin"  : "",
+  "reddit"    : "https://www.reddit.com/u/thebtcbtq",
+  "slack"     : "",
+  "telegram"  : "",
+  "twitter"   : "",
   "youtube"   : ""
 }
 },{
