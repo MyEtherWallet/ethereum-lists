@@ -2144,34 +2144,34 @@
   "youtube"   : ""
 }
 },{
-"symbol"      :"CAS",
-"name"        :"Cashaa",
-"address"     :"0xe8780B48bdb05F928697A5e8155f672ED91462F7",
-"decimals"    :"18",
-"website"     :"https://cashaa.com",
+"symbol"      : "CAS",
+"name"        : "Cashaa",
+"address"     : "0xe8780B48bdb05F928697A5e8155f672ED91462F7",
+"decimals"    : "18",
+"website"     : "https://cashaa.com",
 "logo": {
-"src"         :"https://cashaa.com/img/tkn-icon1.png",
-"width"       :20,
-"height"      :20,
-"ipfs_hash"   :""
+"src"         : "https://cashaa.com/img/tkn-icon1.png",
+"width"       : 20,
+"height"      : 20,
+"ipfs_hash"   : ""
 },
 "support": {
-"email"       :"hello@cashaa.com",
-"url"         :"https://cashaa.com"
+"email"       : "hello@cashaa.com",
+"url"         : "https://cashaa.com"
 },
 "social": {
-"blog"        :"",
-"chat"        :"",
-"facebook"    :"https://www.facebook.com/cashaaLtd",
-"github"      :"",
-"gitter"      :"",
-"instagram"   :"",
-"linkedin"    :"",
-"reddit"      :"",
-"slack"       :"",
-"telegram"    :"https://t.me/CashaaLtd",
-"twitter"     :"https://twitter.com/CashaaLTD",
-"youtube"     :"https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg"
+"blog"        : "",
+"chat"        : "",
+"facebook"    : "https://www.facebook.com/cashaaLtd",
+"github"      : "",
+"gitter"      : "",
+"instagram"   : "",
+"linkedin"    : "",
+"reddit"      : "",
+"slack"       : "",
+"telegram"    : "https://t.me/CashaaLtd",
+"twitter"     : "https://twitter.com/CashaaLTD",
+"youtube"     : "https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg"
 }
 },{
 "symbol"      : "CAT (BitClave)",
@@ -6592,10 +6592,10 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "LINK - Chainlink",
+"symbol"      : "Chainlink",
 "address"     : "0x514910771af9ca656af840dff83e8264ecf986ca",
 "decimals"    : "18",
-"name"        : "LINK",
+"name"        : "LINK Chainlink",
 "ens_address" : "",
 "website"     : "https://link.smartcontract.com",
 "logo": {
@@ -6624,7 +6624,7 @@
   "youtube"   : ""
 }
 },{
-"symbol"      : "LINK - Link Platform",
+"symbol"      : "LINK Platform",
 "address"     : "0xe2e6d4be086c6938b53b22144855eef674281639",
 "decimals"    : "18",
 "name"        : "Link Platform",
