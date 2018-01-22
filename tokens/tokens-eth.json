@@ -3049,8 +3049,8 @@
 "website"     : "https://dentacoin.com",
 "logo": {
   "src"       : "https://dentacoin.com/web/img/DCNlogo.png",
-  "width"     : "28",
-  "height"    : "28",
+  "width"     : 28,
+  "height"    : 28,
   "ipfs_hash" : ""
 },
 "support": {
@@ -3060,7 +3060,7 @@
 "social": {
   "blog"      : "https://www.blog.dentacoin.com",
   "chat"      : "https://dentacoin.com",
-  "facebook"  : "https://www.facebook.com/dentacoin/",
+  "facebook"  : "https://www.facebook.com/dentacoin",
   "forum"     : "https://bitcointalk.org/index.php?topic=1944236.0",
   "github"    : "https://github.com/Dentacoin",
   "gitter"    : "",
