@@ -2110,7 +2110,37 @@
   "telegram"  : "",
   "twitter"   : "https://twitter.com/CSCGLOBALL1",
   "youtube"   : ""
-}
+},{
+"symbol"      : "CARCO",
+"address"     : "0x2108E62D335Bbdc89eC3E9d8582F18DCFB0cDFf4",
+"decimals"    : "8",
+"name"        : "CARCO",
+"ens_address" : "",
+"website"     : "https://carcohub.com",
+"logo": {
+  "src"       : "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png",
+  "width"     : 291,
+  "height"    : 291,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "info@carcohub.com",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://blog.carco.io/",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/carco.hub.10",
+  "forum"     : "https://bitcointalk.org/index.php?topic=2762276.0",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/carcohub",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/carcohub",
+  "twitter"   : "https://twitter.com/CarcoHub",
+  "youtube"   : "https://www.youtube.com/channel/UC2b2iJK10iZGiPE15Y6s37A"
 },{
 "symbol"      : "CAS",
 "name"        : "Cashaa",
