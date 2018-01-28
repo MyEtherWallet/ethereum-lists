@@ -2815,6 +2815,38 @@
   "youtube"   : ""
 }
 },{
+  "symbol"      : "CPY",
+"address"     : "0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
+"decimals"    : "18",
+"name"        : "COPYTRACK",
+"ens_address" : "",
+"website"     : "https://copytrack.io",
+"logo": {
+  "src"       : "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
+  "width"     : "200",
+  "height"    : "200",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@copytrack.io",
+  "url"       : "https://copytrack.io"
+},
+"social": {
+  "blog"      : "https://medium.com/aditusnetwork",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/COPYTRACK/",
+  "forum"     : "",
+  "github"    : "https://github.com/aditus",
+  "gitter"    : "",
+  "instagram" : "https://www.instagram.com/copytrack/",
+  "linkedin"  : "https://www.linkedin.com/company/10840600/",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/copytrackhq",
+  "twitter"   : "https://twitter.com/CopytrackHQ",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "CRB",
 "address"     : "0xAef38fBFBF932D1AeF3B808Bc8fBd8Cd8E1f8BC5",
 "decimals"    : "8",
