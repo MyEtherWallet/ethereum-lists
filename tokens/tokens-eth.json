@@ -8927,14 +8927,13 @@
   "twitter"   : "",
   "youtube"   : ""
 }
-},
-{
+},{
 "symbol"      : "POLY",
 "address"     : "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
 "decimals"    : "18",
 "name"        : "Polymath Network",
 "ens_address" : "",
-"website"     : "https://polymath.network/",
+"website"     : "https://polymath.network",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -8946,7 +8945,7 @@
   "url"       : ""
 },
 "social": {
-  "blog"      : "https://blog.polymath.network/",
+  "blog"      : "https://blog.polymath.network",
   "chat"      : "",
   "facebook"  : "",
   "forum"     : "",
@@ -8959,6 +8958,7 @@
   "telegram"  : "http://t.me/polymathnetwork",
   "twitter"   : "https://twitter.com/polymathnetwork",
   "youtube"   : ""
+}
 },{
 "symbol"      : "POOL",
 "address"     : "0x779B7b713C86e3E6774f5040D9cCC2D43ad375F8",
