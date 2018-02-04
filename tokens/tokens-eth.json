@@ -2815,7 +2815,7 @@
   "youtube"   : ""
 }
 },{
-  "symbol"      : "CPY",
+"symbol"      : "CPY",
 "address"     : "0xf44745fbd41f6a1ba151df190db0564c5fcc4410",
 "decimals"    : "18",
 "name"        : "COPYTRACK",
@@ -2823,8 +2823,8 @@
 "website"     : "https://copytrack.io",
 "logo": {
   "src"       : "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
-  "width"     : "200",
-  "height"    : "200",
+  "width"     : 200,
+  "height"    : 200,
   "ipfs_hash" : ""
 },
 "support": {
@@ -2834,12 +2834,12 @@
 "social": {
   "blog"      : "https://medium.com/aditusnetwork",
   "chat"      : "",
-  "facebook"  : "https://www.facebook.com/COPYTRACK/",
+  "facebook"  : "https://www.facebook.com/COPYTRACK",
   "forum"     : "",
   "github"    : "https://github.com/aditus",
   "gitter"    : "",
-  "instagram" : "https://www.instagram.com/copytrack/",
-  "linkedin"  : "https://www.linkedin.com/company/10840600/",
+  "instagram" : "https://www.instagram.com/copytrack",
+  "linkedin"  : "https://www.linkedin.com/company/10840600",
   "reddit"    : "",
   "slack"     : "",
   "telegram"  : "https://t.me/copytrackhq",
