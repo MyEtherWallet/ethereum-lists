@@ -2687,6 +2687,38 @@
   "youtube"   : ""
 }
 },{
+  "symbol"      : "CLN",
+  "address"     : "0x4162178B78D6985480A308B2190EE5517460406D",
+  "decimals"    : "18",
+  "name"        : "ColuLocalNetwork",
+  "ens_address" : "",
+  "website"     : "https://cln.network",
+  "logo": {
+    "src"       : "",
+    "width"     : "",
+    "height"    : "",
+    "ipfs_hash" : ""
+  },
+  "support": {
+    "email"     : "cln@colu.com",
+    "url"       : ""
+  },
+  "social": {
+    "blog"      : "",
+    "chat"      : "",
+    "facebook"  : "",
+    "forum"     : "",
+    "github"    : "https://github.com/colucom/CLN-solidity",
+    "gitter"    : "",
+    "instagram" : "",
+    "linkedin"  : "",
+    "reddit"    : "",
+    "slack"     : "",
+    "telegram"  : "",
+    "twitter"   : "",
+    "youtube"   : ""
+  } 
+},{
 "symbol"      : "CLP",
 "address"     : "0x7fce2856899a6806eeef70807985fc7554c66340",
 "decimals"    : "9",
