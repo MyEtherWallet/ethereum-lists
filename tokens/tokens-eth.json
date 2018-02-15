@@ -4159,39 +4159,7 @@
   "youtube"   : "https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
 }
 },{
-"symbol"      : "DROP (dropil)",
-"address"     : "0x4672bad527107471cb5067a887f4656d585a8a31",
-"decimals"    : "18",
-"name"        : "Dropil",
-"ens_address" : "",
-"website"     : "https://dropil.com",
-"logo": {
-  "src"       : "",
-  "width"     : "",
-  "height"    : "",
-  "ipfs_hash" : ""
-},
-"support": {
-  "email"     : "",
-  "url"       : "https://dex.dropil.com/newticket"
-},
-"social": {
-  "blog"      : "",
-  "chat"      : "",
-  "facebook"  : "",
-  "forum"     : "",
-  "github"    : "",
-  "gitter"    : "",
-  "instagram" : "",
-  "linkedin"  : "",
-  "reddit"    : "",
-  "slack"     : "",
-  "telegram"  : "",
-  "twitter"   : "",
-  "youtube"   : ""
-}  
-},{
-"symbol"      : "DROP (droplex)",
+"symbol"      : "DROP",
 "address"     : "0x3c75226555FC496168d48B88DF83B95F16771F37",
 "decimals"    : "0",
 "name"        : "Droplex",
@@ -11070,7 +11038,7 @@
 }
 },{
 "symbol"      : "SKRP",
-"address"     : "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
+"address"     : "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
 "decimals"    : "18",
 "name"        : "Skraps",
 "ens_address" : "",
