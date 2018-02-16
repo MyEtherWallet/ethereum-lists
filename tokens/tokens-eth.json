@@ -5279,6 +5279,38 @@
   "youtube"   : ""
 }
 },{
+  "symbol"      : "FND",
+  "address"     : "0x4df47b4969b2911c966506e3592c41389493953b",
+  "decimals"    : "18",
+  "name"        : "FundRequest",
+  "ens_address" : "",
+  "website"     : "https://fundrequest.io",
+  "logo": {
+    "src"       : "https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
+    "width"     : "500",
+    "height"    : "500",
+    "ipfs_hash" : "QmbGpu4tWoHEtPy64tNeYENsNqTSF22U12VRYswhjYjNcj"
+  },
+  "support": {
+    "email"     : "info@fundrequest.io",
+    "url"       : ""
+  },
+  "social": {
+    "blog"      : "https://blog.fundrequest.io",
+    "chat"      : "https://fundrequest.chat",
+    "facebook"  : "https://www.facebook.com/FundRequestplatform",
+    "forum"     : "",
+    "github"    : "https://github.com/FundRequest",
+    "gitter"    : "",
+    "instagram" : "",
+    "linkedin"  : "https://www.linkedin.com/company/fundrequest",
+    "reddit"    : "https://www.reddit.com/r/fundrequest",
+    "slack"     : "",
+    "telegram"  : "https://t.me/fundrequestofficial",
+    "twitter"   : "https://twitter.com/fundrequest_io",
+    "youtube"   : ""
+  }
+},{
 "symbol"      : "FRD",
 "address"     : "0x0ABeFb7611Cb3A01EA3FaD85f33C3C934F8e2cF4",
 "decimals"    : "18",
