@@ -419,7 +419,7 @@
 "symbol"      : "ALTS",
 "address"     : "0x638ac149ea8ef9a1286c41b977017aa7359e6cfa",
 "decimals"    : "18",
-"name"        : "ALwnS Token",
+"name"        : "ALTS Token",
 "ens_address" : "",
 "website"     : "http://www.altcoinstalks.com",
 "logo": {
@@ -8351,7 +8351,40 @@
   "twitter"   : "",
   "youtube"   : ""
 }
-},{
+},
+    {
+    "symbol"      : "NGC",
+    "address"     : "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+    "decimals"    : "18",
+    "name"        : "NAGA Coin",
+    "ens_address" : "",
+    "website"     : "https://www.nagaico.com",
+    "logo": {
+      "src"       : "",
+      "width"     : "",
+      "height"    : "",
+      "ipfs_hash" : ""
+    },
+    "support": {
+      "email"     : "support@nagaico.com",
+      "url"       : ""
+    },
+    "social": {
+      "blog"      : "",
+      "chat"      : "",
+      "facebook"  : "https://www.facebook.com/thenagaico/",
+      "forum"     : "",
+      "github"    : "",
+      "gitter"    : "",
+      "instagram" : "",
+      "linkedin"  : "",
+      "reddit"    : "",
+      "slack"     : "",
+      "telegram"  : "",
+      "twitter"   : "https://twitter.com/thenagaico",
+      "youtube"   : ""
+    }
+  },{
 "symbol"      : "MTH",
 "address"     : "0xaF4DcE16Da2877f8c9e00544c93B62Ac40631F16",
 "decimals"    : "5",
@@ -13227,7 +13260,7 @@
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "rainbowcurrency@safezone.info",
+  "email"     : "support@rainbowcurrency.com",
   "url"       : ""
 },
 "social": {
@@ -13239,7 +13272,7 @@
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
-  "reddit"    : "",
+  "reddit"    : "https://www.reddit.com/r/RainbowCurrency",
   "slack"     : "",
   "telegram"  : "https://t.me/joinchat/C4OIwEUEDO69rS7rsPRpsg",
   "twitter"   : "https://twitter.com/RainbowCurrency",
