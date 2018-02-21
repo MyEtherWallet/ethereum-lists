@@ -15677,5 +15677,37 @@
 "twitter": "https://twitter.com/zilliqa",
 "youtube": "https://www.youtube.com/channel/UCvinnFbf0u71cajoxKcfZIQ"
 }
+},{
+  "symbol"      : "LA",
+  "address"     : "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf",
+  "decimals"    : "18",
+  "name"        : "LATOKEN",
+  "ens_address" : "",
+  "website"     : "https://latoken.com/",
+  "logo": {
+    "src"       : "https://cdn.latoken.com/common/img/logo.svg",
+    "width"     : 512,
+    "height"    : 512,
+    "ipfs_hash" : ""
+  },
+  "support": {
+    "email"     : "info@latoken.com",
+    "url"       : ""
+  },
+  "social": {
+    "blog"      : "https://blog.latoken.com/",
+    "chat"      : "",
+    "facebook"  : "https://www.facebook.com/LiquidAssetToken/",
+    "forum"     : "",
+    "github"    : "https://github.com/latoken",
+    "gitter"    : "",
+    "instagram" : "https://www.instagram.com/latokens/",
+    "linkedin"  : "https://www.linkedin.com/company/latoken",
+    "reddit"    : "https://www.reddit.com/r/LAToken/",
+    "slack"     : "",
+    "telegram"  : "https://t.me/la_token",
+    "twitter"   : "https://twitter.com/LATokens",
+    "youtube"   : "https://www.youtube.com/channel/UCvTfsRYJYD2X26VXbqDVgTQ/featured"
+  }
 }
 ]
