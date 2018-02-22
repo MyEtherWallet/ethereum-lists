@@ -287,7 +287,39 @@
   "twitter"   : "https://twitter.com/AdEx_Network",
   "youtube"   : ""
 }
-},{
+}, {
+    "symbol": "AE",
+    "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "decimals": 18,
+    "name": "",
+    "ens_address": "",
+    "website": "https://www.aeternity.com/",
+    "logo": {
+      "src": "",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@aeternity.com",
+      "url": ""
+    },
+    "social": {
+      "blog": "https://blog.aeternity.com/",
+      "chat": "",
+      "facebook": "https://www.facebook.com/aeternityproject/",
+      "forum": "",
+      "github": "https://github.com/aeternity",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/Aeternity/",
+      "slack": "",
+      "telegram": "https://telegram.me/aeternity",
+      "twitter": "https://twitter.com/aetrnty",
+      "youtube": ""
+    }
+  },{
 "symbol"      : "AGI",
 "address"     : "0x8eB24319393716668D768dCEC29356ae9CfFe285",
 "decimals"    : "8",
