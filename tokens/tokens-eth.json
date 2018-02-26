@@ -291,7 +291,7 @@
     "symbol": "AE",
     "address": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
     "decimals": 18,
-    "name": "",
+    "name": "aeternity",
     "ens_address": "",
     "website": "https://www.aeternity.com/",
     "logo": {
@@ -9249,6 +9249,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "OCC",
+"address"     : "0x0235fe624e044a05eed7a43e16e3083bc8a4287a",
+"decimals"    : "18",
+"name"        : "Original Crypto Coin",
+"ens_address" : "",
+"website"     : "https://www.OriginalCryptoCoin.com/",
+"logo": {
+"src"       : "https://originalcryptocoin.com/wp-content/uploads/2018/01/cc-black-500.png",
+  "width"     : "500",
+  "height"    : "500",
+  "ipfs_hash" : ""
+},
+"support": {
+"email"     : "support@originalcryptocoin.com",
+  "url"       : ""
+},
+"social": {
+"blog"      : "https://originalcryptocoin.com/blog/",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/OrigCryptoCoin/",
+  "forum"     : "",
+  "github"    : "https://github.com/OriginalCrypto/",
+  "gitter"    : "", 
+  "instagram" : "https://www.instagram.com/origcryptocoin/",
+  "linkedin"  : "https://www.linkedin.com/company/original-crypto-coin",
+  "reddit"    : "www.reddit.com/r/originalcryptocoin/",
+  "slack"     : "",
+  "telegram"  : "https://t.me/OrigCryptoCoin",
+  "twitter"   : "https://twitter.com/origcryptocoin", 
+  "youtube"   : "https://www.youtube.com/channel/UCK_Iuc8ukPYlWCqxelxg7HQ/"
+}
+},{
 "symbol"      : "OHNI",
 "address"     : "0x7F2176cEB16dcb648dc924eff617c3dC2BEfd30d",
 "decimals"    : "0",
@@ -15900,6 +15932,38 @@
     "telegram": "https://t.me/hut34",
     "twitter": "https://twitter.com/hut34project",
     "youtube": "https://www.youtube.com/channel/UCiemFFyT2Sv2ulrRQfNI89Q"
+  }
+},{
+  "symbol": "SS",
+  "address": "0xB15fE5a123e647ba594CEa7A1E648646f95EB4AA",
+  "decimals": 18,
+  "name": "Sharder",
+  "ens_address": "",
+  "website": "https://sharder.org",
+  "logo": {
+    "src": "https://oss.sharder.org/sharder/Token/Token-logo-132x132.png",
+    "width": "132",
+    "height": "132",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "service@sharder.org",
+    "url": ""
+  },
+  "social": {
+    "blog": "https://medium.com/@SharderChain",
+    "chat": "",
+    "facebook": "https://www.facebook.com/PolySwarm/",
+    "forum": "https://community.sharder.org",
+    "github": "https://github.com/Sharders",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/sharder_talk",
+    "twitter": "https://twitter.com/SharderChain",
+    "youtube": ""
   }
 }
 ]
