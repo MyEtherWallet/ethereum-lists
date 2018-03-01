@@ -5151,6 +5151,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "EMT",
+"address"     : "0x9501BFc48897DCEEadf73113EF635d2fF7ee4B97",
+"decimals"    : "18",
+"name"        : "easyMINE Token",
+"ens_address" : "",
+"website"     : "https://easymine.io",
+"logo": {
+  "src"       : "https://etherscan.io/token/images/easymine_28.png",
+  "width"     : "28",
+  "height"    : "28",
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@easymine.io",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "https://blog.easymine.io",
+  "chat"      : "",
+  "facebook"  : "https://www.facebook.com/easymine.io/",
+  "forum"     : "",
+  "github"    : "https://github.com/easyMINE",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "",
+  "reddit"    : "",
+  "slack"     : "https://slack.easymine.io/",
+  "telegram"  : "https://t.me/easyMINEio",
+  "twitter"   : "https://twitter.com/easymineio",
+  "youtube"   : "https://www.youtube.com/c/easyMINE"
+}  
+},{
 "symbol"      : "EMV",
 "address"     : "0xB802b24E0637c2B87D2E8b7784C055BBE921011a",
 "decimals"    : "2",
