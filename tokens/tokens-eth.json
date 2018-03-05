@@ -4682,9 +4682,21 @@
   "width"     : "",
   "height"    : "",
   "ipfs_hash" : ""
+{
+"symbol"      : "DRP",
+"address"     : "0x2799d90c6d44cb9aa5fbc377177f16c33e056b82",
+"decimals"    : "0",
+"name"        : "Dripcoin",
+"ens_address" : "",
+"website"     : "http://drpcoin.com",
+"logo": {
+  "src"       : "https://i.imgur.com/3V7N7hr.png",
+  "width"     : "256",
+  "height"    : "256",
+  "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "",
+  "email"     : "help@drpcoin.com",
   "url"       : ""
 },
 "social": {
@@ -4694,12 +4706,12 @@
   "forum"     : "",
   "github"    : "",
   "gitter"    : "",
-  "instagram" : "",
+  "instagram" : "https://instagram.com/drip_coin",
   "linkedin"  : "",
-  "reddit"    : "",
+  "reddit"    : "https://reddit.com/r/dripcoin",
   "slack"     : "",
   "telegram"  : "",
-  "twitter"   : "",
+  "twitter"   : "https://twitter.com/drip_coin",
   "youtube"   : ""
 }
 },{
