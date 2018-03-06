@@ -2336,6 +2336,38 @@
   "youtube"   : ""
 }
 },{
+"symbol"      : "BUC",
+"address"     : "0xca3c18a65b802ec267f8f4802545e7f53d24c75e",
+"decimals"    : "18",
+"name"        : "BeeUnity Chain",
+"ens_address" : "",
+"website"     : "https://beeunity.org",
+"logo": {
+  "src"       : "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
+  "width"     : 60 ,
+  "height"    : 37,
+  "ipfs_hash" : ""
+},
+"support": {
+  "email"     : "support@beeunity.org",
+  "url"       : ""
+},
+"social": {
+  "blog"      : "",
+  "chat"      : "",
+  "facebook"  : "https://goo.gl/VhHEoA",
+  "forum"     : "",
+  "github"    : "",
+  "gitter"    : "",
+  "instagram" : "",
+  "linkedin"  : "https://www.linkedin.com/company/beeunity",
+  "reddit"    : "",
+  "slack"     : "",
+  "telegram"  : "https://t.me/beeunity",
+  "twitter"   : "https://twitter.com/beeunity",
+  "youtube"   : ""
+}
+},{
 "symbol"      : "C20",
 "address"     : "0x26E75307Fc0C021472fEb8F727839531F112f317",
 "decimals"    : "18",
