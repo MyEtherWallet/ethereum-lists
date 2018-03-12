@@ -9793,11 +9793,11 @@
 }
 },{
 "symbol"      : "OHNI",
-"address"     : "0x7F2176cEB16dcb648dc924eff617c3dC2BEfd30d",
-"decimals"    : "0",
-"name"        : "OHNI",
+"address"     : "0x6f539a9456a5bcb6334a1a41207c3788f5825207",
+"decimals"    : "18",
+"name"        : "Ohni",
 "ens_address" : "",
-"website"     : "",
+"website"     : "http://ohni.us",
 "logo": {
   "src"       : "",
   "width"     : "",
@@ -9805,7 +9805,7 @@
   "ipfs_hash" : ""
 },
 "support": {
-  "email"     : "",
+  "email"     : "james@ohni.us",
   "url"       : ""
 },
 "social": {
@@ -9813,15 +9813,15 @@
   "chat"      : "",
   "facebook"  : "",
   "forum"     : "",
-  "github"    : "",
+  "github"    : "ohnicoin",
   "gitter"    : "",
   "instagram" : "",
   "linkedin"  : "",
   "reddit"    : "",
   "slack"     : "",
-  "telegram"  : "",
-  "twitter"   : "",
-  "youtube"   : ""
+  "telegram"  : "OhniGroup",
+  "twitter"   : "ohni_us",
+  "youtube"   : "Ohni Coin"
 }
 },{
 "symbol"      : "OLD_MKR",
@@ -16508,11 +16508,43 @@
     "twitter": "https://twitter.com/SharderChain",
     "youtube": ""
   }
-},
-  {
+},{
   "symbol": "LOOM",
   "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
   "decimals": 18,
+  "name": "",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+},
+{
+  "symbol": "MAD",
+  "address": "0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
+  "decimals": "18",
   "name": "",
   "ens_address": "",
   "website": "",
