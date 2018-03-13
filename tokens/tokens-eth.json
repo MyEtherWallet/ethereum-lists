@@ -8921,6 +8921,31 @@
 		}
 	},
 	{
+		"symbol": "PBT",
+		"address": "0xF4c07b1865bC326A3c01339492Ca7538FD038Cc0",
+		"decimals": 4,
+		"name": "Primalbase Token (PBT)",
+		"ens_address": "",
+		"website": "http://primalbase.com/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "admin@primalbase.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/primalbase",
+			"chat": "",
+			"facebook": "https://www.facebook.com/primalbasehq",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/primalbase/",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "https://projectprimal.slack.com/",
+			"telegram": "https://t.me/joinchat/AAAAAELBNMavaVUQvMRffQ",
+			"twitter": "https://twitter.com/primalbasehq",
+			"youtube": "https://www.youtube.com/channel/UCuWyGTEoCOSZrw8KWMKeucQ"
+		}
+	},
+	{
 		"symbol": "PCH",
 		"address": "0xfcAC7A7515e9A9d7619fA77A1fa738111f66727e",
 		"decimals": 18,
