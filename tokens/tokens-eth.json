@@ -13384,6 +13384,36 @@
 		}
 	},
 	{
+		"symbol": "XNK",
+		"address": "0xBC86727E770de68B1060C91f6BB6945c73e10388",
+		"decimals": 18,
+		"name": "Ink Protocol",
+		"ens_address": "",
+		"website": "https://paywithink.com",
+		"logo": {
+			"src": "https://etherscan.io/token/images/paywithink_28.png",
+			"width": 28,
+			"height": 28,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "admin@paywithink.com", "url": "" },
+		"social": {
+			"blog": "http://medium.com/@paywithink",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/InkProtocol/",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/paywithink",
+			"twitter": "https://twitter.com/PayWithInk",
+			"youtube": "https://www.youtube.com/channel/UC7bcqPWiNGxdXI3Wh3V68vw"
+		}
+	},
+	{
 		"symbol": "XNN",
 		"address": "0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
 		"decimals": 18,
