@@ -2525,6 +2525,31 @@
 		}
 	},
 	{
+		"symbol": "CHSB",
+		"address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
+		"decimals": 8,
+		"name": "CHSB",
+		"ens_address": "",
+		"website": "https://swissborg.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "CK",
 		"address": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
 		"decimals": 0,
@@ -7083,6 +7108,36 @@
 			"ipfs_hash": ""
 		},
 		"support": { "email": "support@liferun.cc", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "LGO",
+		"address": "0x123ab195dd38b1b40510d467a6a359b201af056f",
+		"decimals": 8,
+		"name": "LGO",
+		"ens_address": "",
+		"website": "https://legolas.exchange/",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -13572,6 +13627,31 @@
 			"linkedin": "",
 			"reddit": "",
 			"slack": "http://bit.ly/2zMX0hm",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "YEED",
+		"address": "0x6f7a4bac3315b5082f793161a22e26666d22717f",
+		"decimals": 18,
+		"name": "YEED",
+		"ens_address": "",
+		"website": "https://yggdrash.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
 			"telegram": "",
 			"twitter": "",
 			"youtube": ""
