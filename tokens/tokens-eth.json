@@ -1818,6 +1818,36 @@
 		}
 	},
 	{
+	  "symbol": "BTHR",
+	  "address": "0xa02e3bb9cebc03952601b3724b4940e0845bebcf",
+	  "decimals": 18,
+	  "name": "Bethereum",
+	  "ens_address": "",
+	  "website": "https://www.bethereum.com/",
+	  "logo": {
+	    "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+	    "width": 250,
+	    "height": 250,
+	    "ipfs_hash": ""
+	  },
+	  "support": { "email": "team@bethereum.com", "url": "" },
+	  "social": {
+	    "blog": "https://medium.com/bethereum",
+	    "chat": "",
+	    "facebook": "https://www.facebook.com/bethereumproject/",
+	    "forum": "https://bitcointalk.org/index.php?topic=2898723.0",
+	    "github": "https://github.com/bethereumproject",
+	    "gitter": "",
+	    "instagram": "https://www.instagram.com/bethereum/",
+	    "linkedin": "https://www.linkedin.com/company/bethereum/",
+	    "reddit": "https://www.reddit.com/r/bethereum",
+	    "slack": "",
+	    "telegram": "https://t.me/bethereum",
+	    "twitter": "https://twitter.com/bethereumteam",
+	    "youtube": "https://www.youtube.com/channel/UCECoUw0v3gsAFULCVD7YSmA"
+	  }
+	},
+	{
 		"symbol": "BTK",
 		"address": "0xdb8646f5b487b5dd979fac618350e85018f557d4",
 		"decimals": 18,
