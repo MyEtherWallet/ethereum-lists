@@ -13229,8 +13229,39 @@
 			"twitter": "",
 			"youtube": ""
 		}
-	},
-	{
+	},{
+  "symbol"      : "WCN",
+  "address"     : "0x8f936fe0faf0604c9c0ef2406bde0a65365515d6",
+  "decimals"    : "18",
+  "name"        : "WorldCoinNetwork",
+  "ens_address" : "",
+  "website"     : "https://worldcoin.cash/",
+  "logo": {
+    "src"       : "https://i.imgur.com/I4Rzoad.png ",
+    "width"     : "800",
+    "height"    : "400",
+    "ipfs_hash" : ""
+  },
+  "support": {
+    "email"     : "info@worldcoin.cash",
+    "url"       : ""
+  },
+  "social": {
+    "blog"      : "https://worldcoincash.wordpress.com/",
+    "chat"      : "",
+    "facebook"  : "https://www.facebook.com/worldcoin.cash/",
+    "forum"     : "https://bitcointalk.org/index.php?topic=2877436.new#new",
+    "github"    : "https://github.com/WorldCoinNetwork",
+    "gitter"    : "",
+    "instagram" : "",
+    "linkedin"  : "https://www.linkedin.com/company/world-coin-network/",
+    "reddit"    : "https://www.reddit.com/user/WorIdcoincash",
+    "slack"     : "https://worldcoinnetwork.slack.com",
+    "telegram"  : "https://t.me/WorldCoincash",
+    "twitter"   : "https://twitter.com/WorldCoin_Cash",
+    "youtube"   : "https://youtu.be/FUqsAm36_hQ"
+  }
+},{
 		"symbol": "WOLK",
 		"address": "0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f",
 		"decimals": 18,
