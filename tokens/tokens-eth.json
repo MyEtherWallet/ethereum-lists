@@ -150,6 +150,31 @@
 		}
 	},
 	{
+		"symbol": "ADH",
+		"address": "0xE69a353b3152Dd7b706ff7dD40fe1d18b7802d31",
+		"decimals": 18,
+		"name": "AdHive Token",
+		"ens_address": "",
+		"website": "https://adhive.tv",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@adhive.tv", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/adhivetv",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/adhivetv",
+			"twitter": "https://twitter.com/AdhiveTv",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "ADI",
 		"address": "0x8810C63470d38639954c6B41AaC545848C46484a",
 		"decimals": 18,
