@@ -1,4 +1,4 @@
-
+[
 	{
 		"symbol": "$TEAK",
 		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
@@ -556,7 +556,12 @@
 		"name": "Amon",
 		"ens_address": "amntoken.eth",
 		"website": "https://amon.tech",
-		"logo": { "src": "https://amon.tech/assets/img/token/amn.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://amon.tech/assets/img/token/amn.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "hello@amon.tech", "url": "https://help.amon.tech" },
 		"social": {
 			"blog": "https://medium.com/@amontech",
@@ -812,7 +817,12 @@
 		"name": "Assistive Reality ARX",
 		"ens_address": "",
 		"website": "https://aronline.io",
-		"logo": { "src": "https://aronline.io/wp-content/uploads/2018/01/favicon.png", "width": "100", "height": "100", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://aronline.io/wp-content/uploads/2018/01/favicon.png",
+			"width": "100",
+			"height": "100",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "staff@aronline.io", "url": "https://aronline.io/" },
 		"social": {
 			"blog": "",
@@ -1318,14 +1328,20 @@
 			"twitter": "",
 			"youtube": ""
 		}
-	},	{
+	},
+	{
 		"symbol": "BETR",
 		"address": "0x763186eb8d4856d536ed4478302971214febc6a9",
 		"decimals": 18,
 		"name": "BETR",
 		"ens_address": "",
 		"website": "https://www.betterbetting.org",
-		"logo": { "src": "https://betterbetting.org/assets/images/bb-token-icon_w28.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://betterbetting.org/assets/images/bb-token-icon_w28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "info@betterbetting.org", "url": "" },
 		"social": {
 			"blog": "",
@@ -1942,34 +1958,34 @@
 		}
 	},
 	{
-	  "symbol": "BTHR",
-	  "address": "0xa02e3bb9cebc03952601b3724b4940e0845bebcf",
-	  "decimals": 18,
-	  "name": "Bethereum",
-	  "ens_address": "",
-	  "website": "https://www.bethereum.com/",
-	  "logo": {
-	    "src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
-	    "width": 250,
-	    "height": 250,
-	    "ipfs_hash": ""
-	  },
-	  "support": { "email": "team@bethereum.com", "url": "" },
-	  "social": {
-	    "blog": "https://medium.com/bethereum",
-	    "chat": "",
-	    "facebook": "https://www.facebook.com/bethereumproject/",
-	    "forum": "https://bitcointalk.org/index.php?topic=2898723.0",
-	    "github": "https://github.com/bethereumproject",
-	    "gitter": "",
-	    "instagram": "https://www.instagram.com/bethereum/",
-	    "linkedin": "https://www.linkedin.com/company/bethereum/",
-	    "reddit": "https://www.reddit.com/r/bethereum",
-	    "slack": "",
-	    "telegram": "https://t.me/bethereum",
-	    "twitter": "https://twitter.com/bethereumteam",
-	    "youtube": "https://www.youtube.com/channel/UCECoUw0v3gsAFULCVD7YSmA"
-	  }
+		"symbol": "BTHR",
+		"address": "0xa02e3bb9cebc03952601b3724b4940e0845bebcf",
+		"decimals": 18,
+		"name": "Bethereum",
+		"ens_address": "",
+		"website": "https://www.bethereum.com/",
+		"logo": {
+			"src": "https://image.ibb.co/jPRLCx/icon_default_1.png",
+			"width": 250,
+			"height": 250,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "team@bethereum.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/bethereum",
+			"chat": "",
+			"facebook": "https://www.facebook.com/bethereumproject/",
+			"forum": "https://bitcointalk.org/index.php?topic=2898723.0",
+			"github": "https://github.com/bethereumproject",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/bethereum/",
+			"linkedin": "https://www.linkedin.com/company/bethereum/",
+			"reddit": "https://www.reddit.com/r/bethereum",
+			"slack": "",
+			"telegram": "https://t.me/bethereum",
+			"twitter": "https://twitter.com/bethereumteam",
+			"youtube": "https://www.youtube.com/channel/UCECoUw0v3gsAFULCVD7YSmA"
+		}
 	},
 	{
 		"symbol": "BTK",
@@ -2735,7 +2751,13 @@
 		"name": "CryptoLiveLeak",
 		"ens_address": "",
 		"website": "https://www.cryptoliveleak.com/",
-		"logo": { "src": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "contactus@cryptoliveleak.com", "url": "" },
 		"social": {
 			"blog": "https://medium.com/@cryptoliveleak",
@@ -4815,7 +4837,12 @@
 		"name": "ethPoker.io EPX",
 		"ens_address": "",
 		"website": "https://ethPoker.io",
-		"logo": { "src": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png", "width": "51", "height": "50", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png",
+			"width": "51",
+			"height": "50",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "admin@ethPoker.io", "url": "https://ethPoker.io" },
 		"social": {
 			"blog": "https://ethpoker.io/",
@@ -7615,15 +7642,15 @@
 		"name": "Lendingblock",
 		"ens_address": "",
 		"website": "https://lendingblock.com",
-		"logo": { 
-			"src": "https://etherscan.io/token/images/lendingblock_28.png", 
-			"width": 28, 
-			"height": 28, 
-			"ipfs_hash": "" 
+		"logo": {
+			"src": "https://etherscan.io/token/images/lendingblock_28.png",
+			"width": 28,
+			"height": 28,
+			"ipfs_hash": ""
 		},
 		"support": { "email": "support@lendingblock.com", "url": "" },
 		"social": {
-			"blog":	"",
+			"blog": "",
 			"chat": "",
 			"facebook": "https://www.facebook.com/lendingblock",
 			"forum": "",
@@ -7719,39 +7746,39 @@
 			"youtube": ""
 		}
 	},
-  {
-    "symbol": "LOOM",
-    "address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
-    "decimals": 18,
-    "name": "",
-    "ens_address": "",
-    "website": "",
-    "logo": {
-      "src": "",
-      "width": "",
-      "height": "",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "",
-      "url": ""
-    },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
+	{
+		"symbol": "LOOM",
+		"address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
+		"decimals": 18,
+		"name": "",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
 	{
 		"symbol": "LRC",
 		"address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
@@ -8077,7 +8104,7 @@
 			"youtube": ""
 		}
 	},
-{
+	{
 		"symbol": "MESH",
 		"address": "0x01f2acf2914860331c1cb1a9acecda7475e06af8",
 		"decimals": 18,
@@ -9114,8 +9141,17 @@
 		"name": "OPEN",
 		"ens_address": "",
 		"website": "openfuture.io",
-		"logo": { "src": "https://www.openfuture.io/assets/fancyLogo/Open_Fancy-Logo_120x120.png", "width": "120px", "height": "120px", "ipfs_hash": "" },
-		"support": { "email": "support@openfuture.io", "url": "https://open.crisp.help/en-us/" },
+		"logo": {
+			"src":
+				"https://www.openfuture.io/assets/fancyLogo/Open_Fancy-Logo_120x120.png",
+			"width": "120px",
+			"height": "120px",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@openfuture.io",
+			"url": "https://open.crisp.help/en-us/"
+		},
 		"social": {
 			"blog": "https://medium.com/@theOPENPlatform",
 			"chat": "https://open.crisp.help/en-us/",
@@ -11258,7 +11294,13 @@
 		"name": "Signal",
 		"ens_address": "",
 		"website": "https://spectivvr.com",
-		"logo": { "src": "https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png", "width": "251", "height": "251", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png",
+			"width": "251",
+			"height": "251",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "info@spectivvr.com", "url": "" },
 		"social": {
 			"blog": "https://medium.com/spectiv-vr",
@@ -11480,7 +11522,7 @@
 			"youtube": ""
 		}
 	},
-{
+	{
 		"symbol": "SMT",
 		"address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
 		"decimals": 18,
@@ -13484,39 +13526,41 @@
 			"twitter": "",
 			"youtube": ""
 		}
-	},{
-  "symbol"      : "WCN",
-  "address"     : "0x8f936fe0faf0604c9c0ef2406bde0a65365515d6",
-  "decimals"    : "18",
-  "name"        : "WorldCoinNetwork",
-  "ens_address" : "",
-  "website"     : "https://worldcoin.cash/",
-  "logo": {
-    "src"       : "https://i.imgur.com/I4Rzoad.png ",
-    "width"     : "800",
-    "height"    : "400",
-    "ipfs_hash" : ""
-  },
-  "support": {
-    "email"     : "info@worldcoin.cash",
-    "url"       : ""
-  },
-  "social": {
-    "blog"      : "https://worldcoincash.wordpress.com/",
-    "chat"      : "",
-    "facebook"  : "https://www.facebook.com/worldcoin.cash/",
-    "forum"     : "https://bitcointalk.org/index.php?topic=2877436.new#new",
-    "github"    : "https://github.com/WorldCoinNetwork",
-    "gitter"    : "",
-    "instagram" : "",
-    "linkedin"  : "https://www.linkedin.com/company/world-coin-network/",
-    "reddit"    : "https://www.reddit.com/user/WorIdcoincash",
-    "slack"     : "https://worldcoinnetwork.slack.com",
-    "telegram"  : "https://t.me/WorldCoincash",
-    "twitter"   : "https://twitter.com/WorldCoin_Cash",
-    "youtube"   : "https://youtu.be/FUqsAm36_hQ"
-  }
-},{
+	},
+	{
+		"symbol": "WCN",
+		"address": "0x8f936fe0faf0604c9c0ef2406bde0a65365515d6",
+		"decimals": "18",
+		"name": "WorldCoinNetwork",
+		"ens_address": "",
+		"website": "https://worldcoin.cash/",
+		"logo": {
+			"src": "https://i.imgur.com/I4Rzoad.png ",
+			"width": "800",
+			"height": "400",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "info@worldcoin.cash",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://worldcoincash.wordpress.com/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/worldcoin.cash/",
+			"forum": "https://bitcointalk.org/index.php?topic=2877436.new#new",
+			"github": "https://github.com/WorldCoinNetwork",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/world-coin-network/",
+			"reddit": "https://www.reddit.com/user/WorIdcoincash",
+			"slack": "https://worldcoinnetwork.slack.com",
+			"telegram": "https://t.me/WorldCoincash",
+			"twitter": "https://twitter.com/WorldCoin_Cash",
+			"youtube": "https://youtu.be/FUqsAm36_hQ"
+		}
+	},
+	{
 		"symbol": "WOLK",
 		"address": "0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f",
 		"decimals": 18,
