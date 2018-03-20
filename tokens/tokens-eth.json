@@ -756,6 +756,31 @@
 		}
 	},
 	{
+		"symbol": "ARXT",
+		"address": "0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+		"decimals": 18,
+		"name": "Assistive Reality ARX",
+		"ens_address": "",
+		"website": "https://aronline.io",
+		"logo": { "src": "https://aronline.io/wp-content/uploads/2018/01/favicon.png", "width": "100", "height": "100", "ipfs_hash": "" },
+		"support": { "email": "staff@aronline.io", "url": "https://aronline.io/" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/AssistiveReality/",
+			"forum": "",
+			"github": "https://github.com/va109/Artex",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/AssistiveReality/",
+			"linkedin": "https://www.linkedin.com/in/assistive-reality/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/AssistiveReality_ARX",
+			"twitter": "https://twitter.com/aronline_io/",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "AST",
 		"address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
 		"decimals": 4,
@@ -4705,6 +4730,31 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "EPX",
+		"address": "0x35BAA72038F127f9f8C8f9B491049f64f377914d",
+		"decimals": 4,
+		"name": "ethPoker.io EPX",
+		"ens_address": "",
+		"website": "https://ethPoker.io",
+		"logo": { "src": "https://ethpoker.io/wp-content/uploads/2018/03/smallBlueIcon.png", "width": "51", "height": "50", "ipfs_hash": "" },
+		"support": { "email": "admin@ethPoker.io", "url": "https://ethPoker.io" },
+		"social": {
+			"blog": "https://ethpoker.io/",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/EthPokerIO/ethpokerIO",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/in/ethpoker/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/EthPokerIOpresale",
+			"twitter": "https://twitter.com/ethpoker",
 			"youtube": ""
 		}
 	},
