@@ -5191,17 +5191,17 @@
 	},
 	{
 		"symbol": "FLMC",
-		"address": "0x5976F7dac1525eF3277836043bA474a35E6B4272",
-		"decimals": 0,
+		"address": "0x04cC783b450b8D11F3C7d00DD03fDF7FB51fE9F2",
+		"decimals": 18,
 		"name": "Filmscoin",
 		"ens_address": "",
-		"website": "https://filmscoin.io",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"website": "https://filmscoin.com",
+		"logo": { "src": "https://filmscoin.com/images/icon-flmc28.png", "width": "28", "height": "28", "ipfs_hash": "" },
 		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
-			"facebook": "",
+			"facebook": "https://www.facebook.com/cryptofilms",
 			"forum": "",
 			"github": "",
 			"gitter": "",
@@ -5209,8 +5209,8 @@
 			"linkedin": "",
 			"reddit": "",
 			"slack": "",
-			"telegram": "",
-			"twitter": "",
+			"telegram": "https://t.me/filmscoin",
+			"twitter": "https://twitter.com/filmscoin1",
 			"youtube": ""
 		}
 	},
