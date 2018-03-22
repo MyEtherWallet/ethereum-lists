@@ -3717,6 +3717,31 @@
 		}
 	},
 	{
+		"symbol": "DAXT",
+		"address": "0x61725f3db4004afe014745b21dab1e1677cc328b",
+		"decimals": 18,
+		"name": "Digital Asset Exchange Token",
+		"ens_address": "",
+		"website": "https://www.daxt.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "concierge@blockex.com", "url": "" },
+		"social": {
+			"blog": "https://www.blockex.com/blogslistings",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "https://blockex.slack.com/",
+			"telegram": "",
+			"twitter": "https://twitter.com/blockex",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "DCA",
 		"address": "0x386Faa4703a34a7Fdb19Bec2e14Fd427C9638416",
 		"decimals": 18,
