@@ -10451,6 +10451,31 @@
 		}
 	},
 	{
+		"symbol": "RBLX",
+		"address": "0xfc2c4d8f95002c14ed0a7aa65102cac9e5953b5e",
+		"decimals": 18,
+		"name": "Rublix",
+		"ens_address": "",
+		"website": "https://rublix.io/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@rublix.io", "url": "" },
+		"social": {
+			"blog": "https://blog.rublix.io/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Rublixdev/",
+			"forum": "",
+			"github": "https://github.com/rublixdev",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/rublixdev/",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/Rublix/",
+			"slack": "",
+			"telegram": "https://t.me/rublixdev",
+			"twitter": "https://twitter.com/RublixDev",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "RCT",
 		"address": "0x2a3Aa9ECA41E720Ed46B5A70D6C37EfA47f768Ac",
 		"decimals": 18,
@@ -10632,6 +10657,31 @@
 			"slack": "https://requestnetwork.slack.com",
 			"telegram": "",
 			"twitter": "https://twitter.com/requestnetwork",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "REX",
+		"address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
+		"decimals": 18,
+		"name": "REX",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
