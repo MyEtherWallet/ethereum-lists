@@ -7090,6 +7090,31 @@
 			"youtube": "https://www.youtube.com/channel/UCsilze3-MhbCY3_QkKul3PQ"
 		}
 	},
+		{
+		"symbol": "KEY",
+		"address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+		"decimals": 18,
+		"name": "BihuKey",
+		"ens_address": "",
+		"website": "https://bihu.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "wow@bihu.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/bihu-id",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
 	{
 		"symbol": "KICK",
 		"address": "0x27695E09149AdC738A978e9A678F99E4c39e9eb9",
