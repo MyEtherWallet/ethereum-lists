@@ -14374,5 +14374,30 @@
 			"twitter": "https://twitter.com/martcoin",
 			"youtube": ""
 		}
+	},
+	{
+		"symbol": "GANA",
+		"address": "0x6754e21b9EAa053c62d7854dD6561ae451B0cBCf",
+		"decimals": 18,
+		"name": "GANA",
+		"ens_address": "",
+		"website": "https://ganacoin.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@ganacoin.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/GanaProject",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/gana_announcement",
+			"twitter": "https://twitter.com/ganaproject",
+			"youtube": ""
+		}
 	}
 ]
