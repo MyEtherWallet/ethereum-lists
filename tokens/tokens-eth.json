@@ -10471,12 +10471,10 @@
 		}
 	},
 	{
-<<<<<<< HEAD
-=======
 		"symbol": "RCN",
 		"address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
 		"decimals": 18,
-		"name": "Ripio Credit Networ",
+		"name": "Ripio Credit Network",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -10498,32 +10496,6 @@
 		}
 	},
 	{
-		"symbol": "RCT",
-		"address": "0x2a3Aa9ECA41E720Ed46B5A70D6C37EfA47f768Ac",
-		"decimals": 18,
-		"name": "RCT",
-		"ens_address": "",
-		"website": "www.rcfund.org",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "martin@rcfund.org", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
->>>>>>> ef5d85f372e3077e33afd2081e484e31149cfd6b
 		"symbol": "RDN",
 		"address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
 		"decimals": 18,
