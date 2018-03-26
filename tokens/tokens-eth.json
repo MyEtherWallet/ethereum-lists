@@ -9352,6 +9352,36 @@
 		}
 	},
 	{
+		"symbol": "PAL",
+		"address": "0xfeDAE5642668f8636A11987Ff386bfd215F942EE",
+		"decimals": 18,
+		"name": "PolicyPal Network",
+		"ens_address": "",
+		"website": "https://www.policypal.network",
+		"logo": {
+			"src": "https://etherscan.io/token/images/policypal_28.png",
+			"width": 28,
+			"height": 28,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "info@policypal.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@policypalnet",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/policypalnet",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/18528158",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/PolicyPalNetwork",
+			"twitter": "https://twitter.com/PolicyPalNET",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "PARETO",
 		"address": "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc",
 		"decimals": 18,
