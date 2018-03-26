@@ -2323,36 +2323,6 @@
 		}
 	},
 	{
-		"symbol": "CARCO",
-		"address": "0x2108E62D335Bbdc89eC3E9d8582F18DCFB0cDFf4",
-		"decimals": 8,
-		"name": "CARCO",
-		"ens_address": "",
-		"website": "https://carcohub.com",
-		"logo": {
-			"src": "https://image.ibb.co/mEQjbw/CARCO_crypto_logo.png",
-			"width": 291,
-			"height": 291,
-			"ipfs_hash": ""
-		},
-		"support": { "email": "info@carcohub.com", "url": "" },
-		"social": {
-			"blog": "https://blog.carco.io",
-			"chat": "",
-			"facebook": "https://www.facebook.com/carco.hub.10",
-			"forum": "https://bitcointalk.org/index.php?topic=2762276.0",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "https://www.linkedin.com/company/carcohub",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/carcohub",
-			"twitter": "https://twitter.com/CarcoHub",
-			"youtube": "https://www.youtube.com/channel/UC2b2iJK10iZGiPE15Y6s37A"
-		}
-	},
-	{
 		"symbol": "CAS",
 		"address": "0xe8780B48bdb05F928697A5e8155f672ED91462F7",
 		"decimals": 18,
@@ -10501,14 +10471,14 @@
 		}
 	},
 	{
-		"symbol": "RCT",
-		"address": "0x2a3Aa9ECA41E720Ed46B5A70D6C37EfA47f768Ac",
+		"symbol": "RCN",
+		"address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
 		"decimals": 18,
-		"name": "RCT",
+		"name": "Ripio Credit Network",
 		"ens_address": "",
-		"website": "www.rcfund.org",
+		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "martin@rcfund.org", "url": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -10966,31 +10936,6 @@
 			"slack": "",
 			"telegram": "https://t.me/joinchat/FFraxA_gh6l2-Ahev-AxHQ",
 			"twitter": "https://twitter.com/RiderTokenICO",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "RVL",
-		"address": "0x41f615e24fabd2b097a320e9e6c1f448cb40521c",
-		"decimals": 18,
-		"name": "RVL",
-		"ens_address": "",
-		"website": "https://www.r-evolutioncoin.com",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@r-evolutioncoin.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -14495,6 +14440,31 @@
 			"facebook": "",
 			"forum": "",
 			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "NPER",
+		"address": "0x4ce6b362bc77a24966dda9078f9cef81b3b886a7",
+		"decimals": 18,
+		"name": "NPER",
+		"ens_address": "",
+		"website": "https://nper.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "help@nper.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@NPERproject",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/NperProject",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
