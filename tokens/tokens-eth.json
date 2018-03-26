@@ -9462,6 +9462,39 @@
 		}
 	},
 	{
+		"symbol": "PATH",
+		"address": "0xf813f3902bbc00a6dce378634d3b79d84f9803d7",
+		"decimals": "18",
+		"name": "PATH",
+		"ens_address": "",
+		"website": "https://path.network",
+		"logo": {
+			"src": "https://path.network/images/path-128x128.png",
+			"width": "128",
+			"height": "128",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "contact@path.network",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "https://t.me/pathnetwork",
+			"facebook": "https://www.facebook.com/pathtoken",
+			"forum": "https://plus.google.com/110646804829818635758",
+			"github": "https://github.com/path-network-token",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/pathnetwork/",
+			"reddit": "https://www.reddit.com/r/pathtoken",
+			"slack": "",
+			"telegram": "https://t.me/pathnetwork",
+			"twitter": "https://twitter.com/pathtoken",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "PAY",
 		"address": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280",
 		"decimals": 18,
