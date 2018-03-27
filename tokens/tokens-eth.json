@@ -2968,6 +2968,34 @@
 		}
 	},
 	{
+		"symbol": "CNB",
+		"address": "0xEBf2F9E8De960f64ec0fDCDa6Cb282423133347B",
+		"decimals": 8,
+		"name": "Canabio",
+		"ens_address": "",
+		"website": "https://canabio.net",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": {
+			"email": "support@canabio.net",
+			"url": "https://canabio.net"
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/CanabioToken",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/CanabioProject",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "CO2",
 		"address": "0xB4b1D2C217EC0776584CE08D3DD98F90EDedA44b",
 		"decimals": 18,
