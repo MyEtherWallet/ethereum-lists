@@ -10880,6 +10880,31 @@
 		}
 	},
 	{
+		"symbol": "RFR",
+		"address": "0xd0929d411954c47438dc1d871dd6081f5c5e149c",
+		"decimals": 4,
+		"name": "Refereum",
+		"ens_address": "refereum.eth",
+		"website": "https://refereum.com",
+		"logo": { "src": "28", "width": "28", "height": "https://etherscan.io/token/images/refereum.png", "ipfs_hash": "" },
+		"support": { "email": "team@refereum.com", "url": "https://help.refereum.com/" },
+		"social": {
+			"blog": "https://medium.com/refereum",
+			"chat": "https://discordapp.com/invite/RASrHyD",
+			"facebook": "https://www.facebook.com/Refereum/",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/refereum/",
+			"linkedin": "https://www.linkedin.com/company/refereum",
+			"reddit": "https://www.reddit.com/r/Refereum/",
+			"slack": "",
+			"telegram": "https://t.me/refereumtalk",
+			"twitter": "https://twitter.com/Refereum",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "RIPT",
 		"address": "0xdd007278b667f6bef52fd0a4c23604aa1f96039a",
 		"decimals": 8,
