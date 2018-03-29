@@ -605,6 +605,36 @@
 		}
 	},
 	{
+		"symbol": "APIS",
+		"address": "0x4c0fbe1bb46612915e7967d2c3213cd4d87257ad",
+		"decimals": 18,
+		"name": "APIS",
+		"ens_address": "",
+		"website": "https://apisplatform.io",
+		"logo": {
+			"src": "https://apisplatform.io/img/icon_250.png",
+			"width": 250,
+			"height": 250,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "apis_official@apisplatform.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/apisplatform",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/Oxchild/crowdsale",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/TheApisplatform",
+			"twitter": "https://twitter.com/Apis11Official",
+			"youtube": "https://www.youtube.com/channel/UCArVzPjkC_BrqkjFG3DZOjQ"
+		}
+	},
+	{
 		"symbol": "APPC",
 		"address": "0x1a7a8bd9106f2b8d977e08582dc7d24c723ab0db",
 		"decimals": 18,
