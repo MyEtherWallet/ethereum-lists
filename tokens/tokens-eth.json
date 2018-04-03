@@ -14861,30 +14861,53 @@
 			"youtube": ""
 		}
 	},
-	{
-	    "symbol": "ROCK",
-	    "address": "0xA40106134c5bF4c41411554e6db99B95A15ed9d8",
-	    "decimals": 18,
-	    "name": "Rocket Token",
-	    "ens_address": "",
-	    "website": "https://rocketico.io",
-	    "logo": { "src": "https://rocketico.io/app/media/token_icon.png", "width": 34, "height": 34, "ipfs_hash": "" },
-	    "support": { "email": "support@rocketico.io", "url": "" },
-	    "social": {
-		"blog": "https://blog.rocketico.io/",
-		"chat": "",
-		"facebook": "",
-		"forum": "",
-		"github": "https://github.com/rocketico",
-		"gitter": "",
-		"instagram": "",
-		"linkedin": "https://www.linkedin.com/company-beta/18198957/",
-		"reddit": "",
-		"slack": "",
-		"telegram": "https://t.me/RocketICOen",
-		"twitter": "https://twitter.com/rocketico_io",
-		"youtube": "https://www.youtube.com/channel/UCzwtmszqPnIdzdj2hYoa2YQ"
-	    }
-	}
-	
+  {
+    "symbol": "ROCK",
+    "address": "0xA40106134c5bF4c41411554e6db99B95A15ed9d8",
+    "decimals": 18,
+    "name": "Rocket Token",
+    "ens_address": "",
+    "website": "https://rocketico.io",
+    "logo": { "src": "https://rocketico.io/app/media/token_icon.png", "width": 34, "height": 34, "ipfs_hash": "" },
+    "support": { "email": "support@rocketico.io", "url": "" },
+    "social": {
+      "blog": "https://blog.rocketico.io/",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/rocketico",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company-beta/18198957/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/RocketICOen",
+      "twitter": "https://twitter.com/rocketico_io",
+      "youtube": "https://www.youtube.com/channel/UCzwtmszqPnIdzdj2hYoa2YQ"
+	  }
+	}, {
+		"symbol": "VOC",
+		"address": "0xc3bc9eb71f75ec439a6b6c8e8b746fcf5b62f703",
+		"decimals": 18,
+		"name": "VORMACOIN",
+		"ens_address": "",
+		"website": "https://vormacoin.io/",
+		"logo": { "src": "https://vormacoin.io/assets/images/logo/icon.png", "width": "200", "height": "150", "ipfs_hash": "" },
+		"support": { "email": "info@vormacoin.io", "url": "" },
+		"social": {
+			"blog": "https://blog.vormacoin.com/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/VormaCoin-421138531662966/?ref=br_rs",
+			"forum": "",
+			"github": "https://github.com/vormacoin",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/vormacoin.io/",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/user/vormacoin",
+			"slack": "",
+			"telegram": "http://t.me/vormacoinVOC",
+			"twitter": "https://twitter.com/vormacoin",
+			"youtube": ""
+		}
+  }
 ]
