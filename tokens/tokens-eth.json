@@ -3143,7 +3143,7 @@
 		"symbol": "COSS",
 		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
 		"decimals": 18,
-		"name": "",
+		"name": "COSS",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -7986,7 +7986,7 @@
 		"symbol": "LOOM",
 		"address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
 		"decimals": 18,
-		"name": "",
+		"name": "LOOM",
 		"ens_address": "",
 		"website": "",
 		"logo": {
@@ -8169,7 +8169,7 @@
 		"symbol": "MAD",
 		"address": "0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
 		"decimals": 18,
-		"name": "",
+		"name": "MAD",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -11830,10 +11830,10 @@
 		}
 	},
 	{
-		"symbol": "SKRP (Phase 1-E)",
+		"symbol": "SKRP",
 		"address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
 		"decimals": 18,
-		"name": "",
+		"name": "SKRP (Phase 1-E)",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -13971,7 +13971,7 @@
 		"symbol": "WOLK",
 		"address": "0x728781E75735dc0962Df3a51d7Ef47E798A7107E",
 		"decimals": 18,
-		"name": "",
+		"name": "WOLK",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -14861,7 +14861,31 @@
 			"youtube": ""
 		}
 	},
-	{
+  {
+    "symbol": "ROCK",
+    "address": "0xA40106134c5bF4c41411554e6db99B95A15ed9d8",
+    "decimals": 18,
+    "name": "Rocket Token",
+    "ens_address": "",
+    "website": "https://rocketico.io",
+    "logo": { "src": "https://rocketico.io/app/media/token_icon.png", "width": 34, "height": 34, "ipfs_hash": "" },
+    "support": { "email": "support@rocketico.io", "url": "" },
+    "social": {
+      "blog": "https://blog.rocketico.io/",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/rocketico",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company-beta/18198957/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/RocketICOen",
+      "twitter": "https://twitter.com/rocketico_io",
+      "youtube": "https://www.youtube.com/channel/UCzwtmszqPnIdzdj2hYoa2YQ"
+	  }
+	}, {
 		"symbol": "VOC",
 		"address": "0xc3bc9eb71f75ec439a6b6c8e8b746fcf5b62f703",
 		"decimals": 18,
@@ -14885,5 +14909,5 @@
 			"twitter": "https://twitter.com/vormacoin",
 			"youtube": ""
 		}
-	}
+  }
 ]
