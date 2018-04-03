@@ -4632,6 +4632,39 @@
 		}
 	},
 	{
+		"symbol": "EDC",
+		"address": "0xfa1de2ee97e4c10c94c91cb2b5062b89fb140b82",
+		"decimals": 6,
+		"name": "Education Credits",
+		"ens_address": "",
+		"website": "https://www.edc.network",
+		"logo": {
+		"src": "https://edc.network/images/edc-logo28.png",
+		"width": "28",
+		"height": "28",
+		"ipfs_hash": ""
+		},
+		"support": {
+		"email": "info@edc.network",
+		"url": ""
+		},
+		"social": {
+		"blog": "",
+		"chat": "",
+		"facebook": "",
+		"forum": "",
+		"github": "",
+		"gitter": "",
+		"instagram": "",
+		"linkedin": "",
+		"reddit": "",
+		"slack": "",
+		"telegram": "",
+		"twitter": "",
+		"youtube": ""
+		}
+	},
+	{
 		"symbol": "EDG",
 		"address": "0x08711D3B02C8758F2FB3ab4e80228418a7F8e39c",
 		"decimals": 0,
@@ -5048,6 +5081,31 @@
 			"slack": "",
 			"telegram": "https://t.me/EthBitsChatroom",
 			"twitter": "https://twitter.com/ethbits",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "ETCH",
+		"address": "0xdd74a7a3769fa72561b3a69e65968f49748c690c",
+		"decimals": ,
+		"name": "ETCH",
+		"ens_address": "",
+		"website": "https://etch.work",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
