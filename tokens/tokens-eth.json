@@ -3143,7 +3143,7 @@
 		"symbol": "COSS",
 		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
 		"decimals": 18,
-		"name": "COSS",
+		"name": "",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -4615,6 +4615,36 @@
 		"website": "http://www.ethco2.com",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "ethco2@163.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "EDC",
+		"address": "0xfa1de2ee97e4c10c94c91cb2b5062b89fb140b82",
+		"decimals": 6,
+		"name": "Education Credits",
+		"ens_address": "",
+		"website": "https://www.edc.network",
+		"logo": {
+			"src": "https://edc.network/images/edc-logo28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "info@edc.network", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -7986,7 +8016,7 @@
 		"symbol": "LOOM",
 		"address": "0xa4e8c3ec456107ea67d3075bf9e3df3a75823db0",
 		"decimals": 18,
-		"name": "LOOM",
+		"name": "",
 		"ens_address": "",
 		"website": "",
 		"logo": {
@@ -8169,7 +8199,7 @@
 		"symbol": "MAD",
 		"address": "0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
 		"decimals": 18,
-		"name": "MAD",
+		"name": "",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -11830,10 +11860,10 @@
 		}
 	},
 	{
-		"symbol": "SKRP",
+		"symbol": "SKRP (Phase 1-E)",
 		"address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
 		"decimals": 18,
-		"name": "SKRP (Phase 1-E)",
+		"name": "",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -13971,7 +14001,7 @@
 		"symbol": "WOLK",
 		"address": "0x728781E75735dc0962Df3a51d7Ef47E798A7107E",
 		"decimals": 18,
-		"name": "WOLK",
+		"name": "",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -14860,54 +14890,5 @@
 			"twitter": "",
 			"youtube": ""
 		}
-	},
-  {
-    "symbol": "ROCK",
-    "address": "0xA40106134c5bF4c41411554e6db99B95A15ed9d8",
-    "decimals": 18,
-    "name": "Rocket Token",
-    "ens_address": "",
-    "website": "https://rocketico.io",
-    "logo": { "src": "https://rocketico.io/app/media/token_icon.png", "width": 34, "height": 34, "ipfs_hash": "" },
-    "support": { "email": "support@rocketico.io", "url": "" },
-    "social": {
-      "blog": "https://blog.rocketico.io/",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "https://github.com/rocketico",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company-beta/18198957/",
-      "reddit": "",
-      "slack": "",
-      "telegram": "https://t.me/RocketICOen",
-      "twitter": "https://twitter.com/rocketico_io",
-      "youtube": "https://www.youtube.com/channel/UCzwtmszqPnIdzdj2hYoa2YQ"
-	  }
-	}, {
-		"symbol": "VOC",
-		"address": "0xc3bc9eb71f75ec439a6b6c8e8b746fcf5b62f703",
-		"decimals": 18,
-		"name": "VORMACOIN",
-		"ens_address": "",
-		"website": "https://vormacoin.io/",
-		"logo": { "src": "https://vormacoin.io/assets/images/logo/icon.png", "width": "200", "height": "150", "ipfs_hash": "" },
-		"support": { "email": "info@vormacoin.io", "url": "" },
-		"social": {
-			"blog": "https://blog.vormacoin.com/",
-			"chat": "",
-			"facebook": "https://www.facebook.com/VormaCoin-421138531662966/?ref=br_rs",
-			"forum": "",
-			"github": "https://github.com/vormacoin",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/vormacoin.io/",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/user/vormacoin",
-			"slack": "",
-			"telegram": "http://t.me/vormacoinVOC",
-			"twitter": "https://twitter.com/vormacoin",
-			"youtube": ""
-		}
-  }
+	}
 ]
