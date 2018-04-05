@@ -12364,6 +12364,31 @@
 		}
 	},
 	{
+		"symbol": "SPN",
+		"address": "0x20F7A3DdF244dc9299975b4Da1C39F8D5D75f05A",
+		"decimals": 6,
+		"name": "Sapien",
+		"ens_address": "",
+		"website": "https://www.sapien.network/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/SapienNetwork",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "SRN",
 		"address": "0x68d57c9a1C35f63E2c83eE8e49A64e9d70528D25",
 		"decimals": 18,
@@ -13665,6 +13690,35 @@
 			"telegram": "",
 			"twitter": "https://twitter.com/VibeHubVR",
 			"youtube": "https://www.youtube.com/channel/UCbZuYQJpz2G2x2Y2eIbw_UA"
+		}
+	},
+	{
+		"symbol": "VIT",
+		"address": "0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+		"decimals": 18,
+		"name": "Vice Industry Token",
+		"ens_address": "",
+		"website": "https://vicetoken.com/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": {
+			"email": "",
+			"url":
+				""
+		},
+		"social": {
+			"blog": "https://medium.com/viceindustrytoken",
+			"chat": "",
+			"facebook": "https://www.facebook.com/vicetoken/",
+			"forum": "",
+			"github": "https://github.com/ViceIndustryToken",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/viceindustrytoken",
+			"twitter": "https://twitter.com/ViceToken",
+			"youtube": ""
 		}
 	},
 	{
