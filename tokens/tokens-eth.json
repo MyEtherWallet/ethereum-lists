@@ -6380,6 +6380,31 @@
 		}
 	},
 	{
+		"symbol": "HKY",
+		"address": "0x88ac94d5d175130347fc95e109d77ac09dbf5ab7",
+		"decimals": 18,
+		"name": "Hicky",
+		"ens_address": "",
+		"website": "https://hicky.io",
+		"logo": { "src": "http://hicky.io/assets/img/hicky-icon.svg", "width": "28", "height": "28", "ipfs_hash": "" },
+		"support": { "email": "support@hicky.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/hickynews",
+			"chat": "https://t.me/getpicky",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/HickyToken/hickycontracts",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/getpicky",
+			"twitter": "https://twitter.com/HickyDapp",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "HMQ",
 		"address": "0xcbCC0F036ED4788F63FC0fEE32873d6A7487b908",
 		"decimals": 8,
