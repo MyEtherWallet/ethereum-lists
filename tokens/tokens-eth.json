@@ -1335,6 +1335,36 @@
 		}
 	},
 	{
+		"symbol": "BERRY",
+		"address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+		"decimals": 14,
+		"name": "Berry",
+		"ens_address": "",
+		"website": "https://rentberry.com",
+		"logo": {
+			"src": "https://etherscan.io/token/images/rentberry_28.png",
+			"width": 28,
+			"height": 28,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "hello@rentberry.com", "url": "https://rentberry.com/contact" },
+		"social": {
+			"blog": "https://rentberry.com/blog",
+			"chat": "",
+			"facebook": "https://www.facebook.com/RentberryInc",
+			"forum": "https://bitcointalk.org/index.php?topic=2448767",
+			"github": "https://github.com/Rentberry",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/rentberry",
+			"reddit": "https://www.reddit.com/r/Rentberry",
+			"slack": "",
+			"telegram": "https://t.me/rentberry",
+			"twitter": "https://twitter.com/rentberry_",
+			"youtube": "https://www.youtube.com/channel/UC1tJKugchHhE_2Y9kWJNXLA"
+		}
+	},
+	{
 		"symbol": "BET",
 		"address": "0x8aA33A7899FCC8eA5fBe6A608A109c3893A1B8b2",
 		"decimals": 18,
