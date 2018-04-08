@@ -4639,29 +4639,26 @@
 		"ens_address": "",
 		"website": "https://www.edc.network",
 		"logo": {
-		"src": "https://edc.network/images/edc-logo28.png",
-		"width": "28",
-		"height": "28",
-		"ipfs_hash": ""
+			"src": "https://edc.network/images/edc-logo28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
 		},
-		"support": {
-		"email": "info@edc.network",
-		"url": ""
-		},
+		"support": { "email": "info@edc.network", "url": "" },
 		"social": {
-		"blog": "",
-		"chat": "",
-		"facebook": "",
-		"forum": "",
-		"github": "",
-		"gitter": "",
-		"instagram": "",
-		"linkedin": "",
-		"reddit": "",
-		"slack": "",
-		"telegram": "",
-		"twitter": "",
-		"youtube": ""
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
