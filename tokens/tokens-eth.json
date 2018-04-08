@@ -1,27 +1,29 @@
 [
 	{
-		"symbol": "$TEAK",
-		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
-		"decimals": 18,
-		"name": "$TEAK",
+		"symbol": "XGG",
+		"address": "0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7",
+		"decimals": 8,
+		"name": "Going Gems",
 		"ens_address": "",
-		"website": "https://steak.network",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@steak.network", "url": "" },
+		"website": "https://www.going-gems.com",
+		"logo": { "https://www.going-gems.com/": "", "50px": "", "50px": "", "png": "" },
+		"support": { "email": "support@going-gems.com", "url": "" },
 		"social": {
-			"blog": "",
+			"blog": "https://www.going-gems.com/#blog",
 			"chat": "",
-			"facebook": "",
+			"facebook": "https://web.facebook.com/Going-Gems-307192689810299/",
 			"forum": "",
-			"github": "",
+			"github": "https://github.com/GoingGems",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
+			"slack": "https://goinggemsholding.slack.com",
+			"telegram": "https://t.me/GoingGemsChannel",
+			"twitter": "https://twitter.com/GoingGems",
 			"youtube": ""
+			
+			"Added XGG Token to Default"
 		}
 	},
 	{
