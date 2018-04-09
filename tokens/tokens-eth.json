@@ -13008,6 +13008,31 @@
 		}
 	},
 	{
+		"symbol": "THETA",
+		"address": "0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+		"decimals": 18,
+		"name": "Theta Token",
+		"ens_address": "",
+		"website": "https://www.thetatoken.org/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "support@thetatoken.org", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "facebook.com/ThetaToken/",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "reddit.com/r/thetatoken/",
+			"slack": "",
+			"telegram": "https://t.me/thetatoken",
+			"twitter": "twitter.com/thetatoken",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "TIME",
 		"address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
 		"decimals": 8,
