@@ -1,5 +1,29 @@
 [
 	{
+		"symbol": "COIL",
+		"address": "0x0c91b015aba6f7b4738dcd36e7410138b29adc29",
+		"decimals": 8,
+		"name": "CoinOil",
+		"ens_address": "",
+		"website": "https://coinoil.io/",
+		"logo": { "src": "https://coinoil.io/oldw/assets/images/logo/icon.png", "width": "146", "height": "157", "ipfs_hash": "" },
+		"support": { "email": "support@Coinoil.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://fb.com/CoinOil",
+			"forum": "",
+			"github": "https://github.com/CoinOil",
+			"gitter": "",
+			"instagram": "https://instagram.com/coinoil.io",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://www.twitter.com/Coinoil",
+			"youtube": ""
+		}
+	{
 		"symbol": "$TEAK",
 		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
 		"decimals": 18,
