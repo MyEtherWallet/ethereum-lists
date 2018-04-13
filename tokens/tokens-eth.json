@@ -1,5 +1,30 @@
 [
 	{
+		"symbol": "DTT",
+		"address": "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676",
+		"decimals": 18,
+		"name": "Delphi Tech Token",
+		"ens_address": "",
+		"website": "https://delphifund.org/",
+		"logo": { "src": "https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg", "width": "400", "height": "400", "ipfs_hash": "" },
+		"support": { "email": "support@delphifund.org", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/DTToken",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/Delphitechtoken",
+			"youtube": ""
+		}
+		
+	{
 		"symbol": "COIL",
 		"address": "0x0c91b015aba6f7b4738dcd36e7410138b29adc29",
 		"decimals": 8,
