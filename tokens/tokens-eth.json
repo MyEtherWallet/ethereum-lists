@@ -6,7 +6,13 @@
 		"name": "Delphi Tech Token",
 		"ens_address": "",
 		"website": "https://delphifund.org/",
-		"logo": { "src": "https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg", "width": "400", "height": "400", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg",
+			"width": "400",
+			"height": "400",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@delphifund.org", "url": "" },
 		"social": {
 			"blog": "",
@@ -23,7 +29,7 @@
 			"twitter": "https://twitter.com/Delphitechtoken",
 			"youtube": ""
 		}
-		
+	},
 	{
 		"symbol": "COIL",
 		"address": "0x0c91b015aba6f7b4738dcd36e7410138b29adc29",
@@ -31,7 +37,12 @@
 		"name": "CoinOil",
 		"ens_address": "",
 		"website": "https://coinoil.io/",
-		"logo": { "src": "https://coinoil.io/oldw/assets/images/logo/icon.png", "width": "146", "height": "157", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://coinoil.io/oldw/assets/images/logo/icon.png",
+			"width": "146",
+			"height": "157",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@Coinoil.io", "url": "" },
 		"social": {
 			"blog": "",
@@ -48,6 +59,7 @@
 			"twitter": "https://www.twitter.com/Coinoil",
 			"youtube": ""
 		}
+	},
 	{
 		"symbol": "$TEAK",
 		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
@@ -1101,7 +1113,12 @@
 		"name": "AX1 Mining Token",
 		"ens_address": "token.ax1mining.eth",
 		"website": "https://ax1.io",
-		"logo": { "src": "https://ax1.io/images/AX1-Platinum-Coin.png", "width": "100", "height": "100", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://ax1.io/images/AX1-Platinum-Coin.png",
+			"width": "100",
+			"height": "100",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "online@ax1.io", "url": "" },
 		"social": {
 			"blog": "https://medium.com/@support_98049",
@@ -1421,7 +1438,10 @@
 			"height": 28,
 			"ipfs_hash": ""
 		},
-		"support": { "email": "hello@rentberry.com", "url": "https://rentberry.com/contact" },
+		"support": {
+			"email": "hello@rentberry.com",
+			"url": "https://rentberry.com/contact"
+		},
 		"social": {
 			"blog": "https://rentberry.com/blog",
 			"chat": "",
@@ -2496,8 +2516,16 @@
 		"name": "CarbCoin",
 		"ens_address": "",
 		"website": "https://carbcoin.eu/",
-		"logo": {"src": "https://carbcoin.eu/logo.jpg","width": 400,"height": 400,"ipfs_hash": ""},
-		"support": { "email": "support@carbcoin.com", "url": "https://carbcoin.eu/" },
+		"logo": {
+			"src": "https://carbcoin.eu/logo.jpg",
+			"width": 400,
+			"height": 400,
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@carbcoin.com",
+			"url": "https://carbcoin.eu/"
+		},
 		"social": {
 			"blog": "https://medium.com/@carbcoin",
 			"chat": "",
@@ -5516,7 +5544,12 @@
 		"name": "Filmscoin",
 		"ens_address": "",
 		"website": "https://filmscoin.com",
-		"logo": { "src": "https://filmscoin.com/images/icon-flmc28.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://filmscoin.com/images/icon-flmc28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
@@ -5979,7 +6012,12 @@
 		"name": "Globcoin Crypto Platform",
 		"ens_address": "",
 		"website": "https://globcoin.io/",
-		"logo": { "src": "https://globcoin.io/assets/img/favicon-128x128.png", "width": "128", "height": "128", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://globcoin.io/assets/img/favicon-128x128.png",
+			"width": "128",
+			"height": "128",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "community@globcoin.io", "url": "" },
 		"social": {
 			"blog": "https://medium.com/@globcoin_io",
@@ -5994,7 +6032,8 @@
 			"slack": "",
 			"telegram": "https://t.me/globcoin",
 			"twitter": "https://twitter.com/Globcoin_io",
-			"youtube": "https://www.youtube.com/channel/UCd5vYU38p0YrQTUZ6UEKGdA/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UCd5vYU38p0YrQTUZ6UEKGdA/videos"
 		}
 	},
 	{
@@ -6512,7 +6551,12 @@
 		"name": "Hicky",
 		"ens_address": "",
 		"website": "https://hicky.io",
-		"logo": { "src": "http://hicky.io/assets/img/hicky-icon.svg", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src": "http://hicky.io/assets/img/hicky-icon.svg",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@hicky.io", "url": "" },
 		"social": {
 			"blog": "https://medium.com/hickynews",
@@ -6640,7 +6684,7 @@
 			"youtube": ""
 		}
 	},
-		{
+	{
 		"symbol": "HOT",
 		"address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
 		"decimals": 18,
@@ -6648,12 +6692,16 @@
 		"ens_address": "token.holo-host.eth",
 		"website": "https://holo.host/",
 		"logo": {
-			"src": "https://holo.host/wp-content/uploads/2017/12/Holologo_Profile.png",
+			"src":
+				"https://holo.host/wp-content/uploads/2017/12/Holologo_Profile.png",
 			"width": "1580",
 			"height": "1580",
 			"ipfs_hash": ""
 		},
-		"support": { "email": "help@holo.host", "url": "https://chat.holochain.org" },
+		"support": {
+			"email": "help@holo.host",
+			"url": "https://chat.holochain.org"
+		},
 		"social": {
 			"blog": "https://medium.com/h-o-l-o",
 			"chat": "https://chat.holochain.org",
@@ -7540,7 +7588,7 @@
 			"youtube": "https://www.youtube.com/channel/UCsilze3-MhbCY3_QkKul3PQ"
 		}
 	},
-		{
+	{
 		"symbol": "KEY",
 		"address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
 		"decimals": 18,
@@ -8220,7 +8268,7 @@
 			"twitter": "",
 			"youtube": ""
 		}
-	},	
+	},
 	{
 		"symbol": "LOK",
 		"address": "0x21ae23b882a340a22282162086bc98d3e2b73018",
@@ -8434,6 +8482,31 @@
 		"address": "0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
 		"decimals": 18,
 		"name": "MAD",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "MAN",
+		"address": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+		"decimals": 18,
+		"name": "MAN",
 		"ens_address": "",
 		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
@@ -8688,7 +8761,32 @@
 		}
 	},
 	{
-		"symbol": "MIT",
+		"symbol": "MIT (Mainstreet)",
+		"address": "0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+		"decimals": 18,
+		"name": "Mainstreet",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "MIT (Mychatcoin)",
 		"address": "0xad8dd4c725de1d31b9e8f8d146089e9dc6882093",
 		"decimals": 6,
 		"name": "Mychatcoin",
@@ -8709,31 +8807,6 @@
 			"slack": "",
 			"telegram": "t.me/mychatcoin",
 			"twitter": "https://twitter.com/mychatcoin",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "MIT",
-		"address": "0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
-		"decimals": 18,
-		"name": "MIT",
-		"ens_address": "",
-		"website": "",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -9248,7 +9321,8 @@
 		"ens_address": "",
 		"website": "https://tokensale.nebula-ai.network",
 		"logo": {
-			"src": "https://tokensale.nebula-ai.network/ressources/images/1801349612.jpg",
+			"src":
+				"https://tokensale.nebula-ai.network/ressources/images/1801349612.jpg",
 			"width": "320",
 			"height": "310",
 			"ipfs_hash": ""
@@ -9258,7 +9332,8 @@
 			"url": "https://www.nebula-ai.com/#Contact"
 		},
 		"social": {
-			"blog": "https://bitcointalk.org/index.php?topic=3220514.msg33494165#msg33494165",
+			"blog":
+				"https://bitcointalk.org/index.php?topic=3220514.msg33494165#msg33494165",
 			"chat": "",
 			"facebook": "https://www.facebook.com/NebulaAI",
 			"forum": "",
@@ -10707,7 +10782,13 @@
 		"name": "PronCoin",
 		"ens_address": "",
 		"website": "https://proncoin.io",
-		"logo": { "src": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg", "width": "400", "height": "400", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+			"width": "400",
+			"height": "400",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@proncoin.io", "url": "https://proncoin.io" },
 		"social": {
 			"blog": "",
@@ -10840,8 +10921,16 @@
 		"name": "ParrotCoin",
 		"ens_address": "",
 		"website": "http://parrotcoin.club",
-		"logo": { "src": "http://parrotcoin.club/favicon.ico", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@parrotcoin.club", "url": "http://parrotcoin.club/contact.html" },
+		"logo": {
+			"src": "http://parrotcoin.club/favicon.ico",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "info@parrotcoin.club",
+			"url": "http://parrotcoin.club/contact.html"
+		},
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -11363,8 +11452,16 @@
 		"name": "Refereum",
 		"ens_address": "refereum.eth",
 		"website": "https://refereum.com",
-		"logo": { "src": "28", "width": "28", "height": "https://etherscan.io/token/images/refereum.png", "ipfs_hash": "" },
-		"support": { "email": "team@refereum.com", "url": "https://help.refereum.com/" },
+		"logo": {
+			"src": "28",
+			"width": "28",
+			"height": "https://etherscan.io/token/images/refereum.png",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "team@refereum.com",
+			"url": "https://help.refereum.com/"
+		},
 		"social": {
 			"blog": "https://medium.com/refereum",
 			"chat": "https://discordapp.com/invite/RASrHyD",
@@ -13289,6 +13386,31 @@
 		}
 	},
 	{
+		"symbol": "THUG",
+		"address": "0xfe7B915A0bAA0E79f85c5553266513F7C1c03Ed0",
+		"decimals": 18,
+		"name": "",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "TIME",
 		"address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
 		"decimals": 8,
@@ -13983,8 +14105,7 @@
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": {
 			"email": "",
-			"url":
-				""
+			"url": ""
 		},
 		"social": {
 			"blog": "https://medium.com/viceindustrytoken",
@@ -15245,7 +15366,12 @@
 		"name": "AmberTime Coin",
 		"ens_address": "",
 		"website": "https://ambertime.org/",
-		"logo": { "src": "https://ambertime.org/img/amber-logo-white.png", "width": "780", "height": "228", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://ambertime.org/img/amber-logo-white.png",
+			"width": "780",
+			"height": "228",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "info@ambertime.org", "url": "" },
 		"social": {
 			"blog": "",
@@ -15288,30 +15414,35 @@
 			"youtube": ""
 		}
 	},
-  {
-    "symbol": "ROCK",
-    "address": "0xA40106134c5bF4c41411554e6db99B95A15ed9d8",
-    "decimals": 18,
-    "name": "Rocket Token",
-    "ens_address": "",
-    "website": "https://rocketico.io",
-    "logo": { "src": "https://rocketico.io/app/media/token_icon.png", "width": 34, "height": 34, "ipfs_hash": "" },
-    "support": { "email": "support@rocketico.io", "url": "" },
-    "social": {
-      "blog": "https://blog.rocketico.io/",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "https://github.com/rocketico",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company-beta/18198957/",
-      "reddit": "",
-      "slack": "",
-      "telegram": "https://t.me/RocketICOen",
-      "twitter": "https://twitter.com/rocketico_io",
-      "youtube": "https://www.youtube.com/channel/UCzwtmszqPnIdzdj2hYoa2YQ"
-	  }
+	{
+		"symbol": "ROCK",
+		"address": "0xA40106134c5bF4c41411554e6db99B95A15ed9d8",
+		"decimals": 18,
+		"name": "Rocket Token",
+		"ens_address": "",
+		"website": "https://rocketico.io",
+		"logo": {
+			"src": "https://rocketico.io/app/media/token_icon.png",
+			"width": 34,
+			"height": 34,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@rocketico.io", "url": "" },
+		"social": {
+			"blog": "https://blog.rocketico.io/",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/rocketico",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company-beta/18198957/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/RocketICOen",
+			"twitter": "https://twitter.com/rocketico_io",
+			"youtube": "https://www.youtube.com/channel/UCzwtmszqPnIdzdj2hYoa2YQ"
+		}
 	},
 	{
 		"symbol": "VOC",
@@ -15320,12 +15451,18 @@
 		"name": "VORMACOIN",
 		"ens_address": "",
 		"website": "https://vormacoin.io/",
-		"logo": { "src": "https://vormacoin.io/assets/images/logo/icon.png", "width": "200", "height": "150", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://vormacoin.io/assets/images/logo/icon.png",
+			"width": "200",
+			"height": "150",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "info@vormacoin.io", "url": "" },
 		"social": {
 			"blog": "https://blog.vormacoin.com/",
 			"chat": "",
-			"facebook": "https://www.facebook.com/VormaCoin-421138531662966/?ref=br_rs",
+			"facebook":
+				"https://www.facebook.com/VormaCoin-421138531662966/?ref=br_rs",
 			"forum": "",
 			"github": "https://github.com/vormacoin",
 			"gitter": "",
@@ -15337,7 +15474,7 @@
 			"twitter": "https://twitter.com/vormacoin",
 			"youtube": ""
 		}
-  },
+	},
 	{
 		"symbol": "YEED",
 		"address": "0x6f7a4bac3315b5082f793161a22e26666d22717f",
@@ -15362,5 +15499,5 @@
 			"twitter": "",
 			"youtube": ""
 		}
-  }
+	}
 ]
