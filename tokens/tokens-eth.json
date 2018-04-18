@@ -6392,6 +6392,39 @@
 		}
 	},
 	{
+		"symbol": "eosDAC",
+		"address": "0x7e9e431a0b8c4d532c745b1043c7fa29a48d4fba",
+		"decimals": 18,
+		"name": "eosDAC",
+		"ens_address": "",
+		"website": "https://eosdac.io/",
+		"logo": {
+			"src": "https://eosdac.io/wp-content/uploads/2018/03/eosdaclogo1-200-jpeg.jpg",
+			"width": "200",
+			"height": "200",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "hello@eosdac.io",
+			"url": "https://t.me/eosdacio"
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://facebook.com/eosdac",
+			"forum": "",
+			"github": "https://github.com/eosdac",
+			"gitter": "",
+			"instagram": "https://instagram.com/eosdac",
+			"linkedin": "https://linkedin.com/company/eosdac",
+			"reddit": "https://www.reddit.com/r/EOSDAC/",
+			"slack": "",
+			"telegram": "https://t.me/eosdacio",
+			"twitter": "https://twitter.com/eosdac",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "EPX",
 		"address": "0x35BAA72038F127f9f8C8f9B491049f64f377914d",
 		"decimals": 4,
