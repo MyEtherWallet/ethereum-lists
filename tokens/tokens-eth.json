@@ -16184,6 +16184,38 @@
 			"youtube": ""
 		}
 	},
+	"symbol": "SSH",
+		"address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+		"decimals": 18,
+		"name": "StreamShares",
+		"ens_address": "",
+		"website": "https://stream.space/",
+		"logo": {
+			"src": "https://www.stream.space/images/stream_icon.png",
+			"width": "132",
+			"height": "132",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "help@stream.space",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://medium.com/@stream_space",
+			"chat": "",
+			"facebook": "https://facebook.com/streamspace",
+			"forum": "https://bitcointalk.org/index.php?topic=2214904.20",
+			"github": "https://github.com/streamspace",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/streamspaceinfo/",
+			"linkedin": "",
+			"reddit": "https://reddit.com/r/streamspace/",
+			"slack": "",
+			"telegram": "https://t.me/streamspace",
+			"twitter": "https://twitter.com/streamspaceinfo",
+			"youtube": "https://www.youtube.com/channel/UCe-hfYPH1Jy27uBOPiQ_ulw"
+		}
+	},
 	{
 		"symbol": "STAC",
 		"address": "0x9a005c9a89bd72a4bd27721e7a09a3c11d2b03c4",
