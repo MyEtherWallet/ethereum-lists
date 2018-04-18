@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"symbol": "DTT",
 		"address": "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676",
 		"decimals": 18,
@@ -6,7 +7,8 @@
 		"ens_address": "",
 		"website": "https://delphifund.org/",
 		"logo": {
-			"src": "https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg",
+			"src":
+				"https://delphifund.org/wp-content/uploads/2018/04/delphi400x400.jpg",
 			"width": "400",
 			"height": "400",
 			"ipfs_hash": ""
@@ -63,7 +65,8 @@
 			"twitter": "https://www.twitter.com/Coinoil",
 			"youtube": ""
 		}
-	}, {
+	},
+	{
 		"symbol": "$TEAK",
 		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
 		"decimals": 18,
@@ -1104,7 +1107,8 @@
 			"url": ""
 		},
 		"social": {
-			"blog": "https://support.cofound.it/hc/en-us/articles/115001315351-Crowdsale-token-list-information",
+			"blog":
+				"https://support.cofound.it/hc/en-us/articles/115001315351-Crowdsale-token-list-information",
 			"chat": "",
 			"facebook": "",
 			"forum": "",
@@ -1754,7 +1758,8 @@
 		"ens_address": "",
 		"website": "https://bitdegree.org",
 		"logo": {
-			"src": "https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
+			"src":
+				"https://raw.githubusercontent.com/bitdegree/banners/master/logos/2515x3285_letter_black.png",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -2197,7 +2202,8 @@
 			"chat": "",
 			"facebook": "https://www.facebook.com/BMChain",
 			"forum": "https://bitcointalk.org/index.php?topic=2096750.0",
-			"github": "https://github.com/BMChain/BMChain-Token-Distribution-Interface",
+			"github":
+				"https://github.com/BMChain/BMChain-Token-Distribution-Interface",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
@@ -2338,6 +2344,39 @@
 			"telegram": "https://t.me/bounty0x",
 			"twitter": "https://twitter.com/bounty0x",
 			"youtube": "https://www.youtube.com/channel/UCz6Sy-x4BhFR8CDT2bjGrLw"
+		}
+	},
+	{
+		"symbol": "BOB",
+		"address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+		"decimals": 18,
+		"name": "Bob's repair",
+		"ens_address": "",
+		"website": "https://bobsrepair.com",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
@@ -2499,7 +2538,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://www.reddit.com/r/Bitquence",
-			"slack": "https://join.slack.com/bitquence/shared_invite/MTk1NzYxMDkzMjAyLTE0OTcwNzI4ODUtNjhlYzRlY2Q2MQ",
+			"slack":
+				"https://join.slack.com/bitquence/shared_invite/MTk1NzYxMDkzMjAyLTE0OTcwNzI4ODUtNjhlYzRlY2Q2MQ",
 			"telegram": "https://t.me/joinchat/AAAAAEN05nZ0Fzxm_lmYiw",
 			"twitter": "https://twitter.com/bitquence",
 			"youtube": ""
@@ -2658,12 +2698,14 @@
 			"blog": "",
 			"chat": "",
 			"facebook": "",
-			"forum": "https://bitcointalk.org/index.php?topic=2098740.0;prev_next=prev",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2098740.0;prev_next=prev",
 			"github": "https://github.com/bitcoineum/Sharkpool",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://reddit.com/r/ethereum/comments/6oo54i/bitcoineum_virtual_mining_on_ethereum",
+			"reddit":
+				"https://reddit.com/r/ethereum/comments/6oo54i/bitcoineum_virtual_mining_on_ethereum",
 			"slack": "",
 			"telegram": "",
 			"twitter": "https://twitter.com/bitcoineum",
@@ -2909,7 +2951,8 @@
 		"ens_address": "",
 		"website": "https://bytom.io",
 		"logo": {
-			"src": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+			"src":
+				"https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
 			"width": 164,
 			"height": 63,
 			"ipfs_hash": ""
@@ -3027,7 +3070,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://reddit.com/r/cryptotwenty",
-			"slack": "https://join.slack.com/t/cryptotwenty/shared_invite/enQtMjU1NjI1NDg3NjMyLWU3NTUwMzY3NzA1MzFlYTMyMDYxYTQ5OTFhMzhhZDU4NWJkZjVhN2M2NTE2MDhhYTEyM2IwNWE4ZmQ3YTk5N2Y",
+			"slack":
+				"https://join.slack.com/t/cryptotwenty/shared_invite/enQtMjU1NjI1NDg3NjMyLWU3NTUwMzY3NzA1MzFlYTMyMDYxYTQ5OTFhMzhhZDU4NWJkZjVhN2M2NTE2MDhhYTEyM2IwNWE4ZmQ3YTk5N2Y",
 			"telegram": "",
 			"twitter": "https://twitter.com/CRYPTOtwenty",
 			"youtube": ""
@@ -3437,7 +3481,8 @@
 		"ens_address": "cacaoshares.eth",
 		"website": "http://www.cacaoshares.com",
 		"logo": {
-			"src": "http://cacaoshares.com/wp-content/uploads/2017/12/cropped-logo-cherry-2018-1-e1513046302595.png",
+			"src":
+				"http://cacaoshares.com/wp-content/uploads/2017/12/cropped-logo-cherry-2018-1-e1513046302595.png",
 			"width": "28",
 			"height": "28",
 			"ipfs_hash": ""
@@ -3668,7 +3713,8 @@
 		"ens_address": "",
 		"website": "https://www.cryptoliveleak.com/",
 		"logo": {
-			"src": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
+			"src":
+				"https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
 			"width": "28",
 			"height": "28",
 			"ipfs_hash": ""
@@ -3767,7 +3813,8 @@
 		"ens_address": "",
 		"website": "https://www.coinmarketbrasil.com.br",
 		"logo": {
-			"src": "https://2.bp.blogspot.com/-J35HB-_P0u8/WngvMTjjb6I/AAAAAAAAKzI/KO0DgrLZAV0TxF8dc3faw36XqR9msmP2gCLcBGAs/s1600/eth-cmbt.png",
+			"src":
+				"https://2.bp.blogspot.com/-J35HB-_P0u8/WngvMTjjb6I/AAAAAAAAKzI/KO0DgrLZAV0TxF8dc3faw36XqR9msmP2gCLcBGAs/s1600/eth-cmbt.png",
 			"width": "28",
 			"height": "28",
 			"ipfs_hash": ""
@@ -3998,7 +4045,8 @@
 		"ens_address": "",
 		"website": "https://www.coinfi.com",
 		"logo": {
-			"src": "https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
+			"src":
+				"https://blog.coinfi.com/wp-content/uploads/2018/01/coinfi-token-logo_28x28.png",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -4328,7 +4376,8 @@
 		"ens_address": "",
 		"website": "www.cryptotask.org",
 		"logo": {
-			"src": "https://www.cryptotask.org/wp-content/uploads/2017/10/Logo_H-01.svg",
+			"src":
+				"https://www.cryptotask.org/wp-content/uploads/2017/10/Logo_H-01.svg",
 			"width": "",
 			"height": "",
 			"ipfs_hash": ""
@@ -4394,7 +4443,8 @@
 		"ens_address": "",
 		"website": "https://chaintrade.net",
 		"logo": {
-			"src": "https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png",
+			"src":
+				"https://chaintrade.net/wp-content/uploads/2017/09/chaintrade-logo-600x600.png",
 			"width": 600,
 			"height": 600,
 			"ipfs_hash": ""
@@ -4947,7 +4997,8 @@
 		"ens_address": "",
 		"website": "http://www.dobetacceptbet.com",
 		"logo": {
-			"src": "https://cdn1.savepice.ru/uploads/2018/2/13/8c1a008b4e617ec75c4febe81f32ced5-full.png",
+			"src":
+				"https://cdn1.savepice.ru/uploads/2018/2/13/8c1a008b4e617ec75c4febe81f32ced5-full.png",
 			"width": "",
 			"height": "",
 			"ipfs_hash": ""
@@ -5211,7 +5262,8 @@
 		"ens_address": "token.digipulse.eth",
 		"website": "https://www.digipulse.io",
 		"logo": {
-			"src": "https://files.coinmarketcap.com/static/img/coins/200x200/digipulse.png",
+			"src":
+				"https://files.coinmarketcap.com/static/img/coins/200x200/digipulse.png",
 			"width": 200,
 			"height": 200,
 			"ipfs_hash": ""
@@ -5515,7 +5567,8 @@
 		},
 		"support": {
 			"email": "",
-			"url": "https://support.cofound.it/hc/en-us/articles/115001315351-Crowdsale-token-list-information"
+			"url":
+				"https://support.cofound.it/hc/en-us/articles/115001315351-Crowdsale-token-list-information"
 		},
 		"social": {
 			"blog": "",
@@ -5563,7 +5616,8 @@
 			"slack": "",
 			"telegram": "https://t.me/dragontalk",
 			"twitter": "https://twitter.com/dragonchaingang",
-			"youtube": "https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
 		}
 	},
 	{
@@ -5717,7 +5771,8 @@
 		},
 		"social": {
 			"blog": "",
-			"chat": "https://tawk.to/chat/54f94986d99780432012be7e/default/?$_tawk_popout=true",
+			"chat":
+				"https://tawk.to/chat/54f94986d99780432012be7e/default/?$_tawk_popout=true",
 			"facebook": "web.facebook.com/digitalsafecoin/",
 			"forum": "",
 			"github": "github.com/xxxxyy1",
@@ -6399,7 +6454,8 @@
 		"ens_address": "",
 		"website": "https://eosdac.io/",
 		"logo": {
-			"src": "https://eosdac.io/wp-content/uploads/2018/03/eosdaclogo1-200-jpeg.jpg",
+			"src":
+				"https://eosdac.io/wp-content/uploads/2018/03/eosdaclogo1-200-jpeg.jpg",
 			"width": "200",
 			"height": "200",
 			"ipfs_hash": ""
@@ -6655,7 +6711,7 @@
 			"youtube": ""
 		}
 	},
- 	{
+	{
 		"symbol": "eUSD",
 		"address": "0x523630976eB6147621B5c31c781eBe2Ec2a806E0",
 		"decimals": 18,
@@ -6828,7 +6884,8 @@
 		"ens_address": "",
 		"website": "https://erupee.wordpress.com",
 		"logo": {
-			"src": "https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
+			"src":
+				"https://raw.githubusercontent.com/eRupee/images/master/coin%20logo.png",
 			"width": 900,
 			"height": 720,
 			"ipfs_hash": ""
@@ -6894,7 +6951,8 @@
 		"ens_address": "",
 		"website": "https://fortknoxster.com",
 		"logo": {
-			"src": "https://fortknoxster.com/wp-content/uploads/2017/11/FortKnoxster-Icon-256.png",
+			"src":
+				"https://fortknoxster.com/wp-content/uploads/2017/11/FortKnoxster-Icon-256.png",
 			"width": "",
 			"height": "",
 			"ipfs_hash": ""
@@ -6916,7 +6974,8 @@
 			"slack": "",
 			"telegram": "https://t.me/FortKnoxster",
 			"twitter": "https://twitter.com/FortKnoxster",
-			"youtube": "https://www.youtube.com/channel/UCZB8URO26cktviSxp3SeHig/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UCZB8URO26cktviSxp3SeHig/videos"
 		}
 	},
 	{
@@ -7059,7 +7118,8 @@
 		"ens_address": "",
 		"website": "fluxproject.xyz",
 		"logo": {
-			"src": "https://fluxproject.xyz/gallery_gen/271ecfb9c8f4f7dfc5ea539cfa57f44d_150x150.png",
+			"src":
+				"https://fluxproject.xyz/gallery_gen/271ecfb9c8f4f7dfc5ea539cfa57f44d_150x150.png",
 			"width": "150",
 			"height": "150",
 			"ipfs_hash": ""
@@ -7092,7 +7152,8 @@
 		"ens_address": "",
 		"website": "https://fundrequest.io",
 		"logo": {
-			"src": "https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
+			"src":
+				"https://raw.githubusercontent.com/FundRequest/logo/master/Logo%20icon%20500x500.png",
 			"width": "500",
 			"height": "500",
 			"ipfs_hash": "QmbGpu4tWoHEtPy64tNeYENsNqTSF22U12VRYswhjYjNcj"
@@ -7276,7 +7337,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://www.reddit.com/r/FuckToken",
-			"slack": "https://fucktoken.slack.com/join/shared_invite/MjMyNDgzNzc4MDY1LTE1MDM5Nzg2MTctY2FlOWMzMGNiMw",
+			"slack":
+				"https://fucktoken.slack.com/join/shared_invite/MjMyNDgzNzc4MDY1LTE1MDM5Nzg2MTctY2FlOWMzMGNiMw",
 			"telegram": "",
 			"twitter": "https://twitter.com/FuckToken",
 			"youtube": ""
@@ -7341,7 +7403,8 @@
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/FunfairTech/comments/6nadvm/funfair_token_contract_update",
+			"reddit":
+				"https://www.reddit.com/r/FunfairTech/comments/6nadvm/funfair_token_contract_update",
 			"slack": "https://funfair-slackin.herokuapp.com",
 			"telegram": "",
 			"twitter": "https://twitter.com/FunFairTech/status/885910956701876224",
@@ -7389,7 +7452,8 @@
 		"ens_address": "",
 		"website": "http://gambitcrypto.com",
 		"logo": {
-			"src": "https://gateway.ipfs.io/ipfs/QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
+			"src":
+				"https://gateway.ipfs.io/ipfs/QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
 			"width": 4167,
 			"height": 4167,
 			"ipfs_hash": "QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh"
@@ -7676,7 +7740,8 @@
 			"slack": "https://www.mercuryprotocol.com/slack",
 			"telegram": "https://t.me/joinchat/G47gcA8f5EYFfEsILw7H2w",
 			"twitter": "https://twitter.com/mercuryprotocol",
-			"youtube": "https://www.youtube.com/channel/UCa_tIG6rzXFBYpyMM_CuCQA/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UCa_tIG6rzXFBYpyMM_CuCQA/videos"
 		}
 	},
 	{
@@ -8017,7 +8082,8 @@
 		"ens_address": "",
 		"website": "https://gazecoin.io",
 		"logo": {
-			"src": "https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
+			"src":
+				"https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -8200,7 +8266,8 @@
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/icocrypto/comments/7dcfv7/ann_ethereum_high_ico_launch_on_20th/",
+			"reddit":
+				"https://www.reddit.com/r/icocrypto/comments/7dcfv7/ann_ethereum_high_ico_launch_on_20th/",
 			"slack": "",
 			"telegram": "",
 			"twitter": "https://twitter.com/Ethereum_High",
@@ -8513,7 +8580,8 @@
 		"ens_address": "",
 		"website": "http://hedpay.com",
 		"logo": {
-			"src": "http://hedpay.com/content/images/systemCustom/o5VT92nyPRvA7E5j7ij265rHsezBdwnk04bXYqoY0OTsUF4IzFEIubdyfRlkLcDH_28x28.png?version=4.7.1&width=809&height=509",
+			"src":
+				"http://hedpay.com/content/images/systemCustom/o5VT92nyPRvA7E5j7ij265rHsezBdwnk04bXYqoY0OTsUF4IzFEIubdyfRlkLcDH_28x28.png?version=4.7.1&width=809&height=509",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -8546,7 +8614,8 @@
 		"ens_address": "",
 		"website": "http://hedpay.com",
 		"logo": {
-			"src": "http://hedpay.com/content/images/systemCustom/o5VT92nyPRvA7E5j7ij265rHsezBdwnk04bXYqoY0OTsUF4IzFEIubdyfRlkLcDH_28x28.png?version=4.7.1&width=809&height=509",
+			"src":
+				"http://hedpay.com/content/images/systemCustom/o5VT92nyPRvA7E5j7ij265rHsezBdwnk04bXYqoY0OTsUF4IzFEIubdyfRlkLcDH_28x28.png?version=4.7.1&width=809&height=509",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -8889,7 +8958,8 @@
 			"blog": "",
 			"chat": "",
 			"facebook": "https://www.facebook.com/IMmune-Coin-1932949320301974",
-			"forum": "https://bitcointalk.org/index.php?topic=2336357.msg23877644#msg23877644",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2336357.msg23877644#msg23877644",
 			"github": "",
 			"gitter": "",
 			"instagram": "",
@@ -9151,7 +9221,8 @@
 		},
 		"social": {
 			"blog": "https://medium.com/@IoT_Chain",
-			"chat": "http://qm.qq.com/cgi-bin/qm/qr?k=CjS_9da0Uj5SfXX8Wm1PIDuL_Nbjzmc3",
+			"chat":
+				"http://qm.qq.com/cgi-bin/qm/qr?k=CjS_9da0Uj5SfXX8Wm1PIDuL_Nbjzmc3",
 			"facebook": "https://www.facebook.com/IoTChain/",
 			"forum": "https://bitcointalk.org/index.php?topic=2612309.0",
 			"github": "https://github.com/IoTChainCode",
@@ -9756,7 +9827,8 @@
 			"slack": "",
 			"telegram": "https://t.me/la_token",
 			"twitter": "https://twitter.com/LATokens",
-			"youtube": "https://www.youtube.com/channel/UCvTfsRYJYD2X26VXbqDVgTQ/featured"
+			"youtube":
+				"https://www.youtube.com/channel/UCvTfsRYJYD2X26VXbqDVgTQ/featured"
 		}
 	},
 	{
@@ -9789,7 +9861,8 @@
 			"slack": "http://bit.ly/2yiWRE4",
 			"telegram": "https://t.me/LaLaWorld",
 			"twitter": "https://twitter.com/MyLaLaWorld",
-			"youtube": "https://www.youtube.com/channel/UCCcnh2DTw_mXECPgOOBN84Q/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UCCcnh2DTw_mXECPgOOBN84Q/videos"
 		}
 	},
 	{
@@ -10173,7 +10246,8 @@
 			"url": ""
 		},
 		"social": {
-			"blog": "https://medium.com/blocklancer-revolution-of-the-freelance-job-market",
+			"blog":
+				"https://medium.com/blocklancer-revolution-of-the-freelance-job-market",
 			"chat": "https://discordapp.com/invite/Jw4wCsm",
 			"facebook": "https://www.facebook.com/blocklancer",
 			"forum": "https://bitcointalk.org/index.php?topic=1974481",
@@ -10196,7 +10270,8 @@
 		"ens_address": "",
 		"website": "https://www.linkercoin.com/en",
 		"logo": {
-			"src": "https://drive.google.com/file/d/1nvFvAFWTuMg5pH7W7Apoe_-Xob2-TY_u/view?usp=sharing",
+			"src":
+				"https://drive.google.com/file/d/1nvFvAFWTuMg5pH7W7Apoe_-Xob2-TY_u/view?usp=sharing",
 			"width": 150,
 			"height": 150,
 			"ipfs_hash": ""
@@ -10308,7 +10383,8 @@
 			"blog": "https://medium.com/@John_Loci",
 			"chat": "",
 			"facebook": "https://www.facebook.com/Loci.InnVenn/",
-			"forum": "https://bitcointalk.org/index.php?topic=2161880.msg21647125#msg21647125",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2161880.msg21647125#msg21647125",
 			"github": "http://github.com/locipro/loci-coin-sale",
 			"gitter": "",
 			"instagram": "",
@@ -11189,7 +11265,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://reddit.com/r/goldmintio",
-			"slack": "https://join.slack.com/t/goldmint/shared_invite/MjE0MTY4NDQxMTUyLTE1MDA0NzM2MDctN2U3NTRhYmZhZQ",
+			"slack":
+				"https://join.slack.com/t/goldmint/shared_invite/MjE0MTY4NDQxMTUyLTE1MDA0NzM2MDctN2U3NTRhYmZhZQ",
 			"telegram": "https://t.me/goldmintio",
 			"twitter": "https://twitter.com/Goldmint_io",
 			"youtube": ""
@@ -11353,7 +11430,8 @@
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/ethereum/comments/6iln7f/a_brief_overview_and_critique_of_the_monetha",
+			"reddit":
+				"https://www.reddit.com/r/ethereum/comments/6iln7f/a_brief_overview_and_critique_of_the_monetha",
 			"slack": "https://monetha.slack.com",
 			"telegram": "https://t.me/monetha_io",
 			"twitter": "https://twitter.com/Monetha_io",
@@ -12179,7 +12257,8 @@
 		"ens_address": "",
 		"website": "https://www.OriginalCryptoCoin.com/",
 		"logo": {
-			"src": "https://originalcryptocoin.com/wp-content/uploads/2018/01/cc-black-500.png",
+			"src":
+				"https://originalcryptocoin.com/wp-content/uploads/2018/01/cc-black-500.png",
 			"width": "500",
 			"height": "500",
 			"ipfs_hash": ""
@@ -12311,7 +12390,8 @@
 		"ens_address": "",
 		"website": "openfuture.io",
 		"logo": {
-			"src": "https://www.openfuture.io/assets/fancyLogo/Open_Fancy-Logo_120x120.png",
+			"src":
+				"https://www.openfuture.io/assets/fancyLogo/Open_Fancy-Logo_120x120.png",
 			"width": "120px",
 			"height": "120px",
 			"ipfs_hash": ""
@@ -12759,7 +12839,8 @@
 			"instagram": "",
 			"linkedin": "https://www.linkedin.com/company/25046861",
 			"reddit": "https://www.reddit.com/r/Peculium",
-			"slack": "https://join.slack.com/t/peculium/shared_invite/enQtMjc2Nzc5NjA0Nzg4LTJiYmYyMGQ0Y2VlYzUyOTcwOTIwYmRkNzczODQyMWMyZWE4ZGZkMGM3NGU5OTRkM2YwNWQ5MmFlNjkzNmI4M2Q",
+			"slack":
+				"https://join.slack.com/t/peculium/shared_invite/enQtMjc2Nzc5NjA0Nzg4LTJiYmYyMGQ0Y2VlYzUyOTcwOTIwYmRkNzczODQyMWMyZWE4ZGZkMGM3NGU5OTRkM2YwNWQ5MmFlNjkzNmI4M2Q",
 			"telegram": "https://t.me/ico_peculium",
 			"twitter": "https://twitter.com/_Peculium",
 			"youtube": "https://www.youtube.com/watch?v=kg2vYFJ_R50"
@@ -12792,7 +12873,8 @@
 			"instagram": "",
 			"linkedin": "https://www.linkedin.com/company/25046861",
 			"reddit": "https://www.reddit.com/r/Peculium",
-			"slack": "https://join.slack.com/t/peculium/shared_invite/enQtMjc2Nzc5NjA0Nzg4LTJiYmYyMGQ0Y2VlYzUyOTcwOTIwYmRkNzczODQyMWMyZWE4ZGZkMGM3NGU5OTRkM2YwNWQ5MmFlNjkzNmI4M2Q",
+			"slack":
+				"https://join.slack.com/t/peculium/shared_invite/enQtMjc2Nzc5NjA0Nzg4LTJiYmYyMGQ0Y2VlYzUyOTcwOTIwYmRkNzczODQyMWMyZWE4ZGZkMGM3NGU5OTRkM2YwNWQ5MmFlNjkzNmI4M2Q",
 			"telegram": "https://t.me/ico_peculium",
 			"twitter": "https://twitter.com/_Peculium",
 			"youtube": "https://www.youtube.com/watch?v=kg2vYFJ_R50"
@@ -12885,7 +12967,8 @@
 			"blog": "https://prime-ex.com/pex-blog",
 			"chat": "",
 			"facebook": "https://www.facebook.com/PEXTokens",
-			"forum": "https://bitcointalk.org/index.php?topic=2150472.msg21513985#msg21513985",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2150472.msg21513985#msg21513985",
 			"github": "",
 			"gitter": "",
 			"instagram": "",
@@ -12894,7 +12977,8 @@
 			"slack": "",
 			"telegram": "https://t.me/PEXTokens",
 			"twitter": "https://twitter.com/PEXTokens",
-			"youtube": "https://www.youtube.com/channel/UCQ_4BHl1qE1dz_vijSt_tqw?view_as=subscriber"
+			"youtube":
+				"https://www.youtube.com/channel/UCQ_4BHl1qE1dz_vijSt_tqw?view_as=subscriber"
 		}
 	},
 	{
@@ -13017,13 +13101,15 @@
 			"blog": "",
 			"chat": "",
 			"facebook": "https://www.facebook.com/herosphere.gg",
-			"forum": "https://bitcointalk.org/index.php?topic=2116864.msg21169697#msg21169697",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2116864.msg21169697#msg21169697",
 			"github": "",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://www.reddit.com/r/HEROcoin",
-			"slack": "https://join.slack.com/t/herocoin/shared_invite/enQtMjQyNTQ1NDU3ODYxLTVmMzlmNTg5ZTUyODM4NzFjZGVjNGFlZjYzOTM0MzI1YWIwZWMxN2UzMWMxYWQ2MDE4NDQ3OTE4Y2I1NmMyYjU",
+			"slack":
+				"https://join.slack.com/t/herocoin/shared_invite/enQtMjQyNTQ1NDU3ODYxLTVmMzlmNTg5ZTUyODM4NzFjZGVjNGFlZjYzOTM0MzI1YWIwZWMxN2UzMWMxYWQ2MDE4NDQ3OTE4Y2I1NmMyYjU",
 			"telegram": "https://t.me/joinchat/FsEwOwtrCZMWwHokEj70Gw",
 			"twitter": "https://twitter.com/HEROcoinio",
 			"youtube": ""
@@ -13532,7 +13618,8 @@
 		"ens_address": "",
 		"website": "https://proncoin.io",
 		"logo": {
-			"src": "https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
+			"src":
+				"https://pbs.twimg.com/profile_images/943518409899302912/_qB2ilhB_400x400.jpg",
 			"width": "400",
 			"height": "400",
 			"ipfs_hash": ""
@@ -14508,7 +14595,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://www.reddit.com/r/SMARTRealty",
-			"slack": "https://join.slack.com/t/smartrealty/shared_invite/enQtMzAwMTA1NTM2MjI5LTU5NWU0NmFlODc1OTQ0NjNkYTA5YzIxNDNiY2JiMjM2MjBiZjZjODA5MmQxMDYyM2U5NmYzZTA4Njc2MTQwOWI",
+			"slack":
+				"https://join.slack.com/t/smartrealty/shared_invite/enQtMzAwMTA1NTM2MjI5LTU5NWU0NmFlODc1OTQ0NjNkYTA5YzIxNDNiY2JiMjM2MjBiZjZjODA5MmQxMDYyM2U5NmYzZTA4Njc2MTQwOWI",
 			"telegram": "https://t.me/joinchat/BaF91g_sD4e0Jrmv5Idisg",
 			"twitter": "https://twitter.com/rltytoken",
 			"youtube": ""
@@ -15182,7 +15270,8 @@
 		"ens_address": "",
 		"website": "https://spectivvr.com",
 		"logo": {
-			"src": "https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png",
+			"src":
+				"https://uploads-ssl.webflow.com/58fd371467a8320d4f29aed3/5906667d95a2d43d31378ce7_60x60logo.png",
 			"width": "251",
 			"height": "251",
 			"ipfs_hash": ""
@@ -15327,7 +15416,8 @@
 			"blog": "https://medium.com/@SKRAPS_IO",
 			"chat": "",
 			"facebook": "https://www.facebook.com/SKRAPSAPP",
-			"forum": "https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
 			"github": "https://github.com/SkrapsIO",
 			"gitter": "",
 			"instagram": "",
@@ -15504,7 +15594,7 @@
 			"youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
 		}
 	},
- 	{
+	{
 		"symbol": "SMT",
 		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
 		"decimals": 8,
@@ -15512,7 +15602,10 @@
 		"ens_address": "",
 		"website": "https://socialmedia.market",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@socialmedia.market", "url": "https://t.me/socialmediamarket_eng" },
+		"support": {
+			"email": "support@socialmedia.market",
+			"url": "https://t.me/socialmediamarket_eng"
+		},
 		"social": {
 			"blog": "https://medium.com/socialmedia-market",
 			"chat": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
@@ -15521,9 +15614,7 @@
 			"github": "https://github.com/SocialMediaMarket",
 			"gitter": "",
 			"instagram": "https://instagram.com/socialmedia.io",
-			"linkedin": "https://www.linkedin.com/company/socialmedia-market/
-
-",
+			"linkedin": "https://www.linkedin.com/company/socialmedia-market/",
 			"reddit": "https://github.com/SocialMediaMarket",
 			"slack": "",
 			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
@@ -15656,7 +15747,8 @@
 			"gitter": "",
 			"instagram": "https://www.instagram.com/Sinergia_Blockchain",
 			"linkedin": "https://www.linkedin.com/company/11226873/",
-			"reddit": "https://www.reddit.com/user/Sinergia_Blockchain/comments/7huc5i/sinergia_blockchain_first_blockchain_technology/",
+			"reddit":
+				"https://www.reddit.com/user/Sinergia_Blockchain/comments/7huc5i/sinergia_blockchain_first_blockchain_technology/",
 			"slack": "https://slack.singulardtv.com",
 			"telegram": "https://t.me/ComunidadSinergiaBlockchain",
 			"twitter": "https://twitter.com/Sinergia_B",
@@ -16188,7 +16280,8 @@
 			"slack": "",
 			"telegram": "https://t.me/DimensionsTalk",
 			"twitter": "https://twitter.com/DN_STC",
-			"youtube": "https://www.youtube.com/channel/UCticN7-IvIaEpbXVdbsBlcQ/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UCticN7-IvIaEpbXVdbsBlcQ/videos"
 		}
 	},
 	{
@@ -17280,7 +17373,8 @@
 		"ens_address": "",
 		"website": "https://unikoingold.com",
 		"logo": {
-			"src": "https://f.unkrn.com/2017-11-04/a/1509813079_unikoin-icon-gold.svg",
+			"src":
+				"https://f.unkrn.com/2017-11-04/a/1509813079_unikoin-icon-gold.svg",
 			"width": 264,
 			"height": 264,
 			"ipfs_hash": ""
@@ -17557,7 +17651,8 @@
 			"blog": "",
 			"chat": "",
 			"facebook": "",
-			"forum": "https://bitcointalk.org/index.php?topic=2361864.msg24084012#msg24084012",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2361864.msg24084012#msg24084012",
 			"github": "",
 			"gitter": "",
 			"instagram": "",
@@ -17695,7 +17790,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://www.reddit.com/r/VibeHub",
-			"slack": "https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
+			"slack":
+				"https://join.slack.com/t/vibehub/shared_invite/MjExNDM5MTcwMjU3LTE0OTk4ODk2ODYtNGM1YmU1OGU3YQ",
 			"telegram": "",
 			"twitter": "https://twitter.com/VibeHubVR",
 			"youtube": ""
@@ -17716,7 +17812,8 @@
 		},
 		"support": {
 			"email": "",
-			"url": "https://docs.google.com/forms/d/e/1FAIpQLSeFYeXPb9NtYTNskdGXoxGSm8TQo5qBw8PsW8Q68fsVGRgsQg/viewform"
+			"url":
+				"https://docs.google.com/forms/d/e/1FAIpQLSeFYeXPb9NtYTNskdGXoxGSm8TQo5qBw8PsW8Q68fsVGRgsQg/viewform"
 		},
 		"social": {
 			"blog": "",
@@ -17825,6 +17922,39 @@
 			"slack": "",
 			"telegram": "https://t.me/viulyofficial",
 			"twitter": "https://twitter.com/ViulyOfficial",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "VLD",
+		"address": "0x922ac473a3cc241fd3a0049ed14536452d58d73c",
+		"decimals": 18,
+		"name": "Valid",
+		"ens_address": "",
+		"website": "https://valid.global/",
+		"logo": {
+			"src": "",
+			"width": ,
+			"height": ,
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://blog.valid.global/",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -18067,7 +18197,8 @@
 		"ens_address": "",
 		"website": "https://whohas.io",
 		"logo": {
-			"src": "https://whohas.io/wp-content/uploads/2018/02/blueEye_blackText.png",
+			"src":
+				"https://whohas.io/wp-content/uploads/2018/02/blueEye_blackText.png",
 			"width": "552",
 			"height": "608",
 			"ipfs_hash": ""
@@ -18133,7 +18264,8 @@
 		"ens_address": "",
 		"website": "http://www.wildcrypto.com",
 		"logo": {
-			"src": "http://wildtoken.com/wp-content/uploads/2017/12/WildCrypto-Logo-Only-copy-300x275.png",
+			"src":
+				"http://wildtoken.com/wp-content/uploads/2017/12/WildCrypto-Logo-Only-copy-300x275.png",
 			"width": "",
 			"height": "",
 			"ipfs_hash": ""
@@ -18430,7 +18562,8 @@
 		"ens_address": "wyverntoken.eth",
 		"website": "https://projectwyvern.com",
 		"logo": {
-			"src": "https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
+			"src":
+				"https://raw.githubusercontent.com/ProjectWyvern/wyvern-branding/master/logo/logo-square-red-transparent-28x28.png",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -18515,7 +18648,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "",
-			"slack": "https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
+			"slack":
+				"https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
 			"telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ",
 			"twitter": "https://twitter.com/WiC_Crypto",
 			"youtube": ""
@@ -18812,7 +18946,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "",
-			"slack": "https://join.slack.com/t/xenonnetwork/shared_invite/enQtMjQ1NzQ2MTQ1OTA2LWI5MjkzZWQxNzRmYzNmOGE5Nzc2MWYyN2NjM2Y2MTZjNjA2MDUyNmI5ZGFkNjU3YzE5NGVjNjA0YzkzMDk5ZGU",
+			"slack":
+				"https://join.slack.com/t/xenonnetwork/shared_invite/enQtMjQ1NzQ2MTQ1OTA2LWI5MjkzZWQxNzRmYzNmOGE5Nzc2MWYyN2NjM2Y2MTZjNjA2MDUyNmI5ZGFkNjU3YzE5NGVjNjA0YzkzMDk5ZGU",
 			"telegram": "",
 			"twitter": "https://twitter.com/XenonNet",
 			"youtube": ""
@@ -19211,7 +19346,8 @@
 			"slack": "",
 			"telegram": "https://t.me/ComTrust",
 			"twitter": "https://twitter.com/ebtcfoundation",
-			"youtube": "https://www.youtube.com/channel/UC3qfrY1tpUFEy3nOjqaGBDw/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UC3qfrY1tpUFEy3nOjqaGBDw/videos"
 		}
 	},
 	{
