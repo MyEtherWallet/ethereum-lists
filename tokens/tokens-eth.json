@@ -1,5 +1,39 @@
 [
 	{
+		"symbol": "GIF",
+		"address": "0xFcD862985628b254061F7A918035B80340D045d3",
+		"decimals": 18,
+		"name": "GIFcoin Token",
+		"ens_address": "",
+		"website": "https://gifcoin.io/",
+		"logo": {
+			"src":
+				"https://www.gifcoin.io/assets/images/default/frontend/gifsingle400.png",
+			"width": "400",
+			"height": "400",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@gifcoin.io",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://facebook.com/gifcoin.io",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/gifcoin",
+			"twitter": "https://twitter.com/gifcoin_io",
+			"youtube": "https://youtube.com/channel/UCLq13wzOH1STqW8I-Z-ctAQ"
+		}
+	},
+	{
 		"symbol": "DTT",
 		"address": "0xf9F7c29CFdf19FCf1f2AA6B84aA367Bcf1bD1676",
 		"decimals": 18,
@@ -16182,38 +16216,6 @@
 			"telegram": "https://t.me/sharder_talk",
 			"twitter": "https://twitter.com/SharderChain",
 			"youtube": ""
-		}
-	},{
-	"symbol": "SSH",
-		"address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
-		"decimals": 18,
-		"name": "StreamShares",
-		"ens_address": "",
-		"website": "https://stream.space/",
-		"logo": {
-			"src": "https://www.stream.space/images/stream_icon.png",
-			"width": "132",
-			"height": "132",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "help@stream.space",
-			"url": ""
-		},
-		"social": {
-			"blog": "https://medium.com/@stream_space",
-			"chat": "",
-			"facebook": "https://facebook.com/streamspace",
-			"forum": "https://bitcointalk.org/index.php?topic=2214904.20",
-			"github": "https://github.com/streamspace",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/streamspaceinfo/",
-			"linkedin": "",
-			"reddit": "https://reddit.com/r/streamspace/",
-			"slack": "",
-			"telegram": "https://t.me/streamspace",
-			"twitter": "https://twitter.com/streamspaceinfo",
-			"youtube": "https://www.youtube.com/channel/UCe-hfYPH1Jy27uBOPiQ_ulw"
 		}
 	},
 	{
