@@ -8010,6 +8010,39 @@
 		}
 	},
 	{
+		"symbol": "HAV",
+		"address": "0xf244176246168f24e3187f7288edbca29267739b",
+		"decimals": 18,
+		"name": "Havven",
+		"ens_address": "",
+		"website": "https://havven.io",
+		"logo": {
+			"src": "https://havven.io/images/favicon3.ico",
+			"width": "32",
+			"height": "32",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "info@havven.io",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://blog.havven.io",
+			"chat": "https://t.me/havven_official1",
+			"facebook": "https://www.facebook.com/havven.io/",
+			"forum": "https://bitcointalk.org/index.php?topic=2702470",
+			"github": "https://github.com/havven/havven",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/havven/",
+			"reddit": "https://www.reddit.com/r/havven/",
+			"slack": "",
+			"telegram": "https://t.me/havven_official1",
+			"twitter": "https://twitter.com/havven_io",
+			"youtube": "https://www.youtube.com/channel/UCGrPolyOAj3cODJIN5ssVTw"
+		}
+	},
+	{
 		"symbol": "HDG",
 		"address": "0xffe8196bc259e8dedc544d935786aa4709ec3e64",
 		"decimals": 18,
