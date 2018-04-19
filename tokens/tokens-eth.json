@@ -11050,6 +11050,39 @@
 		}
 	},
 	{
+		"symbol": "MFG",
+		"address": "0x6710c63432a2de02954fc0f851db07146a6c0312",
+		"decimals": 18,
+		"name": "SyncFab Smart Manufacturing Blockchain",
+		"ens_address": "",
+		"website": "https://syncfab.com/",
+		"logo": {
+			"src": "https://blockchain.syncfab.com/assets/img/mfg-logo.png",
+			"width": "500",
+			"height": "500",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@syncfab.com",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://medium.com/syncfabmfg",
+			"chat": "",
+			"facebook": "https://facebook.com/syncfab",
+			"forum": "https://bitcointalk.org/index.php?topic=2286102.0",
+			"github": "https://github.com/syncfab",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/syncfab/",
+			"linkedin": "https://www.linkedin.com/company/syncfab",
+			"reddit": "https://www.reddit.com/r/syncfab/",
+			"slack": "",
+			"telegram": "https://t.me/syncfab",
+			"twitter": "https://twitter.com/syncfab",
+			"youtube": "https://youtube.com/channel/syncfab"
+		}
+	},
+	{
 		"symbol": "MGO",
 		"address": "0x40395044ac3c0c57051906da938b54bd6557f212",
 		"decimals": 8,
