@@ -4523,7 +4523,8 @@
 			"blog": "http://emini.cfrn.net",
 			"chat": "https://christiantraders.com",
 			"facebook": "facebook.com/cryptodailyinfo/",
-			"forum": "https://discordapp.com/channels/432450856319975424/432451525093359618",
+			"forum":
+				"https://discordapp.com/channels/432450856319975424/432451525093359618",
 			"github": "github.com/CTGlobal/ChristianTraders",
 			"gitter": "",
 			"instagram": "",
@@ -11900,7 +11901,12 @@
 		"name": "Merculet",
 		"ens_address": "",
 		"website": "https://www.merculet.io",
-		"logo": { "src": "https://merculet.io/static/image/newimg/logo.png", "width": "356", "height": "366", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://merculet.io/static/image/newimg/logo.png",
+			"width": "356",
+			"height": "366",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@merculet.io", "url": "" },
 		"social": {
 			"blog": "https://medium.com/merculet",
@@ -15461,7 +15467,8 @@
 		"ens_address": "",
 		"website": "https://sgt.selfieyo.com",
 		"logo": {
-			"src": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
+			"src":
+				"https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
 			"width": "400",
 			"height": "400",
 			"ipfs_hash": ""
@@ -15491,7 +15498,7 @@
 		"symbol": "SGT",
 		"address": "0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
 		"decimals": 1,
-		"name": "SGT",
+		"name": "StatusGenesis",
 		"ens_address": "",
 		"website": "",
 		"logo": {
