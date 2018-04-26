@@ -1,5 +1,39 @@
 [
 	{
+		"symbol": "FANX",
+		"address": "0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9",
+		"decimals": 18,
+		"name": "FANX Token",
+		"ens_address": "",
+		"website": "http://www.fanx.one/",
+		"logo": {
+			"src":
+				"http://www.fanx.one/static/img/logo.png",
+			"width": "132",
+			"height": "132",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "contact@fanx.one",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "GIF",
 		"address": "0xFcD862985628b254061F7A918035B80340D045d3",
 		"decimals": 18,
