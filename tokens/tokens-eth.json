@@ -7,8 +7,7 @@
 		"ens_address": "",
 		"website": "http://www.fanx.one/",
 		"logo": {
-			"src":
-				"http://www.fanx.one/static/img/logo.png",
+			"src": "http://www.fanx.one/static/img/logo.png",
 			"width": "132",
 			"height": "132",
 			"ipfs_hash": ""
@@ -5089,6 +5088,39 @@
 			"telegram": "https://t.me/databrokerdao",
 			"twitter": "https://twitter.com/DataBrokerDAO",
 			"youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
+		}
+	},
+	{
+		"symbol": "DATABroker",
+		"address": "0x1b5f21ee98eed48d292e8e2d3ed82b40a9728a22",
+		"decimals": 18,
+		"name": "DATABroker",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
@@ -16580,6 +16612,72 @@
 			"slack": "",
 			"telegram": "https://t.me/sharder_talk",
 			"twitter": "https://twitter.com/SharderChain",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "SS",
+		"address": "0xB15fE5a123e647ba594CEa7A1E648646f95EB4AA",
+		"decimals": 18,
+		"name": "SS",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "SSH",
+		"address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+		"decimals": 18,
+		"name": "StreamShares",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
