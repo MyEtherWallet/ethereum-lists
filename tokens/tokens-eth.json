@@ -9371,6 +9371,39 @@
 		}
 	},
 	{
+		"symbol": "INRM",
+		"address": "0x48e5413b73add2434e47504E2a22d14940dBFe78",
+		"decimals": 3,
+		"name": "Integrated Money",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "INS",
 		"address": "0x5b2e4a700dfbc560061e957edec8f6eeeb74a320",
 		"decimals": 10,
@@ -17959,6 +17992,39 @@
 			"slack": "https://uquid.herokuapp.com",
 			"telegram": "https://t.me/uquidcoin",
 			"twitter": "https://twitter.com/UquidC",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "USDM",
+		"address": "0xD760ADdFb24D9C01Fe4Bfea7475C5e3636684058",
+		"decimals": 2,
+		"name": "Mether (USDM)",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": ,
+			"height": ,
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
