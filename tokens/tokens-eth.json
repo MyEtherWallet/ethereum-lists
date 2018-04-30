@@ -17937,7 +17937,8 @@
 		"ens_address": "",
 		"website": "https://umka.city",
 		"logo": {
-			"src": "https://cdn-images-1.medium.com/fit/c/200/200/1*2qbLwo61-mobpkNCWeBcLQ.jpeg",
+			"src":
+				"https://cdn-images-1.medium.com/fit/c/200/200/1*2qbLwo61-mobpkNCWeBcLQ.jpeg",
 			"width": 200,
 			"height": 200,
 			"ipfs_hash": ""
@@ -17950,7 +17951,8 @@
 			"blog": "https://medium.com/@umka_",
 			"chat": "https://t.me/umka2018",
 			"facebook": "https://www.facebook.com/freelance.umka/",
-			"forum": "https://bitcointalk.org/index.php?topic=3382203.msg35440294#msg35440294",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=3382203.msg35440294#msg35440294",
 			"github": "https://github.com/UMKAman",
 			"gitter": "",
 			"instagram": "https://www.instagram.com/umka_freelance/",
@@ -20208,6 +20210,39 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "XGG",
+		"address": "0xf6b6aa0ef0f5edc2c1c5d925477f97eaf66303e7",
+		"decimals": 8,
+		"name": "Going Gems",
+		"ens_address": "",
+		"website": "https://www.going-gems.com",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@going-gems.com",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://www.going-gems.com/#blog",
+			"chat": "",
+			"facebook": "https://web.facebook.com/Going-Gems-307192689810299/",
+			"forum": "",
+			"github": "https://github.com/GoingGems",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "https://goinggemsholding.slack.com",
+			"telegram": "https://t.me/GoingGemsChannel",
+			"twitter": "https://twitter.com/GoingGems",
 			"youtube": ""
 		}
 	}
