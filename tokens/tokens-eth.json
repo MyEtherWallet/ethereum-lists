@@ -10332,15 +10332,15 @@
 	},
 	{
 		"symbol": "LEMO",
-		"address": "0xd6e354F07319e2474491D8c7c712137bEe6862a2",
-		"decimals": 0,
+		"address": "0xB5AE848EdB296C21259b7467331467d2647eEcDf",
+		"decimals": 18,
 		"name": "Lemo",
 		"ens_address": "",
 		"website": "www.lemochain.com",
 		"logo": {
-			"src": "",
-			"width": "",
-			"height": "",
+			"src": "https://lemochip.hellobyebye.com/logo.png",
+			"width": "110",
+			"height": "72",
 			"ipfs_hash": ""
 		},
 		"support": {
@@ -10352,7 +10352,7 @@
 			"chat": "",
 			"facebook": "https://www.facebook.com/LemoChain",
 			"forum": "",
-			"github": "",
+			"github": "https://github.com/LemoFoundationLtd",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
