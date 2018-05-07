@@ -1,6 +1,4 @@
 [
-	
-	
 	{
 		"symbol": "2DC",
 		"address": "0x9fC0583220eB44fAeE9e2dc1E63F39204DDD9090",
@@ -9,8 +7,7 @@
 		"ens_address": "",
 		"website": "https://comprabitcoin.github.io/billetera",
 		"logo": {
-			"src":
-				"https://image.ibb.co/iniG4c/282541262323.png",
+			"src": "https://image.ibb.co/iniG4c/282541262323.png",
 			"width": "400",
 			"height": "400",
 			"ipfs_hash": ""
@@ -11814,7 +11811,8 @@
 		"ens_address": "",
 		"website": "https://moneyrebel.io/",
 		"logo": {
-			"src": "https://static.wixstatic.com/media/3e9a6a_15e519bd6672449182b4c3c557e49660~mv2.jpg/v1/fill/w_110,h_108,al_c,q_80,usm_0.66_1.00_0.01/3e9a6a_15e519bd6672449182b4c3c557e49660~mv2.webp",
+			"src":
+				"https://static.wixstatic.com/media/3e9a6a_15e519bd6672449182b4c3c557e49660~mv2.jpg/v1/fill/w_110,h_108,al_c,q_80,usm_0.66_1.00_0.01/3e9a6a_15e519bd6672449182b4c3c557e49660~mv2.webp",
 			"width": "86",
 			"height": "86",
 			"ipfs_hash": ""
@@ -11838,6 +11836,7 @@
 			"twitter": "https://twitter.com/Mrl_io",
 			"youtube": ""
 		}
+	},
 	{
 		"symbol": "MRP",
 		"address": "0x21f0F0fD3141Ee9E11B3d7f13a1028CD515f459c",
@@ -20381,36 +20380,36 @@
 		}
 	},
 	{
-	  "symbol": "JOY",
-	  "address": "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57",
-	  "decimals": 6,
-	  "name": "JOYSO",
-	  "ens_address": "joysoToken.eth",
-	  "website": "https://joyso.io/",
-	  "logo": {
-	    "src": "https://etherscan.io/token/images/joyso_28.png",
-	    "width": "28",
-	    "height": "28",
-	    "ipfs_hash": ""
-	  },
-	  "support": {
-	    "email": "support@joyso.io",
-	    "url": "https://joyso.zendesk.com/hc/en-us"
-	  },
-	  "social": {
-	    "blog": "https://medium.com/joyso",
-	    "chat": "",
-	    "facebook": "https://www.facebook.com/Joyso.io",
-	    "forum": "",
-	    "github": "https://github.com/Joyso-io",
-	    "gitter": "",
-	    "instagram": "",
-	    "linkedin": "https://www.linkedin.com/company/joyso/",
-	    "reddit": "",
-	    "slack": "",
-	    "telegram": "https://t.me/joyso_io",
-	    "twitter": "https://twitter.com/joyso_io",
-	    "youtube": "https://www.youtube.com/channel/UCyRNTypArQG6wRdTAPapAGQ"
-	  }
+		"symbol": "JOY",
+		"address": "0xDDe12a12A6f67156e0DA672be05c374e1B0a3e57",
+		"decimals": 6,
+		"name": "JOYSO",
+		"ens_address": "joysoToken.eth",
+		"website": "https://joyso.io/",
+		"logo": {
+			"src": "https://etherscan.io/token/images/joyso_28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@joyso.io",
+			"url": "https://joyso.zendesk.com/hc/en-us"
+		},
+		"social": {
+			"blog": "https://medium.com/joyso",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Joyso.io",
+			"forum": "",
+			"github": "https://github.com/Joyso-io",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/joyso/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/joyso_io",
+			"twitter": "https://twitter.com/joyso_io",
+			"youtube": "https://www.youtube.com/channel/UCyRNTypArQG6wRdTAPapAGQ"
+		}
 	}
 ]
