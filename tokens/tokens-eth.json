@@ -36,6 +36,76 @@
 		}
 	},
 	{
+		"symbol": "MCC",
+		"address": "0x81fe677cb2cb26abf471f40cd8256ce9d07fed3a",
+		"decimals": 8,
+		"name": "Magic Coin",
+		"ens_address": "",
+		"website": "http://mgclife.co.kr",
+		"logo": {
+			"src":
+				"http://mgclife.com/mcc_256.png",
+			"width": 256,
+			"height": 256,
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "magiccoin@gmail.com",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/magiccoin",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/magiccoin",
+			"youtube": ""
+		}
+	},
+
+	{
+		"symbol": "PRE",
+		"address": "0xd61eeacfe8035b5737c33cbc6f68bbf28a5db615",
+		"decimals": 8,
+		"name": "Premium(PRE)",
+		"ens_address": "",
+		"website": "http://premiumpre.com",
+		"logo": {
+			"src":
+				"http://premiumpre.com/assets/img/icon_256.png",
+			"width": 256,
+			"height": 256,
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "munhonggg@gmail.com",
+			"url": ""
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/munhongg",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/munhongg",
+			"youtube": ""
+		}
+	},
+
+	{
 		"symbol": "FANX",
 		"address": "0x7f6715c3fc4740a02f70de85b9fd50ac6001fed9",
 		"decimals": 18,
