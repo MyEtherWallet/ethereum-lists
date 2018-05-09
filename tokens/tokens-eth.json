@@ -649,11 +649,12 @@
 		"name": "AMO Coin",
 		"ens_address": "",
 		"website": "https://amo.foundation",
-		"logo": { 
-			"src": "https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png", 
-			"width": "200", 
-			"height": "200", 
-			"ipfs_hash": "" 
+		"logo": {
+			"src":
+				"https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png",
+			"width": "200",
+			"height": "200",
+			"ipfs_hash": ""
 		},
 		"support": { "email": "support@amo.foundation", "url": "" },
 		"social": {
@@ -3381,13 +3382,13 @@
 	},
 	{
 		"symbol": "COSS",
-		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
+		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
 		"decimals": 18,
-		"name": "Coss Token",
+		"name": "COSS",
 		"ens_address": "",
-		"website": "https://coss.io",
+		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@coss.io", "url": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -3406,13 +3407,13 @@
 	},
 	{
 		"symbol": "COSS",
-		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
 		"decimals": 18,
-		"name": "COSS",
+		"name": "Coss Token",
 		"ens_address": "",
-		"website": "",
+		"website": "https://coss.io",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
+		"support": { "email": "info@coss.io", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -6650,7 +6651,12 @@
 		"name": "DAOstack",
 		"ens_address": "",
 		"website": "https://daostack.io",
-		"logo": { "src": "https://daostack.io/daostack2828.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://daostack.io/daostack2828.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@daostack.io", "url": "" },
 		"social": {
 			"blog": "https://medium.com/daostack",
@@ -13355,6 +13361,31 @@
 	},
 	{
 		"symbol": "SKRP",
+		"address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
+		"decimals": 18,
+		"name": "SKRP (Phase 1-E)",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "SKRP",
 		"address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
 		"decimals": 18,
 		"name": "Skraps",
@@ -13404,31 +13435,6 @@
 			"slack": "",
 			"telegram": "https://t.me/SkrapsOfficial",
 			"twitter": "https://twitter.com/SKRAPS_IO",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "SKRP",
-		"address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
-		"decimals": 18,
-		"name": "SKRP (Phase 1-E)",
-		"ens_address": "",
-		"website": "",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -13484,34 +13490,6 @@
 	},
 	{
 		"symbol": "SMT",
-		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
-		"decimals": 8,
-		"name": "Social Media Market",
-		"ens_address": "",
-		"website": "https://socialmedia.market",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": {
-			"email": "support@socialmedia.market",
-			"url": "https://t.me/socialmediamarket_eng"
-		},
-		"social": {
-			"blog": "https://medium.com/socialmedia-market",
-			"chat": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
-			"facebook": "https://www.facebook.com/SocialMedia.Market.platform",
-			"forum": "https://bitcointalk.org/index.php?topic=2291309.0",
-			"github": "https://github.com/SocialMediaMarket",
-			"gitter": "",
-			"instagram": "https://instagram.com/socialmedia.io",
-			"linkedin": "https://www.linkedin.com/company/socialmedia-market/",
-			"reddit": "https://github.com/SocialMediaMarket",
-			"slack": "",
-			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
-			"twitter": "https://twitter.com/socialmedia_mrk",
-			"youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
-		}
-	},
-	{
-		"symbol": "SMT",
 		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
 		"decimals": 18,
 		"name": "Smart Node",
@@ -13558,6 +13536,34 @@
 			"telegram": "t.me@SmartMesh",
 			"twitter": "https://twitter.com/smart_mesh?lang=en",
 			"youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
+		}
+	},
+	{
+		"symbol": "SMT",
+		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
+		"decimals": 8,
+		"name": "Social Media Market",
+		"ens_address": "",
+		"website": "https://socialmedia.market",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": {
+			"email": "support@socialmedia.market",
+			"url": "https://t.me/socialmediamarket_eng"
+		},
+		"social": {
+			"blog": "https://medium.com/socialmedia-market",
+			"chat": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
+			"facebook": "https://www.facebook.com/SocialMedia.Market.platform",
+			"forum": "https://bitcointalk.org/index.php?topic=2291309.0",
+			"github": "https://github.com/SocialMediaMarket",
+			"gitter": "",
+			"instagram": "https://instagram.com/socialmedia.io",
+			"linkedin": "https://www.linkedin.com/company/socialmedia-market/",
+			"reddit": "https://github.com/SocialMediaMarket",
+			"slack": "",
+			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
+			"twitter": "https://twitter.com/socialmedia_mrk",
+			"youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
 		}
 	},
 	{
