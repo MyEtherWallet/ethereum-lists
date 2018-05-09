@@ -643,6 +643,36 @@
 		}
 	},
 	{
+		"symbol": "AMO",
+		"address": "0x38c87aa89b2b8cd9b95b736e1fa7b612ea972169",
+		"decimals": 18,
+		"name": "AMO Coin",
+		"ens_address": "",
+		"website": "https://amo.foundation",
+		"logo": { 
+			"src": "https://amo.foundation/wordpress/wp-content/uploads/2018/05/symbol.png", 
+			"width": "200", 
+			"height": "200", 
+			"ipfs_hash": "" 
+		},
+		"support": { "email": "support@amo.foundation", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@amoblockchain",
+			"chat": "",
+			"facebook": "https://www.facebook.com/amoblockchain/",
+			"forum": "",
+			"github": "https://github.com/AMO-Project/",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/amo_blockchain_official_global",
+			"twitter": "https://twitter.com/amoblockchain",
+			"youtube": "https://www.youtube.com/channel/UCXH8Amsheu1fzeWdTQ8-sBg"
+		}
+	},
+	{
 		"symbol": "AMTC",
 		"address": "0x84936cF7630AA3e27Dd9AfF968b140d5AEE49F5a",
 		"decimals": 8,
