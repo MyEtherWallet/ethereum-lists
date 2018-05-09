@@ -6614,6 +6614,31 @@
 		}
 	},
 	{
+		"symbol": "GEN",
+		"address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
+		"decimals": 18,
+		"name": "DAOstack",
+		"ens_address": "",
+		"website": "https://daostack.io",
+		"logo": { "src": "https://daostack.io/daostack2828.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"support": { "email": "support@daostack.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/daostack",
+			"chat": "",
+			"facebook": "",
+			"forum": "https://forum.daostack.io",
+			"github": "https://github.com/daostack",
+			"gitter": "https://gitter.im/daostack/Lobby",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/daostack",
+			"slack": "",
+			"telegram": "https://t.me/daostackcommunity",
+			"twitter": "https://twitter.com/daostack",
+			"youtube": "https://www.youtube.com/daostack"
+		}
+	},
+	{
 		"symbol": "GET",
 		"address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
 		"decimals": 18,
