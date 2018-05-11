@@ -14532,6 +14532,31 @@
 		}
 	},
 	{
+		"symbol": "TDH",
+		"address": "0x2a1dbabe65c595B0022e75208C34014139d5d357",
+		"decimals": 18,
+		"name": "TrustedHealth",
+		"ens_address": "",
+		"website": "https://trustedhealth.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@trustedhealth.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/trustedhealth-io",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/trustedhealth-io/",
+			"reddit": "https://www.reddit.com/r/TrustedHealth/",
+			"slack": "",
+			"telegram": "https://t.me/TrustedHealth_io",
+			"twitter": "https://twitter.com/_trustedhealth",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "TEL",
 		"address": "0x85e076361cc813a908ff672f9bad1541474402b2",
 		"decimals": 2,
