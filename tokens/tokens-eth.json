@@ -1,5 +1,30 @@
 [
 	{
+		"symbol": "COV",
+		"address": "0xe2fb6529ef566a080e6d23de0bd351311087d567",
+		"decimals": 18,
+		"name": "Covesting",
+		"ens_address": "",
+		"website": "https://covesting.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/user/covesting",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/covesting",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "$TEAK",
 		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
 		"decimals": 18,
