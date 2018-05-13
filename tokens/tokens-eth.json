@@ -5266,6 +5266,31 @@
 		}
 	},
 	{
+		"symbol": "EET",
+		"address": "0x0deecb13f4e801bdbf2721875756d44b207ca580",
+		"decimals": 18,
+		"name": "ETHERCToken",
+		"ens_address": "etherctoken.eth",
+		"website": "https://etherc.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "support@etherc.io", "url": "https://etherc.freshdesk.com/" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/ETHERCIO",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/ETHERC_Official",
+			"twitter": "https://twitter.com/etherc_io",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "eGAS",
 		"address": "0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
 		"decimals": 8,
