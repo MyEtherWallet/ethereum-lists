@@ -6630,6 +6630,36 @@
 		}
 	},
 	{
+		"symbol": "GANA",
+		"address": "0xc0EA6306F6360FE7dCAB65D16Bf1a3AF92C79Aa2",
+		"decimals": 18,
+		"name": "GANA",
+		"ens_address": "",
+		"website": "https://ganacoin.io",
+		"logo": {
+			"src":"http://cdn.ganacoin.io/logo/gana_symbol_24.png",
+			"width": 24,
+			"height": 24,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "info@ganacoin.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/ganaproject",
+			"chat": "",
+			"facebook": "https://www.facebook.com/GanaProject/",
+			"forum": "",
+			"github": "https://github.com/GanaProject",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/gana_official",
+			"twitter": "https://twitter.com/ganaproject",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "GAVEL",
 		"address": "0x708876f486e448ee89eb332bfbc8e593553058b9",
 		"decimals": 18,
