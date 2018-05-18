@@ -1824,6 +1824,31 @@
 		}
 	},
 	{
+		"symbol": "BLZ",
+		"address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+		"decimals": 18,
+		"name": "Bluezelle",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "w" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "BMC",
 		"address": "0xdf6ef343350780bf8c3410bf062e0c015b1dd671",
 		"decimals": 8,
@@ -4318,37 +4343,6 @@
 			"slack": "https://blockex.slack.com/",
 			"telegram": "",
 			"twitter": "https://twitter.com/blockex",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "DCA",
-		"address": "0x386Faa4703a34a7Fdb19Bec2e14Fd427C9638416",
-		"decimals": 18,
-		"name": "DoBetAcceptBet",
-		"ens_address": "",
-		"website": "http://www.dobetacceptbet.com",
-		"logo": {
-			"src":
-				"https://cdn1.savepice.ru/uploads/2018/2/13/8c1a008b4e617ec75c4febe81f32ced5-full.png",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "sikhalevd@dobet.info", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/betcoin.dobetacceptbet",
-			"forum": "",
-			"github": "https://github.com/dobetacceptbet",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/user/doBETacceptBET/",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/i/notifications",
 			"youtube": ""
 		}
 	},
@@ -8955,6 +8949,36 @@
 		}
 	},
 	{
+		"symbol": "LEND",
+		"address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+		"decimals": 18,
+		"name": "EHTLend",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "LFR",
 		"address": "0xc798cd1c49db0e297312e4c682752668ce1db2ad",
 		"decimals": 5,
@@ -10644,6 +10668,36 @@
 			"telegram": "https://t.me/polyswarm",
 			"twitter": "https://twitter.com/polyswarm",
 			"youtube": "https://www.youtube.com/channel/UClkA8JVQ--oMsPomOKM85fA"
+		}
+	},
+	{
+		"symbol": "nCash",
+		"address": "0x809826cceab68c387726af962713b64cb5cb3cca",
+		"decimals": 18,
+		"name": "NucleusVision",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
@@ -16350,6 +16404,36 @@
 			"slack": "",
 			"telegram": "http://t.me/workcoin",
 			"twitter": "https://twitter.com/realWorkCoin",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "WTC",
+		"address": "0xb7cb1c96db6b22b0d3d9536e0108d062bd488f74",
+		"decimals": 18,
+		"name": "Walton",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
