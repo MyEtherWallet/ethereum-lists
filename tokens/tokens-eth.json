@@ -16783,7 +16783,36 @@
 		}
 	},
 	{
-		"symbol": "ADL",
+		"symbol": "ATH",
+		"address": "0x1543d0F83489e82A1344DF6827B23d541F235A50",
+		"decimals": 18,
+		"name": "AIgatha Token",
+		"ens_address": "",
+		"website": "https://aigatha.com",
+		"logo": { "src": "https://aigatha.com/img/AIgatha_Logo.png",
+			 "width": "300",
+			 "height": "300",
+			 "ipfs_hash": "" 
+		},
+		"support": { "email": "support@aigatha.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/AIgatha-149935052349262",
+			"forum": "",
+			"github": "https://github.com/AIgatha",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/aigatha/",
+			"reddit": "https://www.reddit.com/r/AIgatha/",
+			"slack": "https://aigatha.slack.com/messages",
+			"telegram": "https://t.me/aigatha",
+			"twitter": "https://twitter.com/a_igatha",
+			"youtube": "https://www.youtube.com/channel/UCn6fx0FNK6M3og8Ew773pRw"
+		}
+	},
+  {
+  "symbol": "ADL",
 		"address": "0x660e71483785f66133548b10f6926dc332b06e61",
 		"decimals": 18,
 		"name": "Adelphoi",
@@ -16814,6 +16843,6 @@
 			"telegram": "https://t.me/Adelphoi",
 			"twitter": "https://twitter.com/adelphoi_io",
 			"youtube": "https://www.youtube.com/channel/UC90BbGKzqnlqDUHgw0K7mhw"
-		}
-	}
+    }
+  }
 ]
