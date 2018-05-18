@@ -1,6 +1,6 @@
 [
-	{
-		"symbol": "ENC",
+  {
+    "symbol": "ENC",
 		"address": "0x039f5050de4908f9b5ddf40a4f3aa3f329086387",
 		"decimals": 18,
 		"name": "Ethernet.Cash",
@@ -21,6 +21,56 @@
 			"slack": "",
 			"telegram": "https://t.me/ethernetcash",
 			"twitter": "https://twitter.com/ethernetcash",
+      "youtube": ""
+		}
+  },
+	{
+		"symbol": "COV",
+		"address": "0xE2FB6529EF566a080e6d23dE0bd351311087D567",
+		"decimals": 18,
+		"name": "Covesting",
+		"ens_address": "",
+		"website": "https://covesting.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/user/covesting",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/covesting",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "BKRx",
+		"address": "0x3cf9e0c385a5abec9fd2a71790aa344c4e8e3570",
+		"decimals": 18,
+		"name": "BlockRx",
+		"ens_address": "",
+		"website": "https://www.blockrx.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/BlockRX",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/blockrxproject",
 			"youtube": ""
 		}
 	},
