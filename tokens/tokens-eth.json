@@ -294,17 +294,11 @@
 		"name": "Adelphoi",
 		"ens_address": "",
 		"website": "https://adel.io",
-		"logo": {
-			"src":
-				"https://pbs.twimg.com/profile_images/995709693044690944/5LSmUn49_400x400.png",
-			"width": "211",
-			"height": "211",
-			"ipfs_hash": ""
-		},
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "info@adel.io", "url": "https://adel.io/contact" },
 		"social": {
 			"blog": "http://adl.news",
-			"chat": "https://t.me/Adelphoi",
+			"chat": "",
 			"facebook": "https://www.facebook.com/adelphoi.io",
 			"forum": "https://bitcointalk.org/index.php?topic=2135312",
 			"github": "https://github.com/adelecosystem",
