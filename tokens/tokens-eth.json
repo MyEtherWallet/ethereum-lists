@@ -1051,31 +1051,6 @@
 		}
 	},
 	{
-		"symbol": "ATH (Athenian Warrior token)",
-		"address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
-		"decimals": 18,
-		"name": "Athenian Warrior Token",
-		"ens_address": "",
-		"website": "https://athenianwarriortoken.com",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/ATHwarriortoken",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "ATH (AIgatha Token)",
 		"address": "0x1543d0F83489e82A1344DF6827B23d541F235A50",
 		"decimals": 18,
@@ -1103,6 +1078,31 @@
 			"telegram": "https://t.me/aigatha",
 			"twitter": "https://twitter.com/a_igatha",
 			"youtube": "https://www.youtube.com/channel/UCn6fx0FNK6M3og8Ew773pRw"
+		}
+	},
+	{
+		"symbol": "ATH (Athenian Warrior token)",
+		"address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+		"decimals": 18,
+		"name": "Athenian Warrior Token",
+		"ens_address": "",
+		"website": "https://athenianwarriortoken.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/ATHwarriortoken",
+			"youtube": ""
 		}
 	},
 	{
@@ -3556,13 +3556,13 @@
 	},
 	{
 		"symbol": "COSS",
-		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
 		"decimals": 18,
-		"name": "COSS",
+		"name": "Coss Token",
 		"ens_address": "",
-		"website": "",
+		"website": "https://coss.io",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
+		"support": { "email": "info@coss.io", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -3581,13 +3581,13 @@
 	},
 	{
 		"symbol": "COSS",
-		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
+		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
 		"decimals": 18,
-		"name": "Coss Token",
+		"name": "COSS",
 		"ens_address": "",
-		"website": "https://coss.io",
+		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@coss.io", "url": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -3637,14 +3637,14 @@
 		"ens_address": "",
 		"website": "https://CoinPulse.io",
 		"logo": {
-			"src": "https://i.imgur.com/GaPxtv5.png", 
-			 "width": 256, 
-			 "height": 256, 
-			 "ipfs_hash": "" 
+			"src": "https://i.imgur.com/GaPxtv5.png",
+			"width": 256,
+			"height": 256,
+			"ipfs_hash": ""
 		},
 		"support": {
 			"email": "support@coinpulse.io",
-			"url": "https://coinpulse.io" 
+			"url": "https://coinpulse.io"
 		},
 		"social": {
 			"blog": "https://medium.com/@coinpulse",
@@ -3656,7 +3656,8 @@
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "https://www.reddit.com/r/coinpulseex",
-			"slack": "https://coinpulse.slack.com/join/shared_invite/enQtMjc0MzkwMjk3NjY0LTE4YzZlNWUyMWJiNjQwMDI0MGJkYjAxMzA2ODU2ZDAzYTBiN2Y4NDI2NTljYTBmMWMxNmM0ZDIyNjQ0M2JmMTA",
+			"slack":
+				"https://coinpulse.slack.com/join/shared_invite/enQtMjc0MzkwMjk3NjY0LTE4YzZlNWUyMWJiNjQwMDI0MGJkYjAxMzA2ODU2ZDAzYTBiN2Y4NDI2NTljYTBmMWMxNmM0ZDIyNjQ0M2JmMTA",
 			"telegram": "https://t.me/coinpulseex",
 			"twitter": "https://twitter.com/coinpulseex",
 			"youtube": "https://youtube.com/coinpulseexchange"
@@ -4976,31 +4977,6 @@
 	},
 	{
 		"symbol": "DRP",
-		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
-		"decimals": 2,
-		"name": "DCorp",
-		"ens_address": "",
-		"website": "https://www.dcorp.it",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "DRP",
 		"address": "0x2799d90c6d44cb9aa5fbc377177f16c33e056b82",
 		"decimals": 0,
 		"name": "Dripcoin",
@@ -5026,6 +5002,31 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "https://twitter.com/drip_coin",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "DRP",
+		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+		"decimals": 2,
+		"name": "DCorp",
+		"ens_address": "",
+		"website": "https://www.dcorp.it",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -5143,31 +5144,6 @@
 		}
 	},
 	{
-		"symbol": "DTX",
-		"address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
-		"decimals": 18,
-		"name": "DaTa eXchange Token",
-		"ens_address": "",
-		"website": "https://databrokerdao.com",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "hello@databrokerdao.com", "url": "" },
-		"social": {
-			"blog": "https://medium.com/databrokerdao",
-			"chat": "",
-			"facebook": "https://www.facebook.com/DataBrokerDAO",
-			"forum": "https://bitcointalk.org/index.php?topic=2113309.0",
-			"github": "https://github.com/DataBrokerDAO",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/DatabrokerDAO/",
-			"slack": "",
-			"telegram": "https://t.me/databrokerdao",
-			"twitter": "https://twitter.com/DataBrokerDAO",
-			"youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
-		}
-	},
-	{
 		"symbol": "DTx",
 		"address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
 		"decimals": 18,
@@ -5190,6 +5166,31 @@
 			"telegram": "",
 			"twitter": "",
 			"youtube": ""
+		}
+	},
+	{
+		"symbol": "DTX",
+		"address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+		"decimals": 18,
+		"name": "DaTa eXchange Token",
+		"ens_address": "",
+		"website": "https://databrokerdao.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "hello@databrokerdao.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/databrokerdao",
+			"chat": "",
+			"facebook": "https://www.facebook.com/DataBrokerDAO",
+			"forum": "https://bitcointalk.org/index.php?topic=2113309.0",
+			"github": "https://github.com/DataBrokerDAO",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/DatabrokerDAO/",
+			"slack": "",
+			"telegram": "https://t.me/databrokerdao",
+			"twitter": "https://twitter.com/DataBrokerDAO",
+			"youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
 		}
 	},
 	{
@@ -8988,12 +8989,7 @@
 		"name": "EHTLend",
 		"ens_address": "",
 		"website": "",
-		"logo": {
-			"src": "",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
@@ -10674,6 +10670,31 @@
 		}
 	},
 	{
+		"symbol": "nCash",
+		"address": "0x809826cceab68c387726af962713b64cb5cb3cca",
+		"decimals": 18,
+		"name": "NucleusVision",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "NCT",
 		"address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
 		"decimals": 18,
@@ -10701,36 +10722,6 @@
 			"telegram": "https://t.me/polyswarm",
 			"twitter": "https://twitter.com/polyswarm",
 			"youtube": "https://www.youtube.com/channel/UClkA8JVQ--oMsPomOKM85fA"
-		}
-	},
-	{
-		"symbol": "nCash",
-		"address": "0x809826cceab68c387726af962713b64cb5cb3cca",
-		"decimals": 18,
-		"name": "NucleusVision",
-		"ens_address": "",
-		"website": "",
-		"logo": {
-			"src": "",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
 		}
 	},
 	{
@@ -13793,26 +13784,27 @@
 	},
 	{
 		"symbol": "SKRP",
-		"address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
+		"address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
 		"decimals": 18,
-		"name": "SKRP (Phase 1-E)",
+		"name": "Skraps",
 		"ens_address": "",
-		"website": "",
+		"website": "https://skraps.io",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
+		"support": { "email": "info@skraps.io", "url": "" },
 		"social": {
-			"blog": "",
+			"blog": "https://medium.com/@SKRAPS_IO",
 			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
+			"facebook": "https://www.facebook.com/SKRAPSAPP",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
+			"github": "https://github.com/SkrapsIO",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "",
+			"reddit": "https://www.reddit.com/r/SKRAPSio",
 			"slack": "",
-			"telegram": "",
-			"twitter": "",
+			"telegram": "https://t.me/SkrapsOfficial",
+			"twitter": "https://twitter.com/SKRAPS_IO",
 			"youtube": ""
 		}
 	},
@@ -13846,27 +13838,26 @@
 	},
 	{
 		"symbol": "SKRP",
-		"address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+		"address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
 		"decimals": 18,
-		"name": "Skraps",
+		"name": "SKRP (Phase 1-E)",
 		"ens_address": "",
-		"website": "https://skraps.io",
+		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@skraps.io", "url": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
-			"blog": "https://medium.com/@SKRAPS_IO",
+			"blog": "",
 			"chat": "",
-			"facebook": "https://www.facebook.com/SKRAPSAPP",
-			"forum":
-				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
-			"github": "https://github.com/SkrapsIO",
+			"facebook": "",
+			"forum": "",
+			"github": "",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/SKRAPSio",
+			"reddit": "",
 			"slack": "",
-			"telegram": "https://t.me/SkrapsOfficial",
-			"twitter": "https://twitter.com/SKRAPS_IO",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -13922,31 +13913,6 @@
 	},
 	{
 		"symbol": "SMT",
-		"address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
-		"decimals": 18,
-		"name": "SmartMesh",
-		"ens_address": "",
-		"website": "http://smartmesh.io",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "tomcat@smartmesh.io", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/smartmesh/",
-			"forum": "https://bitcointalk.org/index.php?topic=2314643.0;all",
-			"github": "https://github.com/SmartMeshFoundation",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/explore/tags/smartmesh/",
-			"linkedin": "https://www.linkedin.com/company/smartmesh-foundation/",
-			"reddit": "https://www.reddit.com/r/SmartMesh/",
-			"slack": "",
-			"telegram": "t.me@SmartMesh",
-			"twitter": "https://twitter.com/smart_mesh?lang=en",
-			"youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
-		}
-	},
-	{
-		"symbol": "SMT",
 		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
 		"decimals": 8,
 		"name": "Social Media Market",
@@ -13971,6 +13937,31 @@
 			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
 			"twitter": "https://twitter.com/socialmedia_mrk",
 			"youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
+		}
+	},
+	{
+		"symbol": "SMT",
+		"address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
+		"decimals": 18,
+		"name": "SmartMesh",
+		"ens_address": "",
+		"website": "http://smartmesh.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "tomcat@smartmesh.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/smartmesh/",
+			"forum": "https://bitcointalk.org/index.php?topic=2314643.0;all",
+			"github": "https://github.com/SmartMeshFoundation",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/explore/tags/smartmesh/",
+			"linkedin": "https://www.linkedin.com/company/smartmesh-foundation/",
+			"reddit": "https://www.reddit.com/r/SmartMesh/",
+			"slack": "",
+			"telegram": "t.me@SmartMesh",
+			"twitter": "https://twitter.com/smart_mesh?lang=en",
+			"youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
 		}
 	},
 	{
@@ -16337,31 +16328,6 @@
 	},
 	{
 		"symbol": "WOLK",
-		"address": "0x728781E75735dc0962Df3a51d7Ef47E798A7107E",
-		"decimals": 18,
-		"name": "WOLK",
-		"ens_address": "",
-		"website": "",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "WOLK",
 		"address": "0xF6B55acBBC49f4524Aa48D19281A9A77c54DE10f",
 		"decimals": 18,
 		"name": "Wolk Token",
@@ -16382,6 +16348,31 @@
 			"slack": "",
 			"telegram": "https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw",
 			"twitter": "https://twitter.com/wolkinc",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "WOLK",
+		"address": "0x728781E75735dc0962Df3a51d7Ef47E798A7107E",
+		"decimals": 18,
+		"name": "WOLK",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -16472,12 +16463,7 @@
 		"name": "Walton",
 		"ens_address": "",
 		"website": "",
-		"logo": {
-			"src": "",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
