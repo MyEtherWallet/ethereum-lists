@@ -1051,31 +1051,6 @@
 		}
 	},
 	{
-		"symbol": "ATH (Athenian Warrior token)",
-		"address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
-		"decimals": 18,
-		"name": "Athenian Warrior Token",
-		"ens_address": "",
-		"website": "https://athenianwarriortoken.com",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/ATHwarriortoken",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "ATH (AIgatha Token)",
 		"address": "0x1543d0F83489e82A1344DF6827B23d541F235A50",
 		"decimals": 18,
@@ -1103,6 +1078,31 @@
 			"telegram": "https://t.me/aigatha",
 			"twitter": "https://twitter.com/a_igatha",
 			"youtube": "https://www.youtube.com/channel/UCn6fx0FNK6M3og8Ew773pRw"
+		}
+	},
+	{
+		"symbol": "ATH (Athenian Warrior token)",
+		"address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+		"decimals": 18,
+		"name": "Athenian Warrior Token",
+		"ens_address": "",
+		"website": "https://athenianwarriortoken.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/ATHwarriortoken",
+			"youtube": ""
 		}
 	},
 	{
