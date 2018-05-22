@@ -1,5 +1,16 @@
 [
 	{
+		"symbol": "ENC",
+		"name": "Ethernet Cash",
+		"address": "0x039f5050de4908f9b5ddf40a4f3aa3f329086387",
+		"decimals": 18,
+		"logo": "https://ethernet.cash/images/ENC-Logo132x132-B.png",
+		"support": "contact@ethernet.cash",
+		"community": "http://t.me/ethernetcash",
+		"website": "https://ethernet.cash",
+		"github": "https://github.com/ethernetcash/ethernet.cash"
+	},
+	{
 		"symbol": "PPD",
 		"name": "PP Donation",
 		"address": "0x12fE174C097F6B3e876B3b060C9061F4B9dEBB80",
