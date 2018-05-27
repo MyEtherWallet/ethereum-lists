@@ -2336,6 +2336,31 @@
 		}
 	},
 	{
+		"symbol": "BTCL",
+		"address": "0x5acD19b9c91e596b1f062f18e3D02da7eD8D1e50",
+		"decimals": 8,
+		"name": "BTC Lite",
+		"ens_address": "",
+		"website": "http://btclite.org",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "btclitetoken@gmail.com", "url": "" },
+		"social": {
+			"blog": "http://btclite.org/blog/",
+			"chat": "https://t.me/BTCLchat",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/btclite/",
+			"slack": "",
+			"telegram": "http://t.me/BTCLITE",
+			"twitter": "https://twitter.com/BTCliteofficial",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "BTE",
 		"address": "0x73dd069c299a5d691e9836243bcaec9c8c1d8734",
 		"decimals": 8,
