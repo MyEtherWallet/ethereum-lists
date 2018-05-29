@@ -1,5 +1,35 @@
 [
 	{
+		"symbol": "$FXY",
+		"address": "0xa024e8057eec474a9b2356833707dd0579e26ef3",
+		"decimals": 18,
+		"name": "$FIXY NETWORK",
+		"ens_address": "",
+		"website": "https://fixyapp.io",
+		"logo": {
+			"src": "https://ibb.co/diUwiJ",
+			"width": "300",
+			"height": "299",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "ht@fixyapp.io", "url": "https://fixyapp.io" },
+		"social": {
+			"blog": "https://medium.com/@fixynetwork",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Fixyapp.io/",
+			"forum": "https://bitcointalk.org/index.php?topic=3084108.0",
+			"github": "https://github.com/fixynetwork/FIXY-NETWORK",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/fixynetwork",
+			"twitter": "https://twitter.com/fixy_app",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "$TEAK",
 		"address": "0x7dd7f56d697cc0f2b52bd55c057f378f1fe6ab4b",
 		"decimals": 18,
@@ -3186,6 +3216,31 @@
 		}
 	},
 	{
+		"symbol": "CFTY",
+		"address": "0x6956983f8b3ce173b4ab84361aa0ad52f38d936f",
+		"decimals": 8,
+		"name": "Crafty Token",
+		"ens_address": "",
+		"website": "https://crafty.work/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "contact@crafty.work", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/crafty.wk",
+			"forum": "",
+			"github": "https://github.com/crafty-work",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/craftywork_/",
+			"linkedin": "https://www.linkedin.com/company/crafty-work/",
+			"reddit": "https://www.reddit.com/user/crafty_work/",
+			"slack": "",
+			"telegram": "https://t.me/joinchat/B9-OJQ8acnW_cSAOPAXDXw",
+			"twitter": "https://twitter.com/craftywork_",
+			"youtube": "https://www.youtube.com/channel/UCkUk22YsTDWiFUMoI_y9kpQ"
+		}
+	},
+	{
 		"symbol": "CHSB",
 		"address": "0xba9d4199fab4f26efe3551d490e3821486f135ba",
 		"decimals": 8,
@@ -5027,6 +5082,31 @@
 	},
 	{
 		"symbol": "DRP",
+		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+		"decimals": 2,
+		"name": "DCorp",
+		"ens_address": "",
+		"website": "https://www.dcorp.it",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "DRP",
 		"address": "0x2799d90c6d44cb9aa5fbc377177f16c33e056b82",
 		"decimals": 0,
 		"name": "Dripcoin",
@@ -5052,31 +5132,6 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "https://twitter.com/drip_coin",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "DRP",
-		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
-		"decimals": 2,
-		"name": "DCorp",
-		"ens_address": "",
-		"website": "https://www.dcorp.it",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -5194,31 +5249,6 @@
 		}
 	},
 	{
-		"symbol": "DTx",
-		"address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
-		"decimals": 18,
-		"name": "DigitalTicks",
-		"ens_address": "",
-		"website": "",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "DTX",
 		"address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
 		"decimals": 18,
@@ -5241,6 +5271,31 @@
 			"telegram": "https://t.me/databrokerdao",
 			"twitter": "https://twitter.com/DataBrokerDAO",
 			"youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
+		}
+	},
+	{
+		"symbol": "DTx",
+		"address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+		"decimals": 18,
+		"name": "DigitalTicks",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
@@ -5491,12 +5546,7 @@
 		"name": "EDU Token",
 		"ens_address": "",
 		"website": "",
-		"logo": {
-			"src": "",
-			"width": "",
-			"height": "",
-			"ipfs_hash": ""
-		},
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
@@ -5575,7 +5625,6 @@
 			"youtube": ""
 		}
 	},
-
 	{
 		"symbol": "EHT",
 		"address": "0xf9F0FC7167c311Dd2F1e21E9204F87EBA9012fB2",
@@ -6778,31 +6827,6 @@
 			"youtube": ""
 		}
 	},
-		{
-		"symbol": "$FXY",
-		"address": "0xa024e8057eec474a9b2356833707dd0579e26ef3",
-		"decimals": 18,
-		"name": "$FIXY NETWORK",
-		"ens_address": "",
-		"website": "https://fixyapp.io",
-		"logo": { "src": "https://ibb.co/diUwiJ", "width": "300", "height": "299", "ipfs_hash": "" },
-		"support": { "email": "ht@fixyapp.io", "url": "https://fixyapp.io" },
-		"social": {
-			"blog": "https://medium.com/@fixynetwork",
-			"chat": "",
-			"facebook": "https://www.facebook.com/Fixyapp.io/",
-			"forum": "https://bitcointalk.org/index.php?topic=3084108.0",
-			"github": "https://github.com/fixynetwork/FIXY-NETWORK",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/fixynetwork",
-			"twitter": "https://twitter.com/fixy_app",
-			"youtube": ""
-		}
-	},
 	{
 		"symbol": "FYN",
 		"address": "0x88FCFBc22C6d3dBaa25aF478C578978339BDe77a",
@@ -7526,8 +7550,7 @@
 		"ens_address": "",
 		"website": "https://gizer.io",
 		"logo": {
-			"src":
-				"https://etherscan.io/token/images/gizer2_28.png",
+			"src": "https://etherscan.io/token/images/gizer2_28.png",
 			"width": 28,
 			"height": 28,
 			"ipfs_hash": ""
@@ -7546,7 +7569,8 @@
 			"slack": "",
 			"telegram": "https://t.me/joinchat/Em71dQ4KZ8G-XxpArXNuHg",
 			"twitter": "https://twitter.com/GazeCoin",
-			"youtube": "https://www.youtube.com/channel/UCfWwp8uANCJTm1HAYd2iDQQ/videos"
+			"youtube":
+				"https://www.youtube.com/channel/UCfWwp8uANCJTm1HAYd2iDQQ/videos"
 		}
 	},
 	{
@@ -8834,31 +8858,6 @@
 	},
 	{
 		"symbol": "KEY",
-		"address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
-		"decimals": 18,
-		"name": "SelfKey",
-		"ens_address": "",
-		"website": "https://selfkey.org",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@selfkey.org", "url": "" },
-		"social": {
-			"blog": "https://medium.com/selfkey",
-			"chat": "",
-			"facebook": "https://www.facebook.com/SelfKeyNetwork",
-			"forum": "https://bitcointalk.org/index.php?topic=2310691",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "https://www.linkedin.com/company/18232422",
-			"reddit": "https://www.reddit.com/r/selfkey",
-			"slack": "",
-			"telegram": "https://t.me/selfkeyfoundation",
-			"twitter": "http://twitter.com/SelfKey",
-			"youtube": "https://www.youtube.com/channel/UCsilze3-MhbCY3_QkKul3PQ"
-		}
-	},
-	{
-		"symbol": "KEY",
 		"address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
 		"decimals": 18,
 		"name": "BihuKey",
@@ -8880,6 +8879,31 @@
 			"telegram": "",
 			"twitter": "",
 			"youtube": ""
+		}
+	},
+	{
+		"symbol": "KEY",
+		"address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
+		"decimals": 18,
+		"name": "SelfKey",
+		"ens_address": "",
+		"website": "https://selfkey.org",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "support@selfkey.org", "url": "" },
+		"social": {
+			"blog": "https://medium.com/selfkey",
+			"chat": "",
+			"facebook": "https://www.facebook.com/SelfKeyNetwork",
+			"forum": "https://bitcointalk.org/index.php?topic=2310691",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/18232422",
+			"reddit": "https://www.reddit.com/r/selfkey",
+			"slack": "",
+			"telegram": "https://t.me/selfkeyfoundation",
+			"twitter": "http://twitter.com/SelfKey",
+			"youtube": "https://www.youtube.com/channel/UCsilze3-MhbCY3_QkKul3PQ"
 		}
 	},
 	{
@@ -13979,32 +14003,6 @@
 	},
 	{
 		"symbol": "SKRP",
-		"address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
-		"decimals": 18,
-		"name": "Skraps",
-		"ens_address": "",
-		"website": "https://skraps.io",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@skraps.io", "url": "" },
-		"social": {
-			"blog": "https://medium.com/@SKRAPS_IO",
-			"chat": "",
-			"facebook": "https://www.facebook.com/SKRAPSAPP",
-			"forum":
-				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
-			"github": "https://github.com/SkrapsIO",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/SKRAPSio",
-			"slack": "",
-			"telegram": "https://t.me/SkrapsOfficial",
-			"twitter": "https://twitter.com/SKRAPS_IO",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "SKRP",
 		"address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
 		"decimals": 18,
 		"name": "Skraps",
@@ -14053,6 +14051,32 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "SKRP",
+		"address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+		"decimals": 18,
+		"name": "Skraps",
+		"ens_address": "",
+		"website": "https://skraps.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@skraps.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@SKRAPS_IO",
+			"chat": "",
+			"facebook": "https://www.facebook.com/SKRAPSAPP",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
+			"github": "https://github.com/SkrapsIO",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/SKRAPSio",
+			"slack": "",
+			"telegram": "https://t.me/SkrapsOfficial",
+			"twitter": "https://twitter.com/SKRAPS_IO",
 			"youtube": ""
 		}
 	},
@@ -14108,30 +14132,27 @@
 	},
 	{
 		"symbol": "SMT",
-		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
-		"decimals": 8,
-		"name": "Social Media Market",
+		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
+		"decimals": 18,
+		"name": "Smart Node",
 		"ens_address": "",
-		"website": "https://socialmedia.market",
+		"website": "http://smartnode.org",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": {
-			"email": "support@socialmedia.market",
-			"url": "https://t.me/socialmediamarket_eng"
-		},
+		"support": { "email": "info@smartnode.org", "url": "" },
 		"social": {
-			"blog": "https://medium.com/socialmedia-market",
-			"chat": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
-			"facebook": "https://www.facebook.com/SocialMedia.Market.platform",
-			"forum": "https://bitcointalk.org/index.php?topic=2291309.0",
-			"github": "https://github.com/SocialMediaMarket",
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Smart.Node.Group",
+			"forum": "https://bitcointalk.org/index.php?topic=2612181",
+			"github": "",
 			"gitter": "",
-			"instagram": "https://instagram.com/socialmedia.io",
-			"linkedin": "https://www.linkedin.com/company/socialmedia-market/",
-			"reddit": "https://github.com/SocialMediaMarket",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
 			"slack": "",
-			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
-			"twitter": "https://twitter.com/socialmedia_mrk",
-			"youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
+			"telegram": "",
+			"twitter": "https://twitter.com/SmartNodeGroup",
+			"youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
 		}
 	},
 	{
@@ -14161,27 +14182,30 @@
 	},
 	{
 		"symbol": "SMT",
-		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
-		"decimals": 18,
-		"name": "Smart Node",
+		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
+		"decimals": 8,
+		"name": "Social Media Market",
 		"ens_address": "",
-		"website": "http://smartnode.org",
+		"website": "https://socialmedia.market",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@smartnode.org", "url": "" },
+		"support": {
+			"email": "support@socialmedia.market",
+			"url": "https://t.me/socialmediamarket_eng"
+		},
 		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/Smart.Node.Group",
-			"forum": "https://bitcointalk.org/index.php?topic=2612181",
-			"github": "",
+			"blog": "https://medium.com/socialmedia-market",
+			"chat": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
+			"facebook": "https://www.facebook.com/SocialMedia.Market.platform",
+			"forum": "https://bitcointalk.org/index.php?topic=2291309.0",
+			"github": "https://github.com/SocialMediaMarket",
 			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
+			"instagram": "https://instagram.com/socialmedia.io",
+			"linkedin": "https://www.linkedin.com/company/socialmedia-market/",
+			"reddit": "https://github.com/SocialMediaMarket",
 			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/SmartNodeGroup",
-			"youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
+			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
+			"twitter": "https://twitter.com/socialmedia_mrk",
+			"youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
 		}
 	},
 	{
@@ -16410,6 +16434,32 @@
 		}
 	},
 	{
+		"symbol": "WiC",
+		"address": "0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB",
+		"decimals": 18,
+		"name": "Wi Coin",
+		"ens_address": "",
+		"website": "https://www.cryptowi.com/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "admin@cryptowi.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/WiC-1411131028954062",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack":
+				"https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
+			"telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ",
+			"twitter": "https://twitter.com/WiC_Crypto",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "WIC",
 		"address": "0x62cd07d414ec50b68c7ecaa863a23d344f2d062f",
 		"decimals": 0,
@@ -16436,32 +16486,6 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "WiC",
-		"address": "0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB",
-		"decimals": 18,
-		"name": "Wi Coin",
-		"ens_address": "",
-		"website": "https://www.cryptowi.com/",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "admin@cryptowi.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/WiC-1411131028954062",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack":
-				"https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
-			"telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ",
-			"twitter": "https://twitter.com/WiC_Crypto",
 			"youtube": ""
 		}
 	},
@@ -16674,6 +16698,39 @@
 			"telegram": "",
 			"twitter": "",
 			"youtube": ""
+		}
+	},
+	{
+		"symbol": "WYS",
+		"address": "0xd8950fDeaa10304B7A7Fd03a2FC66BC39f3c711a",
+		"decimals": 18,
+		"name": "wystoken",
+		"ens_address": "",
+		"website": "https://www.wystoken.org",
+		"logo": {
+			"src": "https://ibb.co/hmP1vo",
+			"width": "150",
+			"height": "150",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "contact@wysker.org",
+			"url": "https://www.wysker.com"
+		},
+		"social": {
+			"blog": "https://bitcointalk.org/index.php?topic=2443093.0",
+			"chat": "",
+			"facebook": "https://www.facebook.com/wysker",
+			"forum": "",
+			"github": "https://github.com/wysker",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/wysker/",
+			"slack": "",
+			"telegram": "https://t.me/wysker",
+			"twitter": "https://twitter.com/wysker_",
+			"youtube": "https://www.youtube.com/channel/UCjmCaHP6hbiJzQ_fKYzpCkw"
 		}
 	},
 	{
@@ -17254,64 +17311,6 @@
 			"telegram": "https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw",
 			"twitter": "https://twitter.com/ExchangeZeus",
 			"youtube": ""
-		}
-	},
-	{
-		"symbol": "CFTY",
-		"address": "0x6956983f8b3ce173b4ab84361aa0ad52f38d936f",
-		"decimals": 8,
-		"name": "Crafty Token",
-		"ens_address": "",
-		"website": "https://crafty.work/",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "contact@crafty.work", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/crafty.wk",
-			"forum": "",
-			"github": "https://github.com/crafty-work",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/craftywork_/",
-			"linkedin": "https://www.linkedin.com/company/crafty-work/",
-			"reddit": "https://www.reddit.com/user/crafty_work/",
-			"slack": "",
-			"telegram": "https://t.me/joinchat/B9-OJQ8acnW_cSAOPAXDXw",
-			"twitter": "https://twitter.com/craftywork_",
-			"youtube": "https://www.youtube.com/channel/UCkUk22YsTDWiFUMoI_y9kpQ"
-		}
-	},
-	{
-		"symbol": "WYS",
-		"address": "0xd8950fDeaa10304B7A7Fd03a2FC66BC39f3c711a",
-		"decimals": 18,
-		"name": "wystoken",
-		"ens_address": "",
-		"website": "https://www.wystoken.org",
-		"logo": {
-			"src": "https://ibb.co/hmP1vo",
-			"width": "150",
-			"height": "150",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "contact@wysker.org",
-			"url": "https://www.wysker.com"
-		},
-		"social": {
-			"blog": "https://bitcointalk.org/index.php?topic=2443093.0",
-			"chat": "",
-			"facebook": "https://www.facebook.com/wysker",
-			"forum": "",
-			"github": "https://github.com/wysker",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/wysker/",
-			"slack": "",
-			"telegram": "https://t.me/wysker",
-			"twitter": "https://twitter.com/wysker_",
-			"youtube": "https://www.youtube.com/channel/UCjmCaHP6hbiJzQ_fKYzpCkw"
 		}
 	}
 ]
