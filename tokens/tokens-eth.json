@@ -5488,6 +5488,40 @@
 		}
 	},
 	{
+		"symbol": "EGT",
+		"address": "0x8e1b448EC7aDFc7Fa35FC2e885678bD323176E34",
+		"decimals": 18,
+		"name": "Egretia Token",
+		"ens_address": "",
+		"website": "https://www.egretia.io",
+		"logo": { 
+			"src": "http://egretia.io/static/logo-356.png", 
+			"width": "356", 
+			"height": "356", 
+			"ipfs_hash": "" 
+		},
+		"support": {
+			"email": "contact@egretia.io",
+			"url": "https://www.egretia.io"
+		},
+		"social": {
+			"blog": "http://blog.egretia.io",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Egretia.io/",
+			"forum": "",
+			"github": "https://github.com/egretia",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/egretia_io/",
+			"linkedin": "https://www.linkedin.com/company/egretia/",
+			"reddit": "https://www.reddit.com/r/Egretia/",
+			"slack": "",
+			"telegram": "http://t.me/Egretia",
+			"twitter": "https://twitter.com/Egretia_io",
+			"youtube": ""
+		}
+	},
+
+	{
 		"symbol": "EHT",
 		"address": "0xf9F0FC7167c311Dd2F1e21E9204F87EBA9012fB2",
 		"decimals": 8,
