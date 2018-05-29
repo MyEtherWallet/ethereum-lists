@@ -5485,6 +5485,36 @@
 		}
 	},
 	{
+		"symbol": "EDU",
+		"address": "0x2a22e5cca00a3d63308fa39f29202eb1b39eef52",
+		"decimals": 6,
+		"name": "EDU Token",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "eGAS",
 		"address": "0xb53a96bcbdd9cf78dff20bab6c2be7baec8f00f8",
 		"decimals": 8,
@@ -5519,11 +5549,11 @@
 		"name": "Egretia Token",
 		"ens_address": "",
 		"website": "https://www.egretia.io",
-		"logo": { 
-			"src": "http://egretia.io/static/logo-356.png", 
-			"width": "356", 
-			"height": "356", 
-			"ipfs_hash": "" 
+		"logo": {
+			"src": "http://egretia.io/static/logo-356.png",
+			"width": "356",
+			"height": "356",
+			"ipfs_hash": ""
 		},
 		"support": {
 			"email": "contact@egretia.io",
