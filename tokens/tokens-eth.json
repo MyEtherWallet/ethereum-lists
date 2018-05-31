@@ -5112,31 +5112,6 @@
 	},
 	{
 		"symbol": "DRP",
-		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
-		"decimals": 2,
-		"name": "DCorp",
-		"ens_address": "",
-		"website": "https://www.dcorp.it",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "DRP",
 		"address": "0x2799d90c6d44cb9aa5fbc377177f16c33e056b82",
 		"decimals": 0,
 		"name": "Dripcoin",
@@ -5162,6 +5137,31 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "https://twitter.com/drip_coin",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "DRP",
+		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+		"decimals": 2,
+		"name": "DCorp",
+		"ens_address": "",
+		"website": "https://www.dcorp.it",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -7933,6 +7933,36 @@
 	},
 	{
 		"symbol": "HOT",
+		"address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
+		"decimals": 18,
+		"name": "Hydro Protocol",
+		"ens_address": "",
+		"website": "https://thehydrofoundation.com/",
+		"logo": {
+			"src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2430.png",
+			"width": "32",
+			"height": "32",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "libukang@ddex.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/hydroprotocol",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "HOT",
 		"address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
 		"decimals": 18,
 		"name": "HoloToken",
@@ -7963,36 +7993,6 @@
 			"telegram": "https://t.me/channelholo",
 			"twitter": "https://twitter.com/H_O_L_O_",
 			"youtube": "https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g"
-		}
-	},
-	{
-		"symbol": "HOT",
-		"address": "0x9af839687f6c94542ac5ece2e317daae355493a1",
-		"decimals": 18,
-		"name": "Hydro Protocol",
-		"ens_address": "",
-		"website": "https://thehydrofoundation.com/",
-		"logo": {
-			"src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2430.png",
-			"width": "32",
-			"height": "32",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "libukang@ddex.io", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/hydroprotocol",
-			"twitter": "",
-			"youtube": ""
 		}
 	},
 	{
@@ -8888,31 +8888,6 @@
 	},
 	{
 		"symbol": "KEY",
-		"address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
-		"decimals": 18,
-		"name": "BihuKey",
-		"ens_address": "",
-		"website": "https://bihu.com",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "wow@bihu.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "https://github.com/bihu-id",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "KEY",
 		"address": "0x4CC19356f2D37338b9802aa8E8fc58B0373296E7",
 		"decimals": 18,
 		"name": "SelfKey",
@@ -8934,6 +8909,31 @@
 			"telegram": "https://t.me/selfkeyfoundation",
 			"twitter": "http://twitter.com/SelfKey",
 			"youtube": "https://www.youtube.com/channel/UCsilze3-MhbCY3_QkKul3PQ"
+		}
+	},
+	{
+		"symbol": "KEY",
+		"address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+		"decimals": 18,
+		"name": "BihuKey",
+		"ens_address": "",
+		"website": "https://bihu.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "wow@bihu.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/bihu-id",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
@@ -14033,26 +14033,24 @@
 	},
 	{
 		"symbol": "SKRP",
-		"address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
+		"address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
 		"decimals": 18,
 		"name": "Skraps",
 		"ens_address": "",
-		"website": "https://skraps.io/",
+		"website": "https://skraps.io",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": {
-			"email": "info@skraps.io",
-			"url": "https://skraps.io/#support"
-		},
+		"support": { "email": "info@skraps.io", "url": "" },
 		"social": {
 			"blog": "https://medium.com/@SKRAPS_IO",
 			"chat": "",
-			"facebook": "https://www.facebook.com/SKRAPSAPP/",
-			"forum": "",
-			"github": "",
+			"facebook": "https://www.facebook.com/SKRAPSAPP",
+			"forum":
+				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
+			"github": "https://github.com/SkrapsIO",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/SKRAPSio/",
+			"reddit": "https://www.reddit.com/r/SKRAPSio",
 			"slack": "",
 			"telegram": "https://t.me/SkrapsOfficial",
 			"twitter": "https://twitter.com/SKRAPS_IO",
@@ -14086,24 +14084,26 @@
 	},
 	{
 		"symbol": "SKRP",
-		"address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
+		"address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
 		"decimals": 18,
 		"name": "Skraps",
 		"ens_address": "",
-		"website": "https://skraps.io",
+		"website": "https://skraps.io/",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@skraps.io", "url": "" },
+		"support": {
+			"email": "info@skraps.io",
+			"url": "https://skraps.io/#support"
+		},
 		"social": {
 			"blog": "https://medium.com/@SKRAPS_IO",
 			"chat": "",
-			"facebook": "https://www.facebook.com/SKRAPSAPP",
-			"forum":
-				"https://bitcointalk.org/index.php?topic=2520387.msg25746537#msg25746537",
-			"github": "https://github.com/SkrapsIO",
+			"facebook": "https://www.facebook.com/SKRAPSAPP/",
+			"forum": "",
+			"github": "",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/SKRAPSio",
+			"reddit": "https://www.reddit.com/r/SKRAPSio/",
 			"slack": "",
 			"telegram": "https://t.me/SkrapsOfficial",
 			"twitter": "https://twitter.com/SKRAPS_IO",
@@ -14162,31 +14162,6 @@
 	},
 	{
 		"symbol": "SMT",
-		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
-		"decimals": 18,
-		"name": "Smart Node",
-		"ens_address": "",
-		"website": "http://smartnode.org",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@smartnode.org", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/Smart.Node.Group",
-			"forum": "https://bitcointalk.org/index.php?topic=2612181",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/SmartNodeGroup",
-			"youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
-		}
-	},
-	{
-		"symbol": "SMT",
 		"address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
 		"decimals": 18,
 		"name": "SmartMesh",
@@ -14208,6 +14183,31 @@
 			"telegram": "t.me@SmartMesh",
 			"twitter": "https://twitter.com/smart_mesh?lang=en",
 			"youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
+		}
+	},
+	{
+		"symbol": "SMT",
+		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
+		"decimals": 18,
+		"name": "Smart Node",
+		"ens_address": "",
+		"website": "http://smartnode.org",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@smartnode.org", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Smart.Node.Group",
+			"forum": "https://bitcointalk.org/index.php?topic=2612181",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/SmartNodeGroup",
+			"youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
 		}
 	},
 	{
