@@ -3660,6 +3660,36 @@
 		}
 	},
 	{
+		"symbol": "COIN",
+		"address": "0x5e8f855966d638135a968861e80dda722291b06d",
+		"decimals": 18,
+		"name": "Coinvest V2 Token",
+		"ens_address": "",
+		"website": "https://coinve.st",
+		"logo": {
+			"src": "https://coinve.st/assets/images/Coinvest_Profile.png",
+			"width": "250",
+			"height": "250",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@coinve.st", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/CoinvestHQ",
+			"forum": "https://bitcointalk.org/index.php?topic=2381017.0",
+			"github": "https://github.com/CoinvestHQ",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/coinvesthq/",
+			"reddit": "http://reddit.com/r/Coinvest",
+			"slack": "",
+			"telegram": "https://t.me/CoinvestHQ",
+			"twitter": "https://www.twitter.com/CoinvestHQ",
+			"youtube": "https://www.youtube.com/channel/UCX-pE6nXFg3uK2_cMQ5n6jA"
+		}
+	},
+	{
 		"symbol": "COSS",
 		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
 		"decimals": 18,
