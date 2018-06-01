@@ -2816,6 +2816,39 @@
 		}
 	},
 	{
+		"symbol": "CARD",
+		"address": "0x1ed2B1eaEd8e968bc36EB90a914660A71827A5E9",
+		"decimals": 0,
+		"name": "Cardstack Token",
+		"ens_address": "",
+		"website": "https://cardstack.com",
+		"logo": {
+			"src": "",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@cardstack.com",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://medium.com/cardstack",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/cardstack",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://telegram.me/cardstack",
+			"twitter": "https://twitter.com/cardstack",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "CARE",
 		"address": "0xbf18f246b9301f231e9561b35a3879769bb46375",
 		"decimals": 18,
