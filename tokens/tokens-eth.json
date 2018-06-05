@@ -1136,6 +1136,31 @@
 		}
 	},
 	{
+		"symbol": "ATMI",
+		"address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+		"decimals": 18,
+		"name": "Atonomi",
+		"ens_address": "",
+		"website": "https://atonomi.io",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@atonomi.io", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/atonomi/",
+			"forum": "",
+			"github": "https://github.com/atonomi",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/atonomi/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/atonomi_io",
+			"twitter": "https://twitter.com/atonomi",
+			"youtube": "https://www.youtube.com/c/Atonomi"
+		}
+	},
+	{
 		"symbol": "ATL",
 		"address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
 		"decimals": 18,
@@ -8758,7 +8783,7 @@
 			"youtube": "http://bit.ly/JET8_videos"
 		}
 	},
-	
+
 		{
 		"symbol": "JBX",
 		"address": "0x884e3902C4d5cFA86de4aCE7A96AA91EbC25C0Ff",
