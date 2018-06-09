@@ -16839,6 +16839,31 @@
 		}
 	},
 	{
+		"symbol": "WORK",
+		"address": "0x1044ef958a44cb829cd7ff7b7e4849c122662f78",
+		"decimals": 18,
+		"name": "Work Token",
+		"ens_address": "worktoken.eth",
+		"website": "https://workchain.io",
+		"logo": { "src": "https://workchain.io/downloads/workchain_icon_28.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"support": { "email": "ping@workchain.io", "url": "help.workchain.io" },
+		"social": {
+			"blog": "https://medium.com/workchain-io",
+			"chat": "",
+			"facebook": "https://www.facebook.com/workchain.io",
+			"forum": "",
+			"github": "https://github.com/workchainio",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/workchain.io",
+			"linkedin": "https://www.linkedin.com/company/workchain-io",
+			"reddit": "https://www.reddit.com/r/workchainio",
+			"slack": "",
+			"telegram": "https://t.me/workchainio",
+			"twitter": "https://twitter.com/workchain_io",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "WPC",
 		"address": "0x62087245087125d3db5b9a3d713d78e7bbc31e54",
 		"decimals": 18,
