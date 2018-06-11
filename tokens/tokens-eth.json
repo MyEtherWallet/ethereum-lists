@@ -1431,7 +1431,10 @@
 			"height": "100",
 			"ipfs_hash": ""
 		},
-		"support": { "email": "support@brickblock.io", "url": "https://www.brickblock.io/" },
+		"support": {
+			"email": "support@brickblock.io",
+			"url": "https://www.brickblock.io/"
+		},
 		"social": {
 			"blog": "https://blog.brickblock.io/",
 			"chat": "",
@@ -4660,7 +4663,12 @@
 		"name": "DAV Token",
 		"ens_address": "",
 		"website": "https://dav.network/",
-		"logo": { "src": "https://dav.network/img/logo-mew.png", "width": 500, "height": 500, "ipfs_hash": "" },
+		"logo": {
+			"src": "https://dav.network/img/logo-mew.png",
+			"width": 500,
+			"height": 500,
+			"ipfs_hash": ""
+		},
 		"support": { "email": "support@dav.network", "url": "" },
 		"social": {
 			"blog": "https://medium.com/davnetwork",
@@ -8248,8 +8256,16 @@
 		"name": "IADOWR Coin",
 		"ens_address": "",
 		"website": "https://www.iadowrcoin.com",
-		"logo": { "src": "https://www.iadowrcoin.com/img/iadowrcoin.png", "width": "490", "height": "478", "ipfs_hash": "" },
-		"support": { "email": "admin@iadowrcoin.com", "url": "https://www.iadowrcoin.com/contact" },
+		"logo": {
+			"src": "https://www.iadowrcoin.com/img/iadowrcoin.png",
+			"width": "490",
+			"height": "478",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "admin@iadowrcoin.com",
+			"url": "https://www.iadowrcoin.com/contact"
+		},
 		"social": {
 			"blog": "https://www.iadowrcoin.com/resources",
 			"chat": "https://discord.gg/drsAMrf",
@@ -11442,37 +11458,37 @@
 		}
 	},
 	{
-	  "symbol": "nUSD",
-	  "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
-	  "decimals": 18,
-	  "name": "Havven-Backed USD Nomins (nUSD)",
-	  "ens_address": "",
-	  "website": "https://www.havven.io",
-	  "logo": {
-	    "src": "https://www.havven.io/images/favicon3.ico",
-	    "width": "32",
-	    "height": "32",
-	    "ipfs_hash": ""
-	  },
-	  "support": {
-	    "email": "support@havven.io",
-	    "url": ""
-	  },
-	  "social": {
-	    "blog": "https://blog.havven.io",
-	    "chat": "https://t.me/havven_official1",
-	    "facebook": "https://www.facebook.com/havven.io/",
-	    "forum": "https://bitcointalk.org/index.php?topic=2702470",
-	    "github": "https://github.com/havven/havven",
-	    "gitter": "",
-	    "instagram": "",
-	    "linkedin": "https://www.linkedin.com/company/havven/",
-	    "reddit": "https://www.reddit.com/r/havven/",
-	    "slack": "",
-	    "telegram": "https://t.me/havven_official1",
-	    "twitter": "https://twitter.com/havven_io",
-	    "youtube": "https://www.youtube.com/channel/UCGrPolyOAj3cODJIN5ssVTw"
-	  }
+		"symbol": "nUSD",
+		"address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+		"decimals": 18,
+		"name": "Havven-Backed USD Nomins (nUSD)",
+		"ens_address": "",
+		"website": "https://www.havven.io",
+		"logo": {
+			"src": "https://www.havven.io/images/favicon3.ico",
+			"width": "32",
+			"height": "32",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@havven.io",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://blog.havven.io",
+			"chat": "https://t.me/havven_official1",
+			"facebook": "https://www.facebook.com/havven.io/",
+			"forum": "https://bitcointalk.org/index.php?topic=2702470",
+			"github": "https://github.com/havven/havven",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/havven/",
+			"reddit": "https://www.reddit.com/r/havven/",
+			"slack": "",
+			"telegram": "https://t.me/havven_official1",
+			"twitter": "https://twitter.com/havven_io",
+			"youtube": "https://www.youtube.com/channel/UCGrPolyOAj3cODJIN5ssVTw"
+		}
 	},
 	{
 		"symbol": "NxC",
@@ -13382,7 +13398,8 @@
 		"ens_address": "",
 		"website": "https://ico.red-lang.org",
 		"logo": {
-			"src": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
+			"src":
+				"https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
 			"width": 128,
 			"height": 128,
 			"ipfs_hash": ""
