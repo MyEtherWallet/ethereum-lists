@@ -1419,6 +1419,36 @@
 		}
 	},
 	{
+		"symbol": "BBK",
+		"address": "0x4a6058666cf1057eaC3CD3A5a614620547559fc9",
+		"decimals": 18,
+		"name": "BRICKBLOCK TOKEN",
+		"ens_address": "",
+		"website": "https://www.brickblock.io/",
+		"logo": {
+			"src": "https://www.brickblock.io/images/bb_logo_white.svg?crc=205463457",
+			"width": "100",
+			"height": "100",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@brickblock.io", "url": "https://www.brickblock.io/" },
+		"social": {
+			"blog": "https://blog.brickblock.io/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/brickblock.io/",
+			"forum": "",
+			"github": "https://github.com/brickblock-io",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/brickblock.io/",
+			"linkedin": "https://www.linkedin.com/company/18035479/",
+			"reddit": "https://www.reddit.com/r/BrickBlock/",
+			"slack": "https://brickblock-team.slack.com/",
+			"telegram": "https://t.me/brickblock  ",
+			"twitter": "https://twitter.com/brickblock_io",
+			"youtube": "https://www.youtube.com/channel/UC7etm1NmMFIlg2KJ6VXNNrA"
+		}
+	},
+	{
 		"symbol": "BCBC",
 		"address": "0x7367a68039d4704f30bfbf6d948020c3b07dfc59",
 		"decimals": 18,
