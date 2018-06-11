@@ -13350,6 +13350,39 @@
 		}
 	},
 	{
+		"symbol": "RED",
+		"address": "0x76960dccd5a1fe799f7c29be9f19ceb4627aeb2f",
+		"decimals": 18,
+		"name": "Red Community Token",
+		"ens_address": "",
+		"website": "https://ico.red-lang.org",
+		"logo": {
+			"src": "https://static.red-lang.org/pr/logo/red-token-logo_sq_128x128.png",
+			"width": 128,
+			"height": 128,
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "token@red-lang.org",
+			"url": "https://t.me/redofficial"
+		},
+		"social": {
+			"blog": "https://www.red-lang.org",
+			"chat": "",
+			"facebook": "https://www.facebook.com/groups/redlanguage/about",
+			"forum": "",
+			"github": "https://github.com/red",
+			"gitter": "https://gitter.im/red/red/welcome",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/redlang",
+			"slack": "",
+			"telegram": "https://t.me/redofficial",
+			"twitter": "https://twitter.com/red_lang",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "REN",
 		"address": "0x408e41876cCCDC0F92210600ef50372656052a38",
 		"decimals": 18,
