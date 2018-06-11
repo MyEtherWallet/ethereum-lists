@@ -4654,6 +4654,31 @@
 		}
 	},
 	{
+		"symbol": "DAV",
+		"address": "0xd82Df0ABD3f51425Eb15ef7580fDA55727875f14",
+		"decimals": 18,
+		"name": "DAV Token",
+		"ens_address": "",
+		"website": "https://dav.network/",
+		"logo": { "src": "https://dav.network/img/logo-mew.png", "width": 500, "height": 500, "ipfs_hash": "" },
+		"support": { "email": "support@dav.network", "url": "" },
+		"social": {
+			"blog": "https://medium.com/davnetwork",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/DAVFoundation",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/dav-foundation",
+			"reddit": "https://www.reddit.com/r/DAVNetwork/",
+			"slack": "",
+			"telegram": "https://t.me/DAVNetwork",
+			"twitter": "https://twitter.com/DavNetwork",
+			"youtube": "https://www.youtube.com/c/DAVNetwork"
+		}
+	},
+	{
 		"symbol": "DAXT",
 		"address": "0x61725f3db4004afe014745b21dab1e1677cc328b",
 		"decimals": 18,
