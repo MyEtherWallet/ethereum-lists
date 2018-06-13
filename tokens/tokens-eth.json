@@ -11627,6 +11627,37 @@
 		}
 	},
 	{
+		"symbol": "OJX",
+		"address": "0xbeef546ac8a4e0a80dc1e2d696968ef54138f1d4",
+		"decimals": 18,
+		"name": "Ojooo Coin",
+		"ens_address": "",
+		"website": "https://ico.ojooo.com/",
+		"logo": {
+			"src":
+				"https://ico.ojooo.com/images/token-logo.png",
+			"width": "192",
+			"height": "192",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "tokensale@ojooo.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@ojooo",
+			"chat": "",
+			"facebook": "https://www.facebook.com/OjoooMail/",
+			"forum": "",
+			"github": "https://github.com/OjoooInc",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/origcryptocoin/",
+			"linkedin": "https://www.linkedin.com/company/10141242/",
+			"reddit": "www.reddit.com/r/originalcryptocoin/",
+			"slack": "",
+			"telegram": "https://t.me/ojooocom",
+			"twitter": "https://twitter.com/OjoooApp",
+			"youtube": "https://www.youtube.com/user/ojoootv"
+		}
+	},
+	{
 		"symbol": "OHNI",
 		"address": "0x6f539a9456a5bcb6334a1a41207c3788f5825207",
 		"decimals": 18,
