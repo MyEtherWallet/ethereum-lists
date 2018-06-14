@@ -1,5 +1,35 @@
 [
 	{
+		"symbol": "$FFC",
+		"address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
+		"decimals": 18,
+		"name": "$Fluzcoin",
+		"ens_address": "",
+		"website": "https://fluzcoin.io/",
+		"logo": {
+			"src": "https://i.imgur.com/ar18ECx.png",
+			"width": "358",
+			"height": "373",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "info@fluzcoin.io", "url": "https://fluzcoin.io/" },
+		"social": {
+			"blog": "https://medium.com/@fluzcoin",
+			"chat": "",
+			"facebook": "https://www.facebook.com/fluzcoin/",
+			"forum": "https://bitcointalk.org/index.php?topic=3794410.0",
+			"github": "https://github.com/Fluzcoin",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/fluzcoin.official/",
+			"linkedin": "https://www.linkedin.com/company/fluzcoin/",
+			"reddit": "https://www.reddit.com/r/fluzcoin/",
+			"slack": "",
+			"telegram": "https://t.me/Fluzcoin_Foundation",
+			"twitter": "https://twitter.com/fluzcoin",
+			"youtube": "https://www.youtube.com/channel/UCdK-HoZdmvmC-9bS5TeJT0g"
+		}
+	},
+	{
 		"symbol": "$FXY",
 		"address": "0xa024e8057eec474a9b2356833707dd0579e26ef3",
 		"decimals": 18,
