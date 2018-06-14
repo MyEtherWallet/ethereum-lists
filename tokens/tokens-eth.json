@@ -2746,7 +2746,10 @@
 			"height": 478,
 			"ipfs_hash": ""
 		},
-		"support": { "email": "support@blocktrade.com", "url": "https://support.blocktrade.com/" },
+		"support": {
+			"email": "support@blocktrade.com",
+			"url": "https://support.blocktrade.com/"
+		},
 		"social": {
 			"blog": "https://blocktrade.com/news/",
 			"chat": "",
@@ -11600,7 +11603,7 @@
 			"twitter": "",
 			"youtube": ""
 		}
-	},	
+	},
 	{
 		"symbol": "OAK",
 		"address": "0x5e888B83B7287EED4fB7DA7b7d0A0D4c735d94b3",
@@ -11609,7 +11612,10 @@
 		"ens_address": "",
 		"website": "https://aco.ai",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support:aco.ai", "url": "https://knowledgebase.aco.ai" },
+		"support": {
+			"email": "support:aco.ai",
+			"url": "https://knowledgebase.aco.ai"
+		},
 		"social": {
 			"blog": "https://medium.com/theacorncollective",
 			"chat": "",
@@ -11690,8 +11696,7 @@
 		"ens_address": "",
 		"website": "https://ico.ojooo.com/",
 		"logo": {
-			"src":
-				"https://ico.ojooo.com/images/token-logo.png",
+			"src": "https://ico.ojooo.com/images/token-logo.png",
 			"width": "192",
 			"height": "192",
 			"ipfs_hash": ""
@@ -13348,28 +13353,29 @@
 		}
 	},
 	{
-  		"symbol": "RAO",
-  		"address": "0x45edb535942a8c84d9f4b5d37e1b25f91ea4804c",
-  		"decimals": 18,
-  		"name": "RadioYo",
-  		"website": "https://rao.radioyo.fm",
-  		"logo": {
-    			"src": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
-  		},
-  		"support": {
-    			"email": "support@radioyo.fm"
-  		},
-  		"social": {
-    			"facebook": "https://www.facebook.com/radioyofm",
-    			"github": "https://github.com/RadioYoFM/ICO_smartcontract/",
-    			"linkedin": "https://www.linkedin.com/in/radioyo",
-    			"reddit": "https://www.reddit.com/r/RadioYo/",
-    			"slack": "https://radioyo.slack.com",
-    			"telegram": "https://t.me/joinchat/AAAAAEMBG4bGWaQGuDkstg",
-    			"twitter": "https://twitter.com/radioyofm",
+		"symbol": "RAO",
+		"address": "0x45edb535942a8c84d9f4b5d37e1b25f91ea4804c",
+		"decimals": 18,
+		"name": "RadioYo",
+		"website": "https://rao.radioyo.fm",
+		"logo": {
+			"src":
+				"https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png"
+		},
+		"support": {
+			"email": "support@radioyo.fm"
+		},
+		"social": {
+			"facebook": "https://www.facebook.com/radioyofm",
+			"github": "https://github.com/RadioYoFM/ICO_smartcontract/",
+			"linkedin": "https://www.linkedin.com/in/radioyo",
+			"reddit": "https://www.reddit.com/r/RadioYo/",
+			"slack": "https://radioyo.slack.com",
+			"telegram": "https://t.me/joinchat/AAAAAEMBG4bGWaQGuDkstg",
+			"twitter": "https://twitter.com/radioyofm",
 			"discord": "https://discord.gg/S844u3b",
 			"bitcointalk": "https://bitcointalk.org/index.php?topic=2161562.0"
-  		}
+		}
 	},
 	{
 		"symbol": "RBLX",
@@ -17125,7 +17131,10 @@
 			"height": "256",
 			"ipfs_hash": ""
 		},
-		"support": { "email": "ping@workchain.io", "url": "https://help.workchain.io" },
+		"support": {
+			"email": "ping@workchain.io",
+			"url": "https://help.workchain.io"
+		},
 		"social": {
 			"blog": "https://medium.com/workchain-io",
 			"chat": "",
