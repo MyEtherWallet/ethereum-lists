@@ -1200,25 +1200,26 @@
 		"name": "ATL",
 		"ens_address": "",
 		"website": "https://atlant.io",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"logo": { "src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png", "width": "300", "height": "300", "ipfs_hash": "" },
 		"support": { "email": "help@atlant.io", "url": "" },
 		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/atlant_eng",
-			"twitter": "https://twitter.com/atlantio",
-			"youtube": ""
+		"blog": "https://blog.atlant.io/",
+		"chat": "https://t.me/atlant_eng",
+		"facebook": "https://business.facebook.com/atlantplatform/",
+		"forum": "https://bitcointalk.org/index.php?topic=2053239.0",
+		"github": "https://github.com/AtlantPlatform",
+		"gitter": "",
+		"instagram": "",
+		"linkedin": "https://www.linkedin.com/company/atlant.io/",
+		"reddit": "https://www.reddit.com/r/atlantio/",
+		"slack": "",
+		"telegram": "https://t.me/atlant_eng",
+		"twitter": "https://twitter.com/atlantio",
+		"youtube": "https://www.youtube.com/channel/UCOunbV9gX_aB43S6chXuirw"
 		}
+	
 	},
-	{
+	{		
 		"symbol": "ATMI",
 		"address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
 		"decimals": 18,
