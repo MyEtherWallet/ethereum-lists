@@ -15249,6 +15249,31 @@
 		}
 	},
 	{
+		"symbol": "STABIT",
+		"address": "0x4A89cD486fA996ad50c0a63C35c78702f5422a50",
+		"decimals": 3,
+		"name": "StabitCoin",
+		"ens_address": "",
+		"website": "https://stabitcoin.com/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "support@stabitcoin.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/stabit_coin",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "STC",
 		"address": "0x629aEe55ed49581C33ab27f9403F7992A289ffd5",
 		"decimals": 18,
