@@ -3422,6 +3422,37 @@
 		}
 	},
 	{
+		"symbol": "CET",
+		"address": "0xf660ca1e228e7be1fa8b4f5583145e31147fb577",
+		"decimals": 18,
+		"name": "DICE Money Dicet",
+		"ens_address": "",
+		"website": "https://dice.money/",
+		"logo": {
+			"src": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
+			"width": "480",
+			"height": "480",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "contact@dice.money", "url": "https://dice.money" },
+		"social": {
+			"blog": "https://medium.com/@DICEsup/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/DICEsup/",
+			"forum": "",
+			"github": "https://github.com/DICE-Money/",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/DICEsup/",
+			"linkedin": "linkedin.com/company/dice-money/",
+			"reddit": "https://www.reddit.com/r/DICEsup/",
+			"slack": "",
+			"telegram": "https://t.me/DICEMoney",
+			"telegram": "https://t.me/DICEMoneyNews",
+			"twitter": "https://twitter.com/DICEsup",
+			"youtube": "https://www.youtube.com/channel/UCQAJZnp670MZWnNbZY_ovsg"
+		}
+	},
+	{
 		"symbol": "CFI",
 		"address": "0x12FEF5e57bF45873Cd9B62E9DBd7BFb99e32D73e",
 		"decimals": 18,
