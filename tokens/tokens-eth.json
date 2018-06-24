@@ -1217,9 +1217,9 @@
 		"twitter": "https://twitter.com/atlantio",
 		"youtube": "https://www.youtube.com/channel/UCOunbV9gX_aB43S6chXuirw"
 		}
-	
+
 	},
-	{		
+	{
 		"symbol": "ATMI",
 		"address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
 		"decimals": 18,
@@ -18015,5 +18015,38 @@
 			"twitter": "https://twitter.com/ExchangeZeus",
 			"youtube": ""
 		}
+	},
+	{
+		  "symbol": "DGS",
+		  "address": "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b",
+		  "decimals": 8,
+		  "name": "Dragonglass",
+		  "ens_address": "",
+		  "website": "https://dragonglass.com/",
+		  "logo": {
+		    "src": "https://dragonglass.com/wp-content/uploads/2018/06/LogoX132_color_2.png",
+		    "width": "132",
+		    "height": "132",
+		    "ipfs_hash": ""
+		  },
+		  "support": {
+		    "email": "support@dragonglass.com",
+		    "url": "https://t.me/dragonglassco"
+		  },
+		  "social": {
+		    "blog": "http://medium.com/dragonglasscom",
+		    "chat": "",
+		    "facebook": "https://www.facebook.com/dragonglasscom",
+		    "forum": "",
+		    "github": "https://github.com/dragonglasscom",
+		    "gitter": "",
+		    "instagram": "https://instagram.com/dragonglass_official/",
+		    "linkedin": "https://www.linkedin.com/company/dragonglass/",
+		    "reddit": "",
+		    "slack": "https://discordapp.com/invite/eZkxuZg",
+		    "telegram": "https://t.me/dragonglassco",
+		    "twitter": "https://twitter.com/dragonglasscom",
+		    "youtube": "https://www.youtube.com/channel/UCneuYA9RuRFCb-usyb03eWw"
+		  }
 	}
 ]
