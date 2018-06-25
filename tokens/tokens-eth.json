@@ -1200,24 +1200,28 @@
 		"name": "ATL",
 		"ens_address": "",
 		"website": "https://atlant.io",
-		"logo": { "src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png", "width": "300", "height": "300", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
+			"width": "300",
+			"height": "300",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "help@atlant.io", "url": "" },
 		"social": {
-		"blog": "https://blog.atlant.io/",
-		"chat": "https://t.me/atlant_eng",
-		"facebook": "https://business.facebook.com/atlantplatform/",
-		"forum": "https://bitcointalk.org/index.php?topic=2053239.0",
-		"github": "https://github.com/AtlantPlatform",
-		"gitter": "",
-		"instagram": "",
-		"linkedin": "https://www.linkedin.com/company/atlant.io/",
-		"reddit": "https://www.reddit.com/r/atlantio/",
-		"slack": "",
-		"telegram": "https://t.me/atlant_eng",
-		"twitter": "https://twitter.com/atlantio",
-		"youtube": "https://www.youtube.com/channel/UCOunbV9gX_aB43S6chXuirw"
+			"blog": "https://blog.atlant.io/",
+			"chat": "https://t.me/atlant_eng",
+			"facebook": "https://business.facebook.com/atlantplatform/",
+			"forum": "https://bitcointalk.org/index.php?topic=2053239.0",
+			"github": "https://github.com/AtlantPlatform",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/atlant.io/",
+			"reddit": "https://www.reddit.com/r/atlantio/",
+			"slack": "",
+			"telegram": "https://t.me/atlant_eng",
+			"twitter": "https://twitter.com/atlantio",
+			"youtube": "https://www.youtube.com/channel/UCOunbV9gX_aB43S6chXuirw"
 		}
-
 	},
 	{
 		"symbol": "ATMI",
@@ -3429,7 +3433,8 @@
 		"ens_address": "",
 		"website": "https://dice.money/",
 		"logo": {
-			"src": "https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
+			"src":
+				"https://www.dropbox.com/s/5ag9npp048m1qf0/logo_transparent_small.png?dl=0",
 			"width": "480",
 			"height": "480",
 			"ipfs_hash": ""
@@ -4371,7 +4376,12 @@
 		"name": "Convenient To Go",
 		"ens_address": "christiantraders.eth",
 		"website": "https://www.ctgcoin.org",
-		"logo": { "src": "https://www.ctgcoin.org/upload/logo/ctg.logo.png", "width": "68", "height": "41", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://www.ctgcoin.org/upload/logo/ctg.logo.png",
+			"width": "68",
+			"height": "41",
+			"ipfs_hash": ""
+		},
 		"support": {
 			"email": "support@ctgcoin.org",
 			"url": "https://www.ctgcoin.org"
@@ -4379,17 +4389,15 @@
 		"social": {
 			"blog": "https://weibo.com/6550499942/info",
 			"chat": "",
-			"facebook": "https://www.facebook.com/ctg.coin
-",
-			"forum":"",
+			"facebook": "https://www.facebook.com/ctg.coin",
+			"forum": "",
 			"github": "https://github.com/ctgcoin/",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
 			"reddit": "",
 			"slack": "",
-			"telegram": "https://telegram.me/CTGgroup
-",
+			"telegram": "https://telegram.me/CTGgroup",
 			"twitter": "https://twitter.com/CtGcoin",
 			"youtube": ""
 		}
@@ -18078,36 +18086,37 @@
 		}
 	},
 	{
-		  "symbol": "DGS",
-		  "address": "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b",
-		  "decimals": 8,
-		  "name": "Dragonglass",
-		  "ens_address": "",
-		  "website": "https://dragonglass.com/",
-		  "logo": {
-		    "src": "https://dragonglass.com/wp-content/uploads/2018/06/LogoX132_color_2.png",
-		    "width": "132",
-		    "height": "132",
-		    "ipfs_hash": ""
-		  },
-		  "support": {
-		    "email": "support@dragonglass.com",
-		    "url": "https://t.me/dragonglassco"
-		  },
-		  "social": {
-		    "blog": "http://medium.com/dragonglasscom",
-		    "chat": "",
-		    "facebook": "https://www.facebook.com/dragonglasscom",
-		    "forum": "",
-		    "github": "https://github.com/dragonglasscom",
-		    "gitter": "",
-		    "instagram": "https://instagram.com/dragonglass_official/",
-		    "linkedin": "https://www.linkedin.com/company/dragonglass/",
-		    "reddit": "",
-		    "slack": "https://discordapp.com/invite/eZkxuZg",
-		    "telegram": "https://t.me/dragonglassco",
-		    "twitter": "https://twitter.com/dragonglasscom",
-		    "youtube": "https://www.youtube.com/channel/UCneuYA9RuRFCb-usyb03eWw"
-		  }
+		"symbol": "DGS",
+		"address": "0x6aEDbF8dFF31437220dF351950Ba2a3362168d1b",
+		"decimals": 8,
+		"name": "Dragonglass",
+		"ens_address": "",
+		"website": "https://dragonglass.com/",
+		"logo": {
+			"src":
+				"https://dragonglass.com/wp-content/uploads/2018/06/LogoX132_color_2.png",
+			"width": "132",
+			"height": "132",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@dragonglass.com",
+			"url": "https://t.me/dragonglassco"
+		},
+		"social": {
+			"blog": "http://medium.com/dragonglasscom",
+			"chat": "",
+			"facebook": "https://www.facebook.com/dragonglasscom",
+			"forum": "",
+			"github": "https://github.com/dragonglasscom",
+			"gitter": "",
+			"instagram": "https://instagram.com/dragonglass_official/",
+			"linkedin": "https://www.linkedin.com/company/dragonglass/",
+			"reddit": "",
+			"slack": "https://discordapp.com/invite/eZkxuZg",
+			"telegram": "https://t.me/dragonglassco",
+			"twitter": "https://twitter.com/dragonglasscom",
+			"youtube": "https://www.youtube.com/channel/UCneuYA9RuRFCb-usyb03eWw"
+		}
 	}
 ]
