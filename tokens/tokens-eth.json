@@ -6907,7 +6907,13 @@
 		"name": "Fan Token",
 		"ens_address": "",
 		"website": "https://tokensale.fanfare.global",
-		"logo": { "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/c80e9fbb-c8f9-4c66-9044-0c4c32392405.png", "width": "866", "height": "866", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/c80e9fbb-c8f9-4c66-9044-0c4c32392405.png",
+			"width": "866",
+			"height": "866",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "tokensale@fanfare.global", "url": "" },
 		"social": {
 			"blog": "https://medium.com/fanfareglobal",
@@ -12125,7 +12131,13 @@
 		"name": "OTCMAKER Token",
 		"ens_address": "",
 		"website": "www.otcmaker.com",
-		"logo": { "src": "https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "contact@otcmaker.com", "url": "" },
 		"social": {
 			"blog": "",
@@ -12855,7 +12867,13 @@
 		"name": "DACPLAY Token",
 		"ens_address": "",
 		"website": "https://dacplay.org",
-		"logo": { "src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png", "width": "200", "height": "200", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png",
+			"width": "200",
+			"height": "200",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "info@dacplay.org", "url": "" },
 		"social": {
 			"blog": "https://dacplay.org/posts",
@@ -14065,7 +14083,8 @@
 		"ens_address": "",
 		"website": "https://www.evolution.land/",
 		"logo": {
-			"src": "https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
+			"src":
+				"https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
 			"width": 120,
 			"height": 120,
 			"ipfs_hash": ""
