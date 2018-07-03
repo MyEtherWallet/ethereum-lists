@@ -12119,6 +12119,31 @@
 		}
 	},
 	{
+		"symbol": "OMT",
+		"address": "0x047187e53477be70DBe8Ea5B799318f2e165052F",
+		"decimals": 18,
+		"name": "OTCMAKER Token",
+		"ens_address": "",
+		"website": "www.otcmaker.com",
+		"logo": { "src": "https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png", "width": "28", "height": "28", "ipfs_hash": "" },
+		"support": { "email": "contact@otcmaker.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "https://github.com/OTCMAKER/OMT",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/otcmaker",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "ONEK",
 		"address": "0xb23be73573bc7e03db6e5dfc62405368716d28a8",
 		"decimals": 18,
