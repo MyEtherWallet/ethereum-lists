@@ -10755,6 +10755,39 @@
 		}
 	},
 	{
+	  "symbol": "MFT",
+	  "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+	  "decimals": 18,
+	  "name": "Mainframe Token",
+	  "ens_address": "token.mainframehq.eth",
+	  "website": "https://mainframe.com",
+	  "logo": {
+	    "src": "https://raw.githubusercontent.com/MainframeHQ/branding/master/Illustrations/MF_Illustration_MFT_28x28.png",
+	    "width": 28,
+	    "height": 28,
+	    "ipfs_hash": ""
+	  },
+	  "support": {
+	    "email": "contact@mainframe.com",
+	    "url": ""
+	  },
+	  "social": {
+	    "blog": "https://blog.mainframe.com",
+	    "chat": "",
+	    "facebook": "https://www.facebook.com/MainframeHQ",
+	    "forum": "",
+	    "github": "https://github.com/MainframeHQ",
+	    "gitter": "",
+	    "instagram": "https://www.instagram.com/mainframehq",
+	    "linkedin": "https://www.linkedin.com/company/mainframehq",
+	    "reddit": "",
+	    "slack": "",
+	    "telegram": "https://t.me/mainframehq",
+	    "twitter": "https://twitter.com/Mainframe_HQ",
+	    "youtube": "https://www.youtube.com/c/MainframeHQ"
+	  }
+	},
+	{
 		"symbol": "MGO",
 		"address": "0x40395044ac3c0c57051906da938b54bd6557f212",
 		"decimals": 8,
