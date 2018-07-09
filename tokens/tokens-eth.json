@@ -1,4 +1,34 @@
 [
+		{
+		"symbol": "ECP",
+		"address": "0xAEA1C18A992984831002D0cf90E291FB52d72649",
+		"decimals": 18,
+		"name": "ECRYPTO COIN",
+		"ens_address": "",
+		"website": "https://ecryptotokens.com",
+		"logo": {
+			"src": "https://ecryptotokens.com/images/resources/logo.png",
+			"width": "60",
+			"height": "60",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "info@ecryptotokens.com", "url": "https://ecryptotokens.com" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/groups/166211327455335/",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
 	{
 		"symbol": "$FFC",
 		"address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
