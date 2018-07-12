@@ -1,35 +1,5 @@
 [
 	{
-		"symbol": "CFC",
-		"address": "0x5dff89a2caa4d76bc286f74d67bd718eb834da61",
-		"decimals": 18,
-		"name": "CryptFillCoin",
-		"ens_address": "",
-		"website": "https://cryptfillcoin.com",
-		"logo": {
-			"src": "https://cryptfillcoin.com/images/resources/logo.png",
-			"width": "60",
-			"height": "60",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "info@cryptfillcoin.com", "url": "https://cryptfillcoin.com/" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/cryptfill/",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "$FFC",
 		"address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
 		"decimals": 18,
@@ -3539,6 +3509,39 @@
 			"telegram": "https://t.me/DICEMoneyNews",
 			"twitter": "https://twitter.com/DICEsup",
 			"youtube": "https://www.youtube.com/channel/UCQAJZnp670MZWnNbZY_ovsg"
+		}
+	},
+	{
+		"symbol": "CFC",
+		"address": "0x5dff89a2caa4d76bc286f74d67bd718eb834da61",
+		"decimals": 18,
+		"name": "CryptFillCoin",
+		"ens_address": "",
+		"website": "https://cryptfillcoin.com",
+		"logo": {
+			"src": "https://cryptfillcoin.com/images/resources/logo.png",
+			"width": "60",
+			"height": "60",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "info@cryptfillcoin.com",
+			"url": "https://cryptfillcoin.com/"
+		},
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/cryptfill/",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
