@@ -6347,6 +6347,36 @@
 		}
 	},
 	{
+		"symbol": "ELY",
+		"address": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+		"decimals": 18,
+		"name": "ELYCOIN",
+		"ens_address": "",
+		"website": "https://elycoin.io",
+		"logo": { 
+			"src": "https://elycoin.io/assets/images/ely128.png", 
+			"width": "128", 
+			"height": "128", 
+			"ipfs_hash": "" 
+		},
+		"support": { "email": "support@elycoin.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@Elysian_Ely",
+			"chat": "",
+			"facebook": "https://www.facebook.com/ElysianxELY",
+			"forum": "https://forum.elycoin.io/",
+			"github": "https://github.com/Elysian-ELY",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/elysian-ely",
+			"reddit": "https://www.reddit.com/r/elysian_ely",
+			"slack": "",
+			"telegram": "https://t.me/elysian_ely",
+			"twitter": "https://twitter.com/Elysian_ELY",
+			"youtube": "https://www.youtube.com/channel/UCm0BGtPu1nB-7HbeJsHKJTw"
+		}
+	},
+	{
 		"symbol": "EMON",
 		"address": "0xb67b88a25708a35ae7c2d736d398d268ce4f7f83",
 		"decimals": 8,
