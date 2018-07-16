@@ -5736,7 +5736,10 @@
 			"height": "180",
 			"ipfs_hash": ""
 		},
-		"support": { "email": "airdrop@driveholic.com", "url": "https://airdrop.driveholic.com/" },
+		"support": {
+			"email": "airdrop@driveholic.com",
+			"url": "https://airdrop.driveholic.com/"
+		},
 		"social": {
 			"blog": "https://medium.com/@driveholicsite",
 			"chat": "",
@@ -6383,11 +6386,11 @@
 		"name": "ELYCOIN",
 		"ens_address": "",
 		"website": "https://elycoin.io",
-		"logo": { 
-			"src": "https://elycoin.io/assets/images/ely128.png", 
-			"width": "128", 
-			"height": "128", 
-			"ipfs_hash": "" 
+		"logo": {
+			"src": "https://elycoin.io/assets/images/ely128.png",
+			"width": "128",
+			"height": "128",
+			"ipfs_hash": ""
 		},
 		"support": { "email": "support@elycoin.io", "url": "" },
 		"social": {
@@ -15336,7 +15339,10 @@
 		"ens_address": "",
 		"website": "https://selfllery.com/",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@selfllery.com", "url": "https://selfllery.com/contact-us" },
+		"support": {
+			"email": "support@selfllery.com",
+			"url": "https://selfllery.com/contact-us"
+		},
 		"social": {
 			"blog": "https://medium.com/@SELFLLERY",
 			"chat": "",
