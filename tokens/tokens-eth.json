@@ -10422,7 +10422,32 @@
 	},
 	{
 		"symbol": "LOK",
-		"address": "0x21ae23b882a340a22282162086bc98d3e2b73018",
+		"address": "0x21aE23B882A340A22282162086bC98D3E2B73018",
+		"decimals": 18,
+		"name": "LOK",
+		"ens_address": "",
+		"website": "https://lookrev.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "contact@lookrev.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://facebook.com/lookrev",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "https://lookrev.slack.com",
+			"telegram": "",
+			"twitter": "https://twitter.com/lookrev",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "LOOK",
+		"address": "0x253c7dd074f4bacb305387f922225a4f737c08bd",
 		"decimals": 18,
 		"name": "LOK",
 		"ens_address": "",
