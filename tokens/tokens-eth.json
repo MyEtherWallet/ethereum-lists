@@ -17169,6 +17169,36 @@
 		}
 	},
 	{
+		"symbol": "VDG",
+		"address": "0x57C75ECCc8557136D32619a191fBCDc88560d711",
+		"decimals": 0,
+		"name": "VeriDocGlobal",
+		"ens_address": "",
+		"website": "https://www.veridocglobal.com/",
+		"logo": {
+			"src": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
+			"width": "350",
+			"height": "145",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "admin@veridocglobal.com", "url": "https://www.veridocglobal.com/contactus" },
+		"social": {
+			"blog": "https://veridocglobal.com/news",
+			"chat": "",
+			"facebook": "https://www.facebook.com/VeriDocGlobal",
+			"forum": "",
+			"github": "https://github.com/VeriDocGlobal",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/VeriDocGlobal/",
+			"linkedin": "https://www.linkedin.com/company/veridocglobal",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/veridocglobal",
+			"twitter": "https://twitter.com/VeriDocGlobal",
+			"youtube": "https://www.youtube.com/channel/UCbl5uvM3vd-XRm-aDj2YZJw"
+		}
+	},
+	{
 		"symbol": "VDOC",
 		"address": "0x82BD526bDB718C6d4DD2291Ed013A5186cAE2DCa",
 		"decimals": 18,
