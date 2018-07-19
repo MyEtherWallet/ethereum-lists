@@ -5147,6 +5147,38 @@
 			"youtube": ""
 		}
 	},
+	
+	{
+		"symbol": "DEPO",
+		"address": "0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106",
+		"decimals": 18,
+		"name": "DEPO (Depository Network)",
+		"ens_address": "",
+		"website": "https://depository.network",
+		"logo": {
+			"src": "https://i.imgur.com/ar18ECx.png?????",
+			"width": "358???",
+			"height": "373???",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@depository.network", "url": "https://depository.network/" },
+		"social": {
+			"blog": "https://depository.network/blog/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/depository.network/",
+			"forum": "https://bitcointalk.org/index.php?topic=4544199",
+			"github": "https://github.com/DepositoryNetwork/DepositoryTokenSmartContract",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/depositorynetwork/",
+			"reddit": "https://www.reddit.com/r/DepositoryNetworkDepo/",
+			"slack": "",
+			"telegram": "https://t.me/depositorynetwork",
+			"twitter": "https://twitter.com/deponetwork",
+			"youtube": "https://www.youtube.com/channel/UCi7oC83SlkcDXQa5eA0Bkxg"
+		}
+	},
+	
 	{
 		"symbol": "Devcon2 Token",
 		"address": "0xdd94De9cFE063577051A5eb7465D08317d8808B6",
