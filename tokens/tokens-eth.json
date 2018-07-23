@@ -16923,6 +16923,31 @@
 		}
 	},
 	{
+		"symbol": "TSW",
+		"address": "0x6B87999bE87358065bBdE41e8a0fe0B7b1cd2514",
+		"decimals": 18,
+		"name": "TeslaWatt",
+		"ens_address": "",
+		"website": "https://www.teslawatt.com",
+		"logo": { "src": "https://www.teslawatt.com/icon-tesla1.jpg", "width": "270", "height": "270", "ipfs_hash": "" },
+		"support": { "email": "blockchain@teslawatt.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/TeslaWatt-146558099344457/",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "https://www.instagram.com/teslawattllc/",
+			"linkedin": "https://www.linkedin.com/company/teslawatt/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://bit.ly/2J0NHxT",
+			"twitter": "https://twitter.com/TeslaWatt",
+			"youtube": "https://www.youtube.com/channel/UC57TF8T2Ct90sN-FwzALXaQ/featured?view_as=subscriber"
+		}
+	},
+	{
 		"symbol": "TWN",
 		"address": "0x2eF1aB8a26187C58BB8aAeB11B2fC6D25C5c0716",
 		"decimals": 18,
