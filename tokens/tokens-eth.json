@@ -2963,6 +2963,36 @@
 		}
 	},
 	{
+		"symbol": "CAR (CarBlock)",
+		"address": "0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b",
+		"decimals": 18,
+		"name": "CarBlock",
+		"ens_address": "",
+		"website": "https://www.carblock.io",
+		"logo": {
+			"src": "https://www.carblock.io/logo-400x400.png",
+			"width": 400,
+			"height": 400,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@carblock.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/carblock",
+			"chat": "",
+			"facebook": "https://www.facebook.com/carblockofficial/?ref=aymt_homepage_panel",
+			"forum": "",
+			"github": "https://github.com/carblock-io",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/carblockglobal",
+			"twitter": "https://twitter.com/carblock_io",
+			"youtube": "https://www.youtube.com/channel/UCjgN4_1Jvv1KlETeoWalBVA"
+		}
+	},
+	{
 		"symbol": "CAR",
 		"address": "0x423e4322cdda29156b49a17dfbd2acc4b280600d",
 		"decimals": 9,
