@@ -2963,36 +2963,6 @@
 		}
 	},
 	{
-		"symbol": "CAR (CarBlock)",
-		"address": "0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b",
-		"decimals": 18,
-		"name": "CarBlock",
-		"ens_address": "",
-		"website": "https://www.carblock.io",
-		"logo": {
-			"src": "https://www.carblock.io/logo-400x400.png",
-			"width": 400,
-			"height": 400,
-			"ipfs_hash": ""
-		},
-		"support": { "email": "support@carblock.io", "url": "" },
-		"social": {
-			"blog": "https://medium.com/carblock",
-			"chat": "",
-			"facebook": "https://www.facebook.com/carblockofficial/?ref=aymt_homepage_panel",
-			"forum": "",
-			"github": "https://github.com/carblock-io",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/carblockglobal",
-			"twitter": "https://twitter.com/carblock_io",
-			"youtube": "https://www.youtube.com/channel/UCjgN4_1Jvv1KlETeoWalBVA"
-		}
-	},
-	{
 		"symbol": "CAR",
 		"address": "0x423e4322cdda29156b49a17dfbd2acc4b280600d",
 		"decimals": 9,
@@ -3020,6 +2990,37 @@
 			"telegram": "",
 			"twitter": "https://twitter.com/CSCGLOBALL1",
 			"youtube": ""
+		}
+	},
+	{
+		"symbol": "CAR (CarBlock)",
+		"address": "0x4d9e23a3842fe7eb7682b9725cf6c507c424a41b",
+		"decimals": 18,
+		"name": "CarBlock",
+		"ens_address": "",
+		"website": "https://www.carblock.io",
+		"logo": {
+			"src": "https://www.carblock.io/logo-400x400.png",
+			"width": 400,
+			"height": 400,
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@carblock.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/carblock",
+			"chat": "",
+			"facebook":
+				"https://www.facebook.com/carblockofficial/?ref=aymt_homepage_panel",
+			"forum": "",
+			"github": "https://github.com/carblock-io",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/carblockglobal",
+			"twitter": "https://twitter.com/carblock_io",
+			"youtube": "https://www.youtube.com/channel/UCjgN4_1Jvv1KlETeoWalBVA"
 		}
 	},
 	{
@@ -4106,13 +4107,13 @@
 	},
 	{
 		"symbol": "COSS",
-		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
+		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
 		"decimals": 18,
-		"name": "Coss Token",
+		"name": "COSS",
 		"ens_address": "",
-		"website": "https://coss.io",
+		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@coss.io", "url": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -4131,13 +4132,13 @@
 	},
 	{
 		"symbol": "COSS",
-		"address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
+		"address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
 		"decimals": 18,
-		"name": "COSS",
+		"name": "Coss Token",
 		"ens_address": "",
-		"website": "",
+		"website": "https://coss.io",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
+		"support": { "email": "info@coss.io", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -4358,8 +4359,16 @@
 		"name": "CargoCoin",
 		"ens_address": "",
 		"website": "https://thecargocoin.com",
-		"logo": { "src": "https://thecargocoin.com/images/logo_icon.png", "width": "44", "height": "44", "ipfs_hash": "" },
-		"support": { "email": "info@thecargocoin.com", "url": "https://thecargocoin.com/contact.html" },
+		"logo": {
+			"src": "https://thecargocoin.com/images/logo_icon.png",
+			"width": "44",
+			"height": "44",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "info@thecargocoin.com",
+			"url": "https://thecargocoin.com/contact.html"
+		},
 		"social": {
 			"blog": "https://medium.com/@thecargocoin",
 			"chat": "",
@@ -4374,6 +4383,31 @@
 			"telegram": "http://t.me/thecargocoingroup",
 			"twitter": "https://twitter.com/thecargocoin",
 			"youtube": "https://www.youtube.com/c/CargoCoin"
+		}
+	},
+	{
+		"symbol": "CRMT",
+		"address": "0xad723Facb5fd4cDA129d706Ac9D0489B025Ed188",
+		"decimals": 8,
+		"name": "Cremit",
+		"ens_address": "",
+		"website": "https://www.cremit.co",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "support@cremit.co", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
 		}
 	},
 	{
@@ -4410,31 +4444,6 @@
 		"website": "http://creamtoecoin.com",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "support@creamtoecoin.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "CRMT",
-		"address": "0xad723Facb5fd4cDA129d706Ac9D0489B025Ed188",
-		"decimals": 8,
-		"name": "Cremit",
-		"ens_address": "",
-		"website": "https://www.cremit.co",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@cremit.co", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -5227,7 +5236,6 @@
 			"youtube": ""
 		}
 	},
-
 	{
 		"symbol": "DEPO (Depository Network)",
 		"address": "0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106",
@@ -5241,13 +5249,17 @@
 			"height": "373???",
 			"ipfs_hash": ""
 		},
-		"support": { "email": "support@depository.network", "url": "https://depository.network/" },
+		"support": {
+			"email": "support@depository.network",
+			"url": "https://depository.network/"
+		},
 		"social": {
 			"blog": "https://depository.network/blog/",
 			"chat": "",
 			"facebook": "https://www.facebook.com/depository.network/",
 			"forum": "https://bitcointalk.org/index.php?topic=4544199",
-			"github": "https://github.com/DepositoryNetwork/DepositoryTokenSmartContract",
+			"github":
+				"https://github.com/DepositoryNetwork/DepositoryTokenSmartContract",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "https://www.linkedin.com/company/depositorynetwork/",
@@ -5258,7 +5270,6 @@
 			"youtube": "https://www.youtube.com/channel/UCi7oC83SlkcDXQa5eA0Bkxg"
 		}
 	},
-
 	{
 		"symbol": "Devcon2 Token",
 		"address": "0xdd94De9cFE063577051A5eb7465D08317d8808B6",
@@ -5782,6 +5793,31 @@
 	},
 	{
 		"symbol": "DRP",
+		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
+		"decimals": 2,
+		"name": "DCorp",
+		"ens_address": "",
+		"website": "https://www.dcorp.it",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "DRP",
 		"address": "0x2799d90c6d44cb9aa5fbc377177f16c33e056b82",
 		"decimals": 0,
 		"name": "Dripcoin",
@@ -5807,31 +5843,6 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "https://twitter.com/drip_coin",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "DRP",
-		"address": "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed",
-		"decimals": 2,
-		"name": "DCorp",
-		"ens_address": "",
-		"website": "https://www.dcorp.it",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -5982,31 +5993,6 @@
 		}
 	},
 	{
-		"symbol": "DTX",
-		"address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
-		"decimals": 18,
-		"name": "DaTa eXchange Token",
-		"ens_address": "",
-		"website": "https://databrokerdao.com",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "hello@databrokerdao.com", "url": "" },
-		"social": {
-			"blog": "https://medium.com/databrokerdao",
-			"chat": "",
-			"facebook": "https://www.facebook.com/DataBrokerDAO",
-			"forum": "https://bitcointalk.org/index.php?topic=2113309.0",
-			"github": "https://github.com/DataBrokerDAO",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/DatabrokerDAO/",
-			"slack": "",
-			"telegram": "https://t.me/databrokerdao",
-			"twitter": "https://twitter.com/DataBrokerDAO",
-			"youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
-		}
-	},
-	{
 		"symbol": "DTx",
 		"address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
 		"decimals": 18,
@@ -6029,6 +6015,31 @@
 			"telegram": "",
 			"twitter": "",
 			"youtube": ""
+		}
+	},
+	{
+		"symbol": "DTX",
+		"address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+		"decimals": 18,
+		"name": "DaTa eXchange Token",
+		"ens_address": "",
+		"website": "https://databrokerdao.com",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "hello@databrokerdao.com", "url": "" },
+		"social": {
+			"blog": "https://medium.com/databrokerdao",
+			"chat": "",
+			"facebook": "https://www.facebook.com/DataBrokerDAO",
+			"forum": "https://bitcointalk.org/index.php?topic=2113309.0",
+			"github": "https://github.com/DataBrokerDAO",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "https://www.reddit.com/r/DatabrokerDAO/",
+			"slack": "",
+			"telegram": "https://t.me/databrokerdao",
+			"twitter": "https://twitter.com/DataBrokerDAO",
+			"youtube": "https://www.youtube.com/channel/UCUmxSlaliIuF0Z3yNw8y_uA"
 		}
 	},
 	{
@@ -12370,7 +12381,13 @@
 		"name": "Ohni",
 		"ens_address": "",
 		"website": "http://ohni.us",
-		"logo": { "src": "https://ohni.us/wp-content/uploads/2018/05/Main_Logo-e1526670376669.png", "width": "256", "height": "256", "ipfs_hash": "" },
+		"logo": {
+			"src":
+				"https://ohni.us/wp-content/uploads/2018/05/Main_Logo-e1526670376669.png",
+			"width": "256",
+			"height": "256",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "james@ohni.us", "url": "" },
 		"social": {
 			"blog": "ohni.us/blog",
@@ -15153,31 +15170,6 @@
 	},
 	{
 		"symbol": "SGT",
-		"address": "0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
-		"decimals": 1,
-		"name": "StatusGenesis",
-		"ens_address": "",
-		"website": "",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "SGT",
 		"address": "0x37427576324fE1f3625c9102674772d7CF71377d",
 		"decimals": 18,
 		"name": "SelfieYo Gold Token",
@@ -15205,6 +15197,31 @@
 			"slack": "",
 			"telegram": "https://t.me/SGTcoin",
 			"twitter": "https://twitter.com/SelfieYo",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "SGT",
+		"address": "0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
+		"decimals": 1,
+		"name": "StatusGenesis",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -15548,31 +15565,6 @@
 	},
 	{
 		"symbol": "SMT",
-		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
-		"decimals": 18,
-		"name": "Smart Node",
-		"ens_address": "",
-		"website": "http://smartnode.org",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@smartnode.org", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/Smart.Node.Group",
-			"forum": "https://bitcointalk.org/index.php?topic=2612181",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/SmartNodeGroup",
-			"youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
-		}
-	},
-	{
-		"symbol": "SMT",
 		"address": "0x78Eb8DC641077F049f910659b6d580E80dC4d237",
 		"decimals": 8,
 		"name": "Social Media Market",
@@ -15597,6 +15589,31 @@
 			"telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
 			"twitter": "https://twitter.com/socialmedia_mrk",
 			"youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
+		}
+	},
+	{
+		"symbol": "SMT",
+		"address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
+		"decimals": 18,
+		"name": "Smart Node",
+		"ens_address": "",
+		"website": "http://smartnode.org",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "info@smartnode.org", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/Smart.Node.Group",
+			"forum": "https://bitcointalk.org/index.php?topic=2612181",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/SmartNodeGroup",
+			"youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
 		}
 	},
 	{
@@ -16725,6 +16742,39 @@
 		}
 	},
 	{
+		"symbol": "TICO",
+		"address": "0xa5db1d6f7a0d5bccc17d0bfd39d7af32d5e5edc6",
+		"decimals": 5,
+		"name": "Topinvestmentcoin",
+		"ens_address": "",
+		"website": "https://www.topinvestmentcoin.online/",
+		"logo": {
+			"src": "https://i.imgur.com/DnDglhQ.png",
+			"width": "130",
+			"height": "129",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@topinvestmentcoin.online",
+			"url": "https://www.topinvestmentcoin.online/"
+		},
+		"social": {
+			"blog": "https://medium.com/topinvestmentcoin",
+			"chat": "",
+			"facebook": "https://web.facebook.com/Topinvestmentcoin/",
+			"forum": "https://bitcointalk.org/index.php?topic=3123082.0#new",
+			"github": "https://github.com/Topinvestmentcoin/Topinvestmentcoin-",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/topinvestmentcoin",
+			"twitter": "https://www.twitter.com/Topinvestcoin",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "TIME",
 		"address": "0x6531f133e6DeeBe7F2dcE5A0441aA7ef330B4e53",
 		"decimals": 8,
@@ -16984,7 +17034,12 @@
 		"name": "TeslaWatt",
 		"ens_address": "",
 		"website": "https://www.teslawatt.com",
-		"logo": { "src": "https://www.teslawatt.com/icon-tesla1.jpg", "width": "270", "height": "270", "ipfs_hash": "" },
+		"logo": {
+			"src": "https://www.teslawatt.com/icon-tesla1.jpg",
+			"width": "270",
+			"height": "270",
+			"ipfs_hash": ""
+		},
 		"support": { "email": "blockchain@teslawatt.com", "url": "" },
 		"social": {
 			"blog": "",
@@ -16999,7 +17054,8 @@
 			"slack": "",
 			"telegram": "https://bit.ly/2J0NHxT",
 			"twitter": "https://twitter.com/TeslaWatt",
-			"youtube": "https://www.youtube.com/channel/UC57TF8T2Ct90sN-FwzALXaQ/featured?view_as=subscriber"
+			"youtube":
+				"https://www.youtube.com/channel/UC57TF8T2Ct90sN-FwzALXaQ/featured?view_as=subscriber"
 		}
 	},
 	{
@@ -17318,7 +17374,10 @@
 			"height": "145",
 			"ipfs_hash": ""
 		},
-		"support": { "email": "admin@veridocglobal.com", "url": "https://www.veridocglobal.com/contactus" },
+		"support": {
+			"email": "admin@veridocglobal.com",
+			"url": "https://www.veridocglobal.com/contactus"
+		},
 		"social": {
 			"blog": "https://veridocglobal.com/news",
 			"chat": "",
@@ -17955,32 +18014,6 @@
 		}
 	},
 	{
-		"symbol": "WiC",
-		"address": "0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB",
-		"decimals": 18,
-		"name": "Wi Coin",
-		"ens_address": "",
-		"website": "https://www.cryptowi.com/",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "admin@cryptowi.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/WiC-1411131028954062",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack":
-				"https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
-			"telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ",
-			"twitter": "https://twitter.com/WiC_Crypto",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "WIC",
 		"address": "0x62cd07d414ec50b68c7ecaa863a23d344f2d062f",
 		"decimals": 0,
@@ -18007,6 +18040,32 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "WiC",
+		"address": "0x5e4ABE6419650CA839Ce5BB7Db422b881a6064bB",
+		"decimals": 18,
+		"name": "Wi Coin",
+		"ens_address": "",
+		"website": "https://www.cryptowi.com/",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "admin@cryptowi.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/WiC-1411131028954062",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack":
+				"https://join.slack.com/t/wictokensale/shared_invite/MjE2NzA4ODI0NDgyLTE1MDA4OTM3NzUtODEzZGY0YjFhYw",
+			"telegram": "https://t.me/joinchat/FLaoRUChXsc2PD_QCBziZQ",
+			"twitter": "https://twitter.com/WiC_Crypto",
 			"youtube": ""
 		}
 	},
@@ -18050,6 +18109,31 @@
 		"website": "https://wings.ai",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": { "email": "support@url.ai", "url": "https://hi.wings.ai" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
+		"symbol": "WNK",
+		"address": "0xd73A66B8FB26Be8B0AcD7c52Bd325054Ac7d468b",
+		"decimals": 18,
+		"name": "Woonk",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
@@ -18113,31 +18197,6 @@
 			"slack": "",
 			"telegram": "https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw",
 			"twitter": "https://twitter.com/wolkinc",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "WNK",
-		"address": "0xd73A66B8FB26Be8B0AcD7c52Bd325054Ac7d468b",
-		"decimals": 18,
-		"name": "Woonk",
-		"ens_address": "",
-		"website": "",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
 			"youtube": ""
 		}
 	},
@@ -18889,36 +18948,6 @@
 			"slack": "",
 			"telegram": "https://t.me/joinchat/B8kRS0IMUdyEVi9CxH7Djw",
 			"twitter": "https://twitter.com/ExchangeZeus",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "TICO",
-		"address": "0xa5db1d6f7a0d5bccc17d0bfd39d7af32d5e5edc6",
-		"decimals": 5,
-		"name": "Topinvestmentcoin",
-		"ens_address": "",
-		"website": "https://www.topinvestmentcoin.online/",
-		"logo": {
-			"src": "https://i.imgur.com/DnDglhQ.png",
-			"width": "130",
-			"height": "129",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "support@topinvestmentcoin.online", "url": "https://www.topinvestmentcoin.online/" },
-		"social": {
-			"blog": "https://medium.com/topinvestmentcoin",
-			"chat": "",
-			"facebook": "https://web.facebook.com/Topinvestmentcoin/",
-			"forum": "https://bitcointalk.org/index.php?topic=3123082.0#new",
-			"github": "https://github.com/Topinvestmentcoin/Topinvestmentcoin-",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/topinvestmentcoin",
-			"twitter": "https://www.twitter.com/Topinvestcoin",
 			"youtube": ""
 		}
 	}
