@@ -12186,6 +12186,39 @@
 		}
 	},
 	{
+		"symbol": "NUG",
+		"address": "0x245ef47d4d0505ecf3ac463f4d81f41ade8f1fd1",
+		"decimals": 18,
+		"name": "Nuggets Token",
+		"ens_address": "",
+		"website": "https://nuggets.life/",
+		"logo": {
+			"src": "https://etherscan.io/token/images/nuggettoken_28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "nuggets-token@nuggets.life",
+			"url": ""
+		},
+		"social": {
+			"blog": "https://medium.nuggets.life/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/nuggetsPAYandID",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/nuggets/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/nuggetsblockchain",
+			"twitter": "https://twitter.com/nuggetsPAYandID",
+			"youtube": "https://www.youtube.com/channel/UCYiRuMEN5V2vjCKsvru0qaw"
+		}
+	},
+	{
 		"symbol": "NULS",
 		"address": "0xb91318f35bdb262e9423bc7c7c2a3a93dd93c92c",
 		"decimals": 18,
