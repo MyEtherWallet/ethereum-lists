@@ -4386,31 +4386,6 @@
 		}
 	},
 	{
-		"symbol": "CRMT",
-		"address": "0xad723Facb5fd4cDA129d706Ac9D0489B025Ed188",
-		"decimals": 8,
-		"name": "Cremit",
-		"ens_address": "",
-		"website": "https://www.cremit.co",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@cremit.co", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "CRPT",
 		"address": "0x80a7e048f37a50500351c204cb407766fa3bae7f",
 		"decimals": 18,
@@ -5244,9 +5219,9 @@
 		"ens_address": "",
 		"website": "https://depository.network",
 		"logo": {
-			"src": "https://i.imgur.com/ar18ECx.png?????",
-			"width": "358???",
-			"height": "373???",
+			"src": "https://i.imgur.com/ar18ECx.png",
+			"width": "358",
+			"height": "373",
 			"ipfs_hash": ""
 		},
 		"support": {
@@ -6191,39 +6166,6 @@
 			"blog": "",
 			"chat": "",
 			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "ECP",
-		"address": "0xAEA1C18A992984831002D0cf90E291FB52d72649",
-		"decimals": 18,
-		"name": "ECRYPTO COIN",
-		"ens_address": "",
-		"website": "https://ecryptotokens.com",
-		"logo": {
-			"src": "https://ecryptotokens.com/images/resources/logo.png",
-			"width": "60",
-			"height": "60",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "info@ecryptotokens.com",
-			"url": "https://ecryptotokens.com"
-		},
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "https://www.facebook.com/groups/166211327455335/",
 			"forum": "",
 			"github": "",
 			"gitter": "",
@@ -8917,39 +8859,6 @@
 		}
 	},
 	{
-		"symbol": "IAD",
-		"address": "0xC1E2097d788d33701BA3Cc2773BF67155ec93FC4",
-		"decimals": 18,
-		"name": "IADOWR Coin",
-		"ens_address": "",
-		"website": "https://www.iadowrcoin.com",
-		"logo": {
-			"src": "https://www.iadowrcoin.com/img/iadowrcoin.png",
-			"width": "490",
-			"height": "478",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "admin@iadowrcoin.com",
-			"url": "https://www.iadowrcoin.com/contact"
-		},
-		"social": {
-			"blog": "https://www.iadowrcoin.com/resources",
-			"chat": "https://discord.gg/drsAMrf",
-			"facebook": "https://www.facebook.com/iadowrcoin/",
-			"forum": "",
-			"github": "https://github.com/IADOWR",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/iadowrcoin/",
-			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/iadowrcoin/",
-			"slack": "",
-			"telegram": "https://t.me/iadcoin",
-			"twitter": "https://twitter.com/iadowrcoin",
-			"youtube": "https://www.youtube.com/channel/UCErTZdtHI8ffuMK0p8Qh3wg"
-		}
-	},
-	{
 		"symbol": "ICE",
 		"address": "0x5a84969bb663fb64F6d015DcF9F622Aedc796750",
 		"decimals": 18,
@@ -9490,36 +9399,36 @@
 			"youtube": ""
 		}
 	},
-	{	
-		"symbol": "IST34",		
-		"address": "0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64",		
-		"decimals": 18,	
-		"name": "IST34 Token",		
-		"ens_address": "",		
-		"website": "https://hiperteknoloji.org",		
-		"logo": {			
-			"src": "https://hiperteknoloji.org/ht/ist34-token-28.png",			
-			"width": "28",			
-			"height": "28",			
+	{
+		"symbol": "IST34",
+		"address": "0x0cf713b11c9b986ec40d65bd4f7fbd50f6ff2d64",
+		"decimals": 18,
+		"name": "IST34 Token",
+		"ens_address": "",
+		"website": "https://hiperteknoloji.org",
+		"logo": {
+			"src": "https://hiperteknoloji.org/ht/ist34-token-28.png",
+			"width": "28",
+			"height": "28",
 			"ipfs_hash": ""
-		},		
-		"support": { "email": "ist34@hiperteknoloji.org", "url": "" },		
-		"social": {			
-			"blog": "https://hiperteknoloji.org/2018/05/10/ist34token/",			
-			"chat": "",			
-			"facebook": "https://www.facebook.com/ist34token",			
-			"forum": "https://bitcoingarden.org/forum/index.php?topic=33783",			
-			"github": "https://github.com/IST34Token",			
-			"gitter": "https://gitter.im/IST34-Token",			
-			"instagram": "https://www.instagram.com/ist34_token/",			
-			"linkedin": "https://www.linkedin.com/in/ist34-token",			
-			"reddit": "https://www.reddit.com/user/IST34_Token",			
-			"slack": "https://ist34token.slack.com",			
-			"telegram": "https://t.me/IST34Token",			
-			"twitter": "https://twitter.com/IST34_Token",			
-			"youtube": "https://www.youtube.com/channel/UCwEbCIn8VkPMBXuyyg8Ia8w"		
-		}	
-	},	
+		},
+		"support": { "email": "ist34@hiperteknoloji.org", "url": "" },
+		"social": {
+			"blog": "https://hiperteknoloji.org/2018/05/10/ist34token/",
+			"chat": "",
+			"facebook": "https://www.facebook.com/ist34token",
+			"forum": "https://bitcoingarden.org/forum/index.php?topic=33783",
+			"github": "https://github.com/IST34Token",
+			"gitter": "https://gitter.im/IST34-Token",
+			"instagram": "https://www.instagram.com/ist34_token/",
+			"linkedin": "https://www.linkedin.com/in/ist34-token",
+			"reddit": "https://www.reddit.com/user/IST34_Token",
+			"slack": "https://ist34token.slack.com",
+			"telegram": "https://t.me/IST34Token",
+			"twitter": "https://twitter.com/IST34_Token",
+			"youtube": "https://www.youtube.com/channel/UCwEbCIn8VkPMBXuyyg8Ia8w"
+		}
+	},
 	{
 		"symbol": "ITC",
 		"address": "0x5e6b6d9abad9093fdc861ea1600eba1b355cd940",
