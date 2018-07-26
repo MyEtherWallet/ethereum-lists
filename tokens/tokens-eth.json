@@ -12303,7 +12303,7 @@
 		"website": "https://aco.ai",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
 		"support": {
-			"email": "support:aco.ai",
+			"email": "support@aco.ai",
 			"url": "https://knowledgebase.aco.ai"
 		},
 		"social": {
@@ -12441,36 +12441,6 @@
 		}
 	},
 	{
-		"symbol": "OJX",
-		"address": "0xbeef546ac8a4e0a80dc1e2d696968ef54138f1d4",
-		"decimals": 18,
-		"name": "Ojooo Coin",
-		"ens_address": "",
-		"website": "https://ico.ojooo.com/",
-		"logo": {
-			"src": "https://ico.ojooo.com/images/token-logo.png",
-			"width": "192",
-			"height": "192",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "tokensale@ojooo.com", "url": "" },
-		"social": {
-			"blog": "https://medium.com/@ojooo",
-			"chat": "",
-			"facebook": "https://www.facebook.com/OjoooMail/",
-			"forum": "",
-			"github": "https://github.com/OjoooInc",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/origcryptocoin/",
-			"linkedin": "https://www.linkedin.com/company/10141242/",
-			"reddit": "www.reddit.com/r/originalcryptocoin/",
-			"slack": "",
-			"telegram": "https://t.me/ojooocom",
-			"twitter": "https://twitter.com/OjoooApp",
-			"youtube": "https://www.youtube.com/user/ojoootv"
-		}
-	},
-	{
 		"symbol": "OLD_MKR",
 		"address": "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
 		"decimals": 18,
@@ -12554,37 +12524,6 @@
 			"slack": "",
 			"telegram": "",
 			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "OMT",
-		"address": "0x047187e53477be70DBe8Ea5B799318f2e165052F",
-		"decimals": 18,
-		"name": "OTCMAKER Token",
-		"ens_address": "",
-		"website": "www.otcmaker.com",
-		"logo": {
-			"src":
-				"https://storage.googleapis.com/static.otcmaker.com/CoinLogo-OMT%202.png",
-			"width": "28",
-			"height": "28",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "contact@otcmaker.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "https://github.com/OTCMAKER/OMT",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/otcmaker",
 			"youtube": ""
 		}
 	},
@@ -13326,37 +13265,6 @@
 		}
 	},
 	{
-		"symbol": "PLS",
-		"address": "0xe43ac1714f7394173b15e7cff31a63d523ce4fb9",
-		"decimals": 18,
-		"name": "DACPLAY Token",
-		"ens_address": "",
-		"website": "https://dacplay.org",
-		"logo": {
-			"src":
-				"https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/434e45cc-cbe6-4df2-b4d7-156b7ef78a8f.png",
-			"width": "200",
-			"height": "200",
-			"ipfs_hash": ""
-		},
-		"support": { "email": "info@dacplay.org", "url": "" },
-		"social": {
-			"blog": "https://dacplay.org/posts",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "https://github.com/bitsuperlab",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "https://slack.dacplay.org",
-			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
 		"symbol": "PLU",
 		"address": "0xD8912C10681D8B21Fd3742244f44658dBA12264E",
 		"decimals": 18,
@@ -13952,31 +13860,6 @@
 		}
 	},
 	{
-		"symbol": "PURC",
-		"address": "0xe25ff6eb959bce67975778e46a47750c243b6b99",
-		"decimals": 18,
-		"name": "PureCarbon",
-		"ens_address": "",
-		"website": "https://purecarbon.io",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@purecarbon.io", "url": "" },
-		"social": {
-			"blog": "https://medium.com/@carbonprotocol",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "https://github.com/seanyc99/PureCarbon-Smart-Contract",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/purecarbonprotocol/",
-			"linkedin": "https://www.linkedin.com/in/PureCarbonInc/",
-			"reddit": "",
-			"slack": "",
-			"telegram": "",
-			"twitter": "https://twitter.com/CarbonProtocol",
-			"youtube": "https://youtu.be/mpfOuwYeiLU"
-		}
-	},
-	{
 		"symbol": "PXT",
 		"address": "0xc14830e53aa344e8c14603a91229a0b925b0b262",
 		"decimals": 8,
@@ -14247,20 +14130,26 @@
 		"name": "RadioYo",
 		"website": "https://rao.radioyo.fm",
 		"logo": {
-			"src":
-				"https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png"
+			"src": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
 		},
 		"support": { "email": "support@radioyo.fm" },
 		"social": {
+			"blog": "",
+			"chat": "",
 			"facebook": "https://www.facebook.com/radioyofm",
+			"forum": "",
 			"github": "https://github.com/RadioYoFM/ICO_smartcontract/",
+			"gitter": "",
+			"instagram": "",
 			"linkedin": "https://www.linkedin.com/in/radioyo",
 			"reddit": "https://www.reddit.com/r/RadioYo/",
 			"slack": "https://radioyo.slack.com",
 			"telegram": "https://t.me/joinchat/AAAAAEMBG4bGWaQGuDkstg",
 			"twitter": "https://twitter.com/radioyofm",
-			"discord": "https://discord.gg/S844u3b",
-			"bitcointalk": "https://bitcointalk.org/index.php?topic=2161562.0"
+			"youtube": ""
 		}
 	},
 	{
@@ -14562,37 +14451,6 @@
 			"slack": "",
 			"telegram": "https://t.me/refereumtalk",
 			"twitter": "https://twitter.com/Refereum",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "RING",
-		"address": "0x86E56f3c89a14528858e58B3De48c074538BAf2c",
-		"decimals": 18,
-		"name": "Evolution Land Global Token",
-		"ens_address": "",
-		"website": "https://www.evolution.land/",
-		"logo": {
-			"src":
-				"https://imgland.oss-cn-hangzhou.aliyuncs.com/photo/2018/450e60bc-bad7-4058-822d-b88ed4e82262.png",
-			"width": 120,
-			"height": 120,
-			"ipfs_hash": ""
-		},
-		"support": { "email": "bd@evolution.land ", "url": "" },
-		"social": {
-			"blog": "https://medium.com/@evolutionland9",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/evolutionland9",
-			"twitter": "https://twitter.com/evolutionland9",
 			"youtube": ""
 		}
 	},
@@ -15521,34 +15379,6 @@
 		}
 	},
 	{
-		"symbol": "SLY",
-		"address": "0x7928c8aBF1F74eF9F96D4D0a44e3b4209d360785",
-		"decimals": 18,
-		"name": "Selfllery",
-		"ens_address": "",
-		"website": "https://selfllery.com/",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": {
-			"email": "support@selfllery.com",
-			"url": "https://selfllery.com/contact-us"
-		},
-		"social": {
-			"blog": "https://medium.com/@SELFLLERY",
-			"chat": "",
-			"facebook": "https://www.facebook.com/SELFLLERY/",
-			"forum": "",
-			"github": "https://github.com/SELFLLERY",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/selfllery/?hl=ru",
-			"linkedin": "https://ru.linkedin.com/company/selfllery",
-			"reddit": "https://www.reddit.com/user/SELFLLERY/",
-			"slack": "",
-			"telegram": "https://t.me/SELFLLERY_EN",
-			"twitter": "https://twitter.com/SELFLLERY",
-			"youtube": "https://www.youtube.com/channel/UCoBbN_3YZt7T0qIE5n-KGQg"
-		}
-	},
-	{
 		"symbol": "SMART",
 		"address": "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
 		"decimals": 0,
@@ -16078,31 +15908,6 @@
 			"reddit": "",
 			"slack": "",
 			"telegram": "",
-			"twitter": "",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "STABIT",
-		"address": "0x4A89cD486fA996ad50c0a63C35c78702f5422a50",
-		"decimals": 3,
-		"name": "StabitCoin",
-		"ens_address": "",
-		"website": "https://stabitcoin.com/",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@stabitcoin.com", "url": "" },
-		"social": {
-			"blog": "",
-			"chat": "",
-			"facebook": "",
-			"forum": "",
-			"github": "",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/stabit_coin",
 			"twitter": "",
 			"youtube": ""
 		}
@@ -18232,39 +18037,6 @@
 			"slack": "",
 			"telegram": "https://t.me/joinchat/GkePIg2-n4y5VQn4epAQOw",
 			"twitter": "https://twitter.com/wolkinc",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "WORK",
-		"address": "0xd18e454d844eb0009d32e07a0cde89e18d64cfb4",
-		"decimals": 18,
-		"name": "workTOKEN",
-		"ens_address": "worktoken.eth",
-		"website": "https://workchain.io",
-		"logo": {
-			"src": "https://workchain.io/downloads/workTOKEN/logo_256.png",
-			"width": "256",
-			"height": "256",
-			"ipfs_hash": ""
-		},
-		"support": {
-			"email": "ping@workchain.io",
-			"url": "https://help.workchain.io"
-		},
-		"social": {
-			"blog": "https://medium.com/workchain-io",
-			"chat": "",
-			"facebook": "https://www.facebook.com/workchain.io",
-			"forum": "",
-			"github": "https://github.com/workchainio",
-			"gitter": "",
-			"instagram": "https://www.instagram.com/workchain.io/",
-			"linkedin": "https://www.linkedin.com/company/workchain-io/",
-			"reddit": "https://www.reddit.com/r/workchainio",
-			"slack": "",
-			"telegram": "https://t.me/workchainio",
-			"twitter": "https://twitter.com/workchain_io",
 			"youtube": ""
 		}
 	},
