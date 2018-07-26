@@ -1,5 +1,37 @@
 [
 	{
+        "symbol": "$HUR",
+        "address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+        "decimals": 18,
+        "name": "$Hurify Token",
+        "ens_address": "",
+        "website": "https://hurify.co/",
+        "logo": {
+            "src": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
+            "width": "300",
+            "height": "302",
+            "ipfs_hash": ""
+        },
+        "support": { "email": "support@hurify.co", "url": "https://hurify.co" },
+        "social": {
+            "blog": "https://hurify.co/blog",
+            "chat": "",
+            "facebook": "https://www.facebook.com/hurify/",
+            "forum": "https://bitcointalk.org/index.php?action=profile;u=1244776",
+            "github": "https://github.com/HurifyPlatform",
+            "gitter": "",
+            "instagram": "",
+            "medium": "https://medium.com/@Hurify",
+            "linkedin": "https://www.linkedin.com/company/hurify/",
+            "reddit": "https://www.reddit.com/user/Hurify/",
+            "slack": "",
+            "telegram": "https://t.me/joinchat/hurifyico",
+            "twitter": "https://twitter.com/Hurify_hur",
+            "youtube": "https://www.youtube.com/channel/UCcdoOI2eF06j1W_E6tgs3uw"
+        }
+    },
+	
+	{
 		"symbol": "$FFC",
 		"address": "0x4E84E9e5fb0A972628Cf4568c403167EF1D40431",
 		"decimals": 18,
@@ -12344,6 +12376,37 @@
 			"telegram": "https://t.me/OrigCryptoCoin",
 			"twitter": "https://twitter.com/origcryptocoin",
 			"youtube": "https://www.youtube.com/channel/UCK_Iuc8ukPYlWCqxelxg7HQ/"
+		}
+	},
+	{
+		"symbol": "ODE",
+		"address": "0xbf52f2ab39e26e0951d2a02b49b7702abe30406a",
+		"decimals": 18,
+		"name": "ODEM Token",
+		"ens_address": "",
+		"website": "https://odem.io/",
+		"logo": {
+			"src":
+				"https://odem.io/wp-content/uploads/2017/09/odem-logo-sq-v0.2.png",
+			"width": "1000",
+			"height": "1000",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@odem.io", "url": "" },
+		"social": {
+			"blog": "https://medium.com/odem",
+			"chat": "",
+			"facebook": "https://www.facebook.com/odemio/",
+			"forum": "",
+			"github": "https://github.com/odemio",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/odem-io/",
+			"reddit": "https://www.reddit.com/r/ODEM/",
+			"slack": "",
+			"telegram": "https://t.me/odem_io",
+			"twitter": "https://twitter.com/ODEM_IO",
+			"youtube": ""
 		}
 	},
 	{
