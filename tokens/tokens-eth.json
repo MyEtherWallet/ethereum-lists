@@ -1,35 +1,35 @@
 [
 	{
-        "symbol": "$HUR",
-        "address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
-        "decimals": 18,
-        "name": "$Hurify Token",
-        "ens_address": "",
-        "website": "https://hurify.co/",
-        "logo": {
-            "src": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
-            "width": "300",
-            "height": "302",
-            "ipfs_hash": ""
-        },
-        "support": { "email": "support@hurify.co", "url": "https://hurify.co" },
-        "social": {
-            "blog": "https://hurify.co/blog",
-            "chat": "",
-            "facebook": "https://www.facebook.com/hurify/",
-            "forum": "https://bitcointalk.org/index.php?action=profile;u=1244776",
-            "github": "https://github.com/HurifyPlatform",
-            "gitter": "",
-            "instagram": "",
-            "medium": "https://medium.com/@Hurify",
-            "linkedin": "https://www.linkedin.com/company/hurify/",
-            "reddit": "https://www.reddit.com/user/Hurify/",
-            "slack": "",
-            "telegram": "https://t.me/joinchat/hurifyico",
-            "twitter": "https://twitter.com/Hurify_hur",
-            "youtube": "https://www.youtube.com/channel/UCcdoOI2eF06j1W_E6tgs3uw"
-        }
-    },
+		"symbol": "$HUR",
+		"address": "0xcdb7ecfd3403eef3882c65b761ef9b5054890a47",
+		"decimals": 18,
+		"name": "$Hurify Token",
+		"ens_address": "",
+		"website": "https://hurify.co/",
+		"logo": {
+			"src": "https://hurify.co/wp-content/uploads/2018/03/hurify_fav_icon.png",
+			"width": "300",
+			"height": "302",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "support@hurify.co", "url": "https://hurify.co" },
+		"social": {
+			"blog": "https://hurify.co/blog",
+			"chat": "",
+			"facebook": "https://www.facebook.com/hurify/",
+			"forum": "https://bitcointalk.org/index.php?action=profile;u=1244776",
+			"github": "https://github.com/HurifyPlatform",
+			"gitter": "",
+			"instagram": "",
+			"medium": "https://medium.com/@Hurify",
+			"linkedin": "https://www.linkedin.com/company/hurify/",
+			"reddit": "https://www.reddit.com/user/Hurify/",
+			"slack": "",
+			"telegram": "https://t.me/joinchat/hurifyico",
+			"twitter": "https://twitter.com/Hurify_hur",
+			"youtube": "https://www.youtube.com/channel/UCcdoOI2eF06j1W_E6tgs3uw"
+		}
+	},
 
 	{
 		"symbol": "$FFC",
@@ -7101,6 +7101,31 @@
 		}
 	},
 	{
+		"symbol": "EXY",
+		"address": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+		"decimals": 18,
+		"name": "Experty",
+		"ens_address": "",
+		"website": "",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "E₹",
 		"address": "0xb67734521eAbBE9C773729dB73E16CC2dfb20A58",
 		"decimals": 2,
@@ -12394,8 +12419,7 @@
 		"ens_address": "",
 		"website": "https://odem.io/",
 		"logo": {
-			"src":
-				"https://odem.io/wp-content/uploads/2017/09/odem-logo-sq-v0.2.png",
+			"src": "https://odem.io/wp-content/uploads/2017/09/odem-logo-sq-v0.2.png",
 			"width": "1000",
 			"height": "1000",
 			"ipfs_hash": ""
@@ -14138,7 +14162,8 @@
 		"name": "RadioYo",
 		"website": "https://rao.radioyo.fm",
 		"logo": {
-			"src": "https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
+			"src":
+				"https://raw.githubusercontent.com/gharshr/ICO_smartcontract/master/RAO_Token.png",
 			"width": "",
 			"height": "",
 			"ipfs_hash": ""
