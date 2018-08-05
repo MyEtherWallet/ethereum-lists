@@ -12729,6 +12729,41 @@
 		}
 	},
 	{
+		"symbol": "ORCA",
+		"address": "0x6F59e0461Ae5E2799F1fB3847f05a63B16d0DbF8",
+		"decimals": 18,
+		"name": "ORCA Token",
+		"ens_address": "",
+		"website": "https://www.orcaalliance.eu",
+		"logo": 
+			{ 
+			 "src": "https://drive.google.com/open?id=1lCrBZQ7CNkVcUwPPet4j4WU7p1TUrY_1", 
+			 "width": "120px", 
+			 "height": "120px", 
+			 "ipfs_hash": "" 
+			},
+		"support": 
+			{ 
+			 "email": "hello@orcaalliance.eu", 
+			 "url": "" 
+			},
+		"social": {
+			"blog": "https://medium.com/@ORCA_Alliance",
+			"chat": "https://t.me/ORCAalliance",
+			"facebook": "https://www.facebook.com/ORCAAlliance/",
+			"forum": "",
+			"github": "https://github.com/orcaalliance",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/orca_foundation_io",
+			"reddit": "https://www.reddit.com/r/ORCA_Alliance/",
+			"slack": "",
+			"telegram": "https://t.me/ORCAalliance",
+			"twitter": "https://twitter.com/ORCA_Alliance",
+			"youtube": "https://www.youtube.com/channel/UCSGGZqtOFOD1dpj3rMJrCYw"
+		}
+	},
+	{
 		"symbol": "OST",
 		"address": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
 		"decimals": 18,
