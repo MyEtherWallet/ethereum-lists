@@ -13418,22 +13418,30 @@
 		"name": "Simple Token 'OST'",
 		"ens_address": "",
 		"website": "https://simpletoken.org",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@simpletoken.org", "url": "" },
+		"logo": {
+			"src": "https://etherscan.io/token/images/ost_28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
+		"support": {
+			"email": "support@ost.com",
+			"url": "https://help.ost.com"
+		},
 		"social": {
-			"blog": "https://medium.com/simple-token",
+			"blog": "https://medium.com/ostdotcom",
 			"chat": "",
-			"facebook": "https://www.facebook.com/simpletoken",
+			"facebook": "https://www.facebook.com/ost",
 			"forum": "",
 			"github": "https://github.com/OpenSTFoundation",
 			"gitter": "https://gitter.im/OpenSTFoundation/SimpleToken",
-			"instagram": "",
-			"linkedin": "https://www.linkedin.com/company/18209852",
-			"reddit": "",
+			"instagram": "https://www.instagram.com/ostdotcom/",
+			"linkedin": "https://www.linkedin.com/company/ostdotcom/",
+			"reddit": "https://www.reddit.com/r/OSTdotcom",
 			"slack": "",
-			"telegram": "https://www.t.me/simpletoken",
-			"twitter": "https://twitter.com/TheSimpleToken",
-			"youtube": "https://www.youtube.com/channel/UCrDo4vSElgUa_HzdvYqBZTA"
+			"telegram": "https://www.t.me/ostdotcom",
+			"twitter": "https://twitter.com/OSTdotcom",
+			"youtube": "https://www.youtube.com/ostdotcom"
 		}
 	},
 	{
