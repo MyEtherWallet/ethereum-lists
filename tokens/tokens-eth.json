@@ -4701,6 +4701,7 @@
 	},
 	{
 		"symbol": "CRMT",
+		"type": "ERC20",
 		"address": "0x9238bfb781a55eacc3cf05f7df94038c198cd9b9",
 		"decimals": 8,
 		"name": "Cremit",
@@ -19044,6 +19045,7 @@
 	},
 	{
 		"symbol": "WMK",
+		"type": "ERC20",
 		"address": "0xbfbe5332f172d77811bc6c272844f3e54a7b23bb",
 		"decimals": 18,
 		"name": "WemarkToken",
