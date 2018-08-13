@@ -8016,6 +8016,32 @@
 		}
 	},
 	{
+		"symbol": "FTXT",
+		"type": "ERC20",
+		"address": "0x41875c2332b0877cdfaa699b641402b7d4642c32",
+		"decimals": 8,
+		"name": "FUTURAX",
+		"ens_address": "",
+		"website": "https://futurax.global",
+		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+		"support": { "email": "support@futurax.global", "url": "" },
+		"social": {
+			"blog": "https://medium.com/@FuturaxProject",
+			"chat": "https://t.me/futurax",
+			"facebook": "https://www.facebook.com/futuraxproject/",
+			"forum": "",
+			"github": "https://github.com/futuraxproject",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "https://www.linkedin.com/company/futuraxglobal/",
+			"reddit": "",
+			"slack": "",
+			"telegram": "https://t.me/futurax_info",
+			"twitter": "https://twitter.com/FuturaxProject",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "FUCK",
 		"type": "ERC20",
 		"address": "0x65be44c747988fbf606207698c944df4442efe19",
@@ -8102,32 +8128,6 @@
 			"slack": "https://funfair-slackin.herokuapp.com",
 			"telegram": "",
 			"twitter": "https://twitter.com/FunFairTech/status/885910956701876224",
-			"youtube": ""
-		}
-	},
-	{
-		"symbol": "FXC",
-		"type": "ERC20",
-		"address": "0xc92d6e3e64302c59d734f3292e2a13a13d7e1817",
-		"decimals": 8,
-		"name": "FUTURAX",
-		"ens_address": "",
-		"website": "https://futurax.global",
-		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "support@futurax.global", "url": "" },
-		"social": {
-			"blog": "https://medium.com/@FuturaxProject",
-			"chat": "https://t.me/futurax",
-			"facebook": "https://www.facebook.com/futuraxproject/",
-			"forum": "",
-			"github": "https://github.com/futuraxproject",
-			"gitter": "",
-			"instagram": "",
-			"linkedin": "https://www.linkedin.com/company/futuraxglobal/",
-			"reddit": "",
-			"slack": "",
-			"telegram": "https://t.me/futurax_info",
-			"twitter": "https://twitter.com/FuturaxProject",
 			"youtube": ""
 		}
 	},
