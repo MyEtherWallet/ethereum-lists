@@ -3093,6 +3093,38 @@
 		}
 	},
 	{
+		"symbol": "BTZ",
+		"type": "ERC20",
+		"address": "0xE5f867dE1EA81346df5181b8b48DD6B0BB3357B0",
+		"decimals": 18,
+		"name": "BTZ by Bunz",
+		"ens_address": "",
+		"website": "",
+		"logo": {
+			"src":
+				"",
+			"width": "",
+			"height": "",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "BUC",
 		"type": "ERC20",
 		"address": "0xca3c18a65b802ec267f8f4802545e7f53d24c75e",
@@ -19767,7 +19799,7 @@
 	{
 		"symbol": "YEED",
 		"type": "ERC20",
-		"address": "0x6f7a4bac3315b5082f793161a22e26666d22717f",
+		"address": "0xca2796f9f61dc7b238aab043971e49c6164df375",
 		"decimals": 18,
 		"name": "YGGDRASH",
 		"ens_address": "",
