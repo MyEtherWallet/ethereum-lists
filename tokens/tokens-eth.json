@@ -9254,6 +9254,37 @@
 		}
 	},
 	{
+		"symbol": "HIBT",
+		"type": "ERC20",
+		"address": "0x9bb1db1445b83213a56d90d331894b3f26218e4e",
+		"decimals": 18,
+		"name": "HiBTC Token",
+		"ens_address": "",
+		"website": "https://www.hibtc.com/",
+		"logo": {
+			"src": "https://www.hibtc.com/om/coin-icon/HIBT-28.png",
+			"width": "28",
+			"height": "28",
+			"ipfs_hash": ""
+		},
+		"support": { "email": "admin@hibtc.com", "url": "" },
+		"social": {
+			"blog": "",
+			"chat": "",
+			"facebook": "https://www.facebook.com/profile.php?id=100027855751559",
+			"forum": "",
+			"github": "",
+			"gitter": "",
+			"instagram": "",
+			"linkedin": "",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "https://twitter.com/HiBTC_Exchange",
+			"youtube": ""
+		}
+	},
+	{
 		"symbol": "HIG",
 		"type": "ERC20",
 		"address": "0xa9240fBCAC1F0b9A6aDfB04a53c8E3B0cC1D1444",
