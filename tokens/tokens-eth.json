@@ -2641,29 +2641,28 @@
 		}
 	},
 	{
-		"symbol": "BQX",
+		"symbol": "ETHOS",
 		"type": "ERC20",
 		"address": "0x5Af2Be193a6ABCa9c8817001F45744777Db30756",
 		"decimals": 8,
-		"name": "Bitquence",
+		"name": "ETHOS",
 		"ens_address": "",
-		"website": "https://www.bitquence.com",
+		"website": "",
 		"logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-		"support": { "email": "info@bitquence.com", "url": "" },
+		"support": { "email": "", "url": "" },
 		"social": {
 			"blog": "",
 			"chat": "",
-			"facebook": "https://web.facebook.com/bitquence",
+			"facebook": "",
 			"forum": "",
 			"github": "",
 			"gitter": "",
 			"instagram": "",
 			"linkedin": "",
-			"reddit": "https://www.reddit.com/r/Bitquence",
-			"slack":
-				"https://join.slack.com/bitquence/shared_invite/MTk1NzYxMDkzMjAyLTE0OTcwNzI4ODUtNjhlYzRlY2Q2MQ",
-			"telegram": "https://t.me/joinchat/AAAAAEN05nZ0Fzxm_lmYiw",
-			"twitter": "https://twitter.com/bitquence",
+			"reddit": "",
+			"slack": "",
+			"telegram": "",
+			"twitter": "",
 			"youtube": ""
 		}
 	},
