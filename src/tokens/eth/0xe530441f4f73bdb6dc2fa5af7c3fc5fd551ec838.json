@@ -1,0 +1,31 @@
+{
+  "symbol": "GSE",
+  "name": "GSENetwork",
+  "type": "ERC20",
+  "address": "0xe530441f4f73bDB6DC2fA5aF7c3fC5fD551Ec838",
+  "ens_address": "",
+  "decimals": 4,
+  "website": "https://www.gse.network",
+  "logo": {
+    "src": "https://www.gse.network/static/media/gse-logo.png",
+    "width": "120",
+    "height": "120",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@gselab.org" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/gselabofficial",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GSENetworkOfficial",
+    "twitter": "https://twitter.com/gselabofficial",
+    "youtube": ""
+  }
+}

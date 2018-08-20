@@ -1,0 +1,16 @@
+{
+  "name": "ethereum-lists",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyEtherWallet/ethereum-lists/issues"
+  },
+  "homepage": "https://github.com/MyEtherWallet/ethereum-lists#readme",
+  "devDependencies": {
+    "validate": "^4.5.1"
+  }
+}
