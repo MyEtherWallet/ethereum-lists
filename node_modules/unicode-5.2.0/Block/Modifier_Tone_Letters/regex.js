@@ -1,0 +1,1 @@
+module.exports=/[\uA700-\uA71F]/

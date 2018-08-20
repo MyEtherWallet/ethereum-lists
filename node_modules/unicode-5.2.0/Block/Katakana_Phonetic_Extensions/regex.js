@@ -1,0 +1,1 @@
+module.exports=/[\u31F0-\u31FF]/

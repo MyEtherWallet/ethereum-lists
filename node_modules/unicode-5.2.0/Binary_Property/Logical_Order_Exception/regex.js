@@ -1,0 +1,1 @@
+module.exports=/[\u0E40-\u0E44\u0EC0-\u0EC4\uAAB5\uAAB6\uAAB9\uAABB\uAABC]/

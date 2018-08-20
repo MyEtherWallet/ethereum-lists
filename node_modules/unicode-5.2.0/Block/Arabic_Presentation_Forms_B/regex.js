@@ -1,0 +1,1 @@
+module.exports=/[\uFE70-\uFEFF]/
