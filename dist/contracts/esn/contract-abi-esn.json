@@ -2,6 +2,7 @@
   {
     "name": "DdengleToken - DGT",
     "address": "0x72ea3508d9d817a91465abb59be10fef9857a055",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -60,6 +61,7 @@
   {
     "name": "Generic ERC223 Token",
     "address": "0x0001000000001000000000100000000010000001",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -158,6 +160,7 @@
   {
     "name": "Mists Multisig Contract",
     "address": "0x0000000000000000000000000000000000000000",
+    "comment": "",
     "abi": [
       {
         "constant": false,

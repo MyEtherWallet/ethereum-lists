@@ -152,14 +152,12 @@
         {
           "name": "attributeSeed",
           "type": "bytes32",
-          "value":
-            "0xf2cfccdde23c372c60a76a2795f77ca9cbd241e6dab46d90a0caad74dc9af739"
+          "value": "0xf2cfccdde23c372c60a76a2795f77ca9cbd241e6dab46d90a0caad74dc9af739"
         },
         {
           "name": "dna",
           "type": "bytes32",
-          "value":
-            "0x4a2899f96d0202f1d682a81d4b868499e963b4052cf44d0eed7ded9ee1782190"
+          "value": "0x4a2899f96d0202f1d682a81d4b868499e963b4052cf44d0eed7ded9ee1782190"
         },
         { "name": "experience", "type": "uint128", "value": "0" },
         { "name": "timeOfBirth", "type": "uint128", "value": "1521154199" }

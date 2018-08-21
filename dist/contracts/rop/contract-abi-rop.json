@@ -2,6 +2,7 @@
   {
     "name": "??? ENS - Eth Registrar (Auction) ??? ",
     "address": "0xc19fd9004b5c9789391679de6d766b981db94610",
+    "comment": "",
     "abi": [
       {
         "constant": false,
@@ -296,6 +297,7 @@
   {
     "name": "DomainSale",
     "address": "0x5fb681680d5c0d6d0c848a9d4527ffb7dfb9151d",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -508,6 +510,7 @@
   {
     "name": "ENS - Public Resolver",
     "address": "0x4c641fb9bad9b60ef180c31f56051ce826d21a9a",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -576,6 +579,7 @@
   {
     "name": "ENS - Registry",
     "address": "0x112234455c3a32fd11230c42e7bccd4a84e02010",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -688,6 +692,7 @@
   {
     "name": "Mists Multisig Contract",
     "address": "0x0000000000000000000000000000000000000000",
+    "comment": "",
     "abi": [
       {
         "constant": false,
@@ -929,6 +934,7 @@
   {
     "name": "Mock ELF Token",
     "address": "0x7174FCb9C2A49c027C9746983D8262597b5EcCb1",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -1212,6 +1218,7 @@
   {
     "name": "Mock EOS Token",
     "address": "0xd3c64BbA75859Eb808ACE6F2A6048ecdb2d70817",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -1455,6 +1462,7 @@
   {
     "name": "Mock KNC Token",
     "address": "0xE5585362D0940519d87d29362115D4cc060C56B3",
+    "comment": "",
     "abi": [
       {
         "constant": true,
@@ -1655,6 +1663,7 @@
   {
     "name": "💥 Plasma Token and Token Wallet Contract ABI",
     "address": "0x95D7321EdCe519419ba1DbC60A89bAfbF55EAC0D",
+    "comment": "",
     "abi": [
       {
         "constant": true,
