@@ -5,6 +5,9 @@
     "type": "git",
     "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
   },
+  "scripts": {
+    "build": "node createFiles.js"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MyEtherWallet/ethereum-lists/issues"
