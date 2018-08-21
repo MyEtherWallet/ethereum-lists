@@ -1,42 +1,31 @@
 language: node_js
 node_js: '8'
-script:
-  - |
-    val=$(node checkFormat.js);
-    if [[ $val != 0 ]]; then
-      echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
-      exit 1;
-    else
-      echo "No errors";
-      exit 0;
-    fi
-
 stages:
-- name: check contract format
-- name: check token format
+  - name: check contract format
+  - name: check token format
 
 jobs:
   fast_finish: true
   include:
-  - stage: check contract format
-    script:
-    - |
-      val=$(node checkContract.js);
-      if [[ $val != 0 ]]; then
-        echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
-        exit 1;
-      else
-        echo "No errors";
-        exit 0;
-      fi
-  - stage: check token format
-    script:
-    - |
-      val=$(node checkToken.js);
-      if [[ $val != 0 ]]; then
-        echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
-        exit 1;
-      else
-        echo "No errors";
-        exit 0;
-      fi
+    - stage: check contract format
+      script:
+        - |
+          val=$(node checkContract.js);
+          if [[ $val != 0 ]]; then
+            echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
+            exit 1;
+          else
+            echo "No errors";
+            exit 0;
+          fi
+    - stage: check token format
+      script:
+        - |
+          val=$(node checkToken.js);
+          if [[ $val != 0 ]]; then
+            echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
+            exit 1;
+          else
+            echo "No errors";
+            exit 0;
+          fi
