@@ -1,26 +1,19 @@
 [
   {
     "symbol": "BEC",
-    "type": "ERC20",
     "name": "BEC",
+    "type": "ERC20",
     "address": "0x085fb4f24031eaedbc2b611aa528f22343eb52db",
+    "ens_address": "",
     "decimals": 8,
     "website": "",
-    "logo": {
-      "src": "",
-      "width": "",
-      "height": "",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "",
-      "url": ""
-    },
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
       "facebook": "",
-      "fourm": "",
+      "forum": "",
       "github": "",
       "gitter": "",
       "instagram": "",
@@ -34,26 +27,19 @@
   },
   {
     "symbol": "PLAY",
-    "type": "ERC20",
     "name": "Smart Billions",
+    "type": "ERC20",
     "address": "0x5ace17f87c7391e5792a7683069a8025b83bbd85",
+    "ens_address": "",
     "decimals": 0,
     "website": "http://smartbillions.com/",
-    "logo": {
-      "src": "",
-      "width": "",
-      "height": "",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "contact@smartbillions.com",
-      "url": ""
-    },
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "contact@smartbillions.com", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
       "facebook": "",
-      "fourm": "",
+      "forum": "",
       "github": "",
       "gitter": "",
       "instagram": "",
