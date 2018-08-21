@@ -95,39 +95,6 @@ const token = new Schema({
 
 let errors = 0;
 
-// function createFiles() {
-//   if (!fs.existsSync("./dist/tokens")) {
-//     fs.mkdirSync("./dist/tokens");
-//   }
-//   fs.readdirSync(tokensDirectory).forEach(folder => {
-//     let newArr = [];
-//     if (!fs.existsSync(`./dist/tokens/${folder}`)) {
-//       fs.mkdirSync(`./dist/tokens/${folder}`);
-//     }
-//     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
-//       const obj = JSON.parse(
-//         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, "utf8")
-//       );
-//       newArr.push(obj);
-//     });
-//
-//     const writeArray = newArr.sort(function(a, b) {
-//       let aSym = a.symbol.toUpperCase();
-//       let bSym = b.symbol.toUpperCase();
-//       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
-//     });
-//
-//     fs.writeFileSync(
-//       `./dist/tokens/${folder}/tokens-${folder}.min.json`,
-//       JSON.stringify(writeArray)
-//     );
-//     fs.writeFileSync(
-//       `./dist/tokens/${folder}/tokens-${folder}.json`,
-//       JSON.stringify(writeArray)
-//     );
-//   });
-// }
-
 function run() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
@@ -139,7 +106,6 @@ function run() {
       }
     });
   });
-  // createFiles();
   return errors;
 }
 
