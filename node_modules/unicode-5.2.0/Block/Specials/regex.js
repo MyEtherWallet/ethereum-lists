@@ -1,1 +1,0 @@
-module.exports=/[\uFFF0-\uFFFF]/

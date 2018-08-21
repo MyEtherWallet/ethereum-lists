@@ -1,1 +1,0 @@
-module.exports=/[\uD800-\uDB7F](?![\uDC00-\uDFFF])/

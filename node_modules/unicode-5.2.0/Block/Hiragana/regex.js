@@ -1,1 +1,0 @@
-module.exports=/[\u3040-\u309F]/

@@ -1,1 +1,0 @@
-module.exports=/[\u3200-\u32FF]/

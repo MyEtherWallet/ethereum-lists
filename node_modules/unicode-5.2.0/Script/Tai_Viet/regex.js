@@ -1,1 +1,0 @@
-module.exports=/[\uAA80-\uAAC2\uAADB-\uAADF]/

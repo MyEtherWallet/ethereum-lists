@@ -1,1 +1,0 @@
-module.exports=['\uFE30','\uFE31','\uFE32','\uFE33','\uFE34','\uFE35','\uFE36','\uFE37','\uFE38','\uFE39','\uFE3A','\uFE3B','\uFE3C','\uFE3D','\uFE3E','\uFE3F','\uFE40','\uFE41','\uFE42','\uFE43','\uFE44','\uFE45','\uFE46','\uFE47','\uFE48','\uFE49','\uFE4A','\uFE4B','\uFE4C','\uFE4D','\uFE4E','\uFE4F']

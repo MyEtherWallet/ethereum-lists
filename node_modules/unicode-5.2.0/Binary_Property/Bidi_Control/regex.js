@@ -1,1 +1,0 @@
-module.exports=/[\u200E\u200F\u202A-\u202E]/
