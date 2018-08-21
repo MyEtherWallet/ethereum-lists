@@ -10,6 +10,10 @@ const contract = new Schema({
     type: String,
     required: true
   },
+  comment: {
+    type: String,
+    required: true
+  },
   abi: {
     type: Array,
     required: true

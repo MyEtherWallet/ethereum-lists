@@ -1,17 +1,8 @@
 {
-  "name": "Nebula Ai Token",
-  "address": "0x17f8aFB63DfcDcC90ebE6e84F060Cc306A98257D",
+  "name": "TangguoTaoToken",
+  "address": "0xfA0eF5E034CaE1AE752d59bdb8aDcDe37Ed7aB97",
   "comment": "",
   "abi": [
-    {
-      "constant": true,
-      "inputs": [],
-      "name": "mintingFinished",
-      "outputs": [{ "name": "", "type": "bool" }],
-      "payable": false,
-      "stateMutability": "view",
-      "type": "function"
-    },
     {
       "constant": true,
       "inputs": [],
@@ -58,16 +49,7 @@
     {
       "constant": true,
       "inputs": [],
-      "name": "decimals",
-      "outputs": [{ "name": "", "type": "uint8" }],
-      "payable": false,
-      "stateMutability": "view",
-      "type": "function"
-    },
-    {
-      "constant": true,
-      "inputs": [],
-      "name": "cap",
+      "name": "INITIAL_SUPPLY",
       "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
@@ -75,12 +57,27 @@
     },
     {
       "constant": true,
-      "inputs": [
-        { "name": "", "type": "address" },
-        { "name": "", "type": "uint256" }
-      ],
-      "name": "time_locked_reclaim_addresses",
-      "outputs": [{ "name": "", "type": "address" }],
+      "inputs": [],
+      "name": "decimals",
+      "outputs": [{ "name": "", "type": "uint8" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "unpause",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "paused",
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -92,7 +89,7 @@
         { "name": "_subtractedValue", "type": "uint256" }
       ],
       "name": "decreaseApproval",
-      "outputs": [{ "name": "", "type": "bool" }],
+      "outputs": [{ "name": "success", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -101,9 +98,27 @@
       "constant": true,
       "inputs": [{ "name": "_owner", "type": "address" }],
       "name": "balanceOf",
-      "outputs": [{ "name": "balance", "type": "uint256" }],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "renounceOwnership",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "pause",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
       "type": "function"
     },
     {
@@ -126,15 +141,6 @@
     },
     {
       "constant": false,
-      "inputs": [{ "name": "_beneficiary", "type": "address" }],
-      "name": "release_all",
-      "outputs": [{ "name": "", "type": "bool" }],
-      "payable": false,
-      "stateMutability": "nonpayable",
-      "type": "function"
-    },
-    {
-      "constant": false,
       "inputs": [
         { "name": "_to", "type": "address" },
         { "name": "_value", "type": "uint256" }
@@ -152,7 +158,7 @@
         { "name": "_addedValue", "type": "uint256" }
       ],
       "name": "increaseApproval",
-      "outputs": [{ "name": "", "type": "bool" }],
+      "outputs": [{ "name": "success", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -170,22 +176,58 @@
       "type": "function"
     },
     {
-      "constant": true,
-      "inputs": [{ "name": "_owner", "type": "address" }],
-      "name": "get_time_locked_contract_size",
-      "outputs": [{ "name": "", "type": "uint256" }],
+      "constant": false,
+      "inputs": [{ "name": "_newOwner", "type": "address" }],
+      "name": "transferOwnership",
+      "outputs": [],
       "payable": false,
-      "stateMutability": "view",
+      "stateMutability": "nonpayable",
       "type": "function"
     },
     {
-      "constant": true,
       "inputs": [],
-      "name": "token_unlock_time",
-      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
-      "stateMutability": "view",
-      "type": "function"
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    { "anonymous": false, "inputs": [], "name": "Pause", "type": "event" },
+    { "anonymous": false, "inputs": [], "name": "Unpause", "type": "event" },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "previousOwner", "type": "address" }
+      ],
+      "name": "OwnershipRenounced",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "previousOwner", "type": "address" },
+        { "indexed": true, "name": "newOwner", "type": "address" }
+      ],
+      "name": "OwnershipTransferred",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "owner", "type": "address" },
+        { "indexed": true, "name": "spender", "type": "address" },
+        { "indexed": false, "name": "value", "type": "uint256" }
+      ],
+      "name": "Approval",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "from", "type": "address" },
+        { "indexed": true, "name": "to", "type": "address" },
+        { "indexed": false, "name": "value", "type": "uint256" }
+      ],
+      "name": "Transfer",
+      "type": "event"
     }
   ]
 }
