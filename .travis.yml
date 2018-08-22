@@ -10,22 +10,8 @@ jobs:
     - stage: check contract format
       script:
         - |
-          contractErrors=$(node checkContract.js);
-          if [[ $contractErrors != 0 ]]; then
-            echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
-            exit 1;
-          else
-            echo "No errors";
-            exit 0;
-          fi
+          node checkContract.js;
     - stage: check token format
       script:
         - |
-          tokenErrors=$(node checkToken.js);
-          if [[ $tokenErrors != 0 ]]; then
-            echo "Formatting errors! Please check your object keys spellings, commas and or other things that might invalidate your JSON and try again";
-            exit 1;
-          else
-            echo "No errors";
-            exit 0;
-          fi
+          node checkToken.js;

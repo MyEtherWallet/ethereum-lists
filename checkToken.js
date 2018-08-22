@@ -1,6 +1,6 @@
-const fs = require("fs");
-const tokensDirectory = "./src/tokens/";
-const Schema = require("validate");
+const fs = require('fs');
+const tokensDirectory = './src/tokens/';
+const Schema = require('validate');
 const token = new Schema({
   symbol: {
     type: String,
@@ -93,20 +93,17 @@ const token = new Schema({
   }
 });
 
-let errors = 0;
-
 function run() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
       const obj = JSON.parse(
-        fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, "utf8")
+        fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
       if (token.validate(obj) === false) {
-        errors++;
+        process.exit(1);
       }
     });
   });
-  return errors;
 }
 
 run();

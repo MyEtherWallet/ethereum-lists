@@ -1,6 +1,6 @@
-const fs = require("fs");
-const contractsDirectory = "./src/contracts/";
-const Schema = require("validate");
+const fs = require('fs');
+const contractsDirectory = './src/contracts/';
+const Schema = require('validate');
 const contract = new Schema({
   name: {
     type: String,
@@ -20,20 +20,19 @@ const contract = new Schema({
   }
 });
 
-let errors = 0;
-
 function run() {
+  let errors = 0;
   fs.readdirSync(contractsDirectory).forEach(folder => {
     fs.readdirSync(`${contractsDirectory}/${folder}`).forEach(file => {
       const obj = JSON.parse(
-        fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, "utf8")
+        fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
       if (contract.validate(obj) === false) {
-        errors++;
+        process.exit(1);
       }
     });
   });
-  return errors;
+  process.exit(0);
 }
 
 run();
