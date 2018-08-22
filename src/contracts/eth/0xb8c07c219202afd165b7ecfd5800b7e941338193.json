@@ -1,0 +1,382 @@
+{
+  "name": "Global Invest Crypto Fund (GCF)",
+  "address": "0xb8c07c219202aFd165b7ECfD5800B7e941338193",
+  "comment": "",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_to", "type": "address" },
+        { "name": "_amount", "type": "uint256" }
+      ],
+      "name": "transferEther",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        { "name": "", "type": "address" },
+        { "name": "", "type": "uint256" }
+      ],
+      "name": "buyTokens",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "Register",
+      "outputs": [{ "name": "_userWallet", "type": "address" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_period", "type": "uint256" }],
+      "name": "claimEthers",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "marketCap",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "address" }],
+      "name": "isReg",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "address" }],
+      "name": "myUserWallet",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "kill",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "claimTax",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_amount", "type": "uint256" }],
+      "name": "Reederem",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_period", "type": "uint256" }],
+      "name": "claimTokens",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "taxTillNow",
+      "outputs": [
+        { "name": "_ethTax", "type": "uint256" },
+        { "name": "_tokenTax", "type": "uint256" }
+      ],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_price", "type": "uint256" },
+        { "name": "_marketCap", "type": "uint256" },
+        { "name": "_ethForReederem", "type": "uint256" }
+      ],
+      "name": "closePeriod",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "gcf",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "numAccounts",
+      "outputs": [{ "name": "_numAccounts", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "owner",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "contractVersion",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "getActualPeriod",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "getPrices",
+      "outputs": [{ "name": "_Price", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_to", "type": "address" },
+        { "name": "_amount", "type": "uint256" }
+      ],
+      "name": "transferTokens",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        { "name": "", "type": "address" },
+        { "name": "", "type": "uint256" }
+      ],
+      "name": "sellTokens",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_amount", "type": "uint256" }],
+      "name": "buy",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "uint256" }],
+      "name": "periods",
+      "outputs": [
+        { "name": "ethAtThePeriod", "type": "uint256" },
+        { "name": "tokensAtThePeriod", "type": "uint256" },
+        { "name": "price", "type": "uint256" },
+        { "name": "ethForReederem", "type": "uint256" }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "currentPeriodPrice",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "uint256" }],
+      "name": "accounts",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "newOwner", "type": "address" }],
+      "name": "transferOwnership",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    { "payable": true, "stateMutability": "payable", "type": "fallback" },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "_ethTx", "type": "uint256" },
+        { "indexed": false, "name": "_tokenTx", "type": "uint256" }
+      ],
+      "name": "TaxTillNow",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_person", "type": "address" },
+        { "indexed": true, "name": "_userWallet", "type": "address" }
+      ],
+      "name": "RegisterEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "period", "type": "uint256" },
+        { "indexed": false, "name": "price", "type": "uint256" },
+        { "indexed": false, "name": "_marketCap", "type": "uint256" },
+        { "indexed": false, "name": "_ethForReederem", "type": "uint256" }
+      ],
+      "name": "ClosePeriodEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_from", "type": "address" },
+        { "indexed": false, "name": "_amount", "type": "uint256" }
+      ],
+      "name": "DepositEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_from", "type": "address" },
+        { "indexed": false, "name": "period", "type": "uint256" },
+        { "indexed": false, "name": "_amountEthers", "type": "uint256" },
+        { "indexed": false, "name": "_ethAtThePeriod", "type": "uint256" }
+      ],
+      "name": "BuyEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_from", "type": "address" },
+        { "indexed": false, "name": "period", "type": "uint256" },
+        { "indexed": false, "name": "_amountTokens", "type": "uint256" },
+        { "indexed": false, "name": "_tokensAtThePeriod", "type": "uint256" }
+      ],
+      "name": "ReederemEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "_taxPayment", "type": "uint256" }
+      ],
+      "name": "Tax",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_from", "type": "address" },
+        { "indexed": false, "name": "period", "type": "uint256" },
+        { "indexed": false, "name": "_tokensValue", "type": "uint256" },
+        { "indexed": false, "name": "_tokensPrice", "type": "uint256" },
+        { "indexed": false, "name": "_ethersAmount", "type": "uint256" }
+      ],
+      "name": "ClaimTokensEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_from", "type": "address" },
+        { "indexed": false, "name": "period", "type": "uint256" },
+        { "indexed": false, "name": "_ethValue", "type": "uint256" },
+        { "indexed": false, "name": "_tokensPrice", "type": "uint256" },
+        { "indexed": false, "name": "_tokensAmount", "type": "uint256" }
+      ],
+      "name": "ClaimEthersEvent",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "_eth", "type": "uint256" },
+        { "indexed": false, "name": "_tokens", "type": "uint256" }
+      ],
+      "name": "claimTaxex",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_from", "type": "address" },
+        { "indexed": true, "name": "_to", "type": "address" }
+      ],
+      "name": "OwnershipTransferred",
+      "type": "event"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "name": "BattleDrome ICO / Crowdsale",
+  "address": "0xeaAf270436a0ed397ED23BBF64DF7b1DCAfF142F",
+  "comment": "",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "creator",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "duration",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "devRatio",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "fundingMax",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_contributor", "type": "address" }],
+      "name": "checkTokBalance",
+      "outputs": [{ "name": "balance", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "startBlock",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_contributor", "type": "address" }],
+      "name": "checkSavedEthBalance",
+      "outputs": [{ "name": "balance", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "isStarted",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "checkTokDev",
+      "outputs": [{ "name": "total", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "ratio",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "savedBalance",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "fundingGoal",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "checkTokSold",
+      "outputs": [{ "name": "total", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "checkTokTotal",
+      "outputs": [{ "name": "total", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_contributor", "type": "address" }],
+      "name": "checkEthBalance",
+      "outputs": [{ "name": "balance", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "tokenAddress",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "tokenBalance",
+      "outputs": [{ "name": "balance", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "creatorPaid",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "minimumPurchase",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "isComplete",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "Token",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "contribute",
+      "outputs": [],
+      "payable": true,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "payMe",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "payCreator",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "escrow",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "percentOfGoal",
+      "outputs": [{ "name": "goalPercent", "type": "uint16" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "isSuccessful",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    { "inputs": [], "payable": false, "type": "constructor" },
+    { "payable": true, "type": "fallback" },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_contributor", "type": "address" },
+        { "indexed": true, "name": "_value", "type": "uint256" },
+        { "indexed": true, "name": "_timestamp", "type": "uint256" }
+      ],
+      "name": "Contribution",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_receiver", "type": "address" },
+        { "indexed": true, "name": "_value", "type": "uint256" },
+        { "indexed": true, "name": "_timestamp", "type": "uint256" }
+      ],
+      "name": "PayTokens",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_receiver", "type": "address" },
+        { "indexed": true, "name": "_value", "type": "uint256" },
+        { "indexed": true, "name": "_timestamp", "type": "uint256" }
+      ],
+      "name": "PayEther",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_value", "type": "uint256" },
+        { "indexed": true, "name": "_timestamp", "type": "uint256" }
+      ],
+      "name": "BurnTokens",
+      "type": "event"
+    }
+  ]
+}

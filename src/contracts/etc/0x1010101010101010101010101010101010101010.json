@@ -1,0 +1,56 @@
+{
+  "name": "Saint Hodl Contracts",
+  "address": "0x1010101010101010101010101010101010101010",
+  "comment": "",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "address" }],
+      "name": "lockers",
+      "outputs": [
+        { "name": "freedom", "type": "uint256" },
+        { "name": "bal", "type": "uint256" }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "withdraw",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "freezeBlocks",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+    },
+    { "payable": true, "stateMutability": "payable", "type": "fallback" },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "locker", "type": "address" },
+        { "indexed": true, "name": "amount", "type": "uint256" }
+      ],
+      "name": "Locked",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "locker", "type": "address" },
+        { "indexed": true, "name": "amount", "type": "uint256" }
+      ],
+      "name": "Released",
+      "type": "event"
+    }
+  ]
+}
