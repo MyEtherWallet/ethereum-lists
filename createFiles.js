@@ -1,10 +1,10 @@
-const fs = require("fs");
-const contractsDirectory = "./src/contracts/";
-const tokensDirectory = "./src/tokens/";
+const fs = require('fs');
+const contractsDirectory = './src/contracts/';
+const tokensDirectory = './src/tokens/';
 
 function createContractFiles() {
-  if (!fs.existsSync("./dist/contracts")) {
-    fs.mkdirSync("./dist/contracts");
+  if (!fs.existsSync('./dist/contracts')) {
+    fs.mkdirSync('./dist/contracts');
   }
   fs.readdirSync(contractsDirectory).forEach(folder => {
     let newArr = [];
@@ -13,13 +13,13 @@ function createContractFiles() {
     }
     fs.readdirSync(`${contractsDirectory}/${folder}`).forEach(file => {
       const obj = JSON.parse(
-        fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, "utf8")
+        fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
       newArr.push(obj);
     });
     const writeArray = newArr.sort(function(a, b) {
-      let aSym = a.name.toUpperCase();
-      let bSym = b.name.toUpperCase();
+      let aSym = a.name.toLowerCase();
+      let bSym = b.name.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
     });
 
@@ -35,8 +35,8 @@ function createContractFiles() {
 }
 
 function createTokenFiles() {
-  if (!fs.existsSync("./dist/tokens")) {
-    fs.mkdirSync("./dist/tokens");
+  if (!fs.existsSync('./dist/tokens')) {
+    fs.mkdirSync('./dist/tokens');
   }
   fs.readdirSync(tokensDirectory).forEach(folder => {
     let newArr = [];
@@ -45,14 +45,14 @@ function createTokenFiles() {
     }
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
       const obj = JSON.parse(
-        fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, "utf8")
+        fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
       newArr.push(obj);
     });
 
     const writeArray = newArr.sort(function(a, b) {
-      let aSym = a.symbol.toUpperCase();
-      let bSym = b.symbol.toUpperCase();
+      let aSym = a.symbol.toLowerCase();
+      let bSym = b.symbol.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
     });
 

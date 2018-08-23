@@ -20,7 +20,8 @@
     "eslint-plugin-json": "^1.2.1",
     "husky": "^0.14.3",
     "pretty-quick": "^1.6.0",
-    "validate": "^4.5.1"
+    "validate": "^4.5.1",
+    "web3": "^1.0.0-beta.35"
   },
   "dependencies": {
     "prettier": "^1.14.2"

@@ -1,4 +1,6 @@
 const fs = require('fs');
+const web3 = require('web3');
+const path = require('path');
 const contractsDirectory = './src/contracts/';
 const Schema = require('validate');
 const contract = new Schema({
@@ -21,13 +23,19 @@ const contract = new Schema({
 });
 
 function run() {
-  let errors = 0;
   fs.readdirSync(contractsDirectory).forEach(folder => {
     fs.readdirSync(`${contractsDirectory}/${folder}`).forEach(file => {
-      const obj = JSON.parse(
-        fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
-      );
-      if (contract.validate(obj) === false) {
+      if (
+        path.extname(file) === '.json' &&
+        web3.utils.isAddress(file.replace('.json', ''))
+      ) {
+        const obj = JSON.parse(
+          fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
+        );
+        if (contract.validate(obj) === false) {
+          process.exit(1);
+        }
+      } else {
         process.exit(1);
       }
     });
