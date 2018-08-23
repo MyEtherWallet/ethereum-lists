@@ -1,5 +1,7 @@
 const fs = require('fs');
 const tokensDirectory = './src/tokens/';
+const web3 = require('web3');
+const path = require('path');
 const Schema = require('validate');
 const token = new Schema({
   symbol: {
@@ -96,14 +98,23 @@ const token = new Schema({
 function run() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
-      const obj = JSON.parse(
-        fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
-      );
-      if (token.validate(obj) === false) {
+      if (
+        path.extname(file) === '.json' &&
+        web3.utils.isAddress(file.replace('.json', ''))
+      ) {
+        const obj = JSON.parse(
+          fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
+        );
+        if (token.validate(obj) === false) {
+          process.exit(1);
+        }
+      } else {
         process.exit(1);
       }
     });
   });
+
+  process.exit(0);
 }
 
 run();
