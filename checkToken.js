@@ -113,7 +113,7 @@ function run() {
       }
     });
   });
-
+  console.log('No errors');
   process.exit(0);
 }
 
