@@ -1,26 +1,31 @@
 const fs = require('fs');
 const web3 = require('web3');
 const path = require('path');
-const contractsDirectory = './src/contracts/';
-const Schema = require('validate');
-const contract = new Schema({
+const contractsDirectory = './src/contracts';
+const validate = require('validate.js');
+const constraints = {
   name: {
-    type: String,
-    required: true
+    presence: {
+      allowEmpty: false
+    }
   },
   address: {
-    type: String,
-    required: true
+    presence: {
+      allowEmpty: false
+    },
+    length: {
+      is: 42
+    }
   },
   comment: {
-    type: String,
-    required: true
+    presence: true
   },
   abi: {
-    type: Array,
-    required: true
+    presence: {
+      allowEmpty: false
+    }
   }
-});
+};
 
 function run() {
   fs.readdirSync(contractsDirectory).forEach(folder => {
@@ -32,10 +37,17 @@ function run() {
         const obj = JSON.parse(
           fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
         );
-        if (contract.validate(obj) === false) {
+        if (validate(obj, constraints) !== undefined) {
+          const errs = validate(obj, constraints);
+          Object.keys(errs).forEach(key => {
+            console.log(
+              `${errs[key][0]} for ${file} in ${contractsDirectory}/${folder}`
+            );
+          });
           process.exit(1);
         }
       } else {
+        console.log('Incorrect file name or file extension');
         process.exit(1);
       }
     });

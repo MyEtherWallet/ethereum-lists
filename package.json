@@ -9,7 +9,8 @@
     "build": "node createFiles.js",
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
     "compile": "npm run build; npm run lint",
-    "precommit": "pretty-quick --staged"
+    "precommit": "pretty-quick --staged",
+    "validate": "node checkContract.js; node checkToken.js;"
   },
   "license": "ISC",
   "bugs": {
@@ -20,10 +21,10 @@
     "eslint-plugin-json": "^1.2.1",
     "husky": "^0.14.3",
     "pretty-quick": "^1.6.0",
-    "validate": "^4.5.1",
     "web3": "^1.0.0-beta.35"
   },
   "dependencies": {
-    "prettier": "^1.14.2"
+    "prettier": "^1.14.2",
+    "validate.js": "^0.12.0"
   }
 }

@@ -1,8 +1,9 @@
 {
   "symbol": "UNV",
+  "name": "UniversalCoin",
+  "type": "ERC20",
   "address": "0x6ADa6F48C815689502C43eC1a59F1b5DD3C04E1F",
   "decimals": 18,
-  "name": "UniversalCoin",
   "ens_address": "",
   "website": "https://universalcoin.io/",
   "logo": {
@@ -11,7 +12,7 @@
     "height": "256",
     "ipfs_hash": ""
   },
-  "support": { "info@universalcoin.io": "", "url": "" },
+  "support": { "email": "info@universalcoin.io", "url": "" },
   "social": {
     "blog": "",
     "chat": "",

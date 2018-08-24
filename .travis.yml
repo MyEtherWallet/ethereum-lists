@@ -1,17 +1,12 @@
 language: node_js
 node_js: '8'
 stages:
-  - name: check contract format
-  - name: check token format
+  - name: check formatting issues
 
 jobs:
   fast_finish: true
   include:
-    - stage: check contract format
+    - stage: check formatting issues
       script:
         - |
-          node checkContract.js;
-    - stage: check token format
-      script:
-        - |
-          node checkToken.js;
+          npm run validate
