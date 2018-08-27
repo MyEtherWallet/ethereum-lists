@@ -1,99 +1,111 @@
 const fs = require('fs');
-const tokensDirectory = './src/tokens/';
+const tokensDirectory = './src/tokens';
 const web3 = require('web3');
 const path = require('path');
-const Schema = require('validate');
-const token = new Schema({
+const validate = require('validate.js');
+
+const constraints = {
   symbol: {
-    type: String,
-    required: true
+    presence: {
+      allowEmpty: false
+    }
   },
   name: {
-    type: String,
-    required: true
+    presence: {
+      allowEmpty: false
+    }
   },
   type: {
-    type: String,
-    required: true
+    presence: {
+      allowEmpty: false
+    }
   },
   address: {
-    type: String,
-    required: true
+    presence: {
+      allowEmpty: false
+    },
+    length: {
+      is: 42
+    }
   },
   ens_address: {
-    type: String
+    presence: true
   },
   decimals: {
-    type: Number,
-    required: true
+    presence: {
+      allowEmpty: false
+    }
   },
   website: {
-    type: String
+    presence: true
   },
   logo: {
-    src: {
-      type: String
-    },
-    width: {
-      type: String
-    },
-    height: {
-      type: String
-    },
-    ipfs_hash: {
-      type: String
-    }
+    presence: true
+  },
+  'logo.src': {
+    presence: true
+  },
+  'logo.width': {
+    presence: true
+  },
+  'logo.height': {
+    presence: true
+  },
+  'logo.ipfs_hash': {
+    presence: true
   },
   support: {
-    email: {
-      type: String
-    },
-    url: {
-      type: String
-    }
+    presence: true
+  },
+  'support.email': {
+    presence: true
+  },
+  'support.url': {
+    presence: true
   },
   social: {
-    blog: {
-      type: String
-    },
-    chat: {
-      type: String
-    },
-    facebook: {
-      type: String
-    },
-    forum: {
-      type: String
-    },
-    github: {
-      type: String
-    },
-    gitter: {
-      type: String
-    },
-    instagram: {
-      type: String
-    },
-    linkedin: {
-      type: String
-    },
-    reddit: {
-      type: String
-    },
-    slack: {
-      type: String
-    },
-    telegram: {
-      type: String
-    },
-    twitter: {
-      type: String
-    },
-    youtube: {
-      type: String
-    }
+    presence: true
+  },
+  'social.blog': {
+    presence: true
+  },
+  'social.chat': {
+    presence: true
+  },
+  'social.facebook': {
+    presence: true
+  },
+  'social.forum': {
+    presence: true
+  },
+  'social.github': {
+    presence: true
+  },
+  'social.gitter': {
+    presence: true
+  },
+  'social.instagram': {
+    presence: true
+  },
+  'social.linkedin': {
+    presence: true
+  },
+  'social.reddit': {
+    presence: true
+  },
+  'social.slack': {
+    presence: true
+  },
+  'social.telegram': {
+    presence: true
+  },
+  'social.twitter': {
+    presence: true
+  },
+  'social.youtube': {
+    presence: true
   }
-});
+};
 
 function run() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
@@ -105,10 +117,17 @@ function run() {
         const obj = JSON.parse(
           fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
         );
-        if (token.validate(obj) === false) {
+        if (validate(obj, constraints) !== undefined) {
+          const errs = validate(obj, constraints);
+          Object.keys(errs).forEach(key => {
+            console.log(
+              `${errs[key][0]} for ${file} in ${tokensDirectory}/${folder}`
+            );
+          });
           process.exit(1);
         }
       } else {
+        console.log('Incorrect file name or file extension');
         process.exit(1);
       }
     });
