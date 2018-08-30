@@ -2,18 +2,18 @@
   "symbol": "A18",
   "name": "Apollo18",
   "type": "ERC20",
-  "address": "0xBDe8f7820b5544a49D34F9dDeaCAbEDC7C0B5adc",
+  "address": "0xBa7DCBa2Ade319Bc772DB4df75A76BA00dFb31b0",
   "ens_address": "",
   "decimals": 0,
   "website": "https://apollo18.co.in",
-  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "logo": { "src": "https://apollo18.co.in/wp-content/uploads/2018/08/a18-28x28.png", "width": "28", "height": "28", "ipfs_hash": "" },
   "support": { "email": "contact@apollo18.co.in", "url": "" },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/@apollo18",
     "chat": "",
     "facebook": "https://facebook.apollo18.co.in",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/apollo18crypto",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
@@ -21,6 +21,6 @@
     "slack": "",
     "telegram": "https://telegram.apollo18.co.in",
     "twitter": "https://twitter.apollo18.co.in",
-    "youtube": ""
+    "youtube": "http://youtube.apollo18.co.in"
   }
 }
