@@ -15931,17 +15931,13 @@
   },
   {
     "symbol": "RUNE",
-    "address": "0xdEE02D94be4929d26f67B64Ada7aCf1914007F10",
-    "decimals": 18,
     "name": "Rune",
+    "type": "ERC20",
+    "address": "0xdEE02D94be4929d26f67B64Ada7aCf1914007F10",
     "ens_address": "",
+    "decimals": 18,
     "website": "https://thorchain.org",
-    "logo": {
-      "src": "https://tinypng.com/web/output/p37b6xpd2grdza41jqd52qftd20ukz0r/Rune%20128x128.png",
-      "width": "128",
-      "height": "128",
-      "ipfs_hash": ""
-    },
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "devs@thorchain.org", "url": "" },
     "social": {
       "blog": "https://medium.com/thorchain_org",
