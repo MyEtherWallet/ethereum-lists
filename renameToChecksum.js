@@ -1,6 +1,6 @@
 const fs = require('fs');
 const web3 = require('web3');
-const utiles = web3.utils;
+const utils = web3.utils;
 const contractsDirectory = './src/contracts';
 const tokensDirectory = './src/tokens';
 

@@ -6,11 +6,10 @@
     "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
   },
   "scripts": {
-    "build": "node createFiles.js",
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
-    "compile": "npm run build; npm run lint",
+    "compile": "npm run validate; npm run lint",
     "precommit": "pretty-quick --staged",
-    "validate": "node checkContract.js; node checkToken.js;"
+    "validate": "node compile.js;"
   },
   "license": "ISC",
   "bugs": {

@@ -3,6 +3,8 @@ const web3 = require('web3');
 const path = require('path');
 const contractsDirectory = './src/contracts';
 const validate = require('validate.js');
+const validateObject = require('./validateObject');
+
 const constraints = {
   name: {
     presence: {
@@ -34,9 +36,9 @@ function checkContract() {
         path.extname(file) === '.json' &&
         web3.utils.isAddress(file.replace('.json', ''))
       ) {
-        const obj = JSON.parse(
-          fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
-        );
+        const fullPath = `${contractsDirectory}/${folder}/${file}`;
+        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+        validateObject(constraints, obj, fullPath);
         if (validate(obj, constraints) !== undefined) {
           const errs = validate(obj, constraints);
           Object.keys(errs).forEach(key => {
