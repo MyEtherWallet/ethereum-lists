@@ -67,9 +67,9 @@ function createTokenFiles() {
   });
 }
 
-function run() {
+function createFiles() {
   createContractFiles();
   createTokenFiles();
 }
 
-run();
+module.exports = createFiles;

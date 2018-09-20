@@ -1,7 +1,7 @@
 const fs = require('fs');
 const directory = './src/contracts';
 // const directory = './src/tokens';
-function run() {
+function recreateFiles() {
   fs.readdirSync(directory).forEach(tokenFolder => {
     fs.readdirSync(`${directory}/${tokenFolder}`).forEach(file => {
       const newFile = JSON.parse(
@@ -17,4 +17,4 @@ function run() {
   });
 }
 
-run();
+module.exports = recreateFiles;

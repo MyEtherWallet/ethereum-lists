@@ -107,7 +107,7 @@ const constraints = {
   }
 };
 
-function run() {
+function checkToken() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
       if (
@@ -135,4 +135,4 @@ function run() {
   process.exit(0);
 }
 
-run();
+module.exports = checkToken;

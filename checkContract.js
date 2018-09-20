@@ -27,7 +27,7 @@ const constraints = {
   }
 };
 
-function run() {
+function checkContract() {
   fs.readdirSync(contractsDirectory).forEach(folder => {
     fs.readdirSync(`${contractsDirectory}/${folder}`).forEach(file => {
       if (
@@ -55,4 +55,4 @@ function run() {
   process.exit(0);
 }
 
-run();
+module.exports = checkContract;
