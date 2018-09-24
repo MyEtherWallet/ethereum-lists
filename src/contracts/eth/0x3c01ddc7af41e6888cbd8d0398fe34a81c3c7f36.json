@@ -1,0 +1,228 @@
+{
+  "name": "Milestone Tracker",
+  "address": "0x3C01ddC7aF41E6888cBD8d0398Fe34a81C3c7f36",
+  "comment": "",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "proposedMilestones",
+      "outputs": [{ "name": "", "type": "bytes" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "changingMilestones",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "campaignCanceled",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_idMilestone", "type": "uint256" }],
+      "name": "collectMilestonePayment",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "unproposeMilestones",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "donor",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_idMilestone", "type": "uint256" }],
+      "name": "milestoneCompleted",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_hashProposals", "type": "bytes32" }],
+      "name": "acceptProposedMilestones",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_idMilestone", "type": "uint256" }],
+      "name": "approveCompletedMilestone",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "recipient",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_newMilestones", "type": "bytes" }],
+      "name": "proposeMilestones",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "arbitrator",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "arbitrateCancelCampaign",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_newRecipient", "type": "address" }],
+      "name": "changeRecipient",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "numberOfMilestones",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_idMilestone", "type": "uint256" }],
+      "name": "rejectMilestone",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_newDonor", "type": "address" }],
+      "name": "changeDonor",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "uint256" }],
+      "name": "milestones",
+      "outputs": [
+        { "name": "description", "type": "string" },
+        { "name": "url", "type": "string" },
+        { "name": "minCompletionDate", "type": "uint256" },
+        { "name": "maxCompletionDate", "type": "uint256" },
+        { "name": "reviewer", "type": "address" },
+        { "name": "reviewTime", "type": "uint256" },
+        { "name": "paymentSource", "type": "address" },
+        { "name": "payData", "type": "bytes" },
+        { "name": "status", "type": "uint8" },
+        { "name": "doneTime", "type": "uint256" }
+      ],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_idMilestone", "type": "uint256" }],
+      "name": "arbitrateApproveMilestone",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_idMilestone", "type": "uint256" }],
+      "name": "cancelMilestone",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_newArbitrator", "type": "address" }],
+      "name": "changeArbitrator",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [
+        { "name": "_arbitrator", "type": "address" },
+        { "name": "_donor", "type": "address" },
+        { "name": "_recipient", "type": "address" }
+      ],
+      "payable": false,
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [],
+      "name": "NewMilestoneListProposed",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [],
+      "name": "NewMilestoneListUnproposed",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [],
+      "name": "NewMilestoneListAccepted",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "idProposal", "type": "uint256" },
+        { "indexed": false, "name": "newProposal", "type": "uint8" }
+      ],
+      "name": "ProposalStatusChanged",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [],
+      "name": "CampaignCalncelled",
+      "type": "event"
+    }
+  ]
+}

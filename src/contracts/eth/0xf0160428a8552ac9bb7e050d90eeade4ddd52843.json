@@ -1,0 +1,289 @@
+{
+  "name": "DGD Crowdsale / Claim",
+  "address": "0xF0160428a8552AC9bB7E050D90eEADE4DDD52843",
+  "comment": "",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [{ "name": "_eth", "type": "uint256" }],
+      "name": "setEthToCents",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "startDate",
+      "outputs": [{ "name": "date", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "claimFounders",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_user", "type": "address" }],
+      "name": "userInfo",
+      "outputs": [
+        { "name": "centstotal", "type": "uint256" },
+        { "name": "weitotal", "type": "uint256" },
+        { "name": "share", "type": "uint256" },
+        { "name": "badges", "type": "uint256" },
+        { "name": "claimed", "type": "bool" }
+      ],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "getPeriod",
+      "outputs": [{ "name": "saleperiod", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "periodTwo",
+      "outputs": [{ "name": "date", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_user", "type": "address" }],
+      "name": "proxyPurchase",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "BILLION",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "claim",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "ethToCents",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_wei", "type": "uint256" }],
+      "name": "weiToCents",
+      "outputs": [{ "name": "centsvalue", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "totalWei",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "WEI_PER_ETH",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "goalReached",
+      "outputs": [{ "name": "reached", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_proxy", "type": "address" }],
+      "name": "getPayout",
+      "outputs": [
+        { "name": "payout", "type": "address" },
+        { "name": "isproxy", "type": "bool" }
+      ],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "myInfo",
+      "outputs": [
+        { "name": "centstotal", "type": "uint256" },
+        { "name": "weitotal", "type": "uint256" },
+        { "name": "share", "type": "uint256" },
+        { "name": "badges", "type": "uint256" },
+        { "name": "claimed", "type": "bool" }
+      ],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_payout", "type": "address" }],
+      "name": "regProxy",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "getSaleStatus",
+      "outputs": [
+        { "name": "fclaim", "type": "bool" },
+        { "name": "reltokens", "type": "uint256" },
+        { "name": "relbadges", "type": "uint256" },
+        { "name": "claimers", "type": "uint256" }
+      ],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "sendFunds",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "isEnded",
+      "outputs": [{ "name": "ended", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "unlock",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        { "name": "_contrib", "type": "uint256" },
+        { "name": "_total", "type": "uint256" }
+      ],
+      "name": "calcShare",
+      "outputs": [{ "name": "share", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_payout", "type": "address" }],
+      "name": "getProxy",
+      "outputs": [{ "name": "proxy", "type": "address" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "periodThree",
+      "outputs": [{ "name": "date", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "totalCents",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "endDate",
+      "outputs": [{ "name": "date", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "getSaleConfig",
+      "outputs": [
+        { "name": "start", "type": "uint256" },
+        { "name": "two", "type": "uint256" },
+        { "name": "three", "type": "uint256" },
+        { "name": "end", "type": "uint256" },
+        { "name": "goal", "type": "uint256" },
+        { "name": "cap", "type": "uint256" },
+        { "name": "badgecost", "type": "uint256" },
+        { "name": "famount", "type": "uint256" },
+        { "name": "fwallet", "type": "address" }
+      ],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "getSaleInfo",
+      "outputs": [
+        { "name": "weiamount", "type": "uint256" },
+        { "name": "cents", "type": "uint256" },
+        { "name": "realcents", "type": "uint256" },
+        { "name": "amount", "type": "uint256" }
+      ],
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_user", "type": "address" }],
+      "name": "claimFor",
+      "outputs": [{ "name": "success", "type": "bool" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "CENTS",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [
+        { "name": "_a", "type": "uint256" },
+        { "name": "_c", "type": "uint256" }
+      ],
+      "name": "ppb",
+      "outputs": [{ "name": "b", "type": "uint256" }],
+      "type": "function"
+    },
+    {
+      "inputs": [{ "name": "_config", "type": "address" }],
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_exchange", "type": "uint256" },
+        { "indexed": true, "name": "_rate", "type": "uint256" },
+        { "indexed": true, "name": "_cents", "type": "uint256" }
+      ],
+      "name": "Purchase",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "_user", "type": "address" },
+        { "indexed": true, "name": "_amount", "type": "uint256" },
+        { "indexed": true, "name": "_badges", "type": "uint256" }
+      ],
+      "name": "Claim",
+      "type": "event"
+    }
+  ]
+}

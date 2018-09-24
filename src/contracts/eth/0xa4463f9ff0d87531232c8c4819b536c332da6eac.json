@@ -1,0 +1,183 @@
+{
+  "name": "Etheroll Rewards",
+  "address": "0xa4463f9Ff0d87531232c8c4819B536c332DA6EAc",
+  "comment": "",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [{ "name": "_tokenHolder", "type": "address" }],
+      "name": "getTokensHeldByAddress",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "ownerUpdateCurrentEpoch",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "payoutsPaused",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "newTreasury", "type": "address" }],
+      "name": "ownerSetTreasury",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "totalRewardsForEpoch",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "_newPayoutStatus", "type": "bool" }],
+      "name": "ownerPausePayouts",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [{ "name": "newOwner", "type": "address" }],
+      "name": "ownerChangeOwner",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "treasury",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "currentEpoch",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_sendTo", "type": "address" },
+        { "name": "_amount", "type": "uint256" }
+      ],
+      "name": "ownerTransferEther",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "theTokenAddress",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "owner",
+      "outputs": [{ "name": "", "type": "address" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_tokenHolder", "type": "address" }],
+      "name": "getExpectedPayout",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [{ "name": "_tokenHolder", "type": "address" }],
+      "name": "getAddressLastPaidOutEpoch",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "getMyReward",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "ownerkill",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_newTotalRewardsForEpochInWei", "type": "uint256" }
+      ],
+      "name": "ownerUpdateTotalRewardsForEpoch",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [{ "name": "tokenAddress", "type": "address" }],
+      "payable": false,
+      "type": "constructor"
+    },
+    { "payable": true, "type": "fallback" },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "SentToAddress", "type": "address" },
+        { "indexed": true, "name": "AmountTransferred", "type": "uint256" }
+      ],
+      "name": "LogOwnerTransfer",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "SentToAddress", "type": "address" },
+        { "indexed": true, "name": "AmountTransferred", "type": "uint256" },
+        { "indexed": true, "name": "NumberOfTokens", "type": "uint256" },
+        { "indexed": false, "name": "TotalRewardsForEpoch", "type": "uint256" },
+        { "indexed": false, "name": "Epoch", "type": "uint256" }
+      ],
+      "name": "LogPaidOut",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "NewCurrentEpoch", "type": "uint256" }
+      ],
+      "name": "LogEpochUpdated",
+      "type": "event"
+    }
+  ]
+}

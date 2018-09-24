@@ -1,0 +1,31 @@
+{
+  "symbol": "COIN",
+  "name": "Coinvest V2 Token",
+  "type": "ERC20",
+  "address": "0x5e8f855966d638135a968861e80dda722291b06d",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://coinve.st",
+  "logo": {
+    "src": "https://coinve.st/assets/images/Coinvest_Profile.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@coinve.st", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CoinvestHQ",
+    "forum": "https://bitcointalk.org/index.php?topic=2381017.0",
+    "github": "https://github.com/CoinvestHQ",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/coinvesthq/",
+    "reddit": "http://reddit.com/r/Coinvest",
+    "slack": "",
+    "telegram": "https://t.me/CoinvestHQ",
+    "twitter": "https://www.twitter.com/CoinvestHQ",
+    "youtube": "https://www.youtube.com/channel/UCX-pE6nXFg3uK2_cMQ5n6jA"
+  }
+}

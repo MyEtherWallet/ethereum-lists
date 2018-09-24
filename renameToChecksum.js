@@ -10,9 +10,9 @@ function renameTokens() {
       if (!utils.checkAddressChecksum(file.replace('.json', ''))) {
         fs.renameSync(
           `${tokensDirectory}/${folder}/${file}`,
-          `${tokensDirectory}/${folder}/${utils.toChecksumAddress(
-            file.replace('.json', '')
-          )}.json`
+          `${tokensDirectory}/${folder}/${utils
+            .toChecksumAddress(file.replace('.json', ''))
+            .toLowerCase()}.json`
         );
       }
     });
@@ -25,9 +25,9 @@ function renameContracts() {
       if (!utils.checkAddressChecksum(file.replace('.json', ''))) {
         fs.renameSync(
           `${contractsDirectory}/${folder}/${file}`,
-          `${contractsDirectory}/${folder}/${utils.toChecksumAddress(
-            file.replace('.json', '')
-          )}.json`
+          `${contractsDirectory}/${folder}/${utils
+            .toChecksumAddress(file.replace('.json', ''))
+            .toLowerCase()}.json`
         );
       }
     });
