@@ -68,6 +68,10 @@ function createTokenFiles() {
 }
 
 function createFiles() {
+  if (!fs.existsSync('./dist/')) {
+    console.log('Lmao');
+    fs.mkdirSync('./dist/');
+  }
   createContractFiles();
   createTokenFiles();
 }

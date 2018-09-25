@@ -6,10 +6,10 @@ const recreateFiles = require('./recreateFiles');
 const renameToChecksum = require('./renameToChecksum');
 
 function compile() {
-  checkDirectory();
-  console.log('Directory is clean!');
   createFiles();
   console.log('Created files!');
+  checkDirectory();
+  console.log('Directory is clean!');
   recreateFiles();
   console.log('Recreated files!');
   renameToChecksum();

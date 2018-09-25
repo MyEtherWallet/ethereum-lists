@@ -7,9 +7,8 @@
   },
   "scripts": {
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
-    "compile": "npm run validate; npm run lint",
-    "precommit": "pretty-quick --staged",
-    "validate": "node compile.js;"
+    "compile": "node compile.js; npm run lint",
+    "precommit": "pretty-quick --staged"
   },
   "license": "ISC",
   "bugs": {
