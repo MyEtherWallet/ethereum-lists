@@ -1,14 +1,29 @@
 const fs = require('fs');
-const directory = './src/contracts';
-// const directory = './src/tokens';
-function run() {
-  fs.readdirSync(directory).forEach(tokenFolder => {
-    fs.readdirSync(`${directory}/${tokenFolder}`).forEach(file => {
+const contractsDirectory = './src/contracts';
+const tokensDirectory = './src/tokens';
+function recreateContractFiles() {
+  fs.readdirSync(contractsDirectory).forEach(folderFile => {
+    fs.readdirSync(`${contractsDirectory}/${folderFile}`).forEach(file => {
       const newFile = JSON.parse(
-        fs.readFileSync(`${directory}/${tokenFolder}/${file}`)
+        fs.readFileSync(`${contractsDirectory}/${folderFile}/${file}`)
       );
       fs.writeFileSync(
-        `${directory}/${tokenFolder}/${file
+        `${contractsDirectory}/${folderFile}/${file
+          .replace('.json', '')
+          .toLowerCase()}.json`,
+        JSON.stringify(newFile)
+      );
+    });
+  });
+}
+function recreateTokenFiles() {
+  fs.readdirSync(tokensDirectory).forEach(folderFile => {
+    fs.readdirSync(`${tokensDirectory}/${folderFile}`).forEach(file => {
+      const newFile = JSON.parse(
+        fs.readFileSync(`${tokensDirectory}/${folderFile}/${file}`)
+      );
+      fs.writeFileSync(
+        `${tokensDirectory}/${folderFile}/${file
           .replace('.json', '')
           .toLowerCase()}.json`,
         JSON.stringify(newFile)
@@ -17,4 +32,8 @@ function run() {
   });
 }
 
-run();
+function recreateFiles() {
+  recreateContractFiles();
+  recreateTokenFiles();
+}
+module.exports = recreateFiles;

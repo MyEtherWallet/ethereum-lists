@@ -1,0 +1,17 @@
+{
+  "name": "Replay Safe Split",
+  "address": "0xAA1A6e3e6EF20068f7F8d8C835d2D22fd5116444",
+  "comment": "",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "targetFork", "type": "address" },
+        { "name": "targetNoFork", "type": "address" }
+      ],
+      "name": "split",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "type": "function"
+    }
+  ]
+}

@@ -3,6 +3,7 @@ const tokensDirectory = './src/tokens';
 const web3 = require('web3');
 const path = require('path');
 const validate = require('validate.js');
+const validateObject = require('./validateObject');
 
 const constraints = {
   symbol: {
@@ -107,16 +108,16 @@ const constraints = {
   }
 };
 
-function run() {
+function checkToken() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
       if (
         path.extname(file) === '.json' &&
         web3.utils.isAddress(file.replace('.json', ''))
       ) {
-        const obj = JSON.parse(
-          fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
-        );
+        const fullPath = `${tokensDirectory}/${folder}/${file}`;
+        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+        validateObject(constraints, obj, fullPath);
         if (validate(obj, constraints) !== undefined) {
           const errs = validate(obj, constraints);
           Object.keys(errs).forEach(key => {
@@ -135,4 +136,4 @@ function run() {
   process.exit(0);
 }
 
-run();
+module.exports = checkToken;

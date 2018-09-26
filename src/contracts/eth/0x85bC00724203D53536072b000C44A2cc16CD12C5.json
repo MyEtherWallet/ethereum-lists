@@ -1,0 +1,57 @@
+{
+  "name": "Pass DAO: Tokens Contract",
+  "address": "0x85bC00724203D53536072b000C44A2cc16CD12C5",
+  "comment": "",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_proposalID", "type": "uint256" },
+        { "name": "_buyer", "type": "address" }
+      ],
+      "name": "buyTokensForProposal",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": true,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "withdrawPendingAmounts",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "buyTokens",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": true,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_from", "type": "uint256" },
+        { "name": "_to", "type": "uint256" }
+      ],
+      "name": "removeOrders",
+      "outputs": [{ "name": "", "type": "bool" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [
+        { "name": "_tokenAmount", "type": "uint256" },
+        { "name": "_from", "type": "uint256" },
+        { "name": "_to", "type": "uint256" }
+      ],
+      "name": "sellTokens",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    }
+  ]
+}

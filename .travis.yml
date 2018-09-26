@@ -9,4 +9,4 @@ jobs:
     - stage: check formatting issues
       script:
         - |
-          npm run validate
+          npm run compile
