@@ -6,6 +6,7 @@ const recreateFiles = require('./recreateFiles');
 const renameToChecksum = require('./renameToChecksum');
 
 function compile() {
+  console.log('Start');
   createFiles();
   console.log('Created files!');
   checkDirectory();
@@ -18,6 +19,7 @@ function compile() {
   console.log('Contracts are fine!');
   checkToken();
   console.log('Tokens are fine!');
+  console.log('Done');
 }
 
 compile();
