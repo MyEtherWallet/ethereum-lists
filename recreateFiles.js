@@ -7,6 +7,8 @@ function recreateContractFiles() {
       const newFile = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folderFile}/${file}`)
       );
+
+      fs.unlinkSync(`${contractsDirectory}/${folderFile}/${file}`);
       fs.writeFileSync(
         `${contractsDirectory}/${folderFile}/${file
           .replace('.json', '')
@@ -22,6 +24,7 @@ function recreateTokenFiles() {
       const newFile = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folderFile}/${file}`)
       );
+      fs.unlinkSync(`${tokensDirectory}/${folderFile}/${file}`);
       fs.writeFileSync(
         `${tokensDirectory}/${folderFile}/${file
           .replace('.json', '')

@@ -3,11 +3,9 @@ const contractsDirectory = './src/contracts/';
 const tokensDirectory = './src/tokens/';
 
 function createContractFiles() {
-  console.log('1 contracts');
   if (!fs.existsSync('./dist/contracts')) {
     fs.mkdirSync('./dist/contracts');
   }
-  console.log('2 contracts');
   fs.readdirSync(contractsDirectory).forEach(folder => {
     let contractArray = [];
     if (!fs.existsSync(`./dist/contracts/${folder}`)) {
@@ -46,7 +44,6 @@ function createTokenFiles() {
       fs.mkdirSync(`./dist/tokens/${folder}`);
     }
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
-      console.log(file);
       const obj = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
