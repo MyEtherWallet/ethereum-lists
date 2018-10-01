@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "http://neeoico.com/",
-  "logo": { "src": "https://raw.githubusercontent.com/maksimov1/eth-contract-metadata/master/images/neeo.png", "width": "112", "height": "112", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://raw.githubusercontent.com/maksimov1/eth-contract-metadata/master/images/neeo.png",
+    "width": "112",
+    "height": "112",
+    "ipfs_hash": ""
+  },
   "support": { "email": "support@neeoico.com", "url": "" },
   "social": {
     "blog": "",
