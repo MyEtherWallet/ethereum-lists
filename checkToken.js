@@ -21,13 +21,14 @@ const constraints = {
       allowEmpty: false
     }
   },
-  address: {
-    presence: {
-      allowEmpty: false
-    },
-    length: {
-      is: 42
+  address: function(value) {
+    if (web3.utils.isAddress(value)) {
+      return null;
     }
+    return {
+      presence: { message: 'Token Address missing' },
+      length: { is: 42 }
+    };
   },
   ens_address: {
     presence: true
@@ -121,14 +122,14 @@ function checkToken() {
         if (validate(obj, constraints) !== undefined) {
           const errs = validate(obj, constraints);
           Object.keys(errs).forEach(key => {
-            console.log(
+            console.error(
               `${errs[key][0]} for ${file} in ${tokensDirectory}/${folder}`
             );
           });
           process.exit(1);
         }
       } else {
-        console.log('Incorrect file name or file extension');
+        console.error('Incorrect file name or file extension');
         process.exit(1);
       }
     });

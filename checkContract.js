@@ -11,13 +11,14 @@ const constraints = {
       allowEmpty: false
     }
   },
-  address: {
-    presence: {
-      allowEmpty: false
-    },
-    length: {
-      is: 42
+  address: function(value) {
+    if (web3.utils.isAddress(value)) {
+      return null;
     }
+    return {
+      presence: { message: 'Token Address missing' },
+      length: { is: 42 }
+    };
   },
   comment: {
     presence: true
