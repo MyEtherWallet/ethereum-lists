@@ -50,17 +50,17 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
     	-	Click on the network where you would like to implement a change.
     	-	If you would like to make an addition:
 
-        **a.** Click create new file on the upper right side of the screen.
+          **a.** Click create new file on the upper right side of the screen.
 
-        **b.** Name your file with the ethereum address with a `.json` extension. e.g:  `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D.json`
+          **b.** Name your file with the ethereum address with a `.json` extension. e.g:  `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D.json`
 
-        **c.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
-    	- If you would like to make a correction or remove an item:
+          **c.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
+            - If you would like to make a correction or remove an item:
 
-        **a.** Navigate to the file.
-        **b.** Click the pencil to edit or the trash can to delete.
-    		  - When editing, update the relevant information.
-    			-  Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
+          **a.** Navigate to the file.
+          **b.** Click the pencil to edit or the trash can to delete.
+            - When editing, update the relevant information.
+            -  Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
     		-	Example: _"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
     		- You can also provide more details in the box below. Please provide as much detail / evidence as reasonable so reviewers can verify quickly.
 
