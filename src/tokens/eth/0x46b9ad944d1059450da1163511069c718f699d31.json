@@ -11,7 +11,10 @@
     "height": "28", 
     "ipfs_hash": "" 
   },
-  "support": { "email": "support@credits.com", "url": "" },
+  "support": { 
+    "email": "support@credits.com", 
+    "url": "https://developers.credits.com" 
+  },
   "social": {
     "blog": "https://medium.com/credits",
     "chat": "",
