@@ -10,3 +10,15 @@ jobs:
       script:
         - |
           npm run compile
+    - stage: run linter
+      script:
+        - |
+          npm run lint
+    - stage: check token issues
+      script:
+        - |
+          npm run test:checkToken
+    - stage: check contract issues
+      script:
+        - |
+          npm run test:checkContract

@@ -7,7 +7,9 @@
   },
   "scripts": {
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
-    "compile": "node compile.js; npm run lint",
+    "test:checkToken": "node -e 'require(\"./checkToken.js\")()'",
+    "test:checkContract": "node -e 'require(\"./checkContract.js\")()'",
+    "compile": "node compile.js",
     "precommit": "pretty-quick --staged"
   },
   "license": "ISC",
