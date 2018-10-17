@@ -13185,11 +13185,12 @@
     "decimals": 5,
     "website": "https://helex.world",
     "logo": {
-      "28": "",
-      "https://helex.world/logoescan.png": "",
+      "src": "https://helex.world/logoescan.png",
+      "height": "28",
+      "width": "28",
       "ipfs_hash": ""
     },
-    "support": { "contact@helex.world": "", "https://helex.world": "" },
+    "support": { "email": "contact@helex.world", "url": "https://helex.world" },
     "social": {
       "blog": "",
       "chat": "",
