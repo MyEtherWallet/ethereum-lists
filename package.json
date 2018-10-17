@@ -7,8 +7,8 @@
   },
   "scripts": {
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
-    "test:checkToken": "node -e 'require(\"./checkToken.js\")()'",
-    "test:checkContract": "node -e 'require(\"./checkContract.js\")()'",
+    "test:checkToken": "node checkToken.js",
+    "test:checkContract": "node checkContract.js",
     "compile": "node compile.js",
     "precommit": "pretty-quick --staged"
   },

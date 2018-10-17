@@ -58,4 +58,4 @@ function checkContract() {
   process.exit(0);
 }
 
-module.exports = checkContract;
+checkContract();
