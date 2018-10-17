@@ -6,14 +6,15 @@
   "ens_address": "",
   "decimals": 6,
   "website": "https://credits.com",
-  "logo": { "src": "https://etherscan.io/token/images/credits2_28.png", 
-    "width": "28", 
-    "height": "28", 
-    "ipfs_hash": "" 
+  "logo": {
+    "src": "https://etherscan.io/token/images/credits2_28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
   },
-  "support": { 
-    "email": "support@credits.com", 
-    "url": "https://developers.credits.com" 
+  "support": {
+    "email": "support@credits.com",
+    "url": "https://developers.credits.com"
   },
   "social": {
     "blog": "https://medium.com/credits",

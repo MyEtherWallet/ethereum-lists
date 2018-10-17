@@ -151,6 +151,11 @@ Information related to tokens. ERC-20 compliant only (For now).
 
 Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
 
+#### Development
+
+on terminal, run: `git clone git@github.com:MyEtherWallet/ethereum-lists.git; cd ethereum-lists`  
+and then run: `npm run compile; npm run test:checkToken; npm run test:checkContract; npm run lint` to compile
+
 #### A last note
 
 This list is maintained by volunteers in the cryptocurrency community &amp; people like you around the internet. It may not always be up to date, and it may occasionally get it wrong. If you find an error or omission, please open an issue or make a PR with any corrections.
