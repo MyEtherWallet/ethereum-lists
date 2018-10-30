@@ -6,8 +6,16 @@
   "ens_address": "crypto20.eth",
   "decimals": 18,
   "website": "https://crypto20.com",
-  "logo": { "src": "https://cdn.crypto20.com/images/C20_hex_dark_.png", "width": "128px", "height": "128px", "ipfs_hash": "" },
-  "support": { "email": "team@crypto20.com", "url": "https://invictus.zendesk.com" },
+  "logo": {
+    "src": "https://cdn.crypto20.com/images/C20_hex_dark_.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "team@crypto20.com",
+    "url": "https://invictus.zendesk.com"
+  },
   "social": {
     "blog": "https://medium.crypto20.com",
     "chat": "https://discord.gg/QwaFrxX",
