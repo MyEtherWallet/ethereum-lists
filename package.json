@@ -9,6 +9,7 @@
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
     "test:checkToken": "node checkToken.js",
     "test:checkContract": "node checkContract.js",
+    "test": "npm run test:checkToken; npm run test:checkContract",
     "compile": "node compile.js",
     "precommit": "pretty-quick --staged"
   },
