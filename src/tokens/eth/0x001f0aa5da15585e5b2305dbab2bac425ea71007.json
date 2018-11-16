@@ -1,31 +1,25 @@
 {
-  "symbol": "IPSX",
-  "name": "IPSX",
+  "symbol": "NCC",
+  "name": "NeedsCoin",
   "type": "ERC20",
-  "address": "0x001f0aa5da15585e5b2305dbab2bac425ea71007",
-  "ens_address": "",
+  "address": "0x9344b383b1D59b5ce3468B234DAB43C7190ba735",
   "decimals": 18,
-  "website": "https://ip.sx",
+  "website": "https://needscoin.info",
   "logo": {
-    "src": "https://ip.sx/images/IPSX-Logo-28x28.png",
-    "width": "28",
-    "height": "28",
-    "ipfs_hash": ""
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1542365977/NeedsCoinLogo/ncc.png",
+    "width": "120",
+    "height": "120",
   },
-  "support": { "email": "contact@ip.sx", "url": "" },
+  "support": { "email": "help@needscoin.info", "url": "https://needscoin.info/contact" },
   "social": {
-    "blog": "https://medium.ip.sx/",
-    "chat": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
-    "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
-    "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "twitter": "https://twitter.com/NeedsCoin",
+	"facebook": "https://facebook.com/needscoin",
+	"bitcointalk": "https://bitcointalk.org/index.php?topic=4862385",
+	"github": "https://github.com/NeedsCoinProject",
+	"blog": "https://steemit.com/blockchain/@okane81/needscoin-token",
+    "reddit": "https://www.reddit.com/r/NeedsCoin",
+    "telegram": "https://t.me/needscoin",
+    "discord": "https://discord.gg/Jmy4zC",
+    "youtube": "https://www.youtube.com/watch?v=H-svrLj7mPA"
   }
 }
