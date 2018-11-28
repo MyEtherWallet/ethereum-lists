@@ -1,0 +1,31 @@
+{
+  "symbol": "MON",
+  "name": "MontexToken",
+  "type": "ERC20",
+  "address": "0x4dFC4A641BcD37A97527C86fFcAd43F6000De1a3",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://montex.market/",
+  "logo": {
+    "src": "https://montex.market/128x128.png",
+    "width": 128,
+    "height": 128,
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@montex.market", "url": "https://montex.market/" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/MontexProjects",
+    "twitter": "",
+    "youtube": ""
+  }
+}
