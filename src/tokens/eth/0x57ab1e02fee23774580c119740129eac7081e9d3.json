@@ -1,31 +1,31 @@
 {
-  "symbol": "nUSD",
-  "name": "Havven-Backed USD Nomins (nUSD)",
+  "symbol": "sUSD",
+  "name": "USD Synth (sUSD)",
   "type": "ERC20",
   "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.havven.io",
+  "website": "https://www.synthetix.io",
   "logo": {
-    "src": "https://www.havven.io/images/favicon3.ico",
+    "src": "https://www.synthetix.io/img/sUSD_blue_sml.png",
     "width": "32",
     "height": "32",
     "ipfs_hash": ""
   },
-  "support": { "email": "support@havven.io", "url": "" },
+  "support": { "email": "info@synthetix.io", "url": "" },
   "social": {
     "blog": "https://blog.havven.io",
-    "chat": "https://t.me/havven_official1",
-    "facebook": "https://www.facebook.com/havven.io/",
-    "forum": "https://bitcointalk.org/index.php?topic=2702470",
-    "github": "https://github.com/havven/havven",
+    "chat": "https://discordapp.com/invite/AEdUHzt",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/havven/",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/havven/",
-    "reddit": "https://www.reddit.com/r/havven/",
+    "linkedin": "https://www.linkedin.com/company/synthetix/",
+    "reddit": "https://www.reddit.com/r/synthetix_io/",
     "slack": "",
-    "telegram": "https://t.me/havven_official1",
-    "twitter": "https://twitter.com/havven_io",
-    "youtube": "https://www.youtube.com/channel/UCGrPolyOAj3cODJIN5ssVTw"
+    "telegram": "",
+    "twitter": "https://twitter.com/synthetix_io",
+    "youtube": ""
   }
 }
