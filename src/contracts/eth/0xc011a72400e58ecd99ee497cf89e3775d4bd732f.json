@@ -7,12 +7,7 @@
       "constant": true,
       "inputs": [],
       "name": "name",
-      "outputs": [
-        {
-          "name": "",
-          "type": "string"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "string" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -20,34 +15,18 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "spender",
-          "type": "address"
-        },
-        {
-          "name": "value",
-          "type": "uint256"
-        }
+        { "name": "spender", "type": "address" },
+        { "name": "value", "type": "uint256" }
       ],
       "name": "approve",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_owner",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_owner", "type": "address" }],
       "name": "nominateNewOwner",
       "outputs": [],
       "payable": false,
@@ -58,12 +37,7 @@
       "constant": true,
       "inputs": [],
       "name": "initiationTime",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -72,24 +46,14 @@
       "constant": true,
       "inputs": [],
       "name": "totalSupply",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_beneficiary",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_beneficiary", "type": "address" }],
       "name": "setSelfDestructBeneficiary",
       "outputs": [],
       "payable": false,
@@ -100,12 +64,7 @@
       "constant": true,
       "inputs": [],
       "name": "decimals",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint8"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint8" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -123,31 +82,16 @@
       "constant": true,
       "inputs": [],
       "name": "exchangeRates",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "",
-          "type": "bytes4"
-        }
-      ],
+      "inputs": [{ "name": "", "type": "bytes4" }],
       "name": "synths",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -156,31 +100,16 @@
       "constant": true,
       "inputs": [],
       "name": "nominatedOwner",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "balanceOf",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -196,19 +125,9 @@
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "inputs": [{ "name": "", "type": "uint256" }],
       "name": "availableSynths",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -217,12 +136,7 @@
       "constant": true,
       "inputs": [],
       "name": "owner",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -231,24 +145,14 @@
       "constant": true,
       "inputs": [],
       "name": "symbol",
-      "outputs": [
-        {
-          "name": "",
-          "type": "string"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "string" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_proxy",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_proxy", "type": "address" }],
       "name": "setProxy",
       "outputs": [],
       "payable": false,
@@ -266,12 +170,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_tokenState",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_tokenState", "type": "address" }],
       "name": "setTokenState",
       "outputs": [],
       "payable": false,
@@ -282,12 +181,7 @@
       "constant": true,
       "inputs": [],
       "name": "SELFDESTRUCT_DELAY",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -296,12 +190,7 @@
       "constant": true,
       "inputs": [],
       "name": "feePool",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -310,24 +199,14 @@
       "constant": true,
       "inputs": [],
       "name": "selfDestructInitiated",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "sender",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "sender", "type": "address" }],
       "name": "setMessageSender",
       "outputs": [],
       "payable": false,
@@ -347,12 +226,7 @@
       "constant": true,
       "inputs": [],
       "name": "selfDestructBeneficiary",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -361,12 +235,7 @@
       "constant": true,
       "inputs": [],
       "name": "synthetixState",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -374,22 +243,11 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "name": "owner",
-          "type": "address"
-        },
-        {
-          "name": "spender",
-          "type": "address"
-        }
+        { "name": "owner", "type": "address" },
+        { "name": "spender", "type": "address" }
       ],
       "name": "allowance",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -398,12 +256,7 @@
       "constant": true,
       "inputs": [],
       "name": "escrow",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -412,12 +265,7 @@
       "constant": true,
       "inputs": [],
       "name": "tokenState",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -426,42 +274,19 @@
       "constant": true,
       "inputs": [],
       "name": "proxy",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "inputs": [
-        {
-          "name": "_proxy",
-          "type": "address"
-        },
-        {
-          "name": "_tokenState",
-          "type": "address"
-        },
-        {
-          "name": "_synthetixState",
-          "type": "address"
-        },
-        {
-          "name": "_owner",
-          "type": "address"
-        },
-        {
-          "name": "_exchangeRates",
-          "type": "address"
-        },
-        {
-          "name": "_feePool",
-          "type": "address"
-        }
+        { "name": "_proxy", "type": "address" },
+        { "name": "_tokenState", "type": "address" },
+        { "name": "_synthetixState", "type": "address" },
+        { "name": "_owner", "type": "address" },
+        { "name": "_exchangeRates", "type": "address" },
+        { "name": "_feePool", "type": "address" }
       ],
       "payable": false,
       "stateMutability": "nonpayable",
@@ -470,16 +295,8 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "account",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "newPreferredCurrency",
-          "type": "bytes4"
-        }
+        { "indexed": true, "name": "account", "type": "address" },
+        { "indexed": false, "name": "newPreferredCurrency", "type": "bytes4" }
       ],
       "name": "PreferredCurrencyChanged",
       "type": "event"
@@ -487,11 +304,7 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "stateContract",
-          "type": "address"
-        }
+        { "indexed": false, "name": "stateContract", "type": "address" }
       ],
       "name": "StateContractChanged",
       "type": "event"
@@ -499,16 +312,8 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "currencyKey",
-          "type": "bytes4"
-        },
-        {
-          "indexed": false,
-          "name": "newSynth",
-          "type": "address"
-        }
+        { "indexed": false, "name": "currencyKey", "type": "bytes4" },
+        { "indexed": false, "name": "newSynth", "type": "address" }
       ],
       "name": "SynthAdded",
       "type": "event"
@@ -516,16 +321,8 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "currencyKey",
-          "type": "bytes4"
-        },
-        {
-          "indexed": false,
-          "name": "removedSynth",
-          "type": "address"
-        }
+        { "indexed": false, "name": "currencyKey", "type": "bytes4" },
+        { "indexed": false, "name": "removedSynth", "type": "address" }
       ],
       "name": "SynthRemoved",
       "type": "event"
@@ -533,21 +330,9 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "indexed": true,
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "value",
-          "type": "uint256"
-        }
+        { "indexed": true, "name": "from", "type": "address" },
+        { "indexed": true, "name": "to", "type": "address" },
+        { "indexed": false, "name": "value", "type": "uint256" }
       ],
       "name": "Transfer",
       "type": "event"
@@ -555,21 +340,9 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "owner",
-          "type": "address"
-        },
-        {
-          "indexed": true,
-          "name": "spender",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "value",
-          "type": "uint256"
-        }
+        { "indexed": true, "name": "owner", "type": "address" },
+        { "indexed": true, "name": "spender", "type": "address" },
+        { "indexed": false, "name": "value", "type": "uint256" }
       ],
       "name": "Approval",
       "type": "event"
@@ -577,11 +350,7 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "newTokenState",
-          "type": "address"
-        }
+        { "indexed": false, "name": "newTokenState", "type": "address" }
       ],
       "name": "TokenStateUpdated",
       "type": "event"
@@ -589,11 +358,7 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "proxyAddress",
-          "type": "address"
-        }
+        { "indexed": false, "name": "proxyAddress", "type": "address" }
       ],
       "name": "ProxyUpdated",
       "type": "event"
@@ -607,11 +372,7 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "beneficiary",
-          "type": "address"
-        }
+        { "indexed": false, "name": "beneficiary", "type": "address" }
       ],
       "name": "SelfDestructed",
       "type": "event"
@@ -619,11 +380,7 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "selfDestructDelay",
-          "type": "uint256"
-        }
+        { "indexed": false, "name": "selfDestructDelay", "type": "uint256" }
       ],
       "name": "SelfDestructInitiated",
       "type": "event"
@@ -631,52 +388,29 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "newBeneficiary",
-          "type": "address"
-        }
+        { "indexed": false, "name": "newBeneficiary", "type": "address" }
       ],
       "name": "SelfDestructBeneficiaryUpdated",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": false,
-          "name": "newOwner",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": false, "name": "newOwner", "type": "address" }],
       "name": "OwnerNominated",
       "type": "event"
     },
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": false,
-          "name": "oldOwner",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "newOwner",
-          "type": "address"
-        }
+        { "indexed": false, "name": "oldOwner", "type": "address" },
+        { "indexed": false, "name": "newOwner", "type": "address" }
       ],
       "name": "OwnerChanged",
       "type": "event"
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "synth",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "synth", "type": "address" }],
       "name": "addSynth",
       "outputs": [],
       "payable": false,
@@ -685,12 +419,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
-      ],
+      "inputs": [{ "name": "currencyKey", "type": "bytes4" }],
       "name": "removeSynth",
       "outputs": [],
       "payable": false,
@@ -699,12 +428,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_escrow",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_escrow", "type": "address" }],
       "name": "setEscrow",
       "outputs": [],
       "payable": false,
@@ -713,12 +437,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_exchangeRates",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_exchangeRates", "type": "address" }],
       "name": "setExchangeRates",
       "outputs": [],
       "payable": false,
@@ -727,12 +446,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "_synthetixState",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_synthetixState", "type": "address" }],
       "name": "setSynthetixState",
       "outputs": [],
       "payable": false,
@@ -741,12 +455,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
-      ],
+      "inputs": [{ "name": "currencyKey", "type": "bytes4" }],
       "name": "setPreferredCurrency",
       "outputs": [],
       "payable": false,
@@ -756,45 +465,21 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "name": "sourceCurrencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "sourceAmount",
-          "type": "uint256"
-        },
-        {
-          "name": "destinationCurrencyKey",
-          "type": "bytes4"
-        }
+        { "name": "sourceCurrencyKey", "type": "bytes4" },
+        { "name": "sourceAmount", "type": "uint256" },
+        { "name": "destinationCurrencyKey", "type": "bytes4" }
       ],
       "name": "effectiveValue",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
-      ],
+      "inputs": [{ "name": "currencyKey", "type": "bytes4" }],
       "name": "totalIssuedSynths",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -803,12 +488,7 @@
       "constant": true,
       "inputs": [],
       "name": "availableSynthCount",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -816,22 +496,11 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "name": "value",
-          "type": "uint256"
-        }
+        { "name": "to", "type": "address" },
+        { "name": "value", "type": "uint256" }
       ],
       "name": "transfer",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -839,26 +508,12 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "name": "value",
-          "type": "uint256"
-        },
-        {
-          "name": "data",
-          "type": "bytes"
-        }
+        { "name": "to", "type": "address" },
+        { "name": "value", "type": "uint256" },
+        { "name": "data", "type": "bytes" }
       ],
       "name": "transfer",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -866,30 +521,13 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "name": "value",
-          "type": "uint256"
-        },
-        {
-          "name": "data",
-          "type": "bytes"
-        }
+        { "name": "from", "type": "address" },
+        { "name": "to", "type": "address" },
+        { "name": "value", "type": "uint256" },
+        { "name": "data", "type": "bytes" }
       ],
       "name": "transferFrom",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -897,26 +535,12 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "name": "value",
-          "type": "uint256"
-        }
+        { "name": "from", "type": "address" },
+        { "name": "to", "type": "address" },
+        { "name": "value", "type": "uint256" }
       ],
       "name": "transferFrom",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -924,30 +548,13 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "sourceCurrencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "sourceAmount",
-          "type": "uint256"
-        },
-        {
-          "name": "destinationCurrencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "destinationAddress",
-          "type": "address"
-        }
+        { "name": "sourceCurrencyKey", "type": "bytes4" },
+        { "name": "sourceAmount", "type": "uint256" },
+        { "name": "destinationCurrencyKey", "type": "bytes4" },
+        { "name": "destinationAddress", "type": "address" }
       ],
       "name": "exchange",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -955,34 +562,14 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "name": "sourceCurrencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "sourceAmount",
-          "type": "uint256"
-        },
-        {
-          "name": "destinationCurrencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "destinationAddress",
-          "type": "address"
-        }
+        { "name": "from", "type": "address" },
+        { "name": "sourceCurrencyKey", "type": "bytes4" },
+        { "name": "sourceAmount", "type": "uint256" },
+        { "name": "destinationCurrencyKey", "type": "bytes4" },
+        { "name": "destinationAddress", "type": "address" }
       ],
       "name": "synthInitiatedExchange",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -990,26 +577,12 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "name": "sourceCurrencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "sourceAmount",
-          "type": "uint256"
-        }
+        { "name": "from", "type": "address" },
+        { "name": "sourceCurrencyKey", "type": "bytes4" },
+        { "name": "sourceAmount", "type": "uint256" }
       ],
       "name": "synthInitiatedFeePayment",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -1017,14 +590,8 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "amount",
-          "type": "uint256"
-        }
+        { "name": "currencyKey", "type": "bytes4" },
+        { "name": "amount", "type": "uint256" }
       ],
       "name": "issueSynths",
       "outputs": [],
@@ -1034,12 +601,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
-      ],
+      "inputs": [{ "name": "currencyKey", "type": "bytes4" }],
       "name": "issueMaxSynths",
       "outputs": [],
       "payable": false,
@@ -1049,14 +611,8 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        },
-        {
-          "name": "amount",
-          "type": "uint256"
-        }
+        { "name": "currencyKey", "type": "bytes4" },
+        { "name": "amount", "type": "uint256" }
       ],
       "name": "burnSynths",
       "outputs": [],
@@ -1067,41 +623,20 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "name": "issuer",
-          "type": "address"
-        },
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
+        { "name": "issuer", "type": "address" },
+        { "name": "currencyKey", "type": "bytes4" }
       ],
       "name": "maxIssuableSynths",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "issuer",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "issuer", "type": "address" }],
       "name": "collateralisationRatio",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1109,22 +644,11 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "name": "issuer",
-          "type": "address"
-        },
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
+        { "name": "issuer", "type": "address" },
+        { "name": "currencyKey", "type": "bytes4" }
       ],
       "name": "debtBalanceOf",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1132,60 +656,29 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "name": "issuer",
-          "type": "address"
-        },
-        {
-          "name": "currencyKey",
-          "type": "bytes4"
-        }
+        { "name": "issuer", "type": "address" },
+        { "name": "currencyKey", "type": "bytes4" }
       ],
       "name": "remainingIssuableSynths",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "collateral",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "transferableSynthetix",
-      "outputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
