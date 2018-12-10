@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://soar.earth",
-  "logo": { "src": "https://www.soar.earth/img/soar_logo_black.png", "width": "571", "height": "161", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://www.soar.earth/img/soar_logo_black.png",
+    "width": "571",
+    "height": "161",
+    "ipfs_hash": ""
+  },
   "support": { "email": "info@soar.earth", "url": "https://t.me/SoarEarth" },
   "social": {
     "blog": "https://medium.com/soar-earth",

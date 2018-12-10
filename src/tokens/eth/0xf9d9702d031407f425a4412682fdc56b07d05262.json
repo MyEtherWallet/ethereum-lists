@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 0,
   "website": "https://wallofchain.com",
-  "logo": { "src": "https://wallofchain.com/assets/images/logo/icon_28x28px@2x.png", "width": "56", "height": "56", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://wallofchain.com/assets/images/logo/icon_28x28px@2x.png",
+    "width": "56",
+    "height": "56",
+    "ipfs_hash": ""
+  },
   "support": { "email": "hello@wallofchain.com", "url": "" },
   "social": {
     "blog": "",
