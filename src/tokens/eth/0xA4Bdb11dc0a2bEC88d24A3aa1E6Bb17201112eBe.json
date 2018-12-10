@@ -1,0 +1,31 @@
+{
+  "symbol": "USDS",
+  "name": "StableUSD",
+  "type": "ERC20",
+  "address": "0xA4Bdb11dc0a2bEC88d24A3aa1E6Bb17201112eBe",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://stably.io",
+  "logo": {
+    "src": "https://www.stably.io/static/images/meta/favicons/favicon.ico",
+    "width": "48",
+    "height": "48",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@stably.io", "url": "" },
+  "social": {
+    "blog": "https://medium.com/stably-blog",
+    "chat": "",
+    "facebook": "https://www.facebook.com/stablycoin/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/stableusd/",
+    "linkedin": "https://www.linkedin.com/company/stably",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/StablyCoin",
+    "youtube": "https://www.youtube.com/channel/UCnEr7y7AS5fcOuwkWUA1Qlg"
+  }
+}
