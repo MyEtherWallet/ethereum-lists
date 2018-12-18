@@ -1,0 +1,31 @@
+{
+  "symbol": "CPT",
+  "name": "Contents Protocol Token",
+  "type": "ERC20",
+  "address": "0x9B62513c8a27290CF6A7A9e29386e600245EA819",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://contentsprotocol.io",
+  "logo": {
+    "src": "https://contentsprotocol.io/icon_128x128.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@contentsprotocol.io", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@contents_prtcl",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ContentsProtocol",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/contents-protocol",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/contents_protocol_en",
+    "twitter": "https://twitter.com/contents_prtcl",
+    "youtube": "https://www.youtube.com/channel/UCiRtJ81_UV-n3dghkF5fsmA"
+  }
+}
