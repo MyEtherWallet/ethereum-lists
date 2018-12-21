@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 8,
   "website": "https://www.tokok.com/",
-  "logo": { "src": "https://www.tokok.com/hryfile/f/f/624147c121ea402ea96bf7c66e0b825b.png", "width": "28", "height": "28", "ipfs_hash": "" },
-  "support": { "email": "service@tokok.com", "url": "https://help.tokok.com/hc/zh-cn" },
+  "logo": {
+    "src": "https://www.tokok.com/hryfile/f/f/624147c121ea402ea96bf7c66e0b825b.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "service@tokok.com",
+    "url": "https://help.tokok.com/hc/zh-cn"
+  },
   "social": {
     "blog": "",
     "chat": "",
