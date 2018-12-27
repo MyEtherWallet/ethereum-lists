@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://ndexnetwork.com",
-  "logo": { "src": "https://raw.githubusercontent.com/ndexnetwork/NDX/master/nDEX.png", "width": "1433", "height": "1667", "ipfs_hash": "" },
-  "support": { "email": "support@ndexnetwork.com", "url": "https://ndexnetwork.com" },
+  "logo": {
+    "src": "https://raw.githubusercontent.com/ndexnetwork/NDX/master/nDEX.png",
+    "width": "1433",
+    "height": "1667",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@ndexnetwork.com",
+    "url": "https://ndexnetwork.com"
+  },
   "social": {
     "blog": "https://medium.com/ndexmedia",
     "chat": "https://t.me/ndexofficial",
