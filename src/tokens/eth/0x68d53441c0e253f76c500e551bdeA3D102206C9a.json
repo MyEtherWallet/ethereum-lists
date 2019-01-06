@@ -1,0 +1,31 @@
+{
+  "symbol": "DST",
+  "name": "Dimensions Strike Token",
+  "type": "ERC20",
+  "address": "0x68d53441c0e253f76c500e551bdeA3D102206C9a",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://dimensions.network/",
+  "logo": {
+    "src": "https://dimensions.network/static/home/img/branding/logo_o_400px.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@dimensions.network", "url": "https://support.dimensions.network/" },
+  "social": {
+    "blog": "https://blog.dimensions.network/",
+    "chat": "https://t.me/DimensionsTalk",
+    "facebook": "https://fb.me/dimensionsnetwork",
+    "forum": "",
+    "github": "https://github.com/DimensionsNetwork",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/dimensions-network",
+    "reddit": "https://www.reddit.com/r/DimensionsNetwork/",
+    "slack": "",
+    "telegram": "https://t.me/DimensionsTalk",
+    "twitter": "https://twitter.com/Dimensions_DST",
+    "youtube": "https://www.youtube.com/DimensionsNetwork"
+  }
+}
