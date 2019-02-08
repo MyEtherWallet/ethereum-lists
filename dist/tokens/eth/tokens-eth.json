@@ -6421,32 +6421,6 @@
   },
   {
     "symbol": "CPT",
-    "name": "Cryptaur",
-    "type": "ERC20",
-    "address": "0x88d50b466be55222019d71f9e8fae17f5f45fca1",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "CPT",
     "name": "Contents Protocol Token",
     "type": "ERC20",
     "address": "0x9B62513c8a27290CF6A7A9e29386e600245EA819",
@@ -6474,6 +6448,32 @@
       "telegram": "https://t.me/contents_protocol_en",
       "twitter": "https://twitter.com/contents_prtcl",
       "youtube": "https://www.youtube.com/channel/UCiRtJ81_UV-n3dghkF5fsmA"
+    }
+  },
+  {
+    "symbol": "CPT",
+    "name": "Cryptaur",
+    "type": "ERC20",
+    "address": "0x88d50b466be55222019d71f9e8fae17f5f45fca1",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
     }
   },
   {
@@ -28694,10 +28694,10 @@
     "symbol": "VRS",
     "name": "Veros",
     "type": "ERC20",
-    "address": "0x92e78dae1315067a8819efd6dca432de9dcde2e9",
+    "address": "0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
     "ens_address": "",
-    "decimals": 6,
-    "website": "",
+    "decimals": 5,
+    "website": "https://veros.org",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -28720,10 +28720,10 @@
     "symbol": "VRS",
     "name": "Veros",
     "type": "ERC20",
-    "address": "0xeDBaF3c5100302dCddA53269322f3730b1F0416d",
+    "address": "0x92e78dae1315067a8819efd6dca432de9dcde2e9",
     "ens_address": "",
-    "decimals": 5,
-    "website": "https://veros.org",
+    "decimals": 6,
+    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
