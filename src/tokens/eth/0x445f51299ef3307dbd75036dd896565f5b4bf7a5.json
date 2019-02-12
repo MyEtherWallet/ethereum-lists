@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.v-id.org",
-  "logo": { "src": "https://www.v-id.org/_spheres_/custom-890/design/V-ID_icon_500x500.png", "width": "500", "height": "500", "ipfs_hash": "" },
-  "support": { "email": "support@v-id.org", "url": "https://www.v-id.org/contact/" },
+  "logo": {
+    "src": "https://www.v-id.org/_spheres_/custom-890/design/V-ID_icon_500x500.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@v-id.org",
+    "url": "https://www.v-id.org/contact/"
+  },
   "social": {
     "blog": "",
     "chat": "",
