@@ -1,26 +1,31 @@
 {
   "symbol": "1SG",
-  "address": "0x0F72714B35a366285Df85886A2eE174601292A17",
-  "decimals": 18,
   "name": "1SG",
+  "type": "ERC20",
+  "address": "0x0f72714b35a366285df85886a2ee174601292a17",
   "ens_address": "",
-  "website": "https://www.1.sg",
+  "decimals": 18,
+  "website": "https://www.1.sg/",
   "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "http://marsblockchain.com/wp-content/uploads/2019/02/logo.png",
+    "width": "128",
+    "height": "128",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "support@1.sg",
-    "url": ""
-  },
+  "support": { "email": "support@1.sg", "url": "" },
   "social": {
-     "blog": "https://medium.com/@support_34903",
-    "twitter": "https://twitter.com/1SG_2018",
-    "telegram": "https://t.me/En_1SG",
-    "reddit": "https://www.reddit.com/r/1SG_/",
+    "blog": "https://medium.com/@support_34903",
+    "chat": "https://t.me/joinchat/JUIV70vPjggAEFviOuA2pw",
+    "facebook": "",
+    "forum": "https://medium.com/@support_34903",
     "github": "https://github.com/MarsBlockchain/1sg-contract",
-    "medium": "https://medium.com/@support_34903"
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/1SG_/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/JUIV70vPjggAEFviOuA2pw",
+    "twitter": "https://twitter.com/1SG_2018",
+    "youtube": ""
   }
 }
