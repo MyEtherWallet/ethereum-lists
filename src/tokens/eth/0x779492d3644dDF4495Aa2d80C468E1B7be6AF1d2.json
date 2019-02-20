@@ -6,7 +6,12 @@
   "ens_address": "cascoin.eth",
   "decimals": 2,
   "website": "https://cas.casino/",
-  "logo": { "src": "http://cas.casino/assets/img/logo/mew.png", "width": "500", "height": "500", "ipfs_hash": "QmXtDt2obb95yrmhEeSaNJ9YB3QKgpyB2UMcQcENkYhG96" },
+  "logo": {
+    "src": "http://cas.casino/assets/img/logo/mew.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": "QmXtDt2obb95yrmhEeSaNJ9YB3QKgpyB2UMcQcENkYhG96"
+  },
   "support": { "email": "info@cas.casino", "url": "" },
   "social": {
     "blog": "https://medium.com/cascoin",
