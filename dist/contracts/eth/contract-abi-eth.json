@@ -20962,7 +20962,7 @@
   },
   {
     "name": "MEW tokens contract",
-    "address": "0xBE1ecF8e340F13071761e0EeF054d9A511e1Cb56",
+    "address": "0x2783c0A4Bfd3721961653a9e9939Fc63687bf07f",
     "comment": "",
     "abi": [
       {
@@ -21054,6 +21054,19 @@
       {
         "constant": false,
         "inputs": [
+          { "name": "addr", "type": "address" },
+          { "name": "from", "type": "uint256" },
+          { "name": "amount", "type": "uint256" }
+        ],
+        "name": "loadTokensFromContract",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "constant": false,
+        "inputs": [
           { "name": "name", "type": "bytes16" },
           { "name": "symbol", "type": "bytes16" },
           { "name": "addr", "type": "address" },
@@ -21113,21 +21126,6 @@
           { "name": "", "type": "bytes32" },
           { "name": "", "type": "bytes32" }
         ],
-        "payable": false,
-        "stateMutability": "view",
-        "type": "function"
-      },
-      {
-        "constant": true,
-        "inputs": [
-          { "name": "_owner", "type": "address" },
-          { "name": "name", "type": "bool" },
-          { "name": "website", "type": "bool" },
-          { "name": "email", "type": "bool" },
-          { "name": "count", "type": "uint256" }
-        ],
-        "name": "getAllBalance",
-        "outputs": [{ "name": "", "type": "bytes" }],
         "payable": false,
         "stateMutability": "view",
         "type": "function"
