@@ -300,6 +300,11 @@
       ],
       "name": "Transfer",
       "type": "event"
-    }
+    },
+    "deprecation": {
+    "new_address": "0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
+    "migration_type": "instructions:https://peculium.io/blog/token-upgrade-to-path-the-way-no-action-required",
+    "time": "2019-02-21T05:01:46Z"
+  }
   ]
 }
