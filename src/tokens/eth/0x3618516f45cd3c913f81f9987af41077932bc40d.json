@@ -27,5 +27,10 @@
     "telegram": "https://t.me/ico_peculium",
     "twitter": "https://twitter.com/_Peculium",
     "youtube": "https://www.youtube.com/watch?v=kg2vYFJ_R50"
-  }
+  },
+  "deprecation": {
+    "new_address": " 0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
+    "migration_type": "instructions:https://peculium.io/blog/token-upgrade-to-path-the-way-no-action-required",
+    "time": "2019-02-21T05:01:46Z"
+  }  
 }
