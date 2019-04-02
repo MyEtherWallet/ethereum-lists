@@ -4,7 +4,7 @@
   "type": "ERC20",
   "address": "0x36a73557f5bde5195ec39eca82d28b8a36d21141",
   "ens_address": "",
-  "decimals":18,
+  "decimals": 18,
   "website": "https://forexsmartsystem.com",
   "logo": {
     "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1553945682/Forex-Coin-Logo-128x128.png",
@@ -12,7 +12,10 @@
     "height": "128",
     "ipfs_hash": ""
   },
-  "support": { "email": "support@forexsmartsystem.com", "url": "www.forexsmartsystem.com" },
+  "support": {
+    "email": "support@forexsmartsystem.com",
+    "url": "www.forexsmartsystem.com"
+  },
   "social": {
     "blog": "",
     "chat": "",
