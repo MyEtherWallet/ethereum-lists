@@ -14,19 +14,9 @@
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "isPauser",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -35,42 +25,20 @@
       "constant": true,
       "inputs": [],
       "name": "paused",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "inputs": [{ "name": "", "type": "uint256" }],
       "name": "distributionConfigs",
       "outputs": [
-        {
-          "name": "lockedWallet",
-          "type": "address"
-        },
-        {
-          "name": "unlockWallet",
-          "type": "address"
-        },
-        {
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "name": "ratioDecimals",
-          "type": "uint256"
-        }
+        { "name": "lockedWallet", "type": "address" },
+        { "name": "unlockWallet", "type": "address" },
+        { "name": "ratioDTV", "type": "uint256" },
+        { "name": "ratioDecimals", "type": "uint256" }
       ],
       "payable": false,
       "stateMutability": "view",
@@ -88,18 +56,9 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "index",
-          "type": "uint256"
-        },
-        {
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "name": "ratioDecimals",
-          "type": "uint256"
-        }
+        { "name": "index", "type": "uint256" },
+        { "name": "ratioDTV", "type": "uint256" },
+        { "name": "ratioDecimals", "type": "uint256" }
       ],
       "name": "editDistributionConfig",
       "outputs": [],
@@ -109,31 +68,16 @@
     },
     {
       "constant": true,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "isSigner",
-      "outputs": [
-        {
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "addPauser",
       "outputs": [],
       "payable": false,
@@ -160,12 +104,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "index",
-          "type": "uint256"
-        }
-      ],
+      "inputs": [{ "name": "index", "type": "uint256" }],
       "name": "deleteDistributionConfig",
       "outputs": [],
       "payable": false,
@@ -174,12 +113,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "dailyTradedVolume",
-          "type": "uint256"
-        }
-      ],
+      "inputs": [{ "name": "dailyTradedVolume", "type": "uint256" }],
       "name": "distribute",
       "outputs": [],
       "payable": false,
@@ -190,12 +124,7 @@
       "constant": true,
       "inputs": [],
       "name": "distributionConfigsLength",
-      "outputs": [
-        {
-          "name": "length",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "name": "length", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -203,22 +132,10 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "name": "lockedWallet",
-          "type": "address"
-        },
-        {
-          "name": "unlockWallet",
-          "type": "address"
-        },
-        {
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "name": "ratioDecimals",
-          "type": "uint256"
-        }
+        { "name": "lockedWallet", "type": "address" },
+        { "name": "unlockWallet", "type": "address" },
+        { "name": "ratioDTV", "type": "uint256" },
+        { "name": "ratioDecimals", "type": "uint256" }
       ],
       "name": "addDistributionConfig",
       "outputs": [],
@@ -237,12 +154,7 @@
     },
     {
       "constant": false,
-      "inputs": [
-        {
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "account", "type": "address" }],
       "name": "addSigner",
       "outputs": [],
       "payable": false,
@@ -253,23 +165,13 @@
       "constant": true,
       "inputs": [],
       "name": "token",
-      "outputs": [
-        {
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
     },
     {
-      "inputs": [
-        {
-          "name": "_token",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "name": "_token", "type": "address" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "constructor"
@@ -277,41 +179,13 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "date",
-          "type": "uint256"
-        },
-        {
-          "indexed": true,
-          "name": "lockedWallet",
-          "type": "address"
-        },
-        {
-          "indexed": true,
-          "name": "unlockWallet",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDecimals",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "dailyTradedVolume",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "amount",
-          "type": "uint256"
-        }
+        { "indexed": true, "name": "date", "type": "uint256" },
+        { "indexed": true, "name": "lockedWallet", "type": "address" },
+        { "indexed": true, "name": "unlockWallet", "type": "address" },
+        { "indexed": false, "name": "ratioDTV", "type": "uint256" },
+        { "indexed": false, "name": "ratioDecimals", "type": "uint256" },
+        { "indexed": false, "name": "dailyTradedVolume", "type": "uint256" },
+        { "indexed": false, "name": "amount", "type": "uint256" }
       ],
       "name": "Distributed",
       "type": "event"
@@ -319,21 +193,9 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "date",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "dailyTradedVolume",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "amount",
-          "type": "uint256"
-        }
+        { "indexed": true, "name": "date", "type": "uint256" },
+        { "indexed": false, "name": "dailyTradedVolume", "type": "uint256" },
+        { "indexed": false, "name": "amount", "type": "uint256" }
       ],
       "name": "TotalDistributed",
       "type": "event"
@@ -341,26 +203,10 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "lockedWallet",
-          "type": "address"
-        },
-        {
-          "indexed": true,
-          "name": "unlockWallet",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDecimals",
-          "type": "uint256"
-        }
+        { "indexed": true, "name": "lockedWallet", "type": "address" },
+        { "indexed": true, "name": "unlockWallet", "type": "address" },
+        { "indexed": false, "name": "ratioDTV", "type": "uint256" },
+        { "indexed": false, "name": "ratioDecimals", "type": "uint256" }
       ],
       "name": "DistributionConfigAdded",
       "type": "event"
@@ -368,41 +214,17 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "index",
-          "type": "uint256"
-        },
-        {
-          "indexed": true,
-          "name": "lockedWallet",
-          "type": "address"
-        },
-        {
-          "indexed": true,
-          "name": "unlockWallet",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "previousRatioDTV",
-          "type": "uint256"
-        },
+        { "indexed": true, "name": "index", "type": "uint256" },
+        { "indexed": true, "name": "lockedWallet", "type": "address" },
+        { "indexed": true, "name": "unlockWallet", "type": "address" },
+        { "indexed": false, "name": "previousRatioDTV", "type": "uint256" },
         {
           "indexed": false,
           "name": "previousRatioDecimals",
           "type": "uint256"
         },
-        {
-          "indexed": false,
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDecimals",
-          "type": "uint256"
-        }
+        { "indexed": false, "name": "ratioDTV", "type": "uint256" },
+        { "indexed": false, "name": "ratioDecimals", "type": "uint256" }
       ],
       "name": "DistributionConfigEdited",
       "type": "event"
@@ -410,104 +232,48 @@
     {
       "anonymous": false,
       "inputs": [
-        {
-          "indexed": true,
-          "name": "index",
-          "type": "uint256"
-        },
-        {
-          "indexed": true,
-          "name": "lockedWallet",
-          "type": "address"
-        },
-        {
-          "indexed": true,
-          "name": "unlockWallet",
-          "type": "address"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDTV",
-          "type": "uint256"
-        },
-        {
-          "indexed": false,
-          "name": "ratioDecimals",
-          "type": "uint256"
-        }
+        { "indexed": true, "name": "index", "type": "uint256" },
+        { "indexed": true, "name": "lockedWallet", "type": "address" },
+        { "indexed": true, "name": "unlockWallet", "type": "address" },
+        { "indexed": false, "name": "ratioDTV", "type": "uint256" },
+        { "indexed": false, "name": "ratioDecimals", "type": "uint256" }
       ],
       "name": "DistributionConfigDeleted",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": true,
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": true, "name": "account", "type": "address" }],
       "name": "SignerAdded",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": true,
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": true, "name": "account", "type": "address" }],
       "name": "SignerRemoved",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": false,
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": false, "name": "account", "type": "address" }],
       "name": "Paused",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": false,
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": false, "name": "account", "type": "address" }],
       "name": "Unpaused",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": true,
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": true, "name": "account", "type": "address" }],
       "name": "PauserAdded",
       "type": "event"
     },
     {
       "anonymous": false,
-      "inputs": [
-        {
-          "indexed": true,
-          "name": "account",
-          "type": "address"
-        }
-      ],
+      "inputs": [{ "indexed": true, "name": "account", "type": "address" }],
       "name": "PauserRemoved",
       "type": "event"
     }
