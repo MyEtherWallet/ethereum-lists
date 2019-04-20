@@ -1,6 +1,31 @@
-0x875089a734213ca39f0d93c2bbb8209827ec5e9f
-8
-Euphoria
-EPH
-www.euphoriatoken.com
-contact@euphoriatoken.com
+{
+  "symbol": "EPH"
+  "name": "Euphoria",
+  "type": "ERC20",
+  "address": "0x875089a734213ca39f0d93c2bbb8209827ec5e9f",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://www.euphoriatoken.com",
+  "logo": {
+    "src": "https://res.cloudinary.com/dtyurdr3t/image/upload/c_scale,h_256,w_256/v1555765469/euphoria_transparent_2-1_a6bbv7.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@euphoriatoken.com", "url": "https://www.euphoriatoken.com" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/euphoria.eph/",
+    "forum": "",
+    "github": "https://github.com/EuphoriaStore",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/euphoria-token/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/euphoriaofficial",
+    "twitter": "https://twitter.com/EuphoriaEPH",
+    "youtube": ""
+  }
+}
