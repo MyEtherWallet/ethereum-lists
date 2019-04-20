@@ -1,31 +1,26 @@
 {
-  "symbol": "EPH"
+  "symbol": "EPH",
   "name": "Euphoria",
   "type": "ERC20",
   "address": "0x875089a734213ca39f0d93c2bbb8209827ec5e9f",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://euphoriatoken.com",
-  "logo": {
-    "src": "http://res.cloudinary.com/dtyurdr3t/image/upload/v1555772530/EPH-LOGO_qzqfgq.png",
-    "width": "254",
-    "height": "254",
-    "ipfs_hash": ""
-  },
+  "website": "https://www.euphoriatoken.com",
+  "logo": { "src": "https://i.imgur.com/5lQU5OW.png", "width": "254", "height": "254", "ipfs_hash": "" },
   "support": { "email": "contact@euphoriatoken.com", "url": "https://www.euphoriatoken.com" },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/euphoria.eph/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/EuphoriaStore",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/euphoria-token/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/euphoriaofficial",
-    "twitter": "https://twitter.com/EuphoriaEPH",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }
