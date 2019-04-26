@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 8,
   "website": "https://tokens.rebene.com",
-  "logo": { "src": "https://resources.rebene.com/tokens/logo.jpeg", "width": "110", "height": "110", "ipfs_hash": "" },
-  "support": { "email": "tokens@rebene.com", "url": "https://tokens.rebene.com" },
+  "logo": {
+    "src": "https://resources.rebene.com/tokens/logo.jpeg",
+    "width": "110",
+    "height": "110",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "tokens@rebene.com",
+    "url": "https://tokens.rebene.com"
+  },
   "social": {
     "blog": "",
     "chat": "",
