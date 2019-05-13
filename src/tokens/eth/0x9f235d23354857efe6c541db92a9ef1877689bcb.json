@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.bolt.global",
-  "logo": { "src": "https://pbs.twimg.com/profile_images/1107544269227606017/2pygq6d1_400x400.png", "width": "400", "height": "400", "ipfs_hash": "" },
-  "support": { "email": "support@bolt.global", "url": "https://bolt.global/contact" },
+  "logo": {
+    "src": "https://pbs.twimg.com/profile_images/1107544269227606017/2pygq6d1_400x400.png",
+    "width": "400",
+    "height": "400",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@bolt.global",
+    "url": "https://bolt.global/contact"
+  },
   "social": {
     "blog": "",
     "chat": "",
