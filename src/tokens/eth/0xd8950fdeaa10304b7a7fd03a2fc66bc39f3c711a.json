@@ -1,6 +1,6 @@
 {
   "symbol": "WYS",
-  "name": "wystoken",
+  "name": "wys Token",
   "type": "ERC20",
   "address": "0xd8950fDeaa10304B7A7Fd03a2FC66BC39f3c711a",
   "ens_address": "",
@@ -12,7 +12,10 @@
     "height": "150",
     "ipfs_hash": ""
   },
-  "support": { "email": "contact@wysker.org", "url": "https://www.wysker.com" },
+  "support": {
+    "email": "contact@wysker.org",
+    "url": "https://www.wysker.com"
+  },
   "social": {
     "blog": "https://bitcointalk.org/index.php?topic=2443093.0",
     "chat": "",

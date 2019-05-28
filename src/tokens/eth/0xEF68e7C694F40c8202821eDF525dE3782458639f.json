@@ -1,13 +1,13 @@
 {
-  "symbol": "SVD",
-  "name": "savedroid",
+  "symbol": "LRC",
+  "name": "Loopring",
   "type": "ERC20",
-  "address": "0xbdeb4b83251fb146687fa19d1c660f99411eefe3",
+  "address": "0xEF68e7C694F40c8202821eDF525dE3782458639f",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://ico.savedroid.com",
+  "website": "https://loopring.org",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "", "url": "" },
+  "support": { "email": "foundation@loopring.org", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
@@ -20,7 +20,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://twitter.com/loopringorg",
     "youtube": ""
   }
 }
