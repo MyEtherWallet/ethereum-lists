@@ -18,7 +18,10 @@ const constraints = {
   },
   type: {
     presence: {
-      allowEmpty: false
+      allowEmpty: false,
+    },
+    inclusion: {
+      within: ['ERC20', 'ERC223', 'ERC721']
     }
   },
   address: function(value) {

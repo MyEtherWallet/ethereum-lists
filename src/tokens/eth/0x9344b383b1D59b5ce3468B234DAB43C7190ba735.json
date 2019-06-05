@@ -1,1 +1,34 @@
-{"symbol":"NCC","name":"NeedsCoin","type":"ERC20","address":"0x9344b383b1D59b5ce3468B234DAB43C7190ba735","ens_address":"","decimals":18,"website":"https://needscoin.info","logo":{"src":"https://res.cloudinary.com/cloudimgstorage/image/upload/v1542398850/NeedsCoinLogo/ncc.png","width":"128","height":"128","ipfs_hash":""},"support":{"email":"help@needscoin.info","url":"https://needscoin.info/contact"},"social":{"blog":"https://steemit.com/blockchain/@okane81/needscoin-token","chat":"","facebook":"https://facebook.com/needscoin","forum":"https://bitcointalk.org/index.php?topic=4862385","github":"https://github.com/NeedsCoinProject","gitter":"","instagram":"","linkedin":"","reddit":"https://www.reddit.com/r/NeedsCoin","slack":"","telegram":"https://t.me/ethernetcash","twitter":"https://twitter.com/NeedsCoin","youtube":"https://www.youtube.com/watch?v=H-svrLj7mPA"}}
+{
+  "symbol": "NCC",
+  "name": "NeedsCoin",
+  "type": "ERC20",
+  "address": "0x9344b383b1D59b5ce3468B234DAB43C7190ba735",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://needscoin.info",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1542398850/NeedsCoinLogo/ncc.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "help@needscoin.info",
+    "url": "https://needscoin.info/contact"
+  },
+  "social": {
+    "blog": "https://steemit.com/blockchain/@okane81/needscoin-token",
+    "chat": "",
+    "facebook": "https://facebook.com/needscoin",
+    "forum": "https://bitcointalk.org/index.php?topic=4862385",
+    "github": "https://github.com/NeedsCoinProject",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/NeedsCoin",
+    "slack": "",
+    "telegram": "https://t.me/ethernetcash",
+    "twitter": "https://twitter.com/NeedsCoin",
+    "youtube": "https://www.youtube.com/watch?v=H-svrLj7mPA"
+  }
+}
