@@ -26533,32 +26533,6 @@
   },
   {
     "symbol": "SGT",
-    "name": "StatusGenesis",
-    "type": "ERC20",
-    "address": "0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
-    "ens_address": "",
-    "decimals": 1,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "SGT",
     "name": "SelfieYo Gold Token",
     "type": "ERC20",
     "address": "0x37427576324fE1f3625c9102674772d7CF71377d",
@@ -26586,6 +26560,32 @@
       "slack": "",
       "telegram": "https://t.me/SGTcoin",
       "twitter": "https://twitter.com/SelfieYo",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "SGT",
+    "name": "StatusGenesis",
+    "type": "ERC20",
+    "address": "0xd248B0D48E44aaF9c49aea0312be7E13a6dc1468",
+    "ens_address": "",
+    "decimals": 1,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -27163,32 +27163,6 @@
   },
   {
     "symbol": "SMT",
-    "name": "Smart Node",
-    "type": "ERC20",
-    "address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "http://smartnode.org",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "info@smartnode.org", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "https://www.facebook.com/Smart.Node.Group",
-      "forum": "https://bitcointalk.org/index.php?topic=2612181",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "https://twitter.com/SmartNodeGroup",
-      "youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
-    }
-  },
-  {
-    "symbol": "SMT",
     "name": "SmartMesh",
     "type": "ERC20",
     "address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
@@ -27211,6 +27185,32 @@
       "telegram": "t.me@SmartMesh",
       "twitter": "https://twitter.com/smart_mesh?lang=en",
       "youtube": "https://m.youtube.com/channel/UCrrPpnGqu7PJeU13U0VRPBA"
+    }
+  },
+  {
+    "symbol": "SMT",
+    "name": "Smart Node",
+    "type": "ERC20",
+    "address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "http://smartnode.org",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "info@smartnode.org", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "https://www.facebook.com/Smart.Node.Group",
+      "forum": "https://bitcointalk.org/index.php?topic=2612181",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/SmartNodeGroup",
+      "youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
     }
   },
   {
@@ -29120,37 +29120,6 @@
   },
   {
     "symbol": "TEL",
-    "name": "Meditel",
-    "type": "ERC20",
-    "address": "0xEc32A9725C59855d841ba7d8D9c99c84ff754688",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://meditelcoin.com",
-    "logo": {
-      "src": "https://meditelcoin.com/wp-content/uploads/2018/11/logo-28px.png",
-      "width": "28",
-      "height": "28",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "ceo@meditelcoin.com", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "https://github.com/MeditelCoin/Meditel",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TEL",
     "name": "Telcoin",
     "type": "ERC20",
     "address": "0x85e076361cc813a908ff672f9bad1541474402b2",
@@ -29178,6 +29147,37 @@
       "telegram": "https://t.me/TelcoinCommunity",
       "twitter": "https://twitter.com/telcoin_team",
       "youtube": "https://www.youtube.com/channel/UCBEKBh64cZy7U3O7VtKsLOg"
+    }
+  },
+  {
+    "symbol": "TEL",
+    "name": "Meditel",
+    "type": "ERC20",
+    "address": "0xEc32A9725C59855d841ba7d8D9c99c84ff754688",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://meditelcoin.com",
+    "logo": {
+      "src": "https://meditelcoin.com/wp-content/uploads/2018/11/logo-28px.png",
+      "width": "28",
+      "height": "28",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "ceo@meditelcoin.com", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/MeditelCoin/Meditel",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
     }
   },
   {
@@ -29286,32 +29286,6 @@
   },
   {
     "symbol": "TGT",
-    "name": "Target Coin",
-    "type": "ERC20",
-    "address": "0xac3da587eac229c9896d919abc235ca4fd7f72c1",
-    "ens_address": "",
-    "decimals": 1,
-    "website": "https://www.tgtcoins.com",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TGT",
     "name": "Twogap Token",
     "type": "ERC20",
     "address": "0xf96aa656ec0e0ac163590db372b430cf3c0d61ca",
@@ -29338,6 +29312,32 @@
       "slack": "",
       "telegram": "",
       "twitter": "https://twitter.com/twogap_official",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "TGT",
+    "name": "Target Coin",
+    "type": "ERC20",
+    "address": "0xac3da587eac229c9896d919abc235ca4fd7f72c1",
+    "ens_address": "",
+    "decimals": 1,
+    "website": "https://www.tgtcoins.com",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -29481,32 +29481,6 @@
   },
   {
     "symbol": "TIC",
-    "name": "Thinschain",
-    "type": "ERC20",
-    "address": "0x72430a612adc007c50e3b6946dbb1bb0fd3101d1",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "https://thingschain.network",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TIC",
     "name": "Trust Invest",
     "type": "ERC20",
     "address": "0x614b9802D45Aa1bC2282651dC1408632F9027A6e",
@@ -29526,6 +29500,32 @@
       "facebook": "",
       "forum": "",
       "github": "https://github.com/trustinvest",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "TIC",
+    "name": "Thinschain",
+    "type": "ERC20",
+    "address": "0x72430a612adc007c50e3b6946dbb1bb0fd3101d1",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://thingschain.network",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
       "gitter": "",
       "instagram": "",
       "linkedin": "",
@@ -30359,7 +30359,7 @@
     }
   },
   {
-    "symbol": "TUSD",
+    "symbol": "TUSD (OLD)",
     "name": "TrueUSD",
     "type": "ERC20",
     "address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
