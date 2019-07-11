@@ -8,8 +8,8 @@
   "website": "https://datum.org",
   "logo": {
     "src": "https://datum.org/assets/images/datumlogo_square_128px.png",
-    "width": 128,
-    "height": 128,
+    "width": "128px",
+    "height": "128px",
     "ipfs_hash": ""
   },
   "support": { "email": "support@datum.org", "url": "" },
