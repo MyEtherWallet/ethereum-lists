@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 8,
   "website": "https://belifex.com/",
-  "logo": { "src": "https://belifex.com/assets/Belifex_256x256.ico", "width": "256", "height": "256", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://belifex.com/assets/Belifex_256x256.ico",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
   "support": { "email": "support@belifex.com", "url": "" },
   "social": {
     "blog": "",

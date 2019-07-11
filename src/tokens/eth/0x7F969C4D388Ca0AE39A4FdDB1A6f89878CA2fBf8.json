@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://ico.gg.international",
-  "logo": { "src": "https://ico.gg.international/images/logo_token.png", "width": "256", "height": "256", "ipfs_hash": "" },
-  "support": { "email": "contact@gg.international", "url": "https://ico.gg.international" },
+  "logo": {
+    "src": "https://ico.gg.international/images/logo_token.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@gg.international",
+    "url": "https://ico.gg.international"
+  },
   "social": {
     "blog": "https://medium.com/@gg.international.ltd",
     "chat": "",
