@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 10,
   "website": "https://organik.net.br/",
-  "logo": { "src": "http://assets.criptorganik.com/logo.png", "width": "520px", "height": "520px", "ipfs_hash": "" },
-  "support": { "email": "contato@organik.net.br", "url": "https://organik.net.br/" },
+  "logo": {
+    "src": "http://assets.criptorganik.com/logo.png",
+    "width": "520px",
+    "height": "520px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contato@organik.net.br",
+    "url": "https://organik.net.br/"
+  },
   "social": {
     "blog": "https://blog.organik.net.br/",
     "chat": "",
