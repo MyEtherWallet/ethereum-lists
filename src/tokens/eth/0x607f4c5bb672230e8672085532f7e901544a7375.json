@@ -1,26 +1,34 @@
 {
   "symbol": "RLC",
-  "name": "IEx.ec",
+  "name": "iExec RLC",
   "type": "ERC20",
   "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
   "ens_address": "",
   "decimals": 9,
-  "website": "http://crowdsale.iex.ec",
-  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "", "url": "" },
+  "website": "https://iex.ec",
+  "logo": {
+    "src": "https://ipfs.io/ipfs/QmcjNqEC4uDyZJBM946Pyrh8murWVkMh9ufBjpt5hPYuZp",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": "QmcjNqEC4uDyZJBM946Pyrh8murWVkMh9ufBjpt5hPYuZp"
+  },
+  "support": {
+    "email": "support@iex.ec",
+    "url": "https://gitter.im/iExecBlockchainComputing/Lobby"
+  },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/iex-ec",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/Iex-ec-1164124083643301/",
     "forum": "",
-    "github": "",
-    "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
-    "slack": "https://52.44.51.109:3000",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "github": "https://github.com/iExecBlockchainComputing/",
+    "gitter": "https://gitter.im/iExecBlockchainComputing",
+    "instagram": "https://www.instagram.com/iexec_team/",
+    "linkedin": "https://www.linkedin.com/company/iex.ec/",
+    "reddit": "https://www.reddit.com/r/iexec/",
+    "slack": "https://slack.iex.ec/",
+    "telegram": "https://t.me/iexec_announcements",
+    "twitter": "https://slack.iex.ec/",
+    "youtube": "https://www.youtube.com/channel/UCwWxZWvKVHn3CXnmDooLWtA"
   }
 }

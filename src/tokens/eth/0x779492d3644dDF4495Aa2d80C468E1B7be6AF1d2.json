@@ -1,0 +1,31 @@
+{
+  "symbol": "CAS",
+  "name": "CAS Coin",
+  "type": "ERC20",
+  "address": "0x779492d3644dDF4495Aa2d80C468E1B7be6AF1d2",
+  "ens_address": "cascoin.eth",
+  "decimals": 2,
+  "website": "https://cas.casino/",
+  "logo": {
+    "src": "http://cas.casino/assets/img/logo/mew.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": "QmXtDt2obb95yrmhEeSaNJ9YB3QKgpyB2UMcQcENkYhG96"
+  },
+  "support": { "email": "info@cas.casino", "url": "" },
+  "social": {
+    "blog": "https://medium.com/cascoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/cas.casino",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/cas.coin",
+    "linkedin": "https://www.linkedin.com/company/casfoundation",
+    "reddit": "",
+    "slack": "https://cas-casino.slack.com/",
+    "telegram": "",
+    "twitter": "https://twitter.com/cas_casino",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "symbol": "NUSD",
+  "name": "Neutral Dollar",
+  "type": "ERC20",
+  "address": "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://neutralproject.com",
+  "logo": {
+    "src": "https://neutralproject.com/images/logos/nusd.png",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "hello@neutralproject.com",
+    "url": "https://neutralproject.com"
+  },
+  "social": {
+    "blog": "https://blog.neutralproject.com",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Neutral-Project-391548818084169/",
+    "forum": "",
+    "github": "https://github.com/NeutralGroup",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/neutralproject",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/neutralproject",
+    "twitter": "https://twitter.com/neutral_project",
+    "youtube": ""
+  }
+}

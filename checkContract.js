@@ -9,7 +9,8 @@ const constraints = {
   name: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: 'string'
   },
   address: function(value) {
     if (web3.utils.isAddress(value)) {
@@ -17,16 +18,19 @@ const constraints = {
     }
     return {
       presence: { message: 'Token Address missing' },
-      length: { is: 42 }
+      length: { is: 42 },
+      type: 'string'
     };
   },
   comment: {
-    presence: true
+    presence: true,
+    type: 'string'
   },
   abi: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: 'array'
   }
 };
 
