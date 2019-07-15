@@ -1,5 +1,5 @@
 {
-  "symbol": "LGO",
+  "symbol": "LGO (old)",
   "name": "LGO Exchange",
   "type": "ERC20",
   "address": "0x123ab195dd38b1b40510d467a6a359b201af056f",
@@ -22,5 +22,11 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
+    "migration_type": "instructions:https://medium.com/lgogroup/lgo-token-migration-event-eae14afc5c8c",
+    "announcement_url": "https://medium.com/lgogroup/lgo-token-migration-event-eae14afc5c8c",
+    "time": "2019-07-17T06:00:00Z"
   }
 }
