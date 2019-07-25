@@ -1,0 +1,31 @@
+{
+  "symbol": "T8T",
+  "name": "T8T Coin",
+  "type": "ERC20",
+  "address": "0x08ea14017e135cac7fb50a1834401122b9941033",
+  "ens_address": "",
+  "decimals": 10,
+  "website": "https://www.tienpay.com",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1564060425/T8T-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@tienpay.com", "url": "https://www.tienpay.com" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/tienpay-limited",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/tienpayhk",
+    "youtube": "https://www.youtube.com/channel/UClJKA3wU8bzvYGFiMauajUQ"
+  }
+}
