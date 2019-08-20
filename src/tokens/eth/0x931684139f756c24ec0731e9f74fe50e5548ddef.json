@@ -1,15 +1,15 @@
 {
   "symbol": "URB",
+  "name": "Urbit Data",
   "address": "0x931684139f756C24eC0731E9F74FE50e5548dDeF",
   "type": "ERC20",
   "decimals": 18,
-  "name": "Urbit Data",
   "ens_address": "urbitdata.eth",
   "website": "https://urbitdata.io",
   "logo": {
     "src": "https://urbitdata.io/blog/wp-content/uploads/2018/08/urbit-final-128x128.png",
-    "width": "128",
-    "height": "128",
+    "width": "128px",
+    "height": "128px",
     "ipfs_hash": ""
   },
   "support": { "email": "support@urbitdata.io", "url": "" },

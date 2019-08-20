@@ -1,6 +1,6 @@
 {
   "symbol": "ICO",
-  "name": "ICO",
+  "name": "Best Initial Coin Offerings",
   "type": "ERC20",
   "address": "0xa33e729bf4fdeb868b534e1f20523463d9c46bee",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "http://icocoin.org",
   "logo": {
     "src": "https://etherscan.io/token/images/icocoin_28.png",
-    "width": 28,
-    "height": 28,
+    "width": "28px",
+    "height": "28px",
     "ipfs_hash": ""
   },
   "support": { "email": "icobi@icobi.com", "url": "" },

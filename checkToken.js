@@ -9,17 +9,23 @@ const constraints = {
   symbol: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "string"
   },
   name: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "string"
   },
   type: {
     presence: {
-      allowEmpty: false
-    }
+      allowEmpty: false,
+    },
+    inclusion: {
+      within: ['ERC20', 'ERC223', 'ERC721']
+    },
+    type: "string"
   },
   address: function(value) {
     if (web3.utils.isAddress(value)) {
@@ -31,81 +37,103 @@ const constraints = {
     };
   },
   ens_address: {
-    presence: true
+    presence: true,
+    type: "string"
   },
   decimals: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "integer"
   },
   website: {
-    presence: true
+    presence: true,
+    type: "string"
   },
   logo: {
     presence: true
   },
   'logo.src': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'logo.width': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'logo.height': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'logo.ipfs_hash': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   support: {
     presence: true
   },
   'support.email': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'support.url': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   social: {
     presence: true
   },
   'social.blog': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.chat': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.facebook': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.forum': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.github': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.gitter': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.instagram': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.linkedin': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.reddit': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.slack': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.telegram': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.twitter': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.youtube': {
-    presence: true
+    presence: true,
+    type: "string"
   }
 };
 

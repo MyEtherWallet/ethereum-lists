@@ -1,6 +1,6 @@
 {
   "symbol": "OWN",
-  "name": "OWNDATA",
+  "name": "OWNDATA Token",
   "type": "ERC20",
   "address": "0x170b275ced089fffaebfe927f445a350ed9160dc",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://owndata.network",
   "logo": {
     "src": "https://owndata.network/assets/front/images/favicon/android-icon-28x28.png",
-    "width": "28",
-    "height": "28",
+    "width": "28px",
+    "height": "28px",
     "ipfs_hash": ""
   },
   "support": { "email": "support@owndata.network", "url": "" },

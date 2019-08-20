@@ -1,6 +1,6 @@
 {
   "symbol": "ATL",
-  "name": "ATL",
+  "name": "ATLANT",
   "type": "ERC20",
   "address": "0x78B7FADA55A64dD895D8c8c35779DD8b67fA8a05",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://atlant.io",
   "logo": {
     "src": "https://atlant.io/promo/Atlant_custom_300x300_logo.png",
-    "width": "300",
-    "height": "300",
+    "width": "300px",
+    "height": "300px",
     "ipfs_hash": ""
   },
   "support": { "email": "help@atlant.io", "url": "" },

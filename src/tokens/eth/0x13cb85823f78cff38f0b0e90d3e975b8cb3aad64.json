@@ -1,6 +1,6 @@
 {
   "symbol": "REMI",
-  "name": "REMI",
+  "name": "REMI Token",
   "type": "ERC20",
   "address": "0x13cb85823f78cff38f0b0e90d3e975b8cb3aad64",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://remiit.io",
   "logo": {
     "src": "https://s3-ap-northeast-1.amazonaws.com/bluepan-token/remiit/remi_token_logo.png",
-    "width": "28",
-    "height": "28",
+    "width": "28px",
+    "height": "28px",
     "ipfs_hash": ""
   },
   "support": { "email": "contact@remiit.io", "url": "" },

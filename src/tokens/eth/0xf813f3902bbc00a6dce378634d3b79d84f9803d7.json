@@ -1,6 +1,6 @@
 {
   "symbol": "PATH",
-  "name": "PATH",
+  "name": "Path Network Token",
   "type": "ERC20",
   "address": "0xF813F3902bBc00A6DCe378634d3B79D84F9803d7",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://path.network",
   "logo": {
     "src": "https://path.network/images/path-128x128.png",
-    "width": "128",
-    "height": "128",
+    "width": "128px",
+    "height": "128px",
     "ipfs_hash": ""
   },
   "support": { "email": "contact@path.network", "url": "" },

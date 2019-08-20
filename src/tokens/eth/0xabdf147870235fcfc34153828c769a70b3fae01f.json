@@ -1,6 +1,6 @@
 {
   "symbol": "EURT",
-  "name": "EUR Tether (erc20)",
+  "name": "EUR Tether",
   "type": "ERC20",
   "address": "0xabdf147870235fcfc34153828c769a70b3fae01f",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://tether.to",
   "logo": {
     "src": "https://etherscan.io/token/images/tether-euro_28.png",
-    "width": 28,
-    "height": 28,
+    "width": "28px",
+    "height": "28px",
     "ipfs_hash": ""
   },
   "support": { "email": "billy@tether.to", "url": "" },

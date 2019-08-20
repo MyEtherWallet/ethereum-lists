@@ -1,6 +1,6 @@
 {
   "symbol": "PASS",
-  "name": "PASS",
+  "name": "Blockpass",
   "type": "ERC20",
   "address": "0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://www.blockpass.org",
   "logo": {
     "src": "https://cdn.blockpass.org/images/pass-token.png",
-    "width": "180",
-    "height": "180",
+    "width": "180px",
+    "height": "180px",
     "ipfs_hash": ""
   },
   "support": { "email": "support@blockpass.org", "url": "" },

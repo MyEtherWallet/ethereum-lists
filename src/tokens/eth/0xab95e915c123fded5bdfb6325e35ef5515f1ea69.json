@@ -1,6 +1,6 @@
 {
   "symbol": "XNN",
-  "name": "XENON",
+  "name": "Xenon Token",
   "type": "ERC20",
   "address": "0xab95e915c123fded5bdfb6325e35ef5515f1ea69",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://xenon.network",
   "logo": {
     "src": "https://etherscan.io/token/images/xenon_28.png",
-    "width": 28,
-    "height": 28,
+    "width": "28px",
+    "height": "28px",
     "ipfs_hash": ""
   },
   "support": { "email": "contact@xenon.network", "url": "" },

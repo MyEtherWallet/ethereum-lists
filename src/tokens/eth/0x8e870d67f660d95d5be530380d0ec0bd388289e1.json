@@ -1,6 +1,6 @@
 {
   "symbol": "PAX",
-  "name": "Paxos Standard (PAX)",
+  "name": "Paxos Standard Token",
   "type": "ERC20",
   "address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://www.paxos.com/standard",
   "logo": {
     "src": "https://static.standard.paxos.com/logos/square_120_120.png",
-    "width": "120",
-    "height": "120",
+    "width": "120px",
+    "height": "120px",
     "ipfs_hash": ""
   },
   "support": {

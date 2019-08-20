@@ -1,0 +1,40 @@
+{
+  "name": "Origin Identity",
+  "address": "0x8Ac16c08105DE55A02E2b7462b1EeC6085fA4d86",
+  "comment": "",
+  "abi": [
+    {
+      "constant": false,
+      "inputs": [{ "name": "ipfsHash", "type": "bytes32" }],
+      "name": "emitIdentityUpdated",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "emitIdentityDeleted",
+      "outputs": [],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": true, "name": "account", "type": "address" },
+        { "indexed": false, "name": "ipfsHash", "type": "bytes32" }
+      ],
+      "name": "IdentityUpdated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [{ "indexed": true, "name": "account", "type": "address" }],
+      "name": "IdentityDeleted",
+      "type": "event"
+    }
+  ]
+}

@@ -8,8 +8,8 @@
   "website": "https://copytrack.io",
   "logo": {
     "src": "https://cdn.copytrack.io/media/cpy.png?auto=compress&w=200",
-    "width": 200,
-    "height": 200,
+    "width": "200px",
+    "height": "200px",
     "ipfs_hash": ""
   },
   "support": { "email": "support@copytrack.io", "url": "https://copytrack.io" },
