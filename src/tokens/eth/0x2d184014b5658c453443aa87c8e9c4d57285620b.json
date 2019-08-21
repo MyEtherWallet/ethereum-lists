@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://jsecoin.com",
-  "logo": { "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d184014b5658c453443aa87c8e9c4d57285620b/logo.png", "width": "128px", "height": "128px", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2d184014b5658c453443aa87c8e9c4d57285620b/logo.png",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": ""
+  },
   "support": { "email": "", "url": "https://jsecoin.com/en/support/FAQ/" },
   "social": {
     "blog": "https://jsecoin.com/blog/",
