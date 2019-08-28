@@ -1,0 +1,31 @@
+{
+  "symbol": "KICK",
+  "name": "KickToken",
+  "type": "ERC20",
+  "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://www.kickico.com",
+  "logo": {
+    "src": "https://www.kickico.com/images/static/logo_500x500.png",
+    "width": "500px",
+    "height": "500px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@kickico.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@kickecosystem",
+    "chat": "https://t.me/kickico",
+    "facebook": "https://www.facebook.com/kickecosystem",
+    "forum": "",
+    "github": "https://github.com/kickecosystem/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/kickecosystem/",
+    "reddit": "https://www.reddit.com/r/KICKICO_Platform/",
+    "slack": "",
+    "telegram": "https://t.me/kickico",
+    "twitter": "https://twitter.com/KickEcosystem",
+    "youtube": ""
+  }
+}
