@@ -13,12 +13,7 @@ function checkTokenLogos() {
         return;
       }
 
-      const options = {
-        method: 'HEAD',
-        uri: obj.logo.src
-      }
-
-      request(options, function(err, response) {
+      request({method: 'HEAD', uri: obj.logo.src}, function(err, response) {
         if (err) {
           invalidImgArray.push(obj.logo.src);
         }
@@ -28,7 +23,6 @@ function checkTokenLogos() {
         }
         
         fs.writeFileSync('./invalidLogoSrc.js', JSON.stringify(invalidImgArray))
-
       })
     }) 
   })
