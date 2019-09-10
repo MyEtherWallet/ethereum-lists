@@ -27,7 +27,7 @@ function checkTokenLogos() {
           invalidImgArray.push(obj.logo.src);
         }
         
-        fs.writeFileSync('./invalidLogoSrc', JSON.stringify(invalidImgArray))
+        fs.writeFileSync('./invalidLogoSrc.js', JSON.stringify(invalidImgArray))
 
       })
     }) 
