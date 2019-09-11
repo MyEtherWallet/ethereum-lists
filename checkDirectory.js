@@ -9,6 +9,7 @@ const whitelist = [
   'README.md',
   'checkContract.js',
   'checkDirectory.js',
+  'checkLogos.js',
   'checkToken.js',
   'compile.js',
   'createFiles.js',
