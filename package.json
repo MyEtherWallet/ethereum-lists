@@ -6,11 +6,12 @@
     "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
   },
   "scripts": {
-    "build": "node createFiles.js",
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
-    "compile": "npm run build; npm run lint",
-    "precommit": "pretty-quick --staged",
-    "validate": "node checkContract.js; node checkToken.js;"
+    "test:checkToken": "node checkToken.js",
+    "test:checkContract": "node checkContract.js",
+    "test": "npm run test:checkToken; npm run test:checkContract",
+    "compile": "node compile.js",
+    "precommit": "pretty-quick --staged"
   },
   "license": "ISC",
   "bugs": {
@@ -21,10 +22,10 @@
     "eslint-plugin-json": "^1.2.1",
     "husky": "^0.14.3",
     "pretty-quick": "^1.6.0",
-    "web3": "^1.0.0-beta.35"
+    "web3": "^1.0.0-beta.36"
   },
   "dependencies": {
     "prettier": "^1.14.2",
-    "validate.js": "^0.12.0"
+    "validate.js": "^0.13.1"
   }
 }

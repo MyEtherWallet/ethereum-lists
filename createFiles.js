@@ -7,7 +7,7 @@ function createContractFiles() {
     fs.mkdirSync('./dist/contracts');
   }
   fs.readdirSync(contractsDirectory).forEach(folder => {
-    let newArr = [];
+    let contractArray = [];
     if (!fs.existsSync(`./dist/contracts/${folder}`)) {
       fs.mkdirSync(`./dist/contracts/${folder}`);
     }
@@ -15,9 +15,9 @@ function createContractFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
-      newArr.push(obj);
+      contractArray.push(obj);
     });
-    const writeArray = newArr.sort(function(a, b) {
+    const writeArray = contractArray.sort(function(a, b) {
       let aSym = a.name.toLowerCase();
       let bSym = b.name.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
@@ -39,7 +39,7 @@ function createTokenFiles() {
     fs.mkdirSync('./dist/tokens');
   }
   fs.readdirSync(tokensDirectory).forEach(folder => {
-    let newArr = [];
+    let tokenArr = [];
     if (!fs.existsSync(`./dist/tokens/${folder}`)) {
       fs.mkdirSync(`./dist/tokens/${folder}`);
     }
@@ -47,15 +47,13 @@ function createTokenFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
-      newArr.push(obj);
+      tokenArr.push(obj);
     });
-
-    const writeArray = newArr.sort(function(a, b) {
+    const writeArray = tokenArr.sort(function(a, b) {
       let aSym = a.symbol.toLowerCase();
       let bSym = b.symbol.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
     });
-
     fs.writeFileSync(
       `./dist/tokens/${folder}/tokens-${folder}.min.json`,
       JSON.stringify(writeArray)
@@ -67,9 +65,12 @@ function createTokenFiles() {
   });
 }
 
-function run() {
+function createFiles() {
+  if (!fs.existsSync('./dist')) {
+    fs.mkdirSync('./dist');
+  }
   createContractFiles();
   createTokenFiles();
 }
 
-run();
+module.exports = createFiles;

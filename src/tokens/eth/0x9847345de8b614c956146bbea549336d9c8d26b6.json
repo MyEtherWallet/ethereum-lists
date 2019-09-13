@@ -1,6 +1,6 @@
 {
   "symbol": "GULD",
-  "name": "GULD ERC20",
+  "name": "GULD ERC20 Token",
   "type": "ERC20",
   "address": "0x9847345de8b614c956146bbea549336d9c8d26b6",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://guld.io",
   "logo": {
     "src": "https://guld.io/img/logo.png",
-    "width": "1000",
-    "height": "506",
+    "width": "1000px",
+    "height": "506px",
     "ipfs_hash": ""
   },
   "support": { "email": "info@guld.io", "url": "" },

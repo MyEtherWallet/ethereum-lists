@@ -580,10 +580,6 @@
     "comment": "Phish: smartcontract.com fake crowdsale site."
   },
   {
-    "id": "icon.community",
-    "comment": "Phish: icon.foundation fake crowdsale site."
-  },
-  {
     "id": "air-token.com",
     "comment": "Phish: airtoken.com fake crowdsale site. HTTrack fingerprint"
   },
@@ -9482,5 +9478,13 @@
   {
     "id": "https://smartcontractlink.com",
     "comment": "SmartContract/LINK fake crowdsale site"
+  },
+  {
+    "id": "https://dothereumwallet.net/",
+    "comment": "Phishing, fake Dothereum wallet (MEW Clone)"
+  },
+  {
+    "id": "https://dothereum-polkadot.net",
+    "comment": "Dothereum fake crowdsale site"
   }
 ]

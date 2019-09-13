@@ -1,6 +1,6 @@
 {
   "symbol": "NxC",
-  "name": "Nexium",
+  "name": "Nexium Token",
   "type": "ERC20",
   "address": "0x45e42D659D9f9466cD5DF622506033145a9b89Bc",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://beyond-the-void.net",
   "logo": {
     "src": "https://www.beyond-the-void.net/nxc.png",
-    "width": 300,
-    "height": 300,
+    "width": "300px",
+    "height": "300px",
     "ipfs_hash": ""
   },
   "support": { "email": "contact@beyond-the-void.net", "url": "" },

@@ -3,131 +3,161 @@ const tokensDirectory = './src/tokens';
 const web3 = require('web3');
 const path = require('path');
 const validate = require('validate.js');
+const validateObject = require('./validateObject');
 
 const constraints = {
   symbol: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "string"
   },
   name: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "string"
   },
   type: {
     presence: {
-      allowEmpty: false
-    }
-  },
-  address: {
-    presence: {
-      allowEmpty: false
+      allowEmpty: false,
     },
-    length: {
-      is: 42
+    inclusion: {
+      within: ['ERC20', 'ERC223', 'ERC721']
+    },
+    type: "string"
+  },
+  address: function(value) {
+    if (web3.utils.isAddress(value)) {
+      return null;
     }
+    return {
+      presence: { message: 'Token Address missing' },
+      length: { is: 42 }
+    };
   },
   ens_address: {
-    presence: true
+    presence: true,
+    type: "string"
   },
   decimals: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "integer"
   },
   website: {
-    presence: true
+    presence: true,
+    type: "string"
   },
   logo: {
     presence: true
   },
   'logo.src': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'logo.width': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'logo.height': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'logo.ipfs_hash': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   support: {
     presence: true
   },
   'support.email': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'support.url': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   social: {
     presence: true
   },
   'social.blog': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.chat': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.facebook': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.forum': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.github': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.gitter': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.instagram': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.linkedin': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.reddit': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.slack': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.telegram': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.twitter': {
-    presence: true
+    presence: true,
+    type: "string"
   },
   'social.youtube': {
-    presence: true
+    presence: true,
+    type: "string"
   }
 };
 
-function run() {
+function checkToken() {
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
       if (
         path.extname(file) === '.json' &&
         web3.utils.isAddress(file.replace('.json', ''))
       ) {
-        const obj = JSON.parse(
-          fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
-        );
+        const fullPath = `${tokensDirectory}/${folder}/${file}`;
+        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+        validateObject(constraints, obj, fullPath);
         if (validate(obj, constraints) !== undefined) {
           const errs = validate(obj, constraints);
           Object.keys(errs).forEach(key => {
-            console.log(
+            console.error(
               `${errs[key][0]} for ${file} in ${tokensDirectory}/${folder}`
             );
           });
           process.exit(1);
         }
       } else {
-        console.log('Incorrect file name or file extension');
+        console.error('Incorrect file name or file extension');
         process.exit(1);
       }
     });
@@ -135,4 +165,4 @@ function run() {
   process.exit(0);
 }
 
-run();
+checkToken();

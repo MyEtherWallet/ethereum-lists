@@ -1,15 +1,15 @@
 {
   "symbol": "ABYSS",
-  "name": "ABYSS",
+  "name": "Abyss",
   "type": "ERC20",
   "address": "0x0e8d6b471e332f140e7d9dbb99e5e3822f728da6",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.theabyss.com",
   "logo": {
-    "src": "https://www.theabyss.com/static/img/abyss_28.png",
-    "width": "28",
-    "height": "28",
+    "src": "https://i.theabyss.com/token/128x128.png",
+    "width": "128px",
+    "height": "128px",
     "ipfs_hash": ""
   },
   "support": {

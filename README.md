@@ -12,41 +12,66 @@ Everyone is encouraged to make a PR or issue to add an address or URL to the lis
 
 1. If you do not already have a Github account, sign up. (it's free and easy!)
 
-2. Navigate to the file you would like to make the adjustment to by clicking it's name.
+2. Navigate to the `src` folder and pick which one you'd like to add:
 
-3. Click the pencil icon in upper right.
+   - `addresses` folder is for the darklisting or whitelisting ethereum addresses
+   - `contracts` folder is for the different network contracts
+   - `tokens` folder is for the different network tokens
+   - `urls` folder is for the darklisting or whitelisting ethereum urls
 
-4. If you would like to make an addition:
+   1. For urls or addresses:
 
-   - Copy the topmost item starting with the first `{` and ending with the `},`
+      - Click on the file you wish to update:
+      - If you would like to make an addition:  
+        **a.** Copy the top most item starting with the first `{` and ending with the `},`  
+        **b.** Paste it right above the first item  
+        **c.** Replace that information with the new information  
+        **d.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
+      - If you would like to make a correction or remove an item:
 
-   - Paste it right above the first item
+        **a.** Scroll to the item in question  
+        **b.** Edit the item or remove the item by selecting the top `{` and ending with the `},` and deleting that chunk.  
+        **c.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
 
-   - Replace that information with the new information
+      - Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
+        - Example: _"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
+        - You can also provide more details in the box below. Please provide as much detail / evidence as reasonable so reviewers can verify quickly.
 
-   - Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
 
-5. If you would like to make a correction or remove an item:
+    	- Click the green "Propose File change" button.
 
-   - Scroll to the item in question
+    	- This next page is a review of what you did. Proofread and stuff.
 
-   - Edit the item or remove the item by selecting the top `{` and ending with the `},` and deleting that chunk.
+    	- Click the "Create Pull Request" button.....twice.
 
-   - Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
+    	- That's it. You successfully made a new pull request!
 
-6. Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
+    2. For tokens or contracts:
+    	-	Click on the network where you would like to implement a change.
+    	-	If you would like to make an addition:
 
-   - Example: _"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
+          **a.** Click create new file on the upper right side of the screen.
 
-   - You can also provide more details in the box below. Please provide as much detail / evidence as reasonable so reviewers can verify quickly.
+          **b.** Name your file with the ethereum address with a `.json` extension. e.g:  `0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D.json`
 
-7. Click the green "Propose File change" button.
+          **c.** Some add'l notes on specific files are below. Please skim if you don't know what the fields are.
+      - If you would like to make a correction or remove an item:
 
-8. This next page is a review of what you did. Proofread and stuff.
+        **a.** Navigate to the file.
+        **b.** Click the pencil to edit or the trash can to delete.
+          - When editing, update the relevant information.
+      -  Scroll to the bottom. under "Commit changes" enter a reason you are making this change.
+      -	Example: _"Adding myetherscam.com to darklist. See [link to tweet / reddit post / screenshot]."_
+      - You can also provide more details in the box below. Please provide as much detail / evidence as reasonable so reviewers can verify quickly.
 
-9. Click the "Create Pull Request" button.....twice.
 
-10. That's it. You successfully made a new pull request and helped make the world a better place! Tell all your friends.
+    	- Click the green "Propose File change" button.
+
+    	- This next page is a review of what you did. Proofread and stuff.
+
+    	- Click the "Create Pull Request" button.....twice.
+
+    	- That's it. You successfully made a new pull request!
 
 ## Address Darklist
 
@@ -108,7 +133,7 @@ ABIs associated with contract addresses.
 - `comment`: Any notes or comment about the contract
 - `abi`: The contract abi
 
-Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
+Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/contracts): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
 
 ## Tokens
 
@@ -125,6 +150,11 @@ Information related to tokens. ERC-20 compliant only (For now).
 - `social`: Where details about the token is
 
 Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
+
+#### Development
+
+on terminal, run: `git clone git@github.com:MyEtherWallet/ethereum-lists.git; cd ethereum-lists`  
+and then run: `npm run compile; npm run test:checkToken; npm run test:checkContract; npm run lint` to compile
 
 #### A last note
 

@@ -1,6 +1,6 @@
 {
   "symbol": "PARETO",
-  "name": "PARETO",
+  "name": "PARETO Rewards",
   "type": "ERC20",
   "address": "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://pareto.network",
   "logo": {
     "src": "https://pareto.network/images/square500x500.png",
-    "width": 500,
-    "height": 500,
+    "width": "500px",
+    "height": "500px",
     "ipfs_hash": ""
   },
   "support": { "email": "hello@pareto.network", "url": "" },

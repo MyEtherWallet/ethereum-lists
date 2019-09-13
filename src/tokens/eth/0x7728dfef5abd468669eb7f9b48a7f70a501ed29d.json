@@ -1,6 +1,6 @@
 {
   "symbol": "PRG",
-  "name": "PRG",
+  "name": "Paragon Coin",
   "type": "ERC20",
   "address": "0x7728dfef5abd468669eb7f9b48a7f70a501ed29d",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://paragoncoin.com",
   "logo": {
     "src": "https://etherscan.io/token/images/paragon2.png",
-    "width": 28,
-    "height": 28,
+    "width": "28px",
+    "height": "28px",
     "ipfs_hash": ""
   },
   "support": { "email": "info@paragoncoin.com", "url": "" },

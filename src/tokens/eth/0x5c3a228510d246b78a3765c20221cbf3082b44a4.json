@@ -1,6 +1,6 @@
 {
   "symbol": "STQ",
-  "name": "Storiqa",
+  "name": "Storiqa Token",
   "type": "ERC20",
   "address": "0x5c3a228510d246b78a3765c20221cbf3082b44a4",
   "ens_address": "",
@@ -8,8 +8,8 @@
   "website": "https://storiqa.com",
   "logo": {
     "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2541.png",
-    "width": "32",
-    "height": "32",
+    "width": "32px",
+    "height": "32px",
     "ipfs_hash": ""
   },
   "support": { "email": "support@storiqa.zendesk.com", "url": "" },

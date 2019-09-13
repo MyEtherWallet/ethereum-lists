@@ -3,40 +3,47 @@ const web3 = require('web3');
 const path = require('path');
 const contractsDirectory = './src/contracts';
 const validate = require('validate.js');
+const validateObject = require('./validateObject');
+
 const constraints = {
   name: {
     presence: {
       allowEmpty: false
-    }
-  },
-  address: {
-    presence: {
-      allowEmpty: false
     },
-    length: {
-      is: 42
+    type: "string"
+  },
+  address: function(value) {
+    if (web3.utils.isAddress(value)) {
+      return null;
     }
+    return {
+      presence: { message: 'Token Address missing' },
+      length: { is: 42 },
+      type: "string"
+    };
   },
   comment: {
-    presence: true
+    presence: true,
+    type: "string"
   },
   abi: {
     presence: {
       allowEmpty: false
-    }
+    },
+    type: "array"
   }
 };
 
-function run() {
+function checkContract() {
   fs.readdirSync(contractsDirectory).forEach(folder => {
     fs.readdirSync(`${contractsDirectory}/${folder}`).forEach(file => {
       if (
         path.extname(file) === '.json' &&
         web3.utils.isAddress(file.replace('.json', ''))
       ) {
-        const obj = JSON.parse(
-          fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
-        );
+        const fullPath = `${contractsDirectory}/${folder}/${file}`;
+        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+        validateObject(constraints, obj, fullPath);
         if (validate(obj, constraints) !== undefined) {
           const errs = validate(obj, constraints);
           Object.keys(errs).forEach(key => {
@@ -55,4 +62,4 @@ function run() {
   process.exit(0);
 }
 
-run();
+checkContract();
