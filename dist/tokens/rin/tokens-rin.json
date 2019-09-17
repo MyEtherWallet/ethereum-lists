@@ -104,6 +104,32 @@
     }
   },
   {
+    "symbol": "qwe",
+    "name": "qweToken",
+    "type": "ERC20",
+    "address": "0x2d427d9e535e4382606b93290dcc13a5e9a694be",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "RLC",
     "name": "iExec RLC",
     "type": "ERC20",
@@ -113,8 +139,8 @@
     "website": "https://iex.ec",
     "logo": {
       "src": "https://ipfs.io/ipfs/QmcjNqEC4uDyZJBM946Pyrh8murWVkMh9ufBjpt5hPYuZp",
-      "width": "128",
-      "height": "128",
+      "width": "128px",
+      "height": "128px",
       "ipfs_hash": "QmcjNqEC4uDyZJBM946Pyrh8murWVkMh9ufBjpt5hPYuZp"
     },
     "support": {
