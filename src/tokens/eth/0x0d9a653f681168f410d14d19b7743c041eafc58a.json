@@ -1,0 +1,31 @@
+{
+  "symbol": "EXE",
+  "name": "EinsteinCash",
+  "type": "ERC20",
+  "address": "0x0d9a653f681168f410d14d19b7743c041eafc58a",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://einstein.exchange/einstein-cash",
+  "logo": {
+    "src": "https://files.exe.cash/e-logo-128x.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@einstein.exchange", "url": "https://support.einstein.exchange" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Einstein.Exchange/",
+    "forum": "",
+    "github": "https://github.com/EinsteinCash/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/einstein-exchange/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/einsteinxchange",
+    "youtube": ""
+  }
+}
