@@ -1,0 +1,31 @@
+{
+  "symbol": "IDRT",
+  "name": "Rupiah Token",
+  "type": "ERC20",
+  "address": "0x998FFE1E43fAcffb941dc337dD0468d52bA5b48A",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "https://www.rupiahtoken.com",
+  "logo": {
+    "src": "https://s3-ap-southeast-1.amazonaws.com/static.rupiahtoken.com/images/logo/256x256+round.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "contact@rupiahtoken.com", "url": "https://rupiahtoken.com" },
+  "social": {
+    "blog": "https://rupiahtoken.com/blog",
+    "chat": "https://t.me/rupiahtokenindonesia",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/rupiah-token/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://linkedin.com/company/rupiah-token",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/rupiahtokenindonesia",
+    "twitter": "https://twitter.com/RupiahTokenIDRT",
+    "youtube": ""
+  }
+}
