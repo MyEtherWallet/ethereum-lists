@@ -5,7 +5,6 @@ const whitelist = [
   '.prettierignore',
   '.prettierrc',
   '.travis.yml',
-  'stale.yml',
   'LICENSE',
   'README.md',
   'checkContract.js',
@@ -21,6 +20,7 @@ const whitelist = [
   'recreateFiles.js',
   'renameToChecksum.js',
   'src',
+  'stale.yml',
   'validateObject.js'
 ];
 
