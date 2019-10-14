@@ -5,6 +5,7 @@ const whitelist = [
   '.prettierignore',
   '.prettierrc',
   '.travis.yml',
+  'stale.yml',
   'LICENSE',
   'README.md',
   'checkContract.js',
