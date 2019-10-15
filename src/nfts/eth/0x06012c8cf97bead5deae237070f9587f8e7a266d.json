@@ -1,0 +1,13 @@
+{
+  "active": true,
+  "title": "CryptoKitties",
+  "itemName": "Kitties",
+  "contractAddress": "0x06012c8cf97bead5deae237070f9587f8e7a266d",
+  "metadataAddress": "https://api.cryptokitties.co/kitties/",
+  "keys": [],
+  "imageKey": "image_url_png",
+  "metadataKeys": ["kitties"],
+  "ERC721Extension": false,
+  "ERC721Metadata": true,
+  "nonStandard": true
+}
