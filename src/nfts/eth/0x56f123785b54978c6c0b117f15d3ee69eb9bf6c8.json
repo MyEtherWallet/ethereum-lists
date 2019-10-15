@@ -1,0 +1,13 @@
+{
+  "active": false,
+  "title": "MCP Pet",
+  "itemName": "Pet",
+  "contractAddress": "0x56f123785b54978c6c0b117f15d3ee69eb9bf6c8",
+  "metadataAddress": "https://mcp.town/api/pet/",
+  "keys": [],
+  "imageKey": "image",
+  "metadataKeys": [],
+  "ERC721Extension": true,
+  "ERC721Metadata": true,
+  "nonStandard": false
+}
