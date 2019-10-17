@@ -1,4 +1,6 @@
 const fs = require('fs');
+const web3 = require('web3');
+const utils = web3.utils;
 const contractsDirectory = './src/contracts/';
 const tokensDirectory = './src/tokens/';
 const nftsDirectory = './src/nfts/';
@@ -16,6 +18,7 @@ function createContractFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
+      obj.address = utils.toChecksumAddress(obj.contractAddress)
       contractArray.push(obj);
     });
     const writeArray = contractArray.sort(function(a, b) {
@@ -48,6 +51,8 @@ function createTokenFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
+
+      obj.address = utils.toChecksumAddress(obj.address)
       tokenArr.push(obj);
     });
     const writeArray = tokenArr.sort(function(a, b) {
@@ -79,6 +84,7 @@ function createNftFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${nftsDirectory}/${folder}/${file}`, 'utf8')
       );
+      obj.address = utils.toChecksumAddress(obj.contractAddress)
       nftArr.push(obj);
     });
     const writeArray = nftArr.sort(function(a, b) {
