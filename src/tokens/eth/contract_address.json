@@ -1,0 +1,31 @@
+{
+  "symbol": "BBC",
+  "name": "Bitcoin Blue",
+  "type": "ERC20",
+  "address": "0xeb04983ab864b43322f393e621d3856ccac889f1",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://bitcoinbluebbc.com",
+  "logo": {
+    "src":"https://www.bitcoinbluebbc.com/bbc_syb_256x256.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+   },
+   "support": { "email": "suporte@bitcoinbluebbc.com", "url": "http://bitcoinbluebbc.com" },
+   "social":  {
+     "blog": "https://www.bitcoinbluebbc.com/blog.html",
+     "chat": "",
+     "facebook": "https://www.facebook.com/bitcoinbluebbc",
+     "forum": "https://bitcointalk.org/index.php?topic=5173734.0",
+     "github": "",
+     "gitter": "",
+     "instagram": "https://www.instagram.com/bitcoinblue",
+     "linkedin": "https://www.linkedin.com/company/bitcoinblue",
+     "reddit": "",
+     "slack": "",
+     "telegram": "",
+     "twitter": "https://twitter.com/BitcoinBlueBBC",
+     "youtube": "",
+   }
+}
