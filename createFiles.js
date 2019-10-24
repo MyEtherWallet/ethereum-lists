@@ -18,7 +18,7 @@ function createContractFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
-      obj.address = utils.toChecksumAddress(obj.contractAddress)
+      obj.address = utils.toChecksumAddress(obj.address)
       contractArray.push(obj);
     });
     const writeArray = contractArray.sort(function(a, b) {
