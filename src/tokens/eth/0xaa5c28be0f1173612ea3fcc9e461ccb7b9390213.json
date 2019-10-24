@@ -1,1 +1,31 @@
-{"symbol":"EVCO","name":"EVCOIN","type":"ERC20","address":"0xaa5c28be0f1173612ea3fcc9e461ccb7b9390213","ens_address":"","decimals":18,"website":"http://evcoin.us","logo":{"src":"https://res.cloudinary.com/cloudimgstorage/image/upload/v1570350885/EVCO-LOGO.png","width":"256px","height":"256px","ipfs_hash":""},"support":{"email":"support@evcoin.us","url":"http://evcoin.us"},"social":{"blog":"","chat":"","facebook":"https://www.facebook.com/Evcoin-103531124392961/","forum":"","github":"","gitter":"","instagram":"","linkedin":"","reddit":"","slack":"","telegram":"https://t.me/evtoken","twitter":"","youtube":""}}
+{
+  "symbol": "EVCO",
+  "name": "EVCOIN",
+  "type": "ERC20",
+  "address": "0xaa5c28be0f1173612ea3fcc9e461ccb7b9390213",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://evcoin.us",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1570350885/EVCO-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@evcoin.us", "url": "http://evcoin.us" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Evcoin-103531124392961/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/evtoken",
+    "twitter": "",
+    "youtube": ""
+  }
+}

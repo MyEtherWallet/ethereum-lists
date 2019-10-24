@@ -1,1 +1,31 @@
-{"symbol":"LRC","name":"Loopring","type":"ERC20","address":"0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD","ens_address":"lrctoken.eth","decimals":18,"website":"","logo":{"src":"https://loopring.org/resources/LRC/blue.svg","width":"300","height":"300","ipfs_hash":""},"support":{"email":"foundation@loopring.org","url":""},"social":{"blog":"https://medium.com/loopring-protocol","chat":"","facebook":"","forum":"","github":"https://github.com/Loopring","gitter":"","instagram":"","linkedin":"","reddit":"https://www.reddit.com/r/loopringorg","slack":"","telegram":"","twitter":"https://twitter.com/loopringorg","youtube":""}}
+{
+  "symbol": "LRC",
+  "name": "Loopring",
+  "type": "ERC20",
+  "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+  "ens_address": "lrctoken.eth",
+  "decimals": 18,
+  "website": "",
+  "logo": {
+    "src": "https://loopring.org/resources/LRC/blue.svg",
+    "width": "300",
+    "height": "300",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "foundation@loopring.org", "url": "" },
+  "social": {
+    "blog": "https://medium.com/loopring-protocol",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/Loopring",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/r/loopringorg",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/loopringorg",
+    "youtube": ""
+  }
+}
