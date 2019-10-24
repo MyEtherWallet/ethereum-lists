@@ -12,8 +12,7 @@ function renameTokens() {
         fs.renameSync(
           `${tokensDirectory}/${folder}/${file}`,
           `${tokensDirectory}/${folder}/${utils
-            .toChecksumAddress(file.replace('.json', ''))
-            .toLowerCase()}.json`
+            .toChecksumAddress(file.replace('.json', ''))}.json`
         );
       }
     });
@@ -27,8 +26,7 @@ function renameNfts() {
         fs.renameSync(
           `${nftsDirectory}/${folder}/${file}`,
           `${nftsDirectory}/${folder}/${utils
-            .toChecksumAddress(file.replace('.json', ''))
-            .toLowerCase()}.json`
+            .toChecksumAddress(file.replace('.json', ''))}.json`
         );
       }
     });
@@ -42,8 +40,7 @@ function renameContracts() {
         fs.renameSync(
           `${contractsDirectory}/${folder}/${file}`,
           `${contractsDirectory}/${folder}/${utils
-            .toChecksumAddress(file.replace('.json', ''))
-            .toLowerCase()}.json`
+            .toChecksumAddress(file.replace('.json', ''))}.json`
         );
       }
     });
