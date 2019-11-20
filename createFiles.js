@@ -113,9 +113,9 @@ function renameIcons() {
     const symbol = item.substring(0, dashIdx);
     const extension = item.substring(dotIdx, item.length);
 
-    // if (utils.isAddress(address)) {
-    //   fs.renameSync(`./src/icons/${item}`, `./src/icons/${symbol}-${utils.toChecksumAddress(address).toLowerCase()}${extension}`)
-    // }
+    if (utils.isAddress(address)) {
+      fs.renameSync(`./src/icons/${item}`, `./src/icons/${symbol}-${utils.toChecksumAddress(address).toLowerCase()}${extension}`)
+    }
 
   })
 }
@@ -130,5 +130,4 @@ function createFiles() {
   renameIcons();
 }
 
-// module.exports = createFiles;
-renameIcons()
+module.exports = createFiles;
