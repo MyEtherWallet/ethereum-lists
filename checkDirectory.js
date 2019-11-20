@@ -15,6 +15,7 @@ const whitelist = [
   'compile.js',
   'createFiles.js',
   'dist',
+  'generateMasterFile.js',
   'node_modules',
   'package-lock.json',
   'package.json',

@@ -12,6 +12,10 @@ jobs:
       script:
         - |
           npm run lint
+    - stage: check master file
+      script:
+        - |
+          npm run test:checkMasterFile
     - stage: check token issues
       script:
         - |

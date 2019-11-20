@@ -10,7 +10,8 @@
     "test:checkToken": "node checkToken.js",
     "test:checkContract": "node checkContract.js",
     "test:checkNft": "node checkNfts.js",
-    "test": "npm run test:checkToken; npm run test:checkContract; npm run test:checkNft",
+    "test:checkMasterFile": "node checkMasterFile.js",
+    "test": "npm run test:checkToken; npm run test:checkContract; npm run test:checkNft; npm run test:checkMasterFile",
     "compile": "node compile.js",
     "precommit": "pretty-quick --staged"
   },
