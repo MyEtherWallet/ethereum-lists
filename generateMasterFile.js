@@ -1,4 +1,5 @@
 const fs = require('fs');
+const utils = require('web3').utils;
 const MAIN_SRC = './dist/tokens';
 const IMG_SRC = './src/icons';
 const ICON_LINK = 'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/'
@@ -18,13 +19,13 @@ function generateMasterFile() {
       const images = fs.readdirSync(IMG_SRC);
       trimmedOffBurner.forEach(item => {
         const matchedImage = images.find(img => {
-          return img.includes(`${item.symbol}-${item.address.toLowerCase()}`)
+          return img.includes(`${item.symbol}-${utils.toChecksumAddress(item.address)}`)
         })
         mainArr.push({
           network: folderName,
           contract_address: item.address,
           icon: !!matchedImage ? `${ICON_LINK}${matchedImage}` : '',
-          link: `${CONTRACT_LINK}${item.address}.json`,
+          link: `${CONTRACT_LINK}${folderName}/${utils.toChecksumAddress(item.address).toLowerCase()}.json`,
           website: item.website
         })
       })
