@@ -115,6 +115,8 @@ function renameIcons() {
 
     if (utils.isAddress(address)) {
       fs.renameSync(`./src/icons/${item}`, `./src/icons/${symbol}-${utils.toChecksumAddress(address).toLowerCase()}${extension}`)
+    } else {
+      fs.renameSync(`./src/icons/${item}`, `./src/icons/${item}`)
     }
 
   })

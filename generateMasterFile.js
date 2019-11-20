@@ -19,11 +19,11 @@ function generateMasterFile() {
       const images = fs.readdirSync(IMG_SRC);
       trimmedOffBurner.forEach(item => {
         const matchedImage = images.find(img => {
-          return img.includes(`${item.symbol}-${utils.toChecksumAddress(item.address).toLocaleLowerCase()}`)
+          return img.includes(`${utils.toChecksumAddress(item.address).toLowerCase()}`)
         })
         mainArr.push({
           network: folderName,
-          contract_address: item.address,
+          contract_address: utils.toChecksumAddress(item.address).toLowerCase(),
           icon: !!matchedImage ? `${ICON_LINK}${matchedImage}` : '',
           link: `${CONTRACT_LINK}${folderName}/${utils.toChecksumAddress(item.address).toLowerCase()}.json`,
           website: item.website
@@ -39,4 +39,3 @@ function generateMasterFile() {
 }
 
 module.exports = generateMasterFile;
-
