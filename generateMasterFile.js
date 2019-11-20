@@ -19,7 +19,7 @@ function generateMasterFile() {
       const images = fs.readdirSync(IMG_SRC);
       trimmedOffBurner.forEach(item => {
         const matchedImage = images.find(img => {
-          return img.includes(`${item.symbol}-${utils.toChecksumAddress(item.address)}`)
+          return img.includes(`${item.symbol}-${utils.toChecksumAddress(item.address).toLocaleLowerCase()}`)
         })
         mainArr.push({
           network: folderName,
