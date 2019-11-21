@@ -38,4 +38,5 @@ function generateMasterFile() {
   );
 }
 
-module.exports = generateMasterFile;
+// module.exports = generateMasterFile;
+generateMasterFile();
