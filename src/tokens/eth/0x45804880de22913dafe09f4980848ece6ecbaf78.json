@@ -1,18 +1,21 @@
 {
   "symbol": "PAXG",
-  "name": "Paxos Gold",
+  "name": "PAX Gold",
   "type": "ERC20",
-  "address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+  "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.paxos.com/paxgold",
   "logo": {
-    "src": "https://github.com/paxosglobal/paxos-gold-contract/blob/master/assets/Pax-Gold-Logo-FINAL-color.png",
-    "width": "1968",
-    "height": "779",
+    "src": "https://www.dropbox.com/s/mllb7b8f9qpbebv/Pax-Gold-Logo-FINAL-color_256x256.png?dl=0",
+    "width": "256px",
+    "height": "256px",
     "ipfs_hash": ""
   },
-  "support": { "email": "paxgold@paxos.com", "url": "" },
+  "support": {
+    "email": "help@paxos.com",
+    "url": "https://www.paxos.com/contact/"
+  },
   "social": {
     "blog": "https://medium.com/Paxos",
     "chat": "",
@@ -21,11 +24,11 @@
     "github": "https://github.com/paxosglobal/paxos-gold-contract",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/paxos/",
+    "linkedin": "https://www.linkedin.com/company/paxos",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/PaxosGlobal",
+    "twitter": "https://twitter.com/paxosglobal",
     "youtube": ""
   }
 }
