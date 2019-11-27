@@ -1,0 +1,34 @@
+{
+"symbol": "VAL",
+"name": "Valora",
+"type": "ERC20",
+"address": "0x27b681934215dda5c4debf5b59f23eab9a8261cc",
+"ens_address": "valora.eth",
+"decimals": 10,
+"website": "https://www.valora.exchange/en",
+"logo": {
+    "src": "https://www.valora.exchange/assets/images/valora-my-account-icon.png",
+    "width": "24px",
+    "height": "24px",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "info@valora.exchange",
+    "url": "https://www.valora.exchange/nl/contact-us"
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}
