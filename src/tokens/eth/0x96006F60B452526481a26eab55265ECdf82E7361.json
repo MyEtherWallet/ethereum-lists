@@ -1,0 +1,34 @@
+{
+  "symbol": "HEX",
+  "name": "HollaEx",
+  "type": "ERC20",
+  "address": "0x96006F60B452526481a26eab55265ECdf82E7361",
+  "decimals": 18,
+  "ens_address": "",
+  "website": "https://hollaex.com",
+  "logo": {
+    "src": "https://bitholla.s3.ap-northeast-2.amazonaws.com/hollaex/icon.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@hollaex.com",
+    "url": "https://info.hollaex.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/bitholla",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/hollaex",
+    "twitter": "https://twitter.com/hollaex",
+    "youtube": ""
+  }
+}
