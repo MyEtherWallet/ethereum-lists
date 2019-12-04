@@ -6,8 +6,13 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://ara.one",
-  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "support@ara.one", "url": "" },
+  "logo": {
+    "src": "https://media.ara.one/ara-icon-mew.png",
+    "width": "72px",
+    "height": "72px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@ara.one", "url": "https://ara.one/contact" },
   "social": {
     "blog": "https://medium.com/ara-blocks",
     "chat": "",
