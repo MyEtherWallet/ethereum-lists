@@ -1,0 +1,34 @@
+{
+  "symbol": "AUS",
+  "name": "Gold Standard",
+  "type": "ERC20",
+  "address": "0x5FB9E9C359CC7191b0293d2FAF1cC41cE3688D75",
+  "ens_address": "",
+  "decimals": 4,
+  "website": "https://www.goldsilverstandard.com/",
+  "logo": {
+    "src": "https://goldsilverstandard.com/img/aus28x28.png",
+    "width": "28px",
+    "height": "28px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@goldsilverstandard.com",
+    "url": "https://goldsilverstandard.com/contact"
+  },
+  "social": {
+    "blog": "https://goldsilverstandard.com/gold-silver-news",
+    "chat": "",
+    "facebook": "https://www.facebook.com/goldsilverstandard",
+    "forum": "",
+    "github": "https://github.com/GoldSilverStandard",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GoldSilverStandard",
+    "twitter": "",
+    "youtube": "https://www.youtube.com/channel/UCOxNucFIQGC6pI-CB8CBsJQ/"
+  }
+}

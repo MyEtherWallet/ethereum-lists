@@ -12,6 +12,10 @@ jobs:
       script:
         - |
           npm run lint
+    - stage: check master file
+      script:
+        - |
+          npm run test:checkMasterFile
     - stage: check token issues
       script:
         - |
@@ -20,3 +24,7 @@ jobs:
       script:
         - |
           npm run test:checkContract
+    - stage: check nft issues
+      script:
+        - |
+          npm run test:checkNft

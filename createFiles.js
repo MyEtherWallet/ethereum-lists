@@ -1,6 +1,9 @@
 const fs = require('fs');
+const web3 = require('web3');
+const utils = web3.utils;
 const contractsDirectory = './src/contracts/';
 const tokensDirectory = './src/tokens/';
+const nftsDirectory = './src/nfts/';
 
 function createContractFiles() {
   if (!fs.existsSync('./dist/contracts')) {
@@ -15,6 +18,7 @@ function createContractFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
+      obj.address = utils.toChecksumAddress(obj.address)
       contractArray.push(obj);
     });
     const writeArray = contractArray.sort(function(a, b) {
@@ -47,6 +51,8 @@ function createTokenFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
+
+      obj.address = utils.toChecksumAddress(obj.address)
       tokenArr.push(obj);
     });
     const writeArray = tokenArr.sort(function(a, b) {
@@ -65,12 +71,65 @@ function createTokenFiles() {
   });
 }
 
+function createNftFiles() {
+  if (!fs.existsSync('./dist/nfts')) {
+    fs.mkdirSync('./dist/nfts');
+  }
+  fs.readdirSync(nftsDirectory).forEach(folder => {
+    let nftArr = [];
+    if (!fs.existsSync(`./dist/nfts/${folder}`)) {
+      fs.mkdirSync(`./dist/nfts/${folder}`);
+    }
+    fs.readdirSync(`${nftsDirectory}/${folder}`).forEach(file => {
+      const obj = JSON.parse(
+        fs.readFileSync(`${nftsDirectory}/${folder}/${file}`, 'utf8')
+      );
+      obj.address = utils.toChecksumAddress(obj.contractAddress)
+      nftArr.push(obj);
+    });
+    const writeArray = nftArr.sort(function(a, b) {
+      let aSym = a.title.toLowerCase();
+      let bSym = b.title.toLowerCase();
+      return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
+    });
+    fs.writeFileSync(
+      `./dist/nfts/${folder}/nfts-${folder}.min.json`,
+      JSON.stringify(writeArray)
+    );
+    fs.writeFileSync(
+      `./dist/nfts/${folder}/nfts-${folder}.json`,
+      JSON.stringify(writeArray)
+    );
+  });
+}
+
+function renameIcons() {
+  const icons = fs.readdirSync('./src/icons');
+  icons.forEach(item => {
+    const dashIdx = item.indexOf('-');
+    const dotIdx = item.indexOf('.');
+
+    const address = item.substring(dashIdx + 1, dotIdx);
+    const symbol = item.substring(0, dashIdx);
+    const extension = item.substring(dotIdx, item.length);
+
+    if (utils.isAddress(address)) {
+      fs.renameSync(`./src/icons/${item}`, `./src/icons/${symbol}-${utils.toChecksumAddress(address).toLowerCase()}${extension}`)
+    } else {
+      fs.renameSync(`./src/icons/${item}`, `./src/icons/${item}`)
+    }
+
+  })
+}
+
 function createFiles() {
   if (!fs.existsSync('./dist')) {
     fs.mkdirSync('./dist');
   }
   createContractFiles();
   createTokenFiles();
+  createNftFiles();
+  renameIcons();
 }
 
 module.exports = createFiles;

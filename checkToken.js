@@ -23,7 +23,7 @@ const constraints = {
       allowEmpty: false
     },
     inclusion: {
-      within: ['ERC20', 'ERC223', 'ERC721']
+      within: ['ERC20', 'ERC223', 'ERC721', 'ERC777']
     },
     type: 'string'
   },

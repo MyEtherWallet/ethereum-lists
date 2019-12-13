@@ -10,16 +10,20 @@ const whitelist = [
   'checkContract.js',
   'checkDirectory.js',
   'checkLogos.js',
+  'checkMasterFile.js',
+  'checkNfts.js',
   'checkToken.js',
   'compile.js',
   'createFiles.js',
   'dist',
+  'generateMasterFile.js',
   'node_modules',
   'package-lock.json',
   'package.json',
   'recreateFiles.js',
   'renameToChecksum.js',
   'src',
+  'stale.yml',
   'validateObject.js'
 ];
 
