@@ -15,7 +15,7 @@ function compile() {
     console.log('Recreated files!');
     renameToChecksum();
     console.log('Renamed files to checksum!');
-    generateMasterFile()
+    generateMasterFile();
     console.log('Generate master-file');
     console.log('Done');
   } catch (error) {
