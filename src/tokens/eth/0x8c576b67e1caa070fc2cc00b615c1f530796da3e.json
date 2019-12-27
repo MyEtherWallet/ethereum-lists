@@ -1,25 +1,19 @@
 {
-"symbol": "ETM",
-
-"name": "EtherMan Token",
-
-"type": "ERC20",
-
-"address": "0x8c576b67e1caa070fc2cc00b615c1f530796da3e",
-"ens_address": "",
-"decimals": 18,
-"website": "https://etmproject.xyz",
-"logo": {
+  "symbol": "ETM",
+  "name": "EtherMan Token",
+  "type": "ERC20",
+  "address": "0x8c576b67e1caa070fc2cc00b615c1f530796da3e",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://etmproject.xyz",
+  "logo": {
     "src": "https://imgur.com/2kox9z6",
     "width": "256px",
     "height": "256px",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "admin@etmproject.xyz",
-    "url": ""
-},
-"social": {
+  },
+  "support": { "email": "admin@etmproject.xyz", "url": "" },
+  "social": {
     "blog": "",
     "chat": "https://t.me/ethermanofficial",
     "facebook": "https://www.facebook.com/ethermantoken",
@@ -33,5 +27,5 @@
     "telegram": "https://t.me/EtherManToken",
     "twitter": "https://twitter.com/ethermandex",
     "youtube": ""
-}
+  }
 }
