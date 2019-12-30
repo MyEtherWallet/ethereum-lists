@@ -1,0 +1,37 @@
+{
+"symbol": "ETHMNY",
+
+"name": "Ethereum Money",
+
+"type": "ERC20",
+
+"address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+"ens_address": "",
+"decimals": 2,
+"website": "https://ethmny.net/",
+"logo": {
+    "src": "https://i.ibb.co/jfqkHGW/ethmny.png",
+    "width": "500",
+    "height": "500",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "support@ethmny.net",
+    "url": "https://t.me/ethmny"
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/ethereummoney/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ethereummoneytoken",
+    "twitter": "https://twitter.com/ethmny",
+    "youtube": "https://www.youtube.com/channel/UC62_Bznto9o0pEmslm8y3WA"
+}
+}
