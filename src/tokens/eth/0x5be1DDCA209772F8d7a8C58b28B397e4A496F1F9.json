@@ -1,25 +1,19 @@
 {
-"symbol": "TWEE",
-
-"name": "TWEEBAA",
-
-"type": "ERC20",
-
-"address": "0x5be1DDCA209772F8d7a8C58b28B397e4A496F1F9",
-"ens_address": "",
-"decimals": 8,
-"website": "https://tweebaa.com/",
-"logo": {
+  "symbol": "TWEE",
+  "name": "TWEEBAA",
+  "type": "ERC20",
+  "address": "0x5be1DDCA209772F8d7a8C58b28B397e4A496F1F9",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://tweebaa.com/",
+  "logo": {
     "src": "https://tweebaa.com/images/tweebaalogo256.png",
     "width": "256",
     "height": "256",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "twee@tweebaa.com",
-    "url": ""
-},
-"social": {
+  },
+  "support": { "email": "twee@tweebaa.com", "url": "" },
+  "social": {
     "blog": "",
     "chat": "",
     "facebook": "https://www.facebook.com/tweebaa/",
@@ -40,5 +34,5 @@
     "token_listing": "https://bitmart.zendesk.com/hc/en-us/articles/360039665374-BitMart-Lists-Tweebaa-TWEE-",
     "supported_exchange": "https://www.bitmart.com/trade/en?symbol=TWEE_USDT",
     "etherscan_link": "https://etherscan.io/address/0x5be1ddca209772f8d7a8c58b28b397e4a496f1f9"
-}
+  }
 }
