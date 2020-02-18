@@ -1,25 +1,22 @@
 {
-"symbol": "RM",
-
-"name": "RiverMount",
-
-"type": "ERC20",
-
-"address": "0x5AB55ec290BeacAE98f54c3eB70860460B167C3C",
-"ens_address": "",
-"decimals": 18,
-"website": "https://rivermount.io/",
-"logo": {
+  "symbol": "RM",
+  "name": "RiverMount",
+  "type": "ERC20",
+  "address": "0x5AB55ec290BeacAE98f54c3eB70860460B167C3C",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://rivermount.io/",
+  "logo": {
     "src": "https://rivermount.io/river_logo.png",
     "width": "256",
     "height": "256",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "support@rivermount.io",
     "url": "https://rivermount.io/"
-},
-"social": {
+  },
+  "social": {
     "blog": "https://medium.com/@admin_21811",
     "chat": "",
     "facebook": "https://www.facebook.com/rivermount01",
@@ -33,5 +30,5 @@
     "telegram": "https://t.me/rivermount",
     "twitter": "https://twitter.com/Rivermount2",
     "youtube": ""
-}
+  }
 }
