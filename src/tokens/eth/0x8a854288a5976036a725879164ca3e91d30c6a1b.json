@@ -6,21 +6,26 @@
   "ens_address": "",
   "decimals": 18,
   "website": "http://www.get-protocol.io",
-  "logo": { "src": "https://ipfs.globalupload.io/QmTaYJw1qjfCaNfx7eFNNsoG4HEt438FMtC3QYeUzrcuik", "width": "128px", "height": "128px", "ipfs_hash": "QmeK7Mi524bSfYs7V4GVDNYhWebRAr5W6rzgDsYKjUj8un" },
+  "logo": {
+    "src": "https://ipfs.globalupload.io/QmTaYJw1qjfCaNfx7eFNNsoG4HEt438FMtC3QYeUzrcuik",
+    "width": "128px",
+    "height": "128px",
+    "ipfs_hash": "QmeK7Mi524bSfYs7V4GVDNYhWebRAr5W6rzgDsYKjUj8un"
+  },
   "support": { "email": "info@get-protocol.io", "url": "" },
   "social": {
-  "blog": "https://medium.com/get-protocol",
-  "chat": "",
-  "facebook": "https://www.facebook.com/getprotocol",
-  "forum": "",
-  "github": "https://github.com/Getprotocol",
-  "gitter": "",
-  "instagram": "https://www.instagram.com/getprotocol/",
-  "linkedin": "https://www.linkedin.com/company/get-protocol-foundation",
-  "reddit": "https://www.reddit.com/r/GETprotocol/",
-  "slack": "",
-  "telegram": "https://t.me/getprotocol",
-  "twitter": "https://twitter.com/getprotocol",
-  "youtube": "https://www.youtube.com/getprotocol"
+    "blog": "https://medium.com/get-protocol",
+    "chat": "",
+    "facebook": "https://www.facebook.com/getprotocol",
+    "forum": "",
+    "github": "https://github.com/Getprotocol",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/getprotocol/",
+    "linkedin": "https://www.linkedin.com/company/get-protocol-foundation",
+    "reddit": "https://www.reddit.com/r/GETprotocol/",
+    "slack": "",
+    "telegram": "https://t.me/getprotocol",
+    "twitter": "https://twitter.com/getprotocol",
+    "youtube": "https://www.youtube.com/getprotocol"
   }
 }

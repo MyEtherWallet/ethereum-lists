@@ -6,26 +6,21 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://bba.plus",
-  "logo": {
-  "src": "",
-  "width": "",
-  "height": "",
-  "ipfs_hash": ""
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "bbacoder@gmail.com", "url": "https://bba.plus" },
   "social": {
-  "blog": "",
-  "chat": "",
-  "facebook": "",
-  "forum": "",
-  "github": "",
-  "gitter": "",
-  "instagram": "",
-  "linkedin": "",
-  "reddit": "",
-  "slack": "",
-  "telegram": "",
-  "twitter": "",
-  "youtube": ""
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }
