@@ -1,11 +1,11 @@
 {
-  "symbol": "G-CRE",
-  "name": "Creditcoin Token",
+  "symbol": "CTC",
+  "name": "Creditcoin Vesting Token",
   "type": "ERC20",
   "address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://creditcoinfoundation.org",
+  "website": "https://creditcoin.org",
   "logo": {
     "src": "https://i.ibb.co/hH3ywD0/logo.png",
     "width": "128px",
@@ -17,7 +17,7 @@
     "url": "https://gluwa.zendesk.com"
   },
   "social": {
-    "blog": "",
+    "blog": "https://medium.com/creditcoin-foundation",
     "chat": "",
     "facebook": "",
     "forum": "",
@@ -28,7 +28,7 @@
     "reddit": "https://www.reddit.com/r/Creditcoin/",
     "slack": "",
     "telegram": "https://t.me/CreditcoinOfficial",
-    "twitter": "https://twitter.com/crecfoundation",
+    "twitter": "https://twitter.com/creditcoin",
     "youtube": "https://www.youtube.com/channel/UCqJfH4lOL7keXBBDtxsz0TA"
   }
 }
