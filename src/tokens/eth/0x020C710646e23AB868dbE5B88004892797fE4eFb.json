@@ -1,1 +1,34 @@
-{"symbol":"GOLF","name":"Golfcoin","type":"ERC20","address":"0x020C710646e23AB868dbE5B88004892797fE4eFb","ens_address":"","decimals":18,"website":"golfcoin.cc","logo":{"src":"https://www.golfcoin.cc/wp-content/uploads/2019/03/GC_logo_500x500.png","width":"500px","height":"500px","ipfs_hash":""},"support":{"email":"support@golfcoin.cc","url":"https://www.golfcoin.cc/contact"},"social":{"blog":"https://medium.com/@golfcoin","chat":"","facebook":"https://www.facebook.com/golfcoin/","forum":"","github":"https://github.com/golfcoinrewards","gitter":"","instagram":"","linkedin":"https://www.linkedin.com/company/golfcoin","reddit":"","slack":"","telegram":"https://t.me/golfcoin_ann","twitter":"https://twitter.com/golfcoin","youtube":"https://www.youtube.com/channel/UC12O9ElFB9Aqpabgwg4Hvhg"}}
+{
+  "symbol": "GOLF",
+  "name": "Golfcoin",
+  "type": "ERC20",
+  "address": "0x020C710646e23AB868dbE5B88004892797fE4eFb",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "golfcoin.cc",
+  "logo": {
+    "src": "https://www.golfcoin.cc/wp-content/uploads/2019/03/GC_logo_500x500.png",
+    "width": "500px",
+    "height": "500px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@golfcoin.cc",
+    "url": "https://www.golfcoin.cc/contact"
+  },
+  "social": {
+    "blog": "https://medium.com/@golfcoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/golfcoin/",
+    "forum": "",
+    "github": "https://github.com/golfcoinrewards",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/golfcoin",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/golfcoin_ann",
+    "twitter": "https://twitter.com/golfcoin",
+    "youtube": "https://www.youtube.com/channel/UC12O9ElFB9Aqpabgwg4Hvhg"
+  }
+}

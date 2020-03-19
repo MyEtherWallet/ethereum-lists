@@ -1,1 +1,31 @@
-{"symbol":"ETM","name":"EtherMan Token","type":"ERC20","address":"0x8c576b67e1caa070fc2cc00b615c1f530796da3e","ens_address":"","decimals":18,"website":"https://etmproject.xyz","logo":{"src":"https://imgur.com/2kox9z6","width":"256px","height":"256px","ipfs_hash":""},"support":{"email":"admin@etmproject.xyz","url":""},"social":{"blog":"","chat":"https://t.me/ethermanofficial","facebook":"https://www.facebook.com/ethermantoken","forum":"","github":"https://github.com/EtherMan-Dex","gitter":"","instagram":"","linkedin":"","reddit":"https://www.reddit.com/user/EtherManDex","slack":"","telegram":"https://t.me/EtherManToken","twitter":"https://twitter.com/ethermandex","youtube":""}}
+{
+  "symbol": "ETM",
+  "name": "EtherMan Token",
+  "type": "ERC20",
+  "address": "0x8c576b67e1caa070fc2cc00b615c1f530796da3e",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://etmproject.xyz",
+  "logo": {
+    "src": "https://imgur.com/2kox9z6",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "admin@etmproject.xyz", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "https://t.me/ethermanofficial",
+    "facebook": "https://www.facebook.com/ethermantoken",
+    "forum": "",
+    "github": "https://github.com/EtherMan-Dex",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/EtherManDex",
+    "slack": "",
+    "telegram": "https://t.me/EtherManToken",
+    "twitter": "https://twitter.com/ethermandex",
+    "youtube": ""
+  }
+}

@@ -1,1 +1,31 @@
-{"symbol":"cUSD","name":"cUSD Currency","type":"ERC20","address":"0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75","ens_address":"","decimals":6,"website":"https://cusd.money","logo":{"src":"https://cusd.money/images/256x256.png","width":"256","height":"256","ipfs_hash":""},"support":{"email":"info@cusd.money","url":"https://cusd.money"},"social":{"blog":"https://medium.com/@info_52138","chat":"","facebook":"","forum":"","github":"https://github.com/cusdcurrency/CUSD-Token","gitter":"","instagram":"","linkedin":"https://www.linkedin.com/company/cusd-currency","reddit":"https://www.reddit.com/user/cusdcurrency","slack":"","telegram":"https://t.me/cusdcurrency","twitter":"https://twitter.com/cusdcurrency","youtube":""}}
+{
+  "symbol": "cUSD",
+  "name": "cUSD Currency",
+  "type": "ERC20",
+  "address": "0x5C406D99E04B8494dc253FCc52943Ef82bcA7D75",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://cusd.money",
+  "logo": {
+    "src": "https://cusd.money/images/256x256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@cusd.money", "url": "https://cusd.money" },
+  "social": {
+    "blog": "https://medium.com/@info_52138",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/cusdcurrency/CUSD-Token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/cusd-currency",
+    "reddit": "https://www.reddit.com/user/cusdcurrency",
+    "slack": "",
+    "telegram": "https://t.me/cusdcurrency",
+    "twitter": "https://twitter.com/cusdcurrency",
+    "youtube": ""
+  }
+}

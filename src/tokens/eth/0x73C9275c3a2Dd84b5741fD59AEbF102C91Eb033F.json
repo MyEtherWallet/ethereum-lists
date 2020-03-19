@@ -1,25 +1,19 @@
 {
-"symbol": "BTRS",
-
-"name": "BitBall Treasure",
-
-"type": "Erc20",
-
-"address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
-"ens_address": "https://etherscan.io/token/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
-"decimals":18,
-"website": "https://www.bitball-btb.com",
-"logo": {
+  "symbol": "BTRS",
+  "name": "BitBall Treasure",
+  "type": "Erc20",
+  "address": "0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+  "ens_address": "https://etherscan.io/token/0x73C9275c3a2Dd84b5741fD59AEbF102C91Eb033F",
+  "decimals": 18,
+  "website": "https://www.bitball-btb.com",
+  "logo": {
     "src": "https://drive.google.com/file/d/1_X5Pv9twFSH6TUkWLFqqtdFg3VdlHYIh/view?usp=sharing",
     "width": "",
     "height": "",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "Support",
-    "url": "bitball-btb.com"
-},
-"social": {
+  },
+  "support": { "email": "Support", "url": "bitball-btb.com" },
+  "social": {
     "blog": "",
     "chat": "https://t.me/joinchat/HUHBjUnb3OMaB8LfkuFWPw",
     "facebook": "https://www.facebook.com/bit.ball.5",
@@ -33,5 +27,5 @@
     "telegram": "https://t.me/Bitball",
     "twitter": "https://twitter.com/BitBallTreasure",
     "youtube": "https://www.youtube.com/channel/UCshc0oNpahxoulOhe5WwT-Q"
-}
+  }
 }

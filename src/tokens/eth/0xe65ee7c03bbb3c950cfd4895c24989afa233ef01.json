@@ -1,1 +1,31 @@
-{"symbol":"ZYN","name":"Zynecoin","type":"ERC20","address":"0xe65ee7c03bbb3c950cfd4895c24989afa233ef01","ens_address":"","decimals":18,"website":"https://zynecoin.io","logo":{"src":"https://www.zynecoin.io/wp-content/uploads/2019/11/logo-Z.svg","width":"","height":"","ipfs_hash":""},"support":{"email":"support@zynecoin.io","url":""},"social":{"blog":"","chat":"","facebook":"https://www.facebook.com/zynecoin","forum":"","github":"https://github.com/zynecoin","gitter":"","instagram":"https://www.instagram.com/zynecoin_fr/","linkedin":"","reddit":"","slack":"","telegram":"https://t.me/Zynecoin","twitter":"https://twitter.com/zynecoin","youtube":"https://www.youtube.com/channel/UCiZ-xova4unF-3HI04ZFOIw"}}
+{
+  "symbol": "ZYN",
+  "name": "Zynecoin",
+  "type": "ERC20",
+  "address": "0xe65ee7c03bbb3c950cfd4895c24989afa233ef01",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://zynecoin.io",
+  "logo": {
+    "src": "https://www.zynecoin.io/wp-content/uploads/2019/11/logo-Z.svg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@zynecoin.io", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/zynecoin",
+    "forum": "",
+    "github": "https://github.com/zynecoin",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/zynecoin_fr/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/Zynecoin",
+    "twitter": "https://twitter.com/zynecoin",
+    "youtube": "https://www.youtube.com/channel/UCiZ-xova4unF-3HI04ZFOIw"
+  }
+}

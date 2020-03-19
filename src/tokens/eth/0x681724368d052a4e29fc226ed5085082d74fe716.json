@@ -1,1 +1,34 @@
-{"symbol":"SRM","name":"SOLARMINING","type":"ERC20","address":"0x681724368d052a4e29fc226ed5085082d74fe716","ens_address":"","decimals":18,"website":"https://www.solarminingpower.com","logo":{"src":"https://res.cloudinary.com/cloudimgstorage/image/upload/v1573078760/SRM-LOGO.png","width":"256px","height":"256px","ipfs_hash":""},"support":{"email":"support@solarminingpower.com","url":"https://www.solarminingpower.com"},"social":{"blog":"","chat":"","facebook":"","forum":"","github":"","gitter":"","instagram":"","linkedin":"","reddit":"","slack":"","telegram":"https://t.me/solarminingpowerchile","twitter":"https://twitter.com/mining_solar","youtube":""}}
+{
+  "symbol": "SRM",
+  "name": "SOLARMINING",
+  "type": "ERC20",
+  "address": "0x681724368d052a4e29fc226ed5085082d74fe716",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.solarminingpower.com",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1573078760/SRM-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@solarminingpower.com",
+    "url": "https://www.solarminingpower.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/solarminingpowerchile",
+    "twitter": "https://twitter.com/mining_solar",
+    "youtube": ""
+  }
+}

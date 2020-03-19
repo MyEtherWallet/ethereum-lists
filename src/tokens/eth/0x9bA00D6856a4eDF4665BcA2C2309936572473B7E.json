@@ -1,1 +1,26 @@
-{"symbol":"aUSDC","name":"Aave Interest bearing USDC","type":"ERC20","address":"0x9bA00D6856a4eDF4665BcA2C2309936572473B7E","ens_address":"","decimals":6,"website":"","logo":{"src":"","width":"","height":"","ipfs_hash":""},"support":{"email":"","url":""},"social":{"blog":"","chat":"","facebook":"","forum":"","github":"","gitter":"","instagram":"","linkedin":"","reddit":"","slack":"","telegram":"","twitter":"","youtube":""}}
+{
+  "symbol": "aUSDC",
+  "name": "Aave Interest bearing USDC",
+  "type": "ERC20",
+  "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

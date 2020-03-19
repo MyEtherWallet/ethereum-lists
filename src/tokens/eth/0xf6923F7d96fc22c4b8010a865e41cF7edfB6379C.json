@@ -1,1 +1,31 @@
-{"symbol":"ioox","name":"ioox","type":"ERC20","address":"0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C","ens_address":"","decimals":8,"website":"https://ioox.org","logo":{"src":"https://res.cloudinary.com/cloudimgstorage/image/upload/v1576102394/ioox-logo.png","width":"256px","height":"256px","ipfs_hash":""},"support":{"email":"info@ioox.org","url":"https://ioox.org"},"social":{"blog":"","chat":"","facebook":"https://www.facebook.com/Ioox-System-101235744696678","forum":"","github":"","gitter":"","instagram":"","linkedin":"","reddit":"https://www.reddit.com/user/IOOX-System","slack":"","telegram":"https://t.me/iooxsystem","twitter":"https://twitter.com/iooxsystem","youtube":"https://www.youtube.com/channel/UC2WKFTxWlj6frB0fkmDdNwg"}}
+{
+  "symbol": "ioox",
+  "name": "ioox",
+  "type": "ERC20",
+  "address": "0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://ioox.org",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1576102394/ioox-logo.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@ioox.org", "url": "https://ioox.org" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/Ioox-System-101235744696678",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/IOOX-System",
+    "slack": "",
+    "telegram": "https://t.me/iooxsystem",
+    "twitter": "https://twitter.com/iooxsystem",
+    "youtube": "https://www.youtube.com/channel/UC2WKFTxWlj6frB0fkmDdNwg"
+  }
+}

@@ -1,1 +1,26 @@
-{"symbol":"CRS","name":"CRS Token","type":"ERC20","address":"0x91264366d679ff09bbc07a2b58e3e2d9c002eeff","ens_address":"","decimals":18,"website":"http://cerestoken.com/","logo":{"src":"","width":"","height":"","ipfs_hash":""},"support":{"email":"support@cerestoken.com","url":""},"social":{"blog":"","chat":"","facebook":"","forum":"","github":"https://github.com/cerestoken/","gitter":"","instagram":"","linkedin":"","reddit":"","slack":"","telegram":"https://t.me/ceresglobal","twitter":"https://twitter.com/CeresToken","youtube":""}}
+{
+  "symbol": "CRS",
+  "name": "CRS Token",
+  "type": "ERC20",
+  "address": "0x91264366d679ff09bbc07a2b58e3e2d9c002eeff",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://cerestoken.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "support@cerestoken.com", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/cerestoken/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ceresglobal",
+    "twitter": "https://twitter.com/CeresToken",
+    "youtube": ""
+  }
+}
