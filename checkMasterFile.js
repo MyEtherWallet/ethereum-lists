@@ -54,6 +54,10 @@ const constraints = {
     presence: true,
     type: "string"
   },
+  icon_png: {
+    presence: true,
+    type: "string"
+  },
   link: {
     presence: {
       allowEmpty: false

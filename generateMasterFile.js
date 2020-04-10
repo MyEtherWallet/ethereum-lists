@@ -18,13 +18,17 @@ function generateMasterFile() {
     if (trimmedOffBurner.length > 0) {
       const images = fs.readdirSync(IMG_SRC);
       trimmedOffBurner.forEach(item => {
+        const matchedImagePng = images.find(img => {
+          return img.includes(`${utils.toChecksumAddress(item.address).toLowerCase()}`) && img.includes('.png')
+        })
         const matchedImage = images.find(img => {
-          return img.includes(`${utils.toChecksumAddress(item.address).toLowerCase()}`)
+          return img.includes(`${utils.toChecksumAddress(item.address).toLowerCase()}`) && img.includes('.svg')
         })
         mainArr.push({
           network: folderName,
           contract_address: utils.toChecksumAddress(item.address).toLowerCase(),
           icon: !!matchedImage ? `${ICON_LINK}${matchedImage}` : '',
+          icon_png: !!matchedImagePng ? `${ICON_LINK}${matchedImagePng}` : '',
           link: `${CONTRACT_LINK}${folderName}/${utils.toChecksumAddress(item.address).toLowerCase()}.json`,
           website: item.website
         })
