@@ -27,7 +27,7 @@ function generateMasterFile() {
         mainArr.push({
           network: folderName,
           contract_address: utils.toChecksumAddress(item.address).toLowerCase(),
-          icon: !!matchedImage ? `${ICON_LINK}${matchedImage}` : '',
+          icon: !!matchedImage ? `${ICON_LINK}${matchedImage}` : !!matchedImagePng ? `${ICON_LINK}${matchedImagePng}` : '',
           icon_png: !!matchedImagePng ? `${ICON_LINK}${matchedImagePng}` : '',
           link: `${CONTRACT_LINK}${folderName}/${utils.toChecksumAddress(item.address).toLowerCase()}.json`,
           website: item.website
