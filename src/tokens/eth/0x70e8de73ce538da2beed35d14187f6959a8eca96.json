@@ -1,25 +1,22 @@
 {
-"symbol": "XSGD",
-
-"name": "Singapore-dollar backed stablecoin, powered by Xfers",
-
-"type": "ERC20",
-
-"address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
-"ens_address": "",
-"decimals":6 ,
-"website": "https://www.xfers.com/sg/stablecoin/",
-"logo": {
+  "symbol": "XSGD",
+  "name": "Singapore-dollar backed stablecoin, powered by Xfers",
+  "type": "ERC20",
+  "address": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://www.xfers.com/sg/stablecoin/",
+  "logo": {
     "src": "https://i.imgur.com/O7uKRkS.png",
     "width": "256px",
     "height": "256px",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "straitsx@xfers.com",
     "url": "https://www.xfers.com/sg/support/"
-},
-"social": {
+  },
+  "social": {
     "blog": "https://medium.com/xfers-sg",
     "chat": "",
     "facebook": "https://www.facebook.com/Xfers/",
@@ -33,5 +30,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/xferspay",
     "youtube": ""
-}
+  }
 }
