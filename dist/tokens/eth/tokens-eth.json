@@ -8617,14 +8617,14 @@
   },
   {
     "symbol": "COSS",
-    "name": "Coss Token",
+    "name": "COSS",
     "type": "ERC20",
-    "address": "0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C",
+    "address": "0x65292EeadF1426Cd2dF1C4793a3d7519f253913b",
     "ens_address": "",
     "decimals": 18,
-    "website": "https://coss.io",
+    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "info@coss.io", "url": "" },
+    "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -8643,14 +8643,14 @@
   },
   {
     "symbol": "COSS",
-    "name": "COSS",
+    "name": "Coss Token",
     "type": "ERC20",
-    "address": "0x65292EeadF1426Cd2dF1C4793a3d7519f253913b",
+    "address": "0x9e96604445Ec19fFed9a5e8dd7B50a29C899A10C",
     "ens_address": "",
     "decimals": 18,
-    "website": "",
+    "website": "https://coss.io",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "support": { "email": "info@coss.io", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -11931,6 +11931,37 @@
   },
   {
     "symbol": "DTH",
+    "name": "dether",
+    "type": "ERC20",
+    "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://dether.io",
+    "logo": {
+      "src": "https://ipfs.io/ipfs/QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
+      "width": "349px",
+      "height": "349px",
+      "ipfs_hash": "QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv"
+    },
+    "support": { "email": "support@dether.io", "url": "https://dether.io" },
+    "social": {
+      "blog": "https://medium.com/@DETHER",
+      "chat": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+      "facebook": "https://www.facebook.com/dether.io/",
+      "forum": "https://medium.com/@DETHER",
+      "github": "https://github.com/dethertech",
+      "gitter": "https://gitter.im/dether-js",
+      "instagram": "https://www.instagram.com/dether.io/",
+      "linkedin": "https://www.linkedin.com/company/dether-io/",
+      "reddit": "https://www.reddit.com/r/Dether/",
+      "slack": "https://dether.slack.com/messages/C4HEL2KLK/details/",
+      "telegram": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
+      "twitter": "https://twitter.com/dether_io",
+      "youtube": "https://www.youtube.com/channel/UCXkA5w4KdpnBMeIsu62ZS8w"
+    }
+  },
+  {
+    "symbol": "DTH",
     "name": "DINESHTECH",
     "type": "ERC20",
     "address": "0xF4b6664bb81bD7314aE65eAB2eE675505e3E9cB6",
@@ -11961,37 +11992,6 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
-    }
-  },
-  {
-    "symbol": "DTH",
-    "name": "dether",
-    "type": "ERC20",
-    "address": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://dether.io",
-    "logo": {
-      "src": "https://ipfs.io/ipfs/QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv",
-      "width": "349px",
-      "height": "349px",
-      "ipfs_hash": "QmTbnd1okDoU188cLCFvZorxWgfVHdoLwwnLKxkJJFcncv"
-    },
-    "support": { "email": "support@dether.io", "url": "https://dether.io" },
-    "social": {
-      "blog": "https://medium.com/@DETHER",
-      "chat": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
-      "facebook": "https://www.facebook.com/dether.io/",
-      "forum": "https://medium.com/@DETHER",
-      "github": "https://github.com/dethertech",
-      "gitter": "https://gitter.im/dether-js",
-      "instagram": "https://www.instagram.com/dether.io/",
-      "linkedin": "https://www.linkedin.com/company/dether-io/",
-      "reddit": "https://www.reddit.com/r/Dether/",
-      "slack": "https://dether.slack.com/messages/C4HEL2KLK/details/",
-      "telegram": "https://t.me/joinchat/GkdUjUQ4jx_Apxmz2km4ww",
-      "twitter": "https://twitter.com/dether_io",
-      "youtube": "https://www.youtube.com/channel/UCXkA5w4KdpnBMeIsu62ZS8w"
     }
   },
   {
@@ -35388,6 +35388,32 @@
   },
   {
     "symbol": "TGT",
+    "name": "Target Coin",
+    "type": "ERC20",
+    "address": "0xAc3Da587eac229C9896D919aBC235CA4Fd7f72c1",
+    "ens_address": "",
+    "decimals": 1,
+    "website": "https://www.tgtcoins.com",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "TGT",
     "name": "Twogap Token",
     "type": "ERC20",
     "address": "0xf96AA656eC0E0Ac163590DB372B430Cf3C0d61cA",
@@ -35414,32 +35440,6 @@
       "slack": "",
       "telegram": "",
       "twitter": "https://twitter.com/twogap_official",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TGT",
-    "name": "Target Coin",
-    "type": "ERC20",
-    "address": "0xAc3Da587eac229C9896D919aBC235CA4Fd7f72c1",
-    "ens_address": "",
-    "decimals": 1,
-    "website": "https://www.tgtcoins.com",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
       "youtube": ""
     }
   },
