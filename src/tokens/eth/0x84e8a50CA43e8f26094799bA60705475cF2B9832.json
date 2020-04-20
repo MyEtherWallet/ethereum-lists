@@ -1,25 +1,22 @@
 {
-"symbol": "eBLX",
-
-"name": "Bullion Exchange",
-
-"type": "ERC20",
-
-"address": "0x84e8a50CA43e8f26094799bA60705475cF2B9832",
-"ens_address": "",
-"decimals": 8,
-"website": "https://bullioncrypto.info",
-"logo": {
+  "symbol": "eBLX",
+  "name": "Bullion Exchange",
+  "type": "ERC20",
+  "address": "0x84e8a50CA43e8f26094799bA60705475cF2B9832",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://bullioncrypto.info",
+  "logo": {
     "src": "https://imgur.com/9Ag3kA6",
     "width": "250",
     "height": "250",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "info@bullioncrypto.info",
     "url": "https://bullioncrypto.info"
-},
-"social": {
+  },
+  "social": {
     "blog": "",
     "chat": "",
     "facebook": "https://facebook.com/bullionexchange",
@@ -33,5 +30,5 @@
     "telegram": "https://t.me/eBLX_Market",
     "twitter": "https://twitter.com/eBLX_Market",
     "youtube": "https://www.youtube.com/channel/UCl52yJMeLMTIIej1pcErznQ"
-}
+  }
 }
