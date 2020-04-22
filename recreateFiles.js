@@ -10,7 +10,6 @@ function recreateContractFiles() {
         fs.readFileSync(`${contractsDirectory}/${folderFile}/${file}`)
       );
       const currentAddress = newFile.address;
-      delete newFile.address;
       newFile.address = utils.toChecksumAddress(currentAddress);
 
       fs.unlinkSync(`${contractsDirectory}/${folderFile}/${file}`);
@@ -28,7 +27,6 @@ function recreateTokenFiles() {
         fs.readFileSync(`${tokensDirectory}/${folderFile}/${file}`)
       );
       const currentAddress = newFile.address;
-      delete newFile.address;
       newFile.address = utils.toChecksumAddress(currentAddress);
       fs.unlinkSync(`${tokensDirectory}/${folderFile}/${file}`);
       fs.writeFileSync(
