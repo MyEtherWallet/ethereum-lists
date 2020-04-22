@@ -1,4 +1,6 @@
 const fs = require('fs');
+const web3 = require('web3');
+const utils = web3.utils;
 const contractsDirectory = './src/contracts';
 const tokensDirectory = './src/tokens';
 function recreateContractFiles() {
@@ -7,12 +9,13 @@ function recreateContractFiles() {
       const newFile = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folderFile}/${file}`)
       );
+      const currentAddress = newFile.address;
+      delete newFile.address;
+      newFile.address = utils.toChecksumAddress(currentAddress);
 
       fs.unlinkSync(`${contractsDirectory}/${folderFile}/${file}`);
       fs.writeFileSync(
-        `${contractsDirectory}/${folderFile}/${file
-          .replace('.json', '')
-          .toLowerCase()}.json`,
+        `${contractsDirectory}/${folderFile}/${utils.toChecksumAddress(file.replace('.json', ''))}.json`,
         JSON.stringify(newFile)
       );
     });
@@ -24,11 +27,12 @@ function recreateTokenFiles() {
       const newFile = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folderFile}/${file}`)
       );
+      const currentAddress = newFile.address;
+      delete newFile.address;
+      newFile.address = utils.toChecksumAddress(currentAddress);
       fs.unlinkSync(`${tokensDirectory}/${folderFile}/${file}`);
       fs.writeFileSync(
-        `${tokensDirectory}/${folderFile}/${file
-          .replace('.json', '')
-          .toLowerCase()}.json`,
+        `${tokensDirectory}/${folderFile}/${utils.toChecksumAddress(file.replace('.json', ''))}.json`,
         JSON.stringify(newFile)
       );
     });
