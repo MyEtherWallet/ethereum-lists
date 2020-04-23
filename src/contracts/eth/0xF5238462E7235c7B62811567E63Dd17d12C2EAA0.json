@@ -15,21 +15,13 @@
           "name": "backedTreasury",
           "type": "address"
         },
-        {
-          "internalType": "address",
-          "name": "feeAddress",
-          "type": "address"
-        },
+        { "internalType": "address", "name": "feeAddress", "type": "address" },
         {
           "internalType": "address",
           "name": "redeemAddress",
           "type": "address"
         },
-        {
-          "internalType": "address",
-          "name": "oracle",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "oracle", "type": "address" }
       ],
       "payable": false,
       "stateMutability": "nonpayable",
@@ -166,13 +158,7 @@
       "constant": true,
       "inputs": [],
       "name": "INACTIVE_THRESHOLD_DAYS",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -181,13 +167,7 @@
       "constant": true,
       "inputs": [],
       "name": "SUPPLY_CAP",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -195,20 +175,10 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "uint256",
-          "name": "value",
-          "type": "uint256"
-        }
+        { "internalType": "uint256", "name": "value", "type": "uint256" }
       ],
       "name": "addBackedTokens",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -216,25 +186,11 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "owner",
-          "type": "address"
-        },
-        {
-          "internalType": "address",
-          "name": "spender",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "owner", "type": "address" },
+        { "internalType": "address", "name": "spender", "type": "address" }
       ],
       "name": "allowance",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -242,25 +198,11 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "spender",
-          "type": "address"
-        },
-        {
-          "internalType": "uint256",
-          "name": "value",
-          "type": "uint256"
-        }
+        { "internalType": "address", "name": "spender", "type": "address" },
+        { "internalType": "uint256", "name": "value", "type": "uint256" }
       ],
       "name": "approve",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -269,13 +211,7 @@
       "constant": true,
       "inputs": [],
       "name": "backedTreasury",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -283,20 +219,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "owner",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "owner", "type": "address" }
       ],
       "name": "balanceOf",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -304,20 +230,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "owner",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "owner", "type": "address" }
       ],
       "name": "balanceOfNoFees",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -325,20 +241,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "calcInactiveFee",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -346,20 +252,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "calcOwedFees",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -367,20 +263,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "calcSendAllBalance",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -388,20 +274,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "calcStorageFee",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -409,25 +285,11 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        },
-        {
-          "internalType": "uint256",
-          "name": "value",
-          "type": "uint256"
-        }
+        { "internalType": "address", "name": "account", "type": "address" },
+        { "internalType": "uint256", "name": "value", "type": "uint256" }
       ],
       "name": "calcTransferFee",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -435,20 +297,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "daysSinceActivity",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -456,20 +308,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "daysSincePaidStorageFee",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -478,13 +320,7 @@
       "constant": true,
       "inputs": [],
       "name": "decimals",
-      "outputs": [
-        {
-          "internalType": "uint8",
-          "name": "",
-          "type": "uint8"
-        }
-      ],
+      "outputs": [{ "internalType": "uint8", "name": "", "type": "uint8" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -492,11 +328,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "spender",
-          "type": "address"
-        },
+        { "internalType": "address", "name": "spender", "type": "address" },
         {
           "internalType": "uint256",
           "name": "subtractedValue",
@@ -504,13 +336,7 @@
         }
       ],
       "name": "decreaseAllowance",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -519,13 +345,7 @@
       "constant": true,
       "inputs": [],
       "name": "feeAddress",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -534,13 +354,7 @@
       "constant": true,
       "inputs": [],
       "name": "feeEnforcer",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -548,20 +362,10 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "forcePayFees",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -569,25 +373,11 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "spender",
-          "type": "address"
-        },
-        {
-          "internalType": "uint256",
-          "name": "addedValue",
-          "type": "uint256"
-        }
+        { "internalType": "address", "name": "spender", "type": "address" },
+        { "internalType": "uint256", "name": "addedValue", "type": "uint256" }
       ],
       "name": "increaseAllowance",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -595,20 +385,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "isAllFeeExempt",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -616,20 +396,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "isInactive",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -638,13 +408,7 @@
       "constant": true,
       "inputs": [],
       "name": "isOwner",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -652,20 +416,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "isStorageFeeExempt",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -673,20 +427,10 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "isTransferFeeExempt",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -695,13 +439,7 @@
       "constant": true,
       "inputs": [],
       "name": "name",
-      "outputs": [
-        {
-          "internalType": "string",
-          "name": "",
-          "type": "string"
-        }
-      ],
+      "outputs": [{ "internalType": "string", "name": "", "type": "string" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -710,13 +448,7 @@
       "constant": true,
       "inputs": [],
       "name": "oracleAddress",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -725,13 +457,7 @@
       "constant": true,
       "inputs": [],
       "name": "owner",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -740,13 +466,7 @@
       "constant": false,
       "inputs": [],
       "name": "payStorageFee",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -755,13 +475,7 @@
       "constant": true,
       "inputs": [],
       "name": "redeemAddress",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -778,20 +492,10 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "setAccountInactive",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -806,13 +510,7 @@
         }
       ],
       "name": "setBackedAddress",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -827,13 +525,7 @@
         }
       ],
       "name": "setFeeAddress",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -841,20 +533,10 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "enforcer",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "enforcer", "type": "address" }
       ],
       "name": "setFeeEnforcer",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -862,11 +544,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "setFeeExempt",
       "outputs": [],
@@ -884,13 +562,7 @@
         }
       ],
       "name": "setOracleAddress",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -905,13 +577,7 @@
         }
       ],
       "name": "setRedeemAddress",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -919,11 +585,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "setStorageFeeExempt",
       "outputs": [],
@@ -949,11 +611,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "uint256",
-          "name": "fee",
-          "type": "uint256"
-        }
+        { "internalType": "uint256", "name": "fee", "type": "uint256" }
       ],
       "name": "setTransferFeeBasisPoints",
       "outputs": [],
@@ -964,11 +622,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "setTransferFeeExempt",
       "outputs": [],
@@ -986,13 +640,7 @@
         }
       ],
       "name": "setUnbackedAddress",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -1000,29 +648,13 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "internalType": "address",
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "internalType": "uint256",
-          "name": "value",
-          "type": "uint256"
-        }
+        { "internalType": "address", "name": "from", "type": "address" },
+        { "internalType": "address", "name": "to", "type": "address" },
+        { "internalType": "uint256", "name": "value", "type": "uint256" }
       ],
       "name": "simulateTransfer",
       "outputs": [
-        {
-          "internalType": "uint256[5]",
-          "name": "",
-          "type": "uint256[5]"
-        }
+        { "internalType": "uint256[5]", "name": "", "type": "uint256[5]" }
       ],
       "payable": false,
       "stateMutability": "view",
@@ -1031,11 +663,7 @@
     {
       "constant": true,
       "inputs": [
-        {
-          "internalType": "uint256",
-          "name": "balance",
-          "type": "uint256"
-        },
+        { "internalType": "uint256", "name": "balance", "type": "uint256" },
         {
           "internalType": "uint256",
           "name": "daysSinceStoragePaid",
@@ -1043,13 +671,7 @@
         }
       ],
       "name": "storageFee",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "pure",
       "type": "function"
@@ -1058,13 +680,7 @@
       "constant": true,
       "inputs": [],
       "name": "storageFeeGracePeriodDays",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1073,13 +689,7 @@
       "constant": true,
       "inputs": [],
       "name": "symbol",
-      "outputs": [
-        {
-          "internalType": "string",
-          "name": "",
-          "type": "string"
-        }
-      ],
+      "outputs": [{ "internalType": "string", "name": "", "type": "string" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1088,13 +698,7 @@
       "constant": true,
       "inputs": [],
       "name": "totalCirculation",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1103,13 +707,7 @@
       "constant": true,
       "inputs": [],
       "name": "totalSupply",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1117,25 +715,11 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "internalType": "uint256",
-          "name": "value",
-          "type": "uint256"
-        }
+        { "internalType": "address", "name": "to", "type": "address" },
+        { "internalType": "uint256", "name": "value", "type": "uint256" }
       ],
       "name": "transfer",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -1144,13 +728,7 @@
       "constant": true,
       "inputs": [],
       "name": "transferFeeBasisPoints",
-      "outputs": [
-        {
-          "internalType": "uint256",
-          "name": "",
-          "type": "uint256"
-        }
-      ],
+      "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1158,30 +736,12 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "from",
-          "type": "address"
-        },
-        {
-          "internalType": "address",
-          "name": "to",
-          "type": "address"
-        },
-        {
-          "internalType": "uint256",
-          "name": "value",
-          "type": "uint256"
-        }
+        { "internalType": "address", "name": "from", "type": "address" },
+        { "internalType": "address", "name": "to", "type": "address" },
+        { "internalType": "uint256", "name": "value", "type": "uint256" }
       ],
       "name": "transferFrom",
-      "outputs": [
-        {
-          "internalType": "bool",
-          "name": "",
-          "type": "bool"
-        }
-      ],
+      "outputs": [{ "internalType": "bool", "name": "", "type": "bool" }],
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function"
@@ -1189,11 +749,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "newOwner",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "newOwner", "type": "address" }
       ],
       "name": "transferOwnership",
       "outputs": [],
@@ -1205,13 +761,7 @@
       "constant": true,
       "inputs": [],
       "name": "unbackedTreasury",
-      "outputs": [
-        {
-          "internalType": "address",
-          "name": "",
-          "type": "address"
-        }
-      ],
+      "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
       "payable": false,
       "stateMutability": "view",
       "type": "function"
@@ -1219,11 +769,7 @@
     {
       "constant": false,
       "inputs": [
-        {
-          "internalType": "address",
-          "name": "account",
-          "type": "address"
-        }
+        { "internalType": "address", "name": "account", "type": "address" }
       ],
       "name": "unsetFeeExempt",
       "outputs": [],
