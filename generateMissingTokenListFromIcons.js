@@ -7,6 +7,11 @@ const fs = require('fs');
 function generateMissingToken() {
   const icons = fs.readdirSync(ethIcons);
   const list = JSON.parse(fs.readFileSync(ethList, 'utf8'));
+  const exclusion = [
+    '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
+    '0xa66d83716c7cfe425b44d0f7ef92de263468fb3d',
+    '0x97208bf5dc25e6fd4719cfc2a3c1d1a59a974c3b',
+  ]
 
   const addressOnly = [];
   const notInList = [];
@@ -20,22 +25,22 @@ function generateMissingToken() {
       addressOnly.push(getAddr);
     }
   })
-
+  
   addressOnly.forEach(addr => {
-    const found = list.find(item => {
-      if(addr.substring(0, 2) === '0x' && addr.length === 42) {
-        return utils.toChecksumAddress(item.address) === utils.toChecksumAddress(addr);
-      }
-    })
-    // console.log(addr.length, addr, addr.substring(0, 2), found);
-    if(!found && addr.substring(0, 2) === '0x' && addr.length === 42) notInList.push(addr);
+    if(utils.isAddress(addr)) {
+      const inExclusionList = exclusion.find(item => {
+        return utils.toChecksumAddress(item) === utils.toChecksumAddress(addr);
+      })
+      const found = list.find(item => {
+        if(addr.substring(0, 2) === '0x' && addr.length === 42) {
+          return utils.toChecksumAddress(item.address) === utils.toChecksumAddress(addr);
+        }
+      })
+      if(!found && addr.substring(0, 2) === '0x' && addr.length === 42 && !inExclusionList) notInList.push(addr);
+    } else {
+      console.log(addr);
+    }
   });
-  // list.forEach(token => {
-  //   if(!icons.includes(`${token.symbol}-${utils.toChecksumAddress(token.address)}.json`)) {
-  //     notInList.push(token);
-  //   }
-
-  // })
   fs.writeFileSync('notinlist.json', JSON.stringify(notInList))
 }
 

@@ -1,26 +1,51 @@
 const fs = require('fs');
-const web3 = require('web3');
+const Web3 = require('web3');
 const fetch = require('node-fetch');
-const utils = web3.utils;
+const utils = Web3.utils;
 const tokensDirectory = './src/tokens/eth/';
 const notInListPath = './notinlist.json';
 const notInList = JSON.parse(fs.readFileSync(notInListPath));
-const api = 'https://api.coingecko.com/api/v3/coins/ethereum/contract';
-
+const api = 'https://api.coingecko.com/api/v3/coins/ethereum/contract'; 
+const node = 'https://nodes.mewapi.io/rpc/eth';
+const abi = [
+  {
+      "constant": true,
+      "inputs": [],
+      "name": "decimals",
+      "outputs": [
+          {
+              "name": "",
+              "type": "uint8"
+          }
+      ],
+      "payable": false,
+      "stateMutability": "view",
+      "type": "function"
+  }];
+const web3 = new Web3(node);
 async function createToken() {
-  for (let index = 0; index < notInList.length; index++) {
+  // for (let index = 201; index < notInList.length; index++) {
+  for (let index = 101; index < 200; index++) {
+    const contract = new web3.eth.Contract(abi, notInList[index]);
+    const decimal = await contract.methods.decimals().call().catch(res => {
+      console.log(notInList[index], res)
+    });
     const tokenInfo = await fetch(`${api}/${notInList[index]}`).then(response => {
       return response.json();
+    }).catch(err => {
+      console.log(index, notInList[index])
+      console.log(err);
     });
+    const homepage = tokenInfo.hasOwnProperty('links') ? tokenInfo.links.hasOwnProperty('homepage') ? tokenInfo.links.homepage[0] : '' : '';
     const tokenTemp =
         {
-          "symbol": tokenInfo.symbol,
+          "symbol": tokenInfo.symbol.toUpperCase(),
           "name": tokenInfo.name,
           "type": "ERC20",
-          "address": notInList[index],
+          "address": utils.toChecksumAddress(notInList[index]),
           "ens_address": "",
-          "decimals": "",
-          "website": tokenInfo.links.homepage[0],
+          "decimals": Number(decimal),
+          "website": homepage,
           "logo": {
               "src": "",
               "width": "",
@@ -53,6 +78,7 @@ async function createToken() {
           )}.json`,
           JSON.stringify(tokenTemp)
     );
+  }
   
 }
 createToken();
