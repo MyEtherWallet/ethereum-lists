@@ -27,6 +27,7 @@
     "web3": "^1.0.0-beta.36"
   },
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "prettier": "^1.14.2",
     "validate.js": "^0.13.1"
   }
