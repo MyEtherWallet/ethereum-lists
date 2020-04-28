@@ -1,25 +1,19 @@
 {
-"symbol": "HBIT",
-
-"name": "HeartBeat",
-
-"type": "ERC20",
-
-"address": "0x8a5ad873a1a615001acc1757214f67e1ba145cc9",
-"ens_address": "",
-"decimals": 18,
-"website": "https://hbitapp.com",
-"logo": {
+  "symbol": "HBIT",
+  "name": "HeartBeat",
+  "type": "ERC20",
+  "address": "0x8A5aD873A1A615001aCc1757214F67E1Ba145cC9",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://hbitapp.com",
+  "logo": {
     "src": "https://github.com/thomas3399/PR/blob/master/logo.png?raw=true",
     "width": "256",
     "height": "256",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "support@hbitapp.com",
-    "url": "https://hbitapp.com"
-},
-"social": {
+  },
+  "support": { "email": "support@hbitapp.com", "url": "https://hbitapp.com" },
+  "social": {
     "blog": "",
     "chat": "",
     "facebook": "",
@@ -33,5 +27,5 @@
     "telegram": "https://t.me/HBITapp",
     "twitter": "https://twitter.com/HBIT02373683",
     "youtube": ""
-}
+  }
 }
