@@ -11,6 +11,7 @@ function generateMissingToken() {
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
     '0xa66d83716c7cfe425b44d0f7ef92de263468fb3d',
     '0x97208bf5dc25e6fd4719cfc2a3c1d1a59a974c3b',
+    '0x1c5b760f133220855340003b43cc9113ec494823',
   ]
 
   const addressOnly = [];
