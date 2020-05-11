@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://fantom.foundation/",
-  "logo": { "src": "https://svgshare.com/i/KUU.svg", "width": "640px", "height": "640px", "ipfs_hash": "" },
-  "support": { "email": "contact@fantom.foundation", "url": "https://fantom.foundation/" },
+  "logo": {
+    "src": "https://svgshare.com/i/KUU.svg",
+    "width": "640px",
+    "height": "640px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@fantom.foundation",
+    "url": "https://fantom.foundation/"
+  },
   "social": {
     "blog": "https://fantom.foundation/blog/",
     "chat": "https://discord.gg/6V42Gs8/",
