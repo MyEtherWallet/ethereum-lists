@@ -1,0 +1,31 @@
+{
+  "symbol": "XCUR",
+  "name": "Curate",
+  "type": "ERC20",
+  "address": "0xE1c7E30C42C24582888C758984f6e382096786bd",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "http://curate.style",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1589209885/XCUR-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@curate.style", "url": "http://curate.style" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://instagram.com/curateproject",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/curateproject",
+    "youtube": ""
+  }
+}
