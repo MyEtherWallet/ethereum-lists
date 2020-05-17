@@ -1,0 +1,37 @@
+{
+"symbol": "RSV",
+
+"name": "Reserve",
+
+"type": "ERC20",
+
+"address": "0x1c5857e110cd8411054660f60b5de6a6958cfae2",
+"ens_address": "",
+"decimals": 18,
+"website": "https://reserve.org",
+"logo": {
+    "src": "https://assets.website-files.com/5c0649fb67dd7b3627d59953/5cd4ead690d2de5d99a7d5d7_RSV-stamp-black.png",
+    "width": "300px",
+    "height": "300px",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "support@reserve.org",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/reservecurrency",
+    "twitter": "https://twitter.com/reserveprotocol",
+    "youtube": ""
+}
+}
