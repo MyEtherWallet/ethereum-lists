@@ -3544,14 +3544,14 @@
   },
   {
     "symbol": "AURA",
-    "name": "Aura DAO",
+    "name": "AURA Token",
     "type": "ERC20",
-    "address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
+    "address": "0x8b4F0e7dF51A49F18e77132B010a75Ab191B9C97",
     "ens_address": "",
-    "decimals": 18,
-    "website": "",
+    "decimals": 2,
+    "website": "http://auratoken.info/",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "support": { "email": "contact@auratoken.info", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -3570,14 +3570,14 @@
   },
   {
     "symbol": "AURA",
-    "name": "AURA Token",
+    "name": "Aura DAO",
     "type": "ERC20",
-    "address": "0x8b4F0e7dF51A49F18e77132B010a75Ab191B9C97",
+    "address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
     "ens_address": "",
-    "decimals": 2,
-    "website": "http://auratoken.info/",
+    "decimals": 18,
+    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "contact@auratoken.info", "url": "" },
+    "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -4533,6 +4533,32 @@
   },
   {
     "symbol": "BCBC",
+    "name": "BeerCoin",
+    "type": "ERC20",
+    "address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac",
+    "ens_address": "",
+    "decimals": 0,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "BCBC",
     "name": "Beercoin",
     "type": "ERC20",
     "address": "0x7367A68039d4704f30BfBF6d948020C3B07DFC59",
@@ -4557,32 +4583,6 @@
       "slack": "",
       "telegram": "https://t.me/beerchaintechnology",
       "twitter": "https://twitter.com/beerchaintech",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "BCBC",
-    "name": "BeerCoin",
-    "type": "ERC20",
-    "address": "0x74C1E4b8caE59269ec1D85D3D4F324396048F4ac",
-    "ens_address": "",
-    "decimals": 0,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
       "youtube": ""
     }
   },
@@ -5580,13 +5580,18 @@
   },
   {
     "symbol": "BKC",
-    "name": "FACTS",
+    "name": "Bankcoin Cash",
     "type": "ERC20",
-    "address": "0x34bdf48A8F753de4822a6CFB1FEE275F9b4D662e",
+    "address": "0xc88Be04c809856B75E3DfE19eB4dCf0a3B15317a",
     "ens_address": "",
-    "decimals": 18,
-    "website": "http://baike.host/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "decimals": 8,
+    "website": "https://bankcoin-cash.com/",
+    "logo": {
+      "src": "https://bankcoin-cash.com/bankcoincash.png",
+      "width": "150px",
+      "height": "150px",
+      "ipfs_hash": ""
+    },
     "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
@@ -5606,18 +5611,13 @@
   },
   {
     "symbol": "BKC",
-    "name": "Bankcoin Cash",
+    "name": "FACTS",
     "type": "ERC20",
-    "address": "0xc88Be04c809856B75E3DfE19eB4dCf0a3B15317a",
+    "address": "0x34bdf48A8F753de4822a6CFB1FEE275F9b4D662e",
     "ens_address": "",
-    "decimals": 8,
-    "website": "https://bankcoin-cash.com/",
-    "logo": {
-      "src": "https://bankcoin-cash.com/bankcoincash.png",
-      "width": "150px",
-      "height": "150px",
-      "ipfs_hash": ""
-    },
+    "decimals": 18,
+    "website": "http://baike.host/",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
@@ -7681,6 +7681,32 @@
   },
   {
     "symbol": "BTR",
+    "name": "Bitether",
+    "type": "ERC20",
+    "address": "0x499A6B77bc25C26bCf8265E2102B1B3dd1617024",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "BTR",
     "name": "Bither Platform Token",
     "type": "ERC20",
     "address": "0xcbf15FB8246F679F9Df0135881CB29a3746f734b",
@@ -7708,32 +7734,6 @@
       "telegram": "https://t.me/bitherplatform",
       "twitter": "https://twitter.com/BitherPlatform",
       "youtube": "https://www.youtube.com/channel/UCET5vWo5wLHtvtqfmOqkSMA"
-    }
-  },
-  {
-    "symbol": "BTR",
-    "name": "Bitether",
-    "type": "ERC20",
-    "address": "0x499A6B77bc25C26bCf8265E2102B1B3dd1617024",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
     }
   },
   {
@@ -7795,6 +7795,37 @@
   },
   {
     "symbol": "BTT",
+    "name": "Bitether",
+    "type": "ERC20",
+    "address": "0x080aa07E2C7185150d7e4DA98838A8d2feac3dfC",
+    "ens_address": "",
+    "decimals": 0,
+    "website": "https://bytom.io",
+    "logo": {
+      "src": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
+      "width": "164px",
+      "height": "63px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@bitether.co", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "https://t.me/BitEthercoin",
+      "forum": "",
+      "github": "https://github.com/Andyss4545/BitEther",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/BitEthercoin",
+      "twitter": "https://twitter.com/bitEther_coin",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "BTT",
     "name": "Blocktrade.com",
     "type": "ERC20",
     "address": "0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff",
@@ -7824,37 +7855,6 @@
       "slack": "",
       "telegram": "",
       "twitter": "https://twitter.com/Blocktradecom",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "BTT",
-    "name": "Bitether",
-    "type": "ERC20",
-    "address": "0x080aa07E2C7185150d7e4DA98838A8d2feac3dfC",
-    "ens_address": "",
-    "decimals": 0,
-    "website": "https://bytom.io",
-    "logo": {
-      "src": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
-      "width": "164px",
-      "height": "63px",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "support@bitether.co", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "https://t.me/BitEthercoin",
-      "forum": "",
-      "github": "https://github.com/Andyss4545/BitEther",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "https://t.me/BitEthercoin",
-      "twitter": "https://twitter.com/bitEther_coin",
       "youtube": ""
     }
   },
@@ -8653,37 +8653,6 @@
   },
   {
     "symbol": "CAS",
-    "name": "CAS Coin",
-    "type": "ERC20",
-    "address": "0x779492d3644dDF4495Aa2d80C468E1B7be6AF1d2",
-    "ens_address": "cascoin.eth",
-    "decimals": 2,
-    "website": "https://cas.casino/",
-    "logo": {
-      "src": "http://cas.casino/assets/img/logo/mew.png",
-      "width": "500px",
-      "height": "500px",
-      "ipfs_hash": "QmXtDt2obb95yrmhEeSaNJ9YB3QKgpyB2UMcQcENkYhG96"
-    },
-    "support": { "email": "info@cas.casino", "url": "" },
-    "social": {
-      "blog": "https://medium.com/cascoin",
-      "chat": "",
-      "facebook": "https://www.facebook.com/cas.casino",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "https://www.instagram.com/cas.coin",
-      "linkedin": "https://www.linkedin.com/company/casfoundation",
-      "reddit": "",
-      "slack": "https://cas-casino.slack.com/",
-      "telegram": "",
-      "twitter": "https://twitter.com/cas_casino",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "CAS",
     "name": "Cashaa",
     "type": "ERC20",
     "address": "0xe8780B48bdb05F928697A5e8155f672ED91462F7",
@@ -8711,6 +8680,37 @@
       "telegram": "https://t.me/CashaaLtd",
       "twitter": "https://twitter.com/CashaaLTD",
       "youtube": "https://www.youtube.com/channel/UCwRJjX6dNz49j3Pc0ROZJbg"
+    }
+  },
+  {
+    "symbol": "CAS",
+    "name": "CAS Coin",
+    "type": "ERC20",
+    "address": "0x779492d3644dDF4495Aa2d80C468E1B7be6AF1d2",
+    "ens_address": "cascoin.eth",
+    "decimals": 2,
+    "website": "https://cas.casino/",
+    "logo": {
+      "src": "http://cas.casino/assets/img/logo/mew.png",
+      "width": "500px",
+      "height": "500px",
+      "ipfs_hash": "QmXtDt2obb95yrmhEeSaNJ9YB3QKgpyB2UMcQcENkYhG96"
+    },
+    "support": { "email": "info@cas.casino", "url": "" },
+    "social": {
+      "blog": "https://medium.com/cascoin",
+      "chat": "",
+      "facebook": "https://www.facebook.com/cas.casino",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/cas.coin",
+      "linkedin": "https://www.linkedin.com/company/casfoundation",
+      "reddit": "",
+      "slack": "https://cas-casino.slack.com/",
+      "telegram": "",
+      "twitter": "https://twitter.com/cas_casino",
+      "youtube": ""
     }
   },
   {
@@ -9355,32 +9355,6 @@
   },
   {
     "symbol": "CDX",
-    "name": "Carbon Dollar X",
-    "type": "ERC20",
-    "address": "0x2cb101d7dA0ebaA57D3F2fEf46D7FFB7BB64592B",
-    "ens_address": "",
-    "decimals": 0,
-    "website": "https://www.carbondollarx.com",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "info@carbondollarx.com", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "https://www.facebook.com/carbondollarx",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "https://www.instagram.com/carbondollarx",
-      "linkedin": "https://www.linkedin.com/company/carbondollarx",
-      "reddit": "https://www.reddit.com/u/carbondollarx",
-      "slack": "",
-      "telegram": "https://t.me/carbondollarx",
-      "twitter": "https://www.twitter.com/carbondollarx",
-      "youtube": "https://www.youtube.com/channel/UCpUjgQVqPrVjiqF3EHwmmVg"
-    }
-  },
-  {
-    "symbol": "CDX",
     "name": "CDX Network",
     "type": "ERC20",
     "address": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
@@ -9406,6 +9380,32 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "CDX",
+    "name": "Carbon Dollar X",
+    "type": "ERC20",
+    "address": "0x2cb101d7dA0ebaA57D3F2fEf46D7FFB7BB64592B",
+    "ens_address": "",
+    "decimals": 0,
+    "website": "https://www.carbondollarx.com",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "info@carbondollarx.com", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "https://www.facebook.com/carbondollarx",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/carbondollarx",
+      "linkedin": "https://www.linkedin.com/company/carbondollarx",
+      "reddit": "https://www.reddit.com/u/carbondollarx",
+      "slack": "",
+      "telegram": "https://t.me/carbondollarx",
+      "twitter": "https://www.twitter.com/carbondollarx",
+      "youtube": "https://www.youtube.com/channel/UCpUjgQVqPrVjiqF3EHwmmVg"
     }
   },
   {
@@ -9548,6 +9548,32 @@
   },
   {
     "symbol": "CET",
+    "name": "CoinEx Token",
+    "type": "ERC20",
+    "address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.coinex.org/",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "CET",
     "name": "DICE Money Dicet",
     "type": "ERC20",
     "address": "0xF660cA1e228e7BE1fA8B4f5583145E31147FB577",
@@ -9575,32 +9601,6 @@
       "telegram": "https://t.me/DICEMoneyNews",
       "twitter": "https://twitter.com/DICEsup",
       "youtube": "https://www.youtube.com/channel/UCQAJZnp670MZWnNbZY_ovsg"
-    }
-  },
-  {
-    "symbol": "CET",
-    "name": "CoinEx Token",
-    "type": "ERC20",
-    "address": "0x081F67aFA0cCF8c7B17540767BBe95DF2bA8D97F",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://www.coinex.org/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
     }
   },
   {
@@ -11269,12 +11269,12 @@
   },
   {
     "symbol": "CPL",
-    "name": "Copylock",
+    "name": "CoinPlace",
     "type": "ERC20",
-    "address": "0x248C27F814EF2c9C51c26398d09715Cd35142fC4",
+    "address": "0x4B3C89E986b12f83eED896F02410429a7289526e",
     "ens_address": "",
-    "decimals": 18,
-    "website": "https://www.copylock.info/",
+    "decimals": 9,
+    "website": "https://coinplace.pro",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -11295,12 +11295,12 @@
   },
   {
     "symbol": "CPL",
-    "name": "CoinPlace",
+    "name": "Copylock",
     "type": "ERC20",
-    "address": "0x4B3C89E986b12f83eED896F02410429a7289526e",
+    "address": "0x248C27F814EF2c9C51c26398d09715Cd35142fC4",
     "ens_address": "",
-    "decimals": 9,
-    "website": "https://coinplace.pro",
+    "decimals": 18,
+    "website": "https://www.copylock.info/",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -11327,32 +11327,6 @@
     "ens_address": "",
     "decimals": 18,
     "website": "https://ciphercryptotech.org/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "CPT",
-    "name": "Cryptaur",
-    "type": "ERC20",
-    "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -11400,6 +11374,32 @@
       "telegram": "https://t.me/contents_protocol_en",
       "twitter": "https://twitter.com/contents_prtcl",
       "youtube": "https://www.youtube.com/channel/UCiRtJ81_UV-n3dghkF5fsmA"
+    }
+  },
+  {
+    "symbol": "CPT",
+    "name": "Cryptaur",
+    "type": "ERC20",
+    "address": "0x88d50B466BE55222019D71F9E8fAe17f5f45FCA1",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
     }
   },
   {
@@ -12238,6 +12238,38 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "CTSI",
+    "name": "Cartesi Token",
+    "type": "ERC20",
+    "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://cartesi.io",
+    "logo": {
+      "src": "https://drive.google.com/file/d/1aXVwPSyr3ZiJVmvB5czi82q5B4341cJW/view?usp=sharing",
+      "width": "96px",
+      "height": "96px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@cartesi.io", "url": "https://cartesi.io" },
+    "social": {
+      "blog": "https://medium.com/cartesi",
+      "chat": "",
+      "discord": "https://discord.gg/Pt2NrnS",
+      "facebook": "https://facebook.com/cartesiproject",
+      "forum": "",
+      "github": "https://github.com/cartesi",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/cartesiproject/",
+      "linkedin": "https://www.linkedin.com/company/cartesiproject/",
+      "reddit": "https://www.reddit.com/r/cartesi/",
+      "slack": "",
+      "telegram": "https://t.me/CartesiProject",
+      "twitter": "https://twitter.com/cartesiproject",
+      "youtube": "https://www.youtube.com/channel/UCJ2As__5GSeP6yPBGPbzSOw"
     }
   },
   {
@@ -14905,32 +14937,6 @@
   },
   {
     "symbol": "DRP",
-    "name": "DCorp",
-    "type": "ERC20",
-    "address": "0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed",
-    "ens_address": "",
-    "decimals": 2,
-    "website": "https://www.dcorp.it",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "DRP",
     "name": "Dripcoin",
     "type": "ERC20",
     "address": "0x2799D90C6d44Cb9Aa5fBC377177F16C33E056b82",
@@ -14957,6 +14963,32 @@
       "slack": "",
       "telegram": "",
       "twitter": "https://twitter.com/drip_coin",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "DRP",
+    "name": "DCorp",
+    "type": "ERC20",
+    "address": "0x621d78f2EF2fd937BFca696CabaF9A779F59B3Ed",
+    "ens_address": "",
+    "decimals": 2,
+    "website": "https://www.dcorp.it",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -16139,12 +16171,12 @@
   },
   {
     "symbol": "EDU",
-    "name": "EDU Token",
+    "name": "Educoin",
     "type": "ERC20",
-    "address": "0x2A22e5cCA00a3D63308fa39f29202eB1b39eEf52",
+    "address": "0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c",
     "ens_address": "",
     "decimals": 18,
-    "website": "",
+    "website": "http://www.edu.one/",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -16165,12 +16197,12 @@
   },
   {
     "symbol": "EDU",
-    "name": "Educoin",
+    "name": "EDU Token",
     "type": "ERC20",
-    "address": "0xf263292e14d9D8ECd55B58dAD1F1dF825a874b7c",
+    "address": "0x2A22e5cCA00a3D63308fa39f29202eB1b39eEf52",
     "ens_address": "",
     "decimals": 18,
-    "website": "http://www.edu.one/",
+    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -17844,6 +17876,32 @@
   },
   {
     "symbol": "ETM",
+    "name": "En-Tan-Mo",
+    "type": "ERC20",
+    "address": "0x6020Da0F7c1857dBE4431Ec92A15cC318D933eAa",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "http://www.entanmo.com/",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "ETM",
     "name": "EtherMan Token",
     "type": "ERC20",
     "address": "0x8C576b67e1cAa070fc2cC00B615C1F530796dA3e",
@@ -17870,32 +17928,6 @@
       "slack": "",
       "telegram": "https://t.me/EtherManToken",
       "twitter": "https://twitter.com/ethermandex",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "ETM",
-    "name": "En-Tan-Mo",
-    "type": "ERC20",
-    "address": "0x6020Da0F7c1857dBE4431Ec92A15cC318D933eAa",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "http://www.entanmo.com/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
       "youtube": ""
     }
   },
@@ -18217,32 +18249,6 @@
   },
   {
     "symbol": "EVN",
-    "name": "EvenCoin",
-    "type": "ERC20",
-    "address": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "EVN",
     "name": "Envion AG",
     "type": "ERC20",
     "address": "0xd780Ae2Bf04cD96E577D3D014762f831d97129d0",
@@ -18264,6 +18270,32 @@
       "slack": "",
       "telegram": "https://t.me/Envion",
       "twitter": "https://twitter.com/Envion_org",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "EVN",
+    "name": "EvenCoin",
+    "type": "ERC20",
+    "address": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -20036,15 +20068,15 @@
     }
   },
   {
-    "symbol": "ftc",
-    "name": "free trade chain",
+    "symbol": "FTC",
+    "name": "Feathercoin",
     "type": "ERC20",
-    "address": "0x26aC29dC25806199373cb4884AA9E077a0587c5b",
+    "address": "0xe6f74dcfa0E20883008d8C16b6d9a329189D0C30",
     "ens_address": "",
-    "decimals": 18,
+    "decimals": 2,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "support": { "email": "support@ftccoins.org", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -20062,15 +20094,15 @@
     }
   },
   {
-    "symbol": "FTC",
-    "name": "Feathercoin",
+    "symbol": "ftc",
+    "name": "free trade chain",
     "type": "ERC20",
-    "address": "0xe6f74dcfa0E20883008d8C16b6d9a329189D0C30",
+    "address": "0x26aC29dC25806199373cb4884AA9E077a0587c5b",
     "ens_address": "",
-    "decimals": 2,
+    "decimals": 18,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "support@ftccoins.org", "url": "" },
+    "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -23620,6 +23652,37 @@
   },
   {
     "symbol": "HOT",
+    "name": "Hydro Protocol",
+    "type": "ERC20",
+    "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://thehydrofoundation.com/",
+    "logo": {
+      "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2430.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "libukang@ddex.io", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/hydroprotocol",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "HOT",
     "name": "HoloToken",
     "type": "ERC20",
     "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
@@ -23650,37 +23713,6 @@
       "telegram": "https://t.me/channelholo",
       "twitter": "https://twitter.com/H_O_L_O_",
       "youtube": "https://www.youtube.com/channel/UCSRJRJvkZHk3f1PemqT-R0g"
-    }
-  },
-  {
-    "symbol": "HOT",
-    "name": "Hydro Protocol",
-    "type": "ERC20",
-    "address": "0x9AF839687F6C94542ac5ece2e317dAAE355493A1",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://thehydrofoundation.com/",
-    "logo": {
-      "src": "https://s2.coinmarketcap.com/static/img/coins/32x32/2430.png",
-      "width": "32px",
-      "height": "32px",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "libukang@ddex.io", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "https://t.me/hydroprotocol",
-      "twitter": "",
-      "youtube": ""
     }
   },
   {
@@ -25026,11 +25058,11 @@
   },
   {
     "symbol": "IMT",
-    "name": "MoneyToken",
+    "name": "Immortal",
     "type": "ERC20",
-    "address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
+    "address": "0x22E5F62D0FA19974749faa194e3d3eF6d89c08d7",
     "ens_address": "",
-    "decimals": 18,
+    "decimals": 0,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
@@ -25052,11 +25084,11 @@
   },
   {
     "symbol": "IMT",
-    "name": "Immortal",
+    "name": "MoneyToken",
     "type": "ERC20",
-    "address": "0x22E5F62D0FA19974749faa194e3d3eF6d89c08d7",
+    "address": "0x13119E34E140097a507B07a5564bDe1bC375D9e6",
     "ens_address": "",
-    "decimals": 0,
+    "decimals": 18,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
@@ -26901,32 +26933,6 @@
   },
   {
     "symbol": "KICK",
-    "name": "KickCoin (OLD)",
-    "type": "ERC20",
-    "address": "0x27695E09149AdC738A978e9A678F99E4c39e9eb9",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "https://www.kickico.com/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "KICK",
     "name": "KickToken",
     "type": "ERC20",
     "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
@@ -26953,6 +26959,32 @@
       "slack": "",
       "telegram": "https://t.me/kickico",
       "twitter": "https://twitter.com/KickEcosystem",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "KICK",
+    "name": "KickCoin (OLD)",
+    "type": "ERC20",
+    "address": "0x27695E09149AdC738A978e9A678F99E4c39e9eb9",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://www.kickico.com/",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -27683,6 +27715,32 @@
   },
   {
     "symbol": "LCT",
+    "name": "LendConnect",
+    "type": "ERC20",
+    "address": "0x05C7065d644096a4E4C3FE24AF86e36dE021074b",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "LCT",
     "name": "LiquorChain Token",
     "type": "ERC20",
     "address": "0x4A37A91eec4C97F9090CE66d21D3B3Aadf1aE5aD",
@@ -27708,32 +27766,6 @@
       "reddit": "",
       "slack": "",
       "telegram": "https://t.me/liquorchain_cn",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "LCT",
-    "name": "LendConnect",
-    "type": "ERC20",
-    "address": "0x05C7065d644096a4E4C3FE24AF86e36dE021074b",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
       "twitter": "",
       "youtube": ""
     }
@@ -29917,14 +29949,22 @@
   },
   {
     "symbol": "MDS",
-    "name": "MediShares",
+    "name": "MYDAS",
     "type": "ERC20",
-    "address": "0x66186008C1050627F979d464eABb258860563dbE",
+    "address": "0x92B7e4409dCf8C439f313eD1f05fdC0550d18DDd",
     "ens_address": "",
     "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "website": "http://crypto.mydas.cc/en",
+    "logo": {
+      "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1569924569/MDS-LOGO.png",
+      "width": "256px",
+      "height": "256px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "mydas858@gmail.com",
+      "url": "http://crypto.mydas.cc/en"
+    },
     "social": {
       "blog": "",
       "chat": "",
@@ -29943,22 +29983,14 @@
   },
   {
     "symbol": "MDS",
-    "name": "MYDAS",
+    "name": "MediShares",
     "type": "ERC20",
-    "address": "0x92B7e4409dCf8C439f313eD1f05fdC0550d18DDd",
+    "address": "0x66186008C1050627F979d464eABb258860563dbE",
     "ens_address": "",
     "decimals": 18,
-    "website": "http://crypto.mydas.cc/en",
-    "logo": {
-      "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1569924569/MDS-LOGO.png",
-      "width": "256px",
-      "height": "256px",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "mydas858@gmail.com",
-      "url": "http://crypto.mydas.cc/en"
-    },
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -31193,37 +31225,6 @@
   },
   {
     "symbol": "MTC",
-    "name": "Medical Token Currency",
-    "type": "ERC20",
-    "address": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://ico.docademic.com/",
-    "logo": {
-      "src": "https://cdn.docademic.com/images/ico/mtc200.png",
-      "width": "200px",
-      "height": "200px",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "support@docademic.com", "url": "" },
-    "social": {
-      "blog": "https://news.docademic.com",
-      "chat": "",
-      "facebook": "https://www.facebook.com/docademic",
-      "forum": "",
-      "github": "https://github.com/Docademic",
-      "gitter": "",
-      "instagram": "https://www.instagram.com/docademic/",
-      "linkedin": "https://www.linkedin.com/company/doctordice/",
-      "reddit": "https://www.reddit.com/user/Docademic/",
-      "slack": "",
-      "telegram": "https://t.me/docademicofficial",
-      "twitter": "https://twitter.com/docademic",
-      "youtube": "https://www.youtube.com/channel/UCnF48IoeGNu6P78ABB2XhSw/videos?view_as=subscriber"
-    }
-  },
-  {
-    "symbol": "MTC",
     "name": "MTC Mesh Network",
     "type": "ERC20",
     "address": "0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088",
@@ -31251,6 +31252,37 @@
       "telegram": "https://t.me/MTC_IO",
       "twitter": "https://twitter.com/mtcmesh",
       "youtube": "https://www.youtube.com/channel/UCL-GR6sJSh19h_ByRuE8mTw?view_as=subscriber"
+    }
+  },
+  {
+    "symbol": "MTC",
+    "name": "Medical Token Currency",
+    "type": "ERC20",
+    "address": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://ico.docademic.com/",
+    "logo": {
+      "src": "https://cdn.docademic.com/images/ico/mtc200.png",
+      "width": "200px",
+      "height": "200px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@docademic.com", "url": "" },
+    "social": {
+      "blog": "https://news.docademic.com",
+      "chat": "",
+      "facebook": "https://www.facebook.com/docademic",
+      "forum": "",
+      "github": "https://github.com/Docademic",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/docademic/",
+      "linkedin": "https://www.linkedin.com/company/doctordice/",
+      "reddit": "https://www.reddit.com/user/Docademic/",
+      "slack": "",
+      "telegram": "https://t.me/docademicofficial",
+      "twitter": "https://twitter.com/docademic",
+      "youtube": "https://www.youtube.com/channel/UCnF48IoeGNu6P78ABB2XhSw/videos?view_as=subscriber"
     }
   },
   {
@@ -34626,37 +34658,6 @@
   },
   {
     "symbol": "PASS",
-    "name": "Blockpass",
-    "type": "ERC20",
-    "address": "0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
-    "ens_address": "",
-    "decimals": 6,
-    "website": "https://www.blockpass.org",
-    "logo": {
-      "src": "https://cdn.blockpass.org/images/pass-token.png",
-      "width": "180px",
-      "height": "180px",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "support@blockpass.org", "url": "" },
-    "social": {
-      "blog": "https://www.blockpass.org/media/",
-      "chat": "",
-      "facebook": "https://www.facebook.com/blockpassorg",
-      "forum": "",
-      "github": "https://github.com/blockpass-org",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company/blockpass",
-      "reddit": "https://www.reddit.com/r/BlockpassIDN",
-      "slack": "",
-      "telegram": "https://t.me/blockpass",
-      "twitter": "https://twitter.com/BlockpassOrg",
-      "youtube": "https://www.youtube.com/channel/UC4HuNuNfNTRtF4cUtqGyL2A"
-    }
-  },
-  {
-    "symbol": "PASS",
     "name": "WISEPASS Token",
     "type": "ERC20",
     "address": "0x77761e63C05aeE6648FDaeaa9B94248351AF9bCd",
@@ -34684,6 +34685,37 @@
       "telegram": "https://t.me/wisepass",
       "twitter": "https://twitter.com/wisepass_co",
       "youtube": "https://www.youtube.com/channel/UCKZ4LdzdKo1aHg0ruK43Aww"
+    }
+  },
+  {
+    "symbol": "PASS",
+    "name": "Blockpass",
+    "type": "ERC20",
+    "address": "0xeE4458e052B533b1aABD493B5f8c4d85D7B263Dc",
+    "ens_address": "",
+    "decimals": 6,
+    "website": "https://www.blockpass.org",
+    "logo": {
+      "src": "https://cdn.blockpass.org/images/pass-token.png",
+      "width": "180px",
+      "height": "180px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@blockpass.org", "url": "" },
+    "social": {
+      "blog": "https://www.blockpass.org/media/",
+      "chat": "",
+      "facebook": "https://www.facebook.com/blockpassorg",
+      "forum": "",
+      "github": "https://github.com/blockpass-org",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/blockpass",
+      "reddit": "https://www.reddit.com/r/BlockpassIDN",
+      "slack": "",
+      "telegram": "https://t.me/blockpass",
+      "twitter": "https://twitter.com/BlockpassOrg",
+      "youtube": "https://www.youtube.com/channel/UC4HuNuNfNTRtF4cUtqGyL2A"
     }
   },
   {
@@ -36470,32 +36502,6 @@
   },
   {
     "symbol": "PRO",
-    "name": "Propy",
-    "type": "ERC20",
-    "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "https://propy.com",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "ico@propy.com", "url": "" },
-    "social": {
-      "blog": "https://medium.com/@propy",
-      "chat": "",
-      "facebook": "https://www.facebook.com/propyinc",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company/propy-inc-",
-      "reddit": "",
-      "slack": "https://propy.slack.com",
-      "telegram": "https://t.me/propy",
-      "twitter": "https://twitter.com/propyinc",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "PRO",
     "name": "Pro Token",
     "type": "ERC20",
     "address": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
@@ -36517,6 +36523,32 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "PRO",
+    "name": "Propy",
+    "type": "ERC20",
+    "address": "0x226bb599a12C826476e3A771454697EA52E9E220",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://propy.com",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "ico@propy.com", "url": "" },
+    "social": {
+      "blog": "https://medium.com/@propy",
+      "chat": "",
+      "facebook": "https://www.facebook.com/propyinc",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/propy-inc-",
+      "reddit": "",
+      "slack": "https://propy.slack.com",
+      "telegram": "https://t.me/propy",
+      "twitter": "https://twitter.com/propyinc",
       "youtube": ""
     }
   },
@@ -39366,14 +39398,19 @@
   },
   {
     "symbol": "RSR",
-    "name": "Reserve Rights Token",
+    "name": "Reserve Rights",
     "type": "ERC20",
     "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
     "ens_address": "",
     "decimals": 18,
-    "website": "https://reserve.org/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "website": "https://reserve.org",
+    "logo": {
+      "src": "https://assets.website-files.com/5c0649fb67dd7b3627d59953/5cd5f104f33c7e7d1af3e18b_RSR-stamp.png",
+      "width": "600px",
+      "height": "600px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@reserve.org", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -39385,8 +39422,8 @@
       "linkedin": "",
       "reddit": "",
       "slack": "",
-      "telegram": "",
-      "twitter": "",
+      "telegram": "https://t.me/reservecurrency",
+      "twitter": "https://twitter.com/reserveprotocol",
       "youtube": ""
     }
   },
@@ -39397,9 +39434,14 @@
     "address": "0x1C5857e110CD8411054660F60B5De6a6958CfAE2",
     "ens_address": "",
     "decimals": 18,
-    "website": "https://reserve.org/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "website": "https://reserve.org",
+    "logo": {
+      "src": "https://assets.website-files.com/5c0649fb67dd7b3627d59953/5cd4ead690d2de5d99a7d5d7_RSV-stamp-black.png",
+      "width": "300px",
+      "height": "300px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@reserve.org", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -39411,8 +39453,8 @@
       "linkedin": "",
       "reddit": "",
       "slack": "",
-      "telegram": "",
-      "twitter": "",
+      "telegram": "https://t.me/reservecurrency",
+      "twitter": "https://twitter.com/reserveprotocol",
       "youtube": ""
     }
   },
@@ -41196,35 +41238,6 @@
     "symbol": "SKRP",
     "name": "Skraps",
     "type": "ERC20",
-    "address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://skraps.io/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": {
-      "email": "info@skraps.io",
-      "url": "https://skraps.io/#support"
-    },
-    "social": {
-      "blog": "https://medium.com/@SKRAPS_IO",
-      "chat": "",
-      "facebook": "https://www.facebook.com/SKRAPSAPP/",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "https://www.reddit.com/r/SKRAPSio/",
-      "slack": "",
-      "telegram": "https://t.me/SkrapsOfficial",
-      "twitter": "https://twitter.com/SKRAPS_IO",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "SKRP",
-    "name": "Skraps",
-    "type": "ERC20",
     "address": "0xfdFE8b7aB6CF1bD1E3d14538Ef40686296C42052",
     "ens_address": "",
     "decimals": 18,
@@ -41270,6 +41283,35 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "SKRP",
+    "name": "Skraps",
+    "type": "ERC20",
+    "address": "0x6E34d8d84764D40f6D7b39cd569Fd017bF53177D",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://skraps.io/",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": {
+      "email": "info@skraps.io",
+      "url": "https://skraps.io/#support"
+    },
+    "social": {
+      "blog": "https://medium.com/@SKRAPS_IO",
+      "chat": "",
+      "facebook": "https://www.facebook.com/SKRAPSAPP/",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/SKRAPSio/",
+      "slack": "",
+      "telegram": "https://t.me/SkrapsOfficial",
+      "twitter": "https://twitter.com/SKRAPS_IO",
       "youtube": ""
     }
   },
@@ -41415,14 +41457,14 @@
   },
   {
     "symbol": "SLT",
-    "name": "Social Lending Token",
+    "name": "Smartlands",
     "type": "ERC20",
-    "address": "0x851017523AE205adc9195e7F97D029f4Cfe7794c",
+    "address": "0x7A5fF295Dc8239d5C2374E4D894202aAF029Cab6",
     "ens_address": "",
-    "decimals": 9,
-    "website": "https://sociallending.io/",
+    "decimals": 3,
+    "website": "http://smartlands.io",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "support": { "email": "", "url": "contact@smartlands.io" },
     "social": {
       "blog": "",
       "chat": "",
@@ -41441,14 +41483,14 @@
   },
   {
     "symbol": "SLT",
-    "name": "Smartlands",
+    "name": "Social Lending Token",
     "type": "ERC20",
-    "address": "0x7A5fF295Dc8239d5C2374E4D894202aAF029Cab6",
+    "address": "0x851017523AE205adc9195e7F97D029f4Cfe7794c",
     "ens_address": "",
-    "decimals": 3,
-    "website": "http://smartlands.io",
+    "decimals": 9,
+    "website": "https://sociallending.io/",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "contact@smartlands.io" },
+    "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
@@ -41545,6 +41587,32 @@
   },
   {
     "symbol": "SMS",
+    "name": "Speed Mining Services",
+    "type": "ERC20",
+    "address": "0x39013F961c378f02C2b82A6E1d31E9812786FD9D",
+    "ens_address": "",
+    "decimals": 3,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "SMS",
     "name": "Speed Mining Service",
     "type": "ERC20",
     "address": "0xe5867608b51A2c9C78B9587355cC093140A49B0A",
@@ -41570,20 +41638,20 @@
     }
   },
   {
-    "symbol": "SMS",
-    "name": "Speed Mining Services",
+    "symbol": "SMT",
+    "name": "Smart Node",
     "type": "ERC20",
-    "address": "0x39013F961c378f02C2b82A6E1d31E9812786FD9D",
+    "address": "0x2dCFAAc11c9EebD8C6C42103Fe9e2a6AD237aF27",
     "ens_address": "",
-    "decimals": 3,
-    "website": "",
+    "decimals": 18,
+    "website": "http://smartnode.org",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "support": { "email": "info@smartnode.org", "url": "" },
     "social": {
       "blog": "",
       "chat": "",
-      "facebook": "",
-      "forum": "",
+      "facebook": "https://www.facebook.com/Smart.Node.Group",
+      "forum": "https://bitcointalk.org/index.php?topic=2612181",
       "github": "",
       "gitter": "",
       "instagram": "",
@@ -41591,8 +41659,8 @@
       "reddit": "",
       "slack": "",
       "telegram": "",
-      "twitter": "",
-      "youtube": ""
+      "twitter": "https://twitter.com/SmartNodeGroup",
+      "youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
     }
   },
   {
@@ -41674,32 +41742,6 @@
       "telegram": "https://t.me/joinchat/B3UENkIW3R9A6v_4KnpOZQ",
       "twitter": "https://twitter.com/socialmedia_mrk",
       "youtube": "https://www.youtube.com/channel/UCPJ919jN8eCcVDkzbCR06nw"
-    }
-  },
-  {
-    "symbol": "SMT",
-    "name": "Smart Node",
-    "type": "ERC20",
-    "address": "0x2dCFAAc11c9EebD8C6C42103Fe9e2a6AD237aF27",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "http://smartnode.org",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "info@smartnode.org", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "https://www.facebook.com/Smart.Node.Group",
-      "forum": "https://bitcointalk.org/index.php?topic=2612181",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "https://twitter.com/SmartNodeGroup",
-      "youtube": "https://www.youtube.com/channel/UC2FvYOXYEOPKgOzdePT8BRA"
     }
   },
   {
@@ -42076,32 +42118,6 @@
   },
   {
     "symbol": "SNX",
-    "name": "Synthetic Network Token",
-    "type": "ERC20",
-    "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "SNX",
     "name": "Synthetix Network Token",
     "type": "ERC20",
     "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
@@ -42128,6 +42144,32 @@
       "slack": "",
       "telegram": "https://t.me/havven_news",
       "twitter": "https://twitter.com/synthetix_io",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "SNX",
+    "name": "Synthetic Network Token",
+    "type": "ERC20",
+    "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -42372,6 +42414,37 @@
   },
   {
     "symbol": "SPAZ",
+    "address": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
+    "decimals": 8,
+    "name": "Swapcoinz",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://swapcoinz.io/",
+    "logo": {
+      "src": "https://imgur.com/a/s47qvup",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "contact@swapcoinz.org", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "https://www.facebook.com/groups/swapcoinz/",
+      "forum": "https://bitcointalk.org/index.php?topic=5129469",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/brighterfuturekids/",
+      "linkedin": "https://www.linkedin.com/in/mariam-ahmed-santana-43a506115/",
+      "reddit": "https://www.reddit.com/user/swapcoinz/",
+      "slack": "",
+      "telegram": "https://t.me/swapcoinzgroup",
+      "twitter": "https://twitter.com/swapcoinz",
+      "youtube": "https://www.youtube.com/channel/UCSwOgp9fUpRjy_BaonbR1Mg"
+    }
+  },
+  {
+    "symbol": "SPAZ",
     "name": "SWAPCOINZ",
     "type": "ERC20",
     "address": "0x8F9bfe5b6A5C3fEa8c64ad41a5Cf6f60Ec4aa47c",
@@ -42398,37 +42471,6 @@
       "instagram": "https://www.instagram.com/brighterfuturekids",
       "linkedin": "https://www.linkedin.com/in/mariam-ahmed-santana-43a506115",
       "reddit": "https://www.reddit.com/user/swapcoinz",
-      "slack": "",
-      "telegram": "https://t.me/swapcoinzgroup",
-      "twitter": "https://twitter.com/swapcoinz",
-      "youtube": "https://www.youtube.com/channel/UCSwOgp9fUpRjy_BaonbR1Mg"
-    }
-  },
-  {
-    "symbol": "SPAZ",
-    "address": "0x810908B285f85Af668F6348cD8B26D76B3EC12e1",
-    "decimals": 8,
-    "name": "Swapcoinz",
-    "type": "ERC20",
-    "ens_address": "",
-    "website": "https://swapcoinz.io/",
-    "logo": {
-      "src": "https://imgur.com/a/s47qvup",
-      "width": "",
-      "height": "",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "contact@swapcoinz.org", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "https://www.facebook.com/groups/swapcoinz/",
-      "forum": "https://bitcointalk.org/index.php?topic=5129469",
-      "github": "",
-      "gitter": "",
-      "instagram": "https://www.instagram.com/brighterfuturekids/",
-      "linkedin": "https://www.linkedin.com/in/mariam-ahmed-santana-43a506115/",
-      "reddit": "https://www.reddit.com/user/swapcoinz/",
       "slack": "",
       "telegram": "https://t.me/swapcoinzgroup",
       "twitter": "https://twitter.com/swapcoinz",
@@ -43625,32 +43667,6 @@
     }
   },
   {
-    "symbol": "sUSD",
-    "name": "Synth sUSD",
-    "type": "ERC20",
-    "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "SUSD",
     "name": "sUSD Synth Token",
     "type": "ERC20",
@@ -43678,6 +43694,32 @@
       "slack": "",
       "telegram": "",
       "twitter": "https://twitter.com/synthetix_io",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "sUSD",
+    "name": "Synth sUSD",
+    "type": "ERC20",
+    "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -44436,12 +44478,12 @@
   },
   {
     "symbol": "TCH",
-    "name": "TigerCash",
+    "name": "ThoreCash",
     "type": "ERC20",
-    "address": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+    "address": "0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
     "ens_address": "",
-    "decimals": 18,
-    "website": "https://www.cointiger.com/en-us/#/index",
+    "decimals": 0,
+    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -44462,12 +44504,12 @@
   },
   {
     "symbol": "TCH",
-    "name": "ThoreCash",
+    "name": "TigerCash",
     "type": "ERC20",
-    "address": "0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+    "address": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
     "ens_address": "",
-    "decimals": 0,
-    "website": "",
+    "decimals": 18,
+    "website": "https://www.cointiger.com/en-us/#/index",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -45283,6 +45325,32 @@
   },
   {
     "symbol": "TIC",
+    "name": "Thinschain",
+    "type": "ERC20",
+    "address": "0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://thingschain.network",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "TIC",
     "name": "Trust Invest",
     "type": "ERC20",
     "address": "0x614b9802D45Aa1bC2282651dC1408632F9027A6e",
@@ -45302,32 +45370,6 @@
       "facebook": "",
       "forum": "",
       "github": "https://github.com/trustinvest",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TIC",
-    "name": "Thinschain",
-    "type": "ERC20",
-    "address": "0x72430A612Adc007c50e3b6946dBb1Bb0fd3101D1",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "https://thingschain.network",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
       "gitter": "",
       "instagram": "",
       "linkedin": "",
@@ -46201,32 +46243,6 @@
   },
   {
     "symbol": "TRC",
-    "name": "Terracoin",
-    "type": "ERC20",
-    "address": "0xcB3F902bf97626391bF8bA87264bbC3DC13469be",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://www.terracoin.io",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "therealcoin2017@gmail.com", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TRC",
     "name": "Trader Cash",
     "type": "ERC20",
     "address": "0xdB52a87cda28EdA00f8aDd1C79c9DB4a50a70457",
@@ -46256,6 +46272,32 @@
       "slack": "",
       "telegram": "",
       "twitter": "https://twitter.com/TraderCashToken",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "TRC",
+    "name": "Terracoin",
+    "type": "ERC20",
+    "address": "0xcB3F902bf97626391bF8bA87264bbC3DC13469be",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.terracoin.io",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "therealcoin2017@gmail.com", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
       "youtube": ""
     }
   },
@@ -52943,7 +52985,7 @@
     "address": "0x35E3a8658D87FA71Ba349bac7F3AeD948F6EbC0C",
     "ens_address": "",
     "decimals": 18,
-    "website": "https://www.trusttoken.com",
+    "website": "https://zyrri.io",
     "logo": {
       "src": "https://zyrri.io/images/icons/logo.jpg",
       "width": "",
