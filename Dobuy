@@ -1,36 +1,36 @@
 {
-"symbol": "",
+"symbol": "DBY",
 
-"name": "",
+"name": "dobuy",
 
 "type": "ERC20",
 
-"address": "",
+"address": "0x7c82a76DB0166b0e153A66B1A4c331970B2b0EE2",
 "ens_address": "",
-"decimals": ,
-"website": "",
+"decimals":18 ,
+"website": "www.thedobuy.com",
 "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
+    "src": "http://www.thedobuy.com/logo/dobuy_logo.png",
+    "width": "256",
+    "height": "256",
     "ipfs_hash": ""
 },
 "support": {
-    "email": "",
-    "url": ""
+    "email": "info@thedobuy.com",
+    "url": "https://thedobuy.com"
 },
 "social": {
     "blog": "",
     "chat": "",
-    "facebook": "",
+    "facebook": "https://www.facebook.com/dobuydigitalplatform",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/company/thedobuy",
     "reddit": "",
     "slack": "",
-    "telegram": "",
+    "telegram": "https://t.me/thedobuyofficial",
     "twitter": "",
     "youtube": ""
 }
