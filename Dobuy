@@ -1,14 +1,14 @@
 {
 "symbol": "DBY",
 
-"name": "dobuy",
+"name": "DOBUY",
 
 "type": "ERC20",
 
 "address": "0x7c82a76DB0166b0e153A66B1A4c331970B2b0EE2",
 "ens_address": "",
 "decimals":18 ,
-"website": "www.thedobuy.com",
+"website": "https://thedobuy.com",
 "logo": {
     "src": "http://www.thedobuy.com/logo/dobuy_logo.png",
     "width": "256",
@@ -16,8 +16,8 @@
     "ipfs_hash": ""
 },
 "support": {
-    "email": "info@thedobuy.com",
-    "url": "https://thedobuy.com"
+    "email": "",
+    "url": ""
 },
 "social": {
     "blog": "",
