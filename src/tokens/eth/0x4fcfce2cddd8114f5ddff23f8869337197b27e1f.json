@@ -1,25 +1,19 @@
 {
-"symbol": "XTM",
-
-"name": "Torum",
-
-"type": "ERC20",
-
-"address": "0x4fcfce2cddd8114f5ddff23f8869337197b27e1f",
-"ens_address": "",
-"decimals": 18,
-"website": "www.torum.com",
-"logo": {
+  "symbol": "XTM",
+  "name": "Torum",
+  "type": "ERC20",
+  "address": "0x4FcfCe2CddD8114f5DDFF23f8869337197b27e1F",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "www.torum.com",
+  "logo": {
     "src": "https://torum-image.s3.us-east-2.amazonaws.com/torum-logo/torum-48px.png",
     "width": "48px",
     "height": "48px",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "support@torum.com",
-    "url": ""
-},
-"social": {
+  },
+  "support": { "email": "support@torum.com", "url": "" },
+  "social": {
     "blog": "",
     "chat": "",
     "facebook": "https://www.facebook.com/torum.official",
@@ -33,5 +27,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/torum_official",
     "youtube": ""
-}
+  }
 }

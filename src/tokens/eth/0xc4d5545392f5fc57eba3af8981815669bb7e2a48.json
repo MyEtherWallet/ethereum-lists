@@ -2,16 +2,11 @@
   "symbol": "HDP",
   "name": "HEdpAY",
   "type": "ERC20",
-  "address": "0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
+  "address": "0xc4d5545392f5Fc57EBa3AF8981815669bb7E2A48",
   "ens_address": "",
   "decimals": 4,
   "website": "https://www.hedpay.com",
-  "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "info@hedpay.com", "url": "" },
   "social": {
     "blog": "https://blog.hedpay.com",

@@ -1,25 +1,19 @@
 {
-"symbol": "XYS",
-
-"name": "ANALYSX",
-
-"type": "ERC20",
-
-"address": "0xfa91f4177476633f100c59d336c0f2ffad414cba",
-"ens_address": "",
-"decimals": 18,
-"website": "https://analysx.io/",
-"logo": {
+  "symbol": "XYS",
+  "name": "ANALYSX",
+  "type": "ERC20",
+  "address": "0xfa91f4177476633f100C59D336C0f2FfAd414CBA",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://analysx.io/",
+  "logo": {
     "src": "https://i.imgur.com/rEB0afE.png",
     "width": "256px",
     "height": "256px",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "contact@analysx.io",
-    "url": ""
-},
-"social": {
+  },
+  "support": { "email": "contact@analysx.io", "url": "" },
+  "social": {
     "blog": "https://blog.analysx.io/",
     "chat": "",
     "facebook": "",
@@ -33,5 +27,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/analysxio",
     "youtube": ""
-}
+  }
 }
