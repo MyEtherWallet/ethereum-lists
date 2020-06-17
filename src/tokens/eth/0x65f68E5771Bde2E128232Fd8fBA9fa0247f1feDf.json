@@ -1,25 +1,17 @@
 {
-"symbol": "PFD",
-
-"name": "PlaceFinder",
-
-"type": "ERC20",
-
-"address": "0x65f68E5771Bde2E128232Fd8fBA9fa0247f1feDf",
-"ens_address": "",
-"decimals":18 ,
-"website": "http://cryptobilly.net/",
-"logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-},
-"support": {
+  "symbol": "PFD",
+  "name": "PlaceFinder",
+  "type": "ERC20",
+  "address": "0x65f68E5771Bde2E128232Fd8fBA9fa0247f1feDf",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://cryptobilly.net/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": {
     "email": "info@cryptobilly.net",
     "url": "http://cryptobilly.net/contact-us/"
-},
-"social": {
+  },
+  "social": {
     "blog": "",
     "chat": "",
     "facebook": "",
@@ -33,5 +25,5 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
-}
+  }
 }
