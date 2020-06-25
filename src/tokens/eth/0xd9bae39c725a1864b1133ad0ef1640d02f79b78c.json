@@ -1,0 +1,37 @@
+{
+"symbol": "TST",
+
+"name": "Touch Social Token",
+
+"type": "ERC20",
+
+"address": "0xd9bae39c725a1864b1133ad0ef1640d02f79b78c",
+"ens_address": "",
+"decimals": 18,
+"website": "https://touchsocial.xyz",
+"logo": {
+    "src": "https://touchsocial.xyz/storage/2019/01/touch-logo.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "admin@touchsocial.xyz",
+    "url": "https://touchsocial.xyz"
+},
+"social": {
+    "blog": "https://touchsocial.xyz/blog-news/",
+    "chat": "https://apps.apple.com/us/app/touch-social/id1502293452",
+    "facebook": "https://play.google.com/store/apps/details?id=xyz.touchsocial.app",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/touchsmarttoken",
+    "twitter": "https://twitter.com/touchsocialtst",
+    "youtube": ""
+}
+}
