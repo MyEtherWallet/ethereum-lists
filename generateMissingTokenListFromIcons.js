@@ -9,18 +9,14 @@ function generateMissingToken() {
   const list = JSON.parse(fs.readFileSync(ethList, 'utf8'));
   const exclusion = [
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
-    '0xa66d83716c7cfe425b44d0f7ef92de263468fb3d',
-    '0x97208bf5dc25e6fd4719cfc2a3c1d1a59a974c3b',
-    '0x1c5b760f133220855340003b43cc9113ec494823',
-    '0xee388f0527907339254f31254faeaffc4072a7ed',
-    '0xa367a2513cbd5be1c75a745914521a93e011549c'  
+    '0xef68e7c694f40c8202821edf525de3782458639f'
   ]
 
   const addressOnly = [];
   const notInList = [];
   icons.forEach(icon => {
-    const idxOf = icon.indexOf('-');
-    const getAddr = icon.substring(idxOf + 1, icon.length - 4);
+    const idxOf = icon.indexOf('-0x');
+    const getAddr = icon.substring(idxOf+1, icon.length);
     if(getAddr.length !== 42) {
       const actualAddress = getAddr.substring(getAddr.indexOf('0x'), 42);
       addressOnly.push(actualAddress);
