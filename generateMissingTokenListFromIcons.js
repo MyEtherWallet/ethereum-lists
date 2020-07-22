@@ -9,7 +9,8 @@ function generateMissingToken() {
   const list = JSON.parse(fs.readFileSync(ethList, 'utf8'));
   const exclusion = [
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
-    '0xef68e7c694f40c8202821edf525de3782458639f'
+    '0xef68e7c694f40c8202821edf525de3782458639f',
+    '0x85e076361cc813a908ff672f9bad1541474402b2' // TEL token migrated
   ]
 
   const addressOnly = [];
