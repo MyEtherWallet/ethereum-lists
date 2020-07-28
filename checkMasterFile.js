@@ -36,7 +36,8 @@ const constraints = {
       'tomo',
       'tt',
       'ubq',
-      'web' ]
+      'web',
+      'wtc' ]
     
     },
     type: "string"
