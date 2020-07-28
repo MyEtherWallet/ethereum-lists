@@ -2,7 +2,7 @@
   "symbol": "WBX",
   "name": "WiBX Utility Token",
   "type": "ERC20",
-  "address": "0xbb97e381f1d1e94ffa2a5844f6875e6146981009",
+  "address": "0xbB97e381F1d1e94ffa2A5844F6875e6146981009",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.wibx.io",
@@ -12,10 +12,7 @@
     "height": "64px",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "support@wibx.io",
-    "url": "https://www.wibx.io"
-  },
+  "support": { "email": "support@wibx.io", "url": "https://www.wibx.io" },
   "social": {
     "blog": "https://medium.com/wibxcoin",
     "chat": "",
