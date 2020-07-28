@@ -705,6 +705,14 @@
   },
   {
     "network": "eth",
+    "contract_address": "0x485c540b5a299eaeb7307f21f5bc3def6a920b5c",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x485c540b5a299eaeb7307f21f5bc3def6a920b5c.json",
+    "website": "https://www.altcoinstalks.com/"
+  },
+  {
+    "network": "eth",
     "contract_address": "0x49b127bc33ce7e1586ec28cec6a65b112596c822",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ALX-0x49b127bc33ce7e1586ec28cec6a65b112596c822.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ALX-0x49b127bc33ce7e1586ec28cec6a65b112596c822.png",
@@ -897,19 +905,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x3d207d98e762fb64e163abddcb25a913eeb741cd",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/APT-0x3d207d98e762fb64e163abddcb25a913eeb741cd.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/APT-0x3d207d98e762fb64e163abddcb25a913eeb741cd.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x3d207d98e762fb64e163abddcb25a913eeb741cd.json",
-    "website": "http://www.adpaytoken.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/APT-0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/APT-0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x23ae3c5b39b12f0693e05435eeaa1e51d8c61530.json",
     "website": "https://aigang.network"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x3d207d98e762fb64e163abddcb25a913eeb741cd",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/APT-0x3d207d98e762fb64e163abddcb25a913eeb741cd.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/APT-0x3d207d98e762fb64e163abddcb25a913eeb741cd.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x3d207d98e762fb64e163abddcb25a913eeb741cd.json",
+    "website": "http://www.adpaytoken.com/"
   },
   {
     "network": "eth",
@@ -1113,19 +1121,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x1543d0f83489e82a1344df6827b23d541f235a50",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ATH-0x1543d0f83489e82a1344df6827b23d541f235a50.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ATH-0x1543d0f83489e82a1344df6827b23d541f235a50.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1543d0f83489e82a1344df6827b23d541f235a50.json",
-    "website": "https://aigatha.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x17052d51e954592c1046320c2371abab6c73ef10",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ATH-0x17052d51e954592c1046320c2371abab6c73ef10.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ATH-0x17052d51e954592c1046320c2371abab6c73ef10.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x17052d51e954592c1046320c2371abab6c73ef10.json",
     "website": "https://athenianwarriortoken.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x1543d0f83489e82a1344df6827b23d541f235a50",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ATH-0x1543d0f83489e82a1344df6827b23d541f235a50.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ATH-0x1543d0f83489e82a1344df6827b23d541f235a50.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1543d0f83489e82a1344df6827b23d541f235a50.json",
+    "website": "https://aigatha.com"
   },
   {
     "network": "eth",
@@ -1985,11 +1993,11 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xce59d29b09aae565feeef8e52f47c3cd5368c663",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BLX (Bullion)-0xce59d29b09aae565feeef8e52f47c3cd5368c663.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BLX (Bullion)-0xce59d29b09aae565feeef8e52f47c3cd5368c663.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xce59d29b09aae565feeef8e52f47c3cd5368c663.json",
-    "website": "www.bullioncrypto.info"
+    "contract_address": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd1ef9a7310d0806855c672288ef5a1bab62cef33.json",
+    "website": "www.believercards.com"
   },
   {
     "network": "eth",
@@ -1998,6 +2006,14 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BLX (Iconomi)-0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe5a7c12972f3bbfe70ed29521c8949b8af6a0970.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xce59d29b09aae565feeef8e52f47c3cd5368c663",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BLX (Bullion)-0xce59d29b09aae565feeef8e52f47c3cd5368c663.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BLX (Bullion)-0xce59d29b09aae565feeef8e52f47c3cd5368c663.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xce59d29b09aae565feeef8e52f47c3cd5368c663.json",
+    "website": "www.bullioncrypto.info"
   },
   {
     "network": "eth",
@@ -2073,18 +2089,18 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xef51c9377feb29856e61625caf9390bd0b67ea18",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BNC-0xef51c9377feb29856e61625caf9390bd0b67ea18.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BNC-0xef51c9377feb29856e61625caf9390bd0b67ea18.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xef51c9377feb29856e61625caf9390bd0b67ea18.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0xdd6bf56ca2ada24c683fac50e37783e55b57af9f",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BNC-0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BNC-0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xdd6bf56ca2ada24c683fac50e37783e55b57af9f.json",
+    "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xef51c9377feb29856e61625caf9390bd0b67ea18",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BNC-0xef51c9377feb29856e61625caf9390bd0b67ea18.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BNC-0xef51c9377feb29856e61625caf9390bd0b67ea18.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xef51c9377feb29856e61625caf9390bd0b67ea18.json",
     "website": ""
   },
   {
@@ -2137,19 +2153,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x746dda2ea243400d5a63e0700f190ab79f06489e",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOA-0x746dda2ea243400d5a63e0700f190ab79f06489e.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOA-0x746dda2ea243400d5a63e0700f190ab79f06489e.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x746dda2ea243400d5a63e0700f190ab79f06489e.json",
-    "website": "https://bosagora.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xfb6becd99282d7ca14d0890f3e4f073d9dd522e9",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xfb6becd99282d7ca14d0890f3e4f073d9dd522e9.json",
     "website": "https://ucbibanking.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x746dda2ea243400d5a63e0700f190ab79f06489e",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOA-0x746dda2ea243400d5a63e0700f190ab79f06489e.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOA-0x746dda2ea243400d5a63e0700f190ab79f06489e.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x746dda2ea243400d5a63e0700f190ab79f06489e.json",
+    "website": "https://bosagora.io"
   },
   {
     "network": "eth",
@@ -2217,19 +2233,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x973b569b1d025c41cd9c19cbf8f931175e874dd0",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOOM-0x973b569b1d025c41cd9c19cbf8f931175e874dd0.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOOM-0x973b569b1d025c41cd9c19cbf8f931175e874dd0.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x973b569b1d025c41cd9c19cbf8f931175e874dd0.json",
-    "website": "https://theboomtoken.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOOM-0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOOM-0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd.json",
     "website": "https://www.boomtoken.io/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x973b569b1d025c41cd9c19cbf8f931175e874dd0",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOOM-0x973b569b1d025c41cd9c19cbf8f931175e874dd0.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOOM-0x973b569b1d025c41cd9c19cbf8f931175e874dd0.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x973b569b1d025c41cd9c19cbf8f931175e874dd0.json",
+    "website": "https://theboomtoken.com/"
   },
   {
     "network": "eth",
@@ -2393,19 +2409,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BST-0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BST-0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.json",
-    "website": "https://blocksquare.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BST-0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BST-0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd4f6f9ae14399fd5eb8dfc7725f0094a1a7f5d80.json",
     "website": "https://bitsten.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BST-0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BST-0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a.json",
+    "website": "https://blocksquare.io"
   },
   {
     "network": "eth",
@@ -2593,19 +2609,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xf82d62d65f0c670ac4d88abdf1afefac11522a16",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf82d62d65f0c670ac4d88abdf1afefac11522a16.json",
-    "website": "https://bitcoinmillioncoin.biz"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BTM-0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BTM-0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xcb97e65f07da24d46bcdd078ebebd7c6e6e3d750.json",
     "website": "https://bytom.io"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xf82d62d65f0c670ac4d88abdf1afefac11522a16",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf82d62d65f0c670ac4d88abdf1afefac11522a16.json",
+    "website": "https://bitcoinmillioncoin.biz"
   },
   {
     "network": "eth",
@@ -2977,19 +2993,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x1234567461d3f8db7496581774bd869c83d51c93",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CAT (BitClave)-0x1234567461d3f8db7496581774bd869c83d51c93.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CAT (BitClave)-0x1234567461d3f8db7496581774bd869c83d51c93.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1234567461d3f8db7496581774bd869c83d51c93.json",
-    "website": "https://www.bitclave.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x56ba2ee7890461f463f7be02aac3099f6d5811a8",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CAT (Blockcat)-0x56ba2ee7890461f463f7be02aac3099f6d5811a8.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CAT (Blockcat)-0x56ba2ee7890461f463f7be02aac3099f6d5811a8.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x56ba2ee7890461f463f7be02aac3099f6d5811a8.json",
     "website": "https://blockcat.io"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x1234567461d3f8db7496581774bd869c83d51c93",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CAT (BitClave)-0x1234567461d3f8db7496581774bd869c83d51c93.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CAT (BitClave)-0x1234567461d3f8db7496581774bd869c83d51c93.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1234567461d3f8db7496581774bd869c83d51c93.json",
+    "website": "https://www.bitclave.com"
   },
   {
     "network": "eth",
@@ -3073,14 +3089,6 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x28577a6d31559bd265ce3adb62d0458550f7b8a7",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC (CryptoCrashCourse)-0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC (CryptoCrashCourse)-0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.json",
-    "website": "http://cryptocrashcourse.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xbe11eeb186e624b8f26a5045575a1340e4054552",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC (ICONOMI)-0xbe11eeb186e624b8f26a5045575a1340e4054552.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC (ICONOMI)-0xbe11eeb186e624b8f26a5045575a1340e4054552.png",
@@ -3094,6 +3102,14 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC-0x0bc2149d073f62510c99d908f52d0d703da1f135.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x0bc2149d073f62510c99d908f52d0d703da1f135.json",
     "website": "https://ciupekcapitalcoin.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x28577a6d31559bd265ce3adb62d0458550f7b8a7",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC (CryptoCrashCourse)-0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CCC (CryptoCrashCourse)-0x28577a6d31559bd265ce3adb62d0458550f7b8a7.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x28577a6d31559bd265ce3adb62d0458550f7b8a7.json",
+    "website": "http://cryptocrashcourse.com"
   },
   {
     "network": "eth",
@@ -3241,19 +3257,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CET-0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CET-0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f.json",
-    "website": "https://www.coinex.org/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xf660ca1e228e7be1fa8b4f5583145e31147fb577",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CET-0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CET-0xf660ca1e228e7be1fa8b4f5583145e31147fb577.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf660ca1e228e7be1fa8b4f5583145e31147fb577.json",
     "website": "https://dice.money/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CET-0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CET-0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x081f67afa0ccf8c7b17540767bbe95df2ba8d97f.json",
+    "website": "https://www.coinex.org/"
   },
   {
     "network": "eth",
@@ -3697,19 +3713,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COSS-0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COSS-0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c.json",
-    "website": "https://coss.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x65292eeadf1426cd2df1c4793a3d7519f253913b",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COSS-0x65292eeadf1426cd2df1c4793a3d7519f253913b.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COSS-0x65292eeadf1426cd2df1c4793a3d7519f253913b.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x65292eeadf1426cd2df1c4793a3d7519f253913b.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COSS-0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COSS-0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c.json",
+    "website": "https://coss.io"
   },
   {
     "network": "eth",
@@ -3809,19 +3825,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x248c27f814ef2c9c51c26398d09715cd35142fc4",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CPL-0x248c27f814ef2c9c51c26398d09715cd35142fc4.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CPL-0x248c27f814ef2c9c51c26398d09715cd35142fc4.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x248c27f814ef2c9c51c26398d09715cd35142fc4.json",
-    "website": "https://www.copylock.info/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x4b3c89e986b12f83eed896f02410429a7289526e",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CPL-0x4b3c89e986b12f83eed896f02410429a7289526e.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CPL-0x4b3c89e986b12f83eed896f02410429a7289526e.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x4b3c89e986b12f83eed896f02410429a7289526e.json",
     "website": "https://coinplace.pro"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x248c27f814ef2c9c51c26398d09715cd35142fc4",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CPL-0x248c27f814ef2c9c51c26398d09715cd35142fc4.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CPL-0x248c27f814ef2c9c51c26398d09715cd35142fc4.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x248c27f814ef2c9c51c26398d09715cd35142fc4.json",
+    "website": "https://www.copylock.info/"
   },
   {
     "network": "eth",
@@ -4137,19 +4153,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTT-0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTT-0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.json",
-    "website": "https://chaintrade.net"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1a4743cf1af4c289351390a2b3fe7c13d2f7c235.json",
     "website": "http://castweet.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTT-0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CTT-0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe3fa177acecfb86721cf6f9f4206bd3bd672d7d5.json",
+    "website": "https://chaintrade.net"
   },
   {
     "network": "eth",
@@ -4641,19 +4657,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEPO (Depository Network)-0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEPO-0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106.json",
-    "website": "https://depository.network"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x7cf271966f36343bf0150f25e5364f7961c58201",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEPO (CRYPTODEPOZIT)-0x7cf271966f36343bf0150f25e5364f7961c58201.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEPO (CRYPTODEPOZIT)-0x7cf271966f36343bf0150f25e5364f7961c58201.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7cf271966f36343bf0150f25e5364f7961c58201.json",
     "website": "Aridika.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEPO (Depository Network)-0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DEPO-0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x89cbeac5e8a13f0ebb4c74fadfc69be81a501106.json",
+    "website": "https://depository.network"
   },
   {
     "network": "eth",
@@ -5057,19 +5073,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTH-0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTH-0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.json",
-    "website": "https://dether.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xf4b6664bb81bd7314ae65eab2ee675505e3e9cb6",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf4b6664bb81bd7314ae65eab2ee675505e3e9cb6.json",
     "website": "http://dineshtech.com/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTH-0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTH-0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5adc961d6ac3f7062d2ea45fefb8d8167d44b190.json",
+    "website": "https://dether.io"
   },
   {
     "network": "eth",
@@ -5105,19 +5121,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTX-0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTX-0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.json",
-    "website": "https://databrokerdao.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x82fdedfb7635441aa5a92791d001fa7388da8025",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTX-0x82fdedfb7635441aa5a92791d001fa7388da8025.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTX-0x82fdedfb7635441aa5a92791d001fa7388da8025.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x82fdedfb7635441aa5a92791d001fa7388da8025.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x765f0c16d1ddc279295c1a7c24b0883f62d33f75",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTX-0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DTX-0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x765f0c16d1ddc279295c1a7c24b0883f62d33f75.json",
+    "website": "https://databrokerdao.com"
   },
   {
     "network": "eth",
@@ -5441,19 +5457,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EGT-0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EGT-0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.json",
-    "website": "https://www.egretia.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EGT-0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EGT-0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5dbac24e98e2a4f43adc0dc82af403fca063ce2c.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x8e1b448ec7adfc7fa35fc2e885678bd323176e34",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EGT-0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EGT-0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8e1b448ec7adfc7fa35fc2e885678bd323176e34.json",
+    "website": "https://www.egretia.io"
   },
   {
     "network": "eth",
@@ -5977,19 +5993,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x6020da0f7c1857dbe4431ec92a15cc318d933eaa",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ETM-0x6020da0f7c1857dbe4431ec92a15cc318d933eaa.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ETM-0x6020da0f7c1857dbe4431ec92a15cc318d933eaa.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6020da0f7c1857dbe4431ec92a15cc318d933eaa.json",
-    "website": "http://www.entanmo.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x8c576b67e1caa070fc2cc00b615c1f530796da3e",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8c576b67e1caa070fc2cc00b615c1f530796da3e.json",
     "website": "https://etmproject.xyz"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x6020da0f7c1857dbe4431ec92a15cc318d933eaa",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ETM-0x6020da0f7c1857dbe4431ec92a15cc318d933eaa.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ETM-0x6020da0f7c1857dbe4431ec92a15cc318d933eaa.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6020da0f7c1857dbe4431ec92a15cc318d933eaa.json",
+    "website": "http://www.entanmo.com/"
   },
   {
     "network": "eth",
@@ -6089,19 +6105,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xd780ae2bf04cd96e577d3d014762f831d97129d0",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EVN-0xd780ae2bf04cd96e577d3d014762f831d97129d0.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EVN-0xd780ae2bf04cd96e577d3d014762f831d97129d0.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd780ae2bf04cd96e577d3d014762f831d97129d0.json",
-    "website": "https://envion.org"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x68909e586eeac8f47315e84b4c9788dd54ef65bb",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EVN-0x68909e586eeac8f47315e84b4c9788dd54ef65bb.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EVN-0x68909e586eeac8f47315e84b4c9788dd54ef65bb.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x68909e586eeac8f47315e84b4c9788dd54ef65bb.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xd780ae2bf04cd96e577d3d014762f831d97129d0",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EVN-0xd780ae2bf04cd96e577d3d014762f831d97129d0.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EVN-0xd780ae2bf04cd96e577d3d014762f831d97129d0.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd780ae2bf04cd96e577d3d014762f831d97129d0.json",
+    "website": "https://envion.org"
   },
   {
     "network": "eth",
@@ -6169,19 +6185,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xc98e0639c6d2ec037a615341c369666b110e80e5",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EXMR-0xc98e0639c6d2ec037a615341c369666b110e80e5.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EXMR-0xc98e0639c6d2ec037a615341c369666b110e80e5.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc98e0639c6d2ec037a615341c369666b110e80e5.json",
-    "website": "https://exmr.io/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x331fa6c97c64e47475164b9fc8143b533c5ef529",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x331fa6c97c64e47475164b9fc8143b533c5ef529.json",
     "website": "https://www.exmrfoundation.org"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xc98e0639c6d2ec037a615341c369666b110e80e5",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EXMR-0xc98e0639c6d2ec037a615341c369666b110e80e5.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EXMR-0xc98e0639c6d2ec037a615341c369666b110e80e5.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc98e0639c6d2ec037a615341c369666b110e80e5.json",
+    "website": "https://exmr.io/"
   },
   {
     "network": "eth",
@@ -6417,19 +6433,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FIN-0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FIN-0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec.json",
-    "website": "https://fenniecoin-blockchain.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x1dd7b2878b6d5671ed602e60818b0d9a0cd1cdf7",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FIN-0x1dd7b2878b6d5671ed602e60818b0d9a0cd1cdf7.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FIN-0x1dd7b2878b6d5671ed602e60818b0d9a0cd1cdf7.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1dd7b2878b6d5671ed602e60818b0d9a0cd1cdf7.json",
     "website": "http://www.finfoundation.net/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FIN-0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FIN-0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xaa3f8e382cb01cae98a7f37a170f3d218c38e3ec.json",
+    "website": "https://fenniecoin-blockchain.com/"
   },
   {
     "network": "eth",
@@ -6745,19 +6761,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FTT-0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FTT-0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.json",
-    "website": "https://ftx.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x2aec18c5500f21359ce1bea5dc1777344df4c0dc",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FTT-0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FTT-0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x2aec18c5500f21359ce1bea5dc1777344df4c0dc.json",
     "website": "https://www.farmatrust.io"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FTT-0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FTT-0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9.json",
+    "website": "https://ftx.com"
   },
   {
     "network": "eth",
@@ -6937,19 +6953,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xd8bd3958725f216eb236e9dc65b169de48101c6a",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GBT-0xd8bd3958725f216eb236e9dc65b169de48101c6a.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GBT-0xd8bd3958725f216eb236e9dc65b169de48101c6a.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd8bd3958725f216eb236e9dc65b169de48101c6a.json",
-    "website": "https://market.globatalent.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x7585f835ae2d522722d2684323a0ba83401f32f5",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GBT-0x7585f835ae2d522722d2684323a0ba83401f32f5.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GBT-0x7585f835ae2d522722d2684323a0ba83401f32f5.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7585f835ae2d522722d2684323a0ba83401f32f5.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xd8bd3958725f216eb236e9dc65b169de48101c6a",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GBT-0xd8bd3958725f216eb236e9dc65b169de48101c6a.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GBT-0xd8bd3958725f216eb236e9dc65b169de48101c6a.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd8bd3958725f216eb236e9dc65b169de48101c6a.json",
+    "website": "https://market.globatalent.com/"
   },
   {
     "network": "eth",
@@ -7113,19 +7129,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GGC-0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GGC-0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037.json",
-    "website": "https://gramgold.co/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7f969c4d388ca0ae39a4fddb1a6f89878ca2fbf8.json",
     "website": "https://ico.gg.international"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GGC-0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GGC-0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1be7cfd61aa8daaa9ff2f3b8820888f09462d037.json",
+    "website": "https://gramgold.co/"
   },
   {
     "network": "eth",
@@ -7209,19 +7225,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GMC-0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GMC-0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262.json",
-    "website": "https://www.gamechain.me/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xa311856b777df090d2d3d8c306caaf6e4dfd9ae9",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GMC-0xa311856b777df090d2d3d8c306caaf6e4dfd9ae9.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GMC-0xa311856b777df090d2d3d8c306caaf6e4dfd9ae9.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xa311856b777df090d2d3d8c306caaf6e4dfd9ae9.json",
     "website": "https://gammaproject.xyz/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GMC-0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GMC-0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xcc3693c52d4e4ffc1910d90cdd8c52f66bc83262.json",
+    "website": "https://www.gamechain.me/"
   },
   {
     "network": "eth",
@@ -7401,19 +7417,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe138fda441fc31b36171122397a8a11d6cd2c479.json",
-    "website": "http://www.gtibcoin.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xb70835d7822ebb9426b56543e391846c107bd32c",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GTC-0xb70835d7822ebb9426b56543e391846c107bd32c.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GTC-0xb70835d7822ebb9426b56543e391846c107bd32c.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xb70835d7822ebb9426b56543e391846c107bd32c.json",
     "website": "https://game.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xe138fda441fc31b36171122397a8a11d6cd2c479",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe138fda441fc31b36171122397a8a11d6cd2c479.json",
+    "website": "http://www.gtibcoin.com/"
   },
   {
     "network": "eth",
@@ -7665,19 +7681,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xe9ff07809ccff05dae74990e25831d0bc5cbe575",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/Hdp-0xe9ff07809ccff05dae74990e25831d0bc5cbe575.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/Hdp-0xe9ff07809ccff05dae74990e25831d0bc5cbe575.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe9ff07809ccff05dae74990e25831d0bc5cbe575.json",
-    "website": "http://hedpay.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xc4d5545392f5fc57eba3af8981815669bb7e2a48",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc4d5545392f5fc57eba3af8981815669bb7e2a48.json",
     "website": "https://www.hedpay.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xe9ff07809ccff05dae74990e25831d0bc5cbe575",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/Hdp-0xe9ff07809ccff05dae74990e25831d0bc5cbe575.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/Hdp-0xe9ff07809ccff05dae74990e25831d0bc5cbe575.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xe9ff07809ccff05dae74990e25831d0bc5cbe575.json",
+    "website": "http://hedpay.com"
   },
   {
     "network": "eth",
@@ -8377,18 +8393,18 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x13119e34e140097a507b07a5564bde1bc375d9e6",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IMT-0x13119e34e140097a507b07a5564bde1bc375d9e6.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IMT-0x13119e34e140097a507b07a5564bde1bc375d9e6.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x13119e34e140097a507b07a5564bde1bc375d9e6.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0x22e5f62d0fa19974749faa194e3d3ef6d89c08d7",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IMT-0x22e5f62d0fa19974749faa194e3d3ef6d89c08d7.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IMT-0x22e5f62d0fa19974749faa194e3d3ef6d89c08d7.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x22e5f62d0fa19974749faa194e3d3ef6d89c08d7.json",
+    "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x13119e34e140097a507b07a5564bde1bc375d9e6",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IMT-0x13119e34e140097a507b07a5564bde1bc375d9e6.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IMT-0x13119e34e140097a507b07a5564bde1bc375d9e6.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x13119e34e140097a507b07a5564bde1bc375d9e6.json",
     "website": ""
   },
   {
@@ -9049,19 +9065,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x27695e09149adc738a978e9a678f99e4c39e9eb9",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KICK-0x27695e09149adc738a978e9a678f99e4c39e9eb9.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KICK-0x27695e09149adc738a978e9a678f99e4c39e9eb9.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x27695e09149adc738a978e9a678f99e4c39e9eb9.json",
-    "website": "https://www.kickico.com/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KIKC-0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KIKC-0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e.json",
     "website": "https://www.kickico.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x27695e09149adc738a978e9a678f99e4c39e9eb9",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KICK-0x27695e09149adc738a978e9a678f99e4c39e9eb9.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KICK-0x27695e09149adc738a978e9a678f99e4c39e9eb9.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x27695e09149adc738a978e9a678f99e4c39e9eb9.json",
+    "website": "https://www.kickico.com/"
   },
   {
     "network": "eth",
@@ -9305,19 +9321,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x05c7065d644096a4e4c3fe24af86e36de021074b",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LCT-0x05c7065d644096a4e4c3fe24af86e36de021074b.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LCT-0x05c7065d644096a4e4c3fe24af86e36de021074b.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x05c7065d644096a4e4c3fe24af86e36de021074b.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LCT-0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LCT-0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x4a37a91eec4c97f9090ce66d21d3b3aadf1ae5ad.json",
     "website": "http://liquorchain.io"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x05c7065d644096a4e4c3fe24af86e36de021074b",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LCT-0x05c7065d644096a4e4c3fe24af86e36de021074b.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LCT-0x05c7065d644096a4e4c3fe24af86e36de021074b.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x05c7065d644096a4e4c3fe24af86e36de021074b.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -9345,19 +9361,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xc741f06082aa47f93729070ad0dd95e223bda091",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc741f06082aa47f93729070ad0dd95e223bda091.json",
-    "website": "https://ledu.education-ecosystem.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LEDU-0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/LEDU-0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5b26c5d0772e5bbac8b3182ae9a13f9bb2d03765.json",
     "website": "https://tokensale.liveedu.tv"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xc741f06082aa47f93729070ad0dd95e223bda091",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc741f06082aa47f93729070ad0dd95e223bda091.json",
+    "website": "https://ledu.education-ecosystem.com"
   },
   {
     "network": "eth",
@@ -10009,19 +10025,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x66186008c1050627f979d464eabb258860563dbe",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MDS-0x66186008c1050627f979d464eabb258860563dbe.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MDS-0x66186008c1050627f979d464eabb258860563dbe.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x66186008c1050627f979d464eabb258860563dbe.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0x92b7e4409dcf8c439f313ed1f05fdc0550d18ddd",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x92b7e4409dcf8c439f313ed1f05fdc0550d18ddd.json",
     "website": "http://crypto.mydas.cc/en"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x66186008c1050627f979d464eabb258860563dbe",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MDS-0x66186008c1050627f979d464eabb258860563dbe.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MDS-0x66186008c1050627f979d464eabb258860563dbe.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x66186008c1050627f979d464eabb258860563dbe.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -10057,19 +10073,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x01f2acf2914860331c1cb1a9acecda7475e06af8",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MESH-0x01f2acf2914860331c1cb1a9acecda7475e06af8.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MESH-0x01f2acf2914860331c1cb1a9acecda7475e06af8.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x01f2acf2914860331c1cb1a9acecda7475e06af8.json",
-    "website": "https://meshbox.network"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MESH-0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MESH-0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf03045a4c8077e38f3b8e2ed33b8aee69edf869f.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x01f2acf2914860331c1cb1a9acecda7475e06af8",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MESH-0x01f2acf2914860331c1cb1a9acecda7475e06af8.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MESH-0x01f2acf2914860331c1cb1a9acecda7475e06af8.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x01f2acf2914860331c1cb1a9acecda7475e06af8.json",
+    "website": "https://meshbox.network"
   },
   {
     "network": "eth",
@@ -10841,19 +10857,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x9cec335cf6922eeb5a563c871d1f09f2cf264230",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/NIOX-0x9cec335cf6922eeb5a563c871d1f09f2cf264230.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/NIOX-0x9cec335cf6922eeb5a563c871d1f09f2cf264230.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9cec335cf6922eeb5a563c871d1f09f2cf264230.json",
-    "website": "https://auton.io/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x5554e04e76533e1d14c52f05beef6c9d329e1e30",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/NIO-0x5554e04e76533e1d14c52f05beef6c9d329e1e30.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/NIO-0x5554e04e76533e1d14c52f05beef6c9d329e1e30.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5554e04e76533e1d14c52f05beef6c9d329e1e30.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x9cec335cf6922eeb5a563c871d1f09f2cf264230",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/NIOX-0x9cec335cf6922eeb5a563c871d1f09f2cf264230.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/NIOX-0x9cec335cf6922eeb5a563c871d1f09f2cf264230.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9cec335cf6922eeb5a563c871d1f09f2cf264230.json",
+    "website": "https://auton.io/"
   },
   {
     "network": "eth",
@@ -11449,19 +11465,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x60a640e2d10e020fee94217707bfa9543c8b59e0",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OSC-0x60a640e2d10e020fee94217707bfa9543c8b59e0.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OSC-0x60a640e2d10e020fee94217707bfa9543c8b59e0.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x60a640e2d10e020fee94217707bfa9543c8b59e0.json",
-    "website": "https://www.ioscar.io/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x24700a297960e8477ce3ca6c58b70a7af3410398",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OSC-0x24700a297960e8477ce3ca6c58b70a7af3410398.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OSC-0x24700a297960e8477ce3ca6c58b70a7af3410398.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x24700a297960e8477ce3ca6c58b70a7af3410398.json",
     "website": "https://www.oasiscity.io/en/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x60a640e2d10e020fee94217707bfa9543c8b59e0",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OSC-0x60a640e2d10e020fee94217707bfa9543c8b59e0.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/OSC-0x60a640e2d10e020fee94217707bfa9543c8b59e0.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x60a640e2d10e020fee94217707bfa9543c8b59e0.json",
+    "website": "https://www.ioscar.io/"
   },
   {
     "network": "eth",
@@ -11545,19 +11561,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x562952c749d05dca4cd004489a153c7ee7e58240",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAL-0x562952c749d05dca4cd004489a153c7ee7e58240.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAL-0x562952c749d05dca4cd004489a153c7ee7e58240.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x562952c749d05dca4cd004489a153c7ee7e58240.json",
-    "website": "https://www.pally.co/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xfedae5642668f8636a11987ff386bfd215f942ee",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAL-0xfedae5642668f8636a11987ff386bfd215f942ee.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAL-0xfedae5642668f8636a11987ff386bfd215f942ee.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xfedae5642668f8636a11987ff386bfd215f942ee.json",
     "website": "https://www.policypal.network"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x562952c749d05dca4cd004489a153c7ee7e58240",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAL-0x562952c749d05dca4cd004489a153c7ee7e58240.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAL-0x562952c749d05dca4cd004489a153c7ee7e58240.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x562952c749d05dca4cd004489a153c7ee7e58240.json",
+    "website": "https://www.pally.co/"
   },
   {
     "network": "eth",
@@ -11593,19 +11609,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PASS-0xee4458e052b533b1aabd493b5f8c4d85d7b263dc.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PASS-0xee4458e052b533b1aabd493b5f8c4d85d7b263dc.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc.json",
-    "website": "https://www.blockpass.org"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x77761e63c05aee6648fdaeaa9b94248351af9bcd",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PASS-0x77761e63c05aee6648fdaeaa9b94248351af9bcd.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PASS-0x77761e63c05aee6648fdaeaa9b94248351af9bcd.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x77761e63c05aee6648fdaeaa9b94248351af9bcd.json",
     "website": "http://www.wisepass.co"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xee4458e052b533b1aabd493b5f8c4d85d7b263dc",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PASS-0xee4458e052b533b1aabd493b5f8c4d85d7b263dc.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PASS-0xee4458e052b533b1aabd493b5f8c4d85d7b263dc.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xee4458e052b533b1aabd493b5f8c4d85d7b263dc.json",
+    "website": "https://www.blockpass.org"
   },
   {
     "network": "eth",
@@ -12054,6 +12070,14 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PNT-0x53066cddbc0099eb6c96785d9b3df2aaeede5da3.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x53066cddbc0099eb6c96785d9b3df2aaeede5da3.json",
     "website": "https://www.penta.global/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x89ab32156e46f46d02ade3fecbe5fc4243b9aaed.json",
+    "website": "https://p.Network"
   },
   {
     "network": "eth",
@@ -13417,19 +13441,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/sETH-0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/sETH-0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SETH-0x78b039921e84e726eb72e7b1212bb35504c645ca.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SETH-0x78b039921e84e726eb72e7b1212bb35504c645ca.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x78b039921e84e726eb72e7b1212bb35504c645ca.json",
     "website": "https://www.sether.io/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/sETH-0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/sETH-0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -13489,19 +13513,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x37427576324fe1f3625c9102674772d7cf71377d",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SGT-0x37427576324fe1f3625c9102674772d7cf71377d.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SGT-0x37427576324fe1f3625c9102674772d7cf71377d.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x37427576324fe1f3625c9102674772d7cf71377d.json",
-    "website": "https://sgt.selfieyo.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SGT-0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SGT-0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd248b0d48e44aaf9c49aea0312be7e13a6dc1468.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x37427576324fe1f3625c9102674772d7cf71377d",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SGT-0x37427576324fe1f3625c9102674772d7cf71377d.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SGT-0x37427576324fe1f3625c9102674772d7cf71377d.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x37427576324fe1f3625c9102674772d7cf71377d.json",
+    "website": "https://sgt.selfieyo.com"
   },
   {
     "network": "eth",
@@ -13649,18 +13673,18 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/skm-0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/skm-0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f.json",
-    "website": "https://skrumble.network"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x048fe49be32adfc9ed68c37d32b5ec9df17b3603",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKM-0x048fe49be32adfc9ed68c37d32b5ec9df17b3603.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKM-0x048fe49be32adfc9ed68c37d32b5ec9df17b3603.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x048fe49be32adfc9ed68c37d32b5ec9df17b3603.json",
+    "website": "https://skrumble.network"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/skm-0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/skm-0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd99b8a7fa48e25cce83b81812220a3e03bf64e5f.json",
     "website": "https://skrumble.network"
   },
   {
@@ -13681,14 +13705,6 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x26587f4d672876e61a91b887f83ced591be1cba4",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKR-0x26587f4d672876e61a91b887f83ced591be1cba4.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKR-0x26587f4d672876e61a91b887f83ced591be1cba4.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x26587f4d672876e61a91b887f83ced591be1cba4.json",
-    "website": "https://staking.pro/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x4c382f8e09615ac86e08ce58266cc227e7d4d913",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKR-0x4c382f8e09615ac86e08ce58266cc227e7d4d913.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKR-0x4c382f8e09615ac86e08ce58266cc227e7d4d913.png",
@@ -13697,11 +13713,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x6e34d8d84764d40f6d7b39cd569fd017bf53177d",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x6e34d8d84764d40f6d7b39cd569fd017bf53177d.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x6e34d8d84764d40f6d7b39cd569fd017bf53177d.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6e34d8d84764d40f6d7b39cd569fd017bf53177d.json",
-    "website": "https://skraps.io/"
+    "contract_address": "0x26587f4d672876e61a91b887f83ced591be1cba4",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKR-0x26587f4d672876e61a91b887f83ced591be1cba4.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKR-0x26587f4d672876e61a91b887f83ced591be1cba4.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x26587f4d672876e61a91b887f83ced591be1cba4.json",
+    "website": "https://staking.pro/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x324a48ebcbb46e61993931ef9d35f6697cd2901b.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x324a48ebcbb46e61993931ef9d35f6697cd2901b.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x324a48ebcbb46e61993931ef9d35f6697cd2901b.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -13713,11 +13737,11 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x324a48ebcbb46e61993931ef9d35f6697cd2901b",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x324a48ebcbb46e61993931ef9d35f6697cd2901b.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x324a48ebcbb46e61993931ef9d35f6697cd2901b.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x324a48ebcbb46e61993931ef9d35f6697cd2901b.json",
-    "website": ""
+    "contract_address": "0x6e34d8d84764d40f6d7b39cd569fd017bf53177d",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x6e34d8d84764d40f6d7b39cd569fd017bf53177d.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SKRP-0x6e34d8d84764d40f6d7b39cd569fd017bf53177d.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6e34d8d84764d40f6d7b39cd569fd017bf53177d.json",
+    "website": "https://skraps.io/"
   },
   {
     "network": "eth",
@@ -13769,19 +13793,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x7a5ff295dc8239d5c2374e4d894202aaf029cab6",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SLT-0x7a5ff295dc8239d5c2374e4d894202aaf029cab6.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SLT-0x7a5ff295dc8239d5c2374e4d894202aaf029cab6.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7a5ff295dc8239d5c2374e4d894202aaf029cab6.json",
-    "website": "http://smartlands.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x851017523ae205adc9195e7f97d029f4cfe7794c",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SLT-0x851017523ae205adc9195e7f97d029f4cfe7794c.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SLT-0x851017523ae205adc9195e7f97d029f4cfe7794c.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x851017523ae205adc9195e7f97d029f4cfe7794c.json",
     "website": "https://sociallending.io/"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x7a5ff295dc8239d5c2374e4d894202aaf029cab6",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SLT-0x7a5ff295dc8239d5c2374e4d894202aaf029cab6.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SLT-0x7a5ff295dc8239d5c2374e4d894202aaf029cab6.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7a5ff295dc8239d5c2374e4d894202aaf029cab6.json",
+    "website": "http://smartlands.io"
   },
   {
     "network": "eth",
@@ -13825,19 +13849,19 @@
   },
   {
     "network": "eth",
+    "contract_address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27.json",
+    "website": "http://smartnode.org"
+  },
+  {
+    "network": "eth",
     "contract_address": "0x55f93985431fc9304077687a35a1ba103dc1e081",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x55f93985431fc9304077687a35a1ba103dc1e081.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x55f93985431fc9304077687a35a1ba103dc1e081.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x55f93985431fc9304077687a35a1ba103dc1e081.json",
     "website": "http://smartmesh.io"
-  },
-  {
-    "network": "eth",
-    "contract_address": "0x21f15966e07a10554c364b988e91dab01d32794a",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x21f15966e07a10554c364b988e91dab01d32794a.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x21f15966e07a10554c364b988e91dab01d32794a.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x21f15966e07a10554c364b988e91dab01d32794a.json",
-    "website": "https://smartmesh.io/"
   },
   {
     "network": "eth",
@@ -13849,11 +13873,11 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x2dcfaac11c9eebd8c6c42103fe9e2a6ad237af27.json",
-    "website": "http://smartnode.org"
+    "contract_address": "0x21f15966e07a10554c364b988e91dab01d32794a",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x21f15966e07a10554c364b988e91dab01d32794a.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SMT-0x21f15966e07a10554c364b988e91dab01d32794a.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x21f15966e07a10554c364b988e91dab01d32794a.json",
+    "website": "https://smartmesh.io/"
   },
   {
     "network": "eth",
@@ -13977,19 +14001,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SNX-0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SNX-0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SNX-0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SNX-0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.json",
     "website": "https://synthetix.io"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xc011a72400e58ecd99ee497cf89e3775d4bd732f",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SNX-0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SNX-0xc011a72400e58ecd99ee497cf89e3775d4bd732f.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xc011a72400e58ecd99ee497cf89e3775d4bd732f.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -14081,19 +14105,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x810908b285f85af668f6348cd8b26d76b3ec12e1",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x810908b285f85af668f6348cd8b26d76b3ec12e1.json",
-    "website": "https://swapcoinz.io/"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x8f9bfe5b6a5c3fea8c64ad41a5cf6f60ec4aa47c",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8f9bfe5b6a5c3fea8c64ad41a5cf6f60ec4aa47c.json",
     "website": "https://swapcoinz.org"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x810908b285f85af668f6348cd8b26d76b3ec12e1",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x810908b285f85af668f6348cd8b26d76b3ec12e1.json",
+    "website": "https://swapcoinz.io/"
   },
   {
     "network": "eth",
@@ -14745,11 +14769,11 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5.json",
-    "website": ""
+    "contract_address": "0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623.json",
+    "website": "http://tchain.cloud/"
   },
   {
     "network": "eth",
@@ -14761,11 +14785,11 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x59c337ef937d0ba9cb1cc47d4e6ded632d22d623.json",
-    "website": "http://tchain.cloud/"
+    "contract_address": "0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCH-0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9972a0f24194447e73a7e8b6cd26a52e02ddfad5.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -14785,19 +14809,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCT-0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCT-0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0xed82730312babb41367e060911f798002ffa445f",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xed82730312babb41367e060911f798002ffa445f.json",
     "website": "https://coin.thecryptotech.net"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCT-0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TCT-0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x4824a7b64e3966b0133f4f4ffb1b9d6beb75fff7.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -14849,19 +14873,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xec32a9725c59855d841ba7d8d9c99c84ff754688",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TEL-0xec32a9725c59855d841ba7d8d9c99c84ff754688.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TEL-0xec32a9725c59855d841ba7d8d9c99c84ff754688.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xec32a9725c59855d841ba7d8d9c99c84ff754688.json",
-    "website": "https://meditelcoin.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x85e076361cc813a908ff672f9bad1541474402b2",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TEL-0x85e076361cc813a908ff672f9bad1541474402b2.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TEL-0x85e076361cc813a908ff672f9bad1541474402b2.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x85e076361cc813a908ff672f9bad1541474402b2.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xec32a9725c59855d841ba7d8d9c99c84ff754688",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TEL-0xec32a9725c59855d841ba7d8d9c99c84ff754688.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TEL-0xec32a9725c59855d841ba7d8d9c99c84ff754688.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xec32a9725c59855d841ba7d8d9c99c84ff754688.json",
+    "website": "https://meditelcoin.com"
   },
   {
     "network": "eth",
@@ -14953,19 +14977,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xac3da587eac229c9896d919abc235ca4fd7f72c1",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TGT-0xac3da587eac229c9896d919abc235ca4fd7f72c1.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TGT-0xac3da587eac229c9896d919abc235ca4fd7f72c1.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xac3da587eac229c9896d919abc235ca4fd7f72c1.json",
-    "website": "https://www.tgtcoins.com"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xf96aa656ec0e0ac163590db372b430cf3c0d61ca",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TGT-0xf96aa656ec0e0ac163590db372b430cf3c0d61ca.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TGT-0xf96aa656ec0e0ac163590db372b430cf3c0d61ca.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xf96aa656ec0e0ac163590db372b430cf3c0d61ca.json",
     "website": "https://twogap.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xac3da587eac229c9896d919abc235ca4fd7f72c1",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TGT-0xac3da587eac229c9896d919abc235ca4fd7f72c1.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TGT-0xac3da587eac229c9896d919abc235ca4fd7f72c1.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xac3da587eac229c9896d919abc235ca4fd7f72c1.json",
+    "website": "https://www.tgtcoins.com"
   },
   {
     "network": "eth",
@@ -15065,19 +15089,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x36b60a425b82483004487abc7adcb0002918fc56",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x36b60a425b82483004487abc7adcb0002918fc56.json",
-    "website": "https://www.ticoex.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TICO-0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TICO-0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7f4b2a690605a7cbb66f7aa6885ebd906a5e2e9e.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x36b60a425b82483004487abc7adcb0002918fc56",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x36b60a425b82483004487abc7adcb0002918fc56.json",
+    "website": "https://www.ticoex.io"
   },
   {
     "network": "eth",
@@ -15177,6 +15201,14 @@
   },
   {
     "network": "eth",
+    "contract_address": "0x058ef0ba85e053e55d357c8a95bc6ea7458def8a",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/F1C-0x058ef0ba85e053e55d357c8a95bc6ea7458def8a.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/F1C-0x058ef0ba85e053e55d357c8a95bc6ea7458def8a.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x058ef0ba85e053e55d357c8a95bc6ea7458def8a.json",
+    "website": "https://www.tradekax.com/"
+  },
+  {
+    "network": "eth",
     "contract_address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TKX-0x667102bd3413bfeaa3dffb48fa8288819e480a88.png",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TKX-0x667102bd3413bfeaa3dffb48fa8288819e480a88.png",
@@ -15185,11 +15217,11 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x058ef0ba85e053e55d357c8a95bc6ea7458def8a",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/F1C-0x058ef0ba85e053e55d357c8a95bc6ea7458def8a.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/F1C-0x058ef0ba85e053e55d357c8a95bc6ea7458def8a.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x058ef0ba85e053e55d357c8a95bc6ea7458def8a.json",
-    "website": "https://www.tradekax.com/"
+    "contract_address": "0x2352858080a45d776609b5449a1b8dcb1ae549c8",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x2352858080a45d776609b5449a1b8dcb1ae549c8.json",
+    "website": "https://www.truelifecoin.com/en/"
   },
   {
     "network": "eth",
@@ -15385,19 +15417,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xdb52a87cda28eda00f8add1c79c9db4a50a70457",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xdb52a87cda28eda00f8add1c79c9db4a50a70457.json",
-    "website": "https://tradercash.org"
-  },
-  {
-    "network": "eth",
     "contract_address": "0xcb3f902bf97626391bf8ba87264bbc3dc13469be",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TRC-0xcb3f902bf97626391bf8ba87264bbc3dc13469be.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TRC-0xcb3f902bf97626391bf8ba87264bbc3dc13469be.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xcb3f902bf97626391bf8ba87264bbc3dc13469be.json",
     "website": "https://www.terracoin.io"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xdb52a87cda28eda00f8add1c79c9db4a50a70457",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xdb52a87cda28eda00f8add1c79c9db4a50a70457.json",
+    "website": "https://tradercash.org"
   },
   {
     "network": "eth",
@@ -15585,19 +15617,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TUSD-0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TUSD-0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0x0000000000085d4780b73119b644ae5ecd22b376",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TUSD-0x0000000000085d4780b73119b644ae5ecd22b376.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TUSD-0x0000000000085d4780b73119b644ae5ecd22b376.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x0000000000085d4780b73119b644ae5ecd22b376.json",
     "website": "https://www.trusttoken.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TUSD-0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TUSD-0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -16457,19 +16489,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xabc430136a4de71c9998242de8c1b4b97d2b9045",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VRS-0xabc430136a4de71c9998242de8c1b4b97d2b9045.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VRS-0xabc430136a4de71c9998242de8c1b4b97d2b9045.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xabc430136a4de71c9998242de8c1b4b97d2b9045.json",
-    "website": "https://vedh.io"
-  },
-  {
-    "network": "eth",
     "contract_address": "0x92e78dae1315067a8819efd6dca432de9dcde2e9",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VRS-0x92e78dae1315067a8819efd6dca432de9dcde2e9.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VRS-0x92e78dae1315067a8819efd6dca432de9dcde2e9.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x92e78dae1315067a8819efd6dca432de9dcde2e9.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xabc430136a4de71c9998242de8c1b4b97d2b9045",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VRS-0xabc430136a4de71c9998242de8c1b4b97d2b9045.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VRS-0xabc430136a4de71c9998242de8c1b4b97d2b9045.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xabc430136a4de71c9998242de8c1b4b97d2b9045.json",
+    "website": "https://vedh.io"
   },
   {
     "network": "eth",
@@ -17481,19 +17513,19 @@
   },
   {
     "network": "eth",
-    "contract_address": "0xd9a12cde03a86e800496469858de8581d3a5353d",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/YUP-0xd9a12cde03a86e800496469858de8581d3a5353d.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/YUP-0xd9a12cde03a86e800496469858de8581d3a5353d.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd9a12cde03a86e800496469858de8581d3a5353d.json",
-    "website": ""
-  },
-  {
-    "network": "eth",
     "contract_address": "0x0f33bb20a282a7649c7b3aff644f084a9348e933",
     "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/YUP-0x0f33bb20a282a7649c7b3aff644f084a9348e933.svg",
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/YUP-0x0f33bb20a282a7649c7b3aff644f084a9348e933.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x0f33bb20a282a7649c7b3aff644f084a9348e933.json",
     "website": "https://www.crowdholding.com"
+  },
+  {
+    "network": "eth",
+    "contract_address": "0xd9a12cde03a86e800496469858de8581d3a5353d",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/YUP-0xd9a12cde03a86e800496469858de8581d3a5353d.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/YUP-0xd9a12cde03a86e800496469858de8581d3a5353d.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xd9a12cde03a86e800496469858de8581d3a5353d.json",
+    "website": ""
   },
   {
     "network": "eth",
@@ -18342,5 +18374,13 @@
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/ubq/0x5e1715bb79805bd672729760b3f7f34d6f485098.json",
     "website": ""
+  },
+  {
+    "network": "wtc",
+    "contract_address": "0x668df218d073f413ed2fcea0d48cfbfd59c030ae",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/wtc/0x668df218d073f413ed2fcea0d48cfbfd59c030ae.json",
+    "website": "https://www.waltonchain.org/en/sys/list/52.html"
   }
 ]
