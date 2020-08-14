@@ -1,0 +1,31 @@
+{
+  "symbol": "OMC",
+  "name": "Ormeus Cash",
+  "type": "ERC20",
+  "address": "0xd6bD97a26232bA02172Ff86b055d5D7bE789335B",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://ormeuscoin.com",
+  "logo": {
+    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/5818.png",
+    "width": "64",
+    "height": "64",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "http://support.ormeuscoin.com" },
+  "social": {
+    "blog": "https://medium.com/@ormeuscoin",
+    "chat": "",
+    "facebook": "https://www.facebook.com/ormecoin",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/ormecoin",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/ormeuscoin",
+    "youtube": "https://www.youtube.com/c/OrmeusCoin"
+  }
+}
