@@ -1,34 +1,31 @@
 {
-    "symbol": "ETHV",
-    "name": "Ethverse",
-    "type": "ERC20",
-    "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://ethverse.com/",
-    "logo": {
-        "src": "https://ethverse.com/images/logo.png",
-        "width": "256",
-        "height": "256",
-        "ipfs_hash": ""
-    },
-    "support": {
-        "email": "hello@ethverse.com",
-        "url": "https://ethverse.com/"
-    },
-    "social": {
-        "blog": "",
-        "chat": "",
-        "facebook": "",
-        "forum": "",
-        "github": "",
-        "gitter": "",
-        "instagram": "",
-        "linkedin": "",
-        "reddit": "",
-        "slack": "",
-        "telegram": "",
-        "twitter": "",
-        "youtube": ""
-    }
+  "symbol": "ETHV",
+  "name": "Ethverse",
+  "type": "ERC20",
+  "address": "0xEeEeeeeEe2aF8D0e1940679860398308e0eF24d6",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://ethverse.com/",
+  "logo": {
+    "src": "https://ethverse.com/images/logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "hello@ethverse.com", "url": "https://ethverse.com/" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
 }
