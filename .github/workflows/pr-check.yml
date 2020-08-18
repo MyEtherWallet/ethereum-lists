@@ -6,43 +6,28 @@ on:
       - master
 
 jobs:
-  setup-build:
+  pr-check:
     runs-on: ubuntu-latest
     steps:
-      - run: npm install
+      - uses: actions/checkout@v2
+      
+      - name: install packages
+        run: npm install
 
-  check-formatting:
-    runs-on: ubuntu-latest
-    needs: setup-build
-    steps:
-      - run: npm run compile
+      - name: check formatting issues
+        run: npm run compile
 
-  check-lint:
-    runs-on: ubuntu-latest
-    needs: setup-build
-    steps:
-      - run: npm run lint
+      - name: check for lint issues
+        run: npm run lint
 
-  check-master-file:
-    runs-on: ubuntu-latest
-    needs: setup-build
-    steps:
-      - run: npm run test:checkMasterFile
+      - name: check master-file
+        run: npm run test:checkMasterFile
 
-  check-token-issue:
-    runs-on: ubuntu-latest
-    needs: setup-build
-    steps:
-      - run: npm run test:checkToken
+      - name: check token issue
+        run: npm run test:checkToken
 
-  check-contract-issue:
-    runs-on: ubuntu-latest
-    needs: setup-build
-    steps:
-      - run: npm run test:checkContract
+      - name: check contract issue 
+        run: npm run test:checkContract
 
-  check-nft-issues:
-    runs-on: ubuntu-latest
-    needs: setup-build
-    steps:
-      - run: check nft issues
+      - name: check nft issues
+        run: check nft issues
