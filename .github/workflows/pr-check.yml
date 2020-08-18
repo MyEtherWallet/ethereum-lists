@@ -9,6 +9,9 @@ jobs:
   pr-check:
     runs-on: ubuntu-latest
     steps:
+      - name: install packages
+        run: npm install
+
       - name: check formatting issues
         run: npm run compile
 
