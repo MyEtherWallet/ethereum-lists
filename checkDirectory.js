@@ -1,6 +1,7 @@
 const fs = require('fs');
 const whitelist = [
   '.git',
+  '.github',
   '.gitignore',
   '.prettierignore',
   '.prettierrc',
