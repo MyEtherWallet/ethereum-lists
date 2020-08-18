@@ -4,7 +4,6 @@ const whitelist = [
   '.gitignore',
   '.prettierignore',
   '.prettierrc',
-  '.travis.yml',
   'LICENSE',
   'README.md',
   'checkContract.js',
@@ -20,13 +19,11 @@ const whitelist = [
   'generateMasterFile.js',
   'generateMissingTokenListFromIcons.js',
   'node_modules',
-  // 'notinlist.json',
   'package-lock.json',
   'package.json',
   'recreateFiles.js',
   'renameToChecksum.js',
   'src',
-  'stale.yml',
   'validateObject.js'
 ];
 
