@@ -1,25 +1,22 @@
 {
-"symbol": "SHR",
-
-"name": "ShareToken",
-
-"type": "ERC20",
-
-"address": "0xee5fe244406f35d9b4ddb488a64d51456630befc",
-"ens_address": "",
-"decimals": 2,
-"website": "https://sharering.network",
-"logo": {
+  "symbol": "SHR",
+  "name": "ShareToken",
+  "type": "ERC20",
+  "address": "0xEE5fE244406F35d9B4dDb488a64D51456630beFC",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "https://sharering.network",
+  "logo": {
     "src": "https://drive.google.com/file/d/1yqZnuG6GXrSR9bmm5rQbRospPMc0_up_/view?usp=sharing",
     "width": "256",
     "height": "269",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "hello@sharering.network",
     "url": "https://sharering.network"
-},
-"social": {
+  },
+  "social": {
     "blog": "https://blog.sharering.network",
     "chat": "",
     "facebook": "https://www.facebook.com/ShareRing.Network/",
@@ -33,5 +30,5 @@
     "telegram": "https://t.me/ShareRing",
     "twitter": "https://twitter.com/shareringglobal",
     "youtube": "https://www.youtube.com/channel/UCsV6WAvH-eE4pGcIw87pUHw"
-}
+  }
 }
