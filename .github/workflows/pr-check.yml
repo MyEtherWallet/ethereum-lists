@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: install packages
         run: npm install
 
@@ -30,4 +30,4 @@ jobs:
         run: npm run test:checkContract
 
       - name: check nft issues
-        run: check nft issues
+        run: npm run test:checkNft
