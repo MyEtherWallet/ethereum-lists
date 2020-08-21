@@ -1,0 +1,37 @@
+{
+"symbol": "SYSX",
+
+"name": "SyscoinToken",
+
+"type": "ERC20",
+
+"address": "0x3a0d746b3ea1d8ccdf19ad915913bd68391133ca",
+"ens_address": "",
+"decimals": 8,
+"website": "https://syscoin.org",
+"logo": {
+    "src": "https://ipfs.io/ipfs/QmfHAVUgoNUbPXMzZGbhAPq7umF9ksxeHxm35MdnTvQhvV?filename=logo.png",
+    "width": "250",
+    "height": "250",
+    "ipfs_hash": "QmfHAVUgoNUbPXMzZGbhAPq7umF9ksxeHxm35MdnTvQhvV"
+},
+"support": {
+    "email": "support@syscoin.org",
+    "url": "https://support.syscoin.org"
+},
+"social": {
+    "blog": "",
+    "chat": "https://discord.gg/RkK2AXD",
+    "facebook": "https://www.facebook.com/Syscoin",
+    "forum": "https://support.syscoin.org",
+    "github": "https://github.com/syscoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/syscoin",
+    "reddit": "https://www.reddit.com/r/SysCoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinchat/AAAAAEHzByog3h1qutnjhQ",
+    "twitter": "https://twitter.com/syscoin",
+    "youtube": "https://www.youtube.com/channel/UCTx546WgFKfKQg0_814FfMA"
+}
+}
