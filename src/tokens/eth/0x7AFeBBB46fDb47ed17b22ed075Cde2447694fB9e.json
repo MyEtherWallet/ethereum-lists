@@ -3,6 +3,7 @@
   "name": "Ocean Token",
   "type": "ERC20",
   "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+  "ens_address": "",
   "decimals": 18,
   "website": "https://oceanprotocol.com",
   "logo": {
@@ -10,6 +11,10 @@
     "width": "",
     "height": "",
     "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
   },
   "social": {
     "blog": "https://blog.oceanprotocol.com",
