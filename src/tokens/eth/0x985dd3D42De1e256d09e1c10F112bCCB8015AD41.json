@@ -1,0 +1,31 @@
+{
+  "symbol": "OCEAN",
+  "name": "OceanToken",
+  "type": "ERC20",
+  "address": "0x985dd3D42De1e256d09e1c10F112bCCB8015AD41",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  },
+  "deprecation": {
+    "new_address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+    "migration_type": "announcement:https://blog.oceanprotocol.com/ocean-token-swap-completed-new-contract-live-f0768423b3e1",
+    "time": "2020-08-21 16:00:00 UTC"
+  }
+}
