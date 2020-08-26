@@ -1,25 +1,22 @@
 {
-"symbol": "SYSX",
-
-"name": "SyscoinToken",
-
-"type": "ERC20",
-
-"address": "0x3A0D746B3EA1d8ccDf19aD915913BD68391133Ca",
-"ens_address": "",
-"decimals": 8,
-"website": "https://syscoin.org",
-"logo": {
+  "symbol": "SYSX",
+  "name": "SyscoinToken",
+  "type": "ERC20",
+  "address": "0x3A0D746B3EA1d8ccDf19aD915913BD68391133Ca",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://syscoin.org",
+  "logo": {
     "src": "https://avatars1.githubusercontent.com/u/6983571?s=200&v=4",
     "width": "200",
     "height": "200",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "support@syscoin.org",
     "url": "https://support.syscoin.org"
-},
-"social": {
+  },
+  "social": {
     "blog": "",
     "chat": "https://discord.gg/RkK2AXD",
     "facebook": "https://www.facebook.com/Syscoin",
@@ -33,5 +30,5 @@
     "telegram": "https://t.me/joinchat/AAAAAEHzByog3h1qutnjhQ",
     "twitter": "https://twitter.com/syscoin",
     "youtube": "https://www.youtube.com/channel/UCTx546WgFKfKQg0_814FfMA"
-}
+  }
 }
