@@ -1,0 +1,37 @@
+{
+"symbol": "OCEAN",
+
+"name": "Ocean Token",
+
+"type": "ERC20",
+
+"address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+"ens_address": "",
+"decimals": 18,
+"website": "https://oceanprotocol.com/",
+"logo": {
+    "src": "https://oceanprotocol.com/static/4ad704a150d436a1f32d495413fc47cd/favicon-white.png",
+    "width": "1024",
+    "height": "1024",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "info@oceanprotocol.com",
+    "url": "https://oceanprotocol.com/"
+},
+"social": {
+    "blog": "https://blog.oceanprotocol.com/",
+    "chat": "",
+    "facebook": "",
+    "forum": "https://port.oceanprotocol.com/",
+    "github": "https://github.com/oceanprotocol",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/ocean-protocol/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/OceanProtocol_Community",
+    "twitter": "https://twitter.com/oceanprotocol",
+    "youtube": "https://www.youtube.com/channel/UCH8TXwmWWAE9TZO0yTBHB3A"
+}
+}
