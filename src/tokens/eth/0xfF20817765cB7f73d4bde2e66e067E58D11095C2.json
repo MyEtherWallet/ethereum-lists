@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://amptoken.org",
-  "logo": { "src": "https://amptoken.org/icons/amp-256x256.png", "width": "256", "height": "256", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://amptoken.org/icons/amp-256x256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
   "support": { "email": "info@amptoken.org", "url": "" },
   "social": {
     "blog": "https://amptoken.org/blog",

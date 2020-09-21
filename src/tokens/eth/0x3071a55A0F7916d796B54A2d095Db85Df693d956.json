@@ -1,14 +1,21 @@
-
 {
   "symbol": "EUM",
   "name": "Walleteum",
   "type": "ERC20",
-  "address": "0x3071a55a0f7916d796b54a2d095db85df693d956",
+  "address": "0x3071a55A0F7916d796B54A2d095Db85Df693d956",
   "ens_address": "",
   "decimals": 13,
   "website": "https://walleteum.com/",
-  "logo": { "src": "https://walleteum.com/images/wl.svg", "width": "500px", "height": "500px", "ipfs_hash": "" },
-  "support": { "email": "support@walleteum.com", "url": "https://walleteum.com/contact.html" },
+  "logo": {
+    "src": "https://walleteum.com/images/wl.svg",
+    "width": "500px",
+    "height": "500px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@walleteum.com",
+    "url": "https://walleteum.com/contact.html"
+  },
   "social": {
     "blog": "https://medium.com/@walleteum",
     "chat": "",
