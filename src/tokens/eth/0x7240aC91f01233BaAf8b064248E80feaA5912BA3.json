@@ -1,0 +1,37 @@
+{
+"symbol": "OCTO",
+
+"name": "OctoFi",
+
+"type": "ERC20",
+
+"address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+"ens_address": "",
+"decimals": 18,
+"website": "https://octo.fi",
+"logo": {
+    "src": "https://raw.githubusercontent.com/octofi/assets/master/logo/octofi-256x256.jpg",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "hello@octo.fi",
+    "url": ""
+},
+"social": {
+    "blog": "https://octo.fi/blog/",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/octofi",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/octofinance/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/OctoFiNews",
+    "twitter": "https://twitter.com/octofinance",
+    "youtube": ""
+}
+}
