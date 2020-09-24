@@ -1,0 +1,31 @@
+{
+  "symbol": "OUSD",
+  "name": "Origin Dollar",
+  "type": "ERC20",
+  "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+  "ens_address": "ousd.eth",
+  "decimals": 18,
+  "website": "https://ousd.com",
+  "logo": {
+    "src": "http://ousd.com/images/ousd-logo-256x256.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": "https://ipfs.io/ipfs/QmYfKbDmNfUwdwJeJbc7P269BxskJZTchtoXosiETYqhCj"
+  },
+  "support": {
+    "email": "info@originprotocol.com",
+    "url": "https://originprotocol.com/discord"
+  },
+  "social": {
+    "blog": "https://medium.com/originprotocol",
+    "discord": "https://originprotocol.com/discord",
+    "facebook": "https://www.facebook.com/originprotocol",
+    "github": "https://github.com/originprotocol",
+    "instagram": "http://instagram.com/originprotocol",
+    "linkedin": "https://www.linkedin.com/company/originprotocol",
+    "reddit": "https://www.reddit.com/r/originprotocol",
+    "telegram": "https://t.me/originprotocol",
+    "twitter": "https://twitter.com/originprotocol",
+    "youtube": "https://www.youtube.com/c/originprotocol"
+  }
+}
