@@ -91,6 +91,10 @@ const constraints = {
     presence: true,
     type: "string"
   },
+  'social.discord': {
+    presence: true,
+    type: "string"
+  },
   'social.facebook': {
     presence: true,
     type: "string"
