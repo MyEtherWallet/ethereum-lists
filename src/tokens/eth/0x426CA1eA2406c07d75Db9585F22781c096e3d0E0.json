@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 8,
   "website": "",
-  "logo": { "src": "https://i.imgur.com/TXZPWoB.png", "width": "256", "height": "256", "ipfs_hash": "" },
-  "support": { "email": "admin@minereum.com", "url": "https://www.minereum.com" },
+  "logo": {
+    "src": "https://i.imgur.com/TXZPWoB.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "admin@minereum.com",
+    "url": "https://www.minereum.com"
+  },
   "social": {
     "blog": "",
     "chat": "",
