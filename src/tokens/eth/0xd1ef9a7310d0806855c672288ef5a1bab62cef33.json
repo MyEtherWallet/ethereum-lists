@@ -1,27 +1,22 @@
 {
-"symbol": "BLVR",
-
-"name": "Believer",
-
-"type": "ERC20",
-
-"address": "0xd1ef9a7310d0806855c672288ef5a1bab62cef33",
-"ens_address": "",
-"decimals" : 18,
-"website": "https://believercards.com/",
-"logo": {
+  "symbol": "BLVR",
+  "name": "Believer",
+  "type": "ERC20",
+  "address": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://believercards.com/",
+  "logo": {
     "src": "https://believercards.com/images/logo/belevier_logo.png",
     "width": "1121",
     "height": "973",
     "ipfs_hash": ""
-},
-"support": {
-    "email": "info@believercards.com",
-    "url": ""
-},
-"social": {
+  },
+  "support": { "email": "info@believercards.com", "url": "" },
+  "social": {
     "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "https://www.facebook.com/believercards",
     "forum": "",
     "github": "",
@@ -33,5 +28,5 @@
     "telegram": "https://t.me/believercards",
     "twitter": "https://twitter.com/believercards",
     "youtube": "https://www.youtube.com/channel/UCZUBK7G0xKcw-nbRLEz96ow?reload=9"
-}
+  }
 }
