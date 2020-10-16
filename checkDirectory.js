@@ -5,6 +5,7 @@ const whitelist = [
   '.gitignore',
   '.prettierignore',
   '.prettierrc',
+  '.idea',
   'LICENSE',
   'README.md',
   'checkContract.js',
