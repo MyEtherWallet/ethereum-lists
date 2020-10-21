@@ -11201,27 +11201,30 @@
     "address": "0xD1ef9a7310D0806855C672288EF5a1BAB62ceF33",
     "ens_address": "",
     "decimals": 18,
-    "website": "https://believercards.com/",
+    "website": "www.believercards.com",
     "logo": {
       "src": "https://believercards.com/images/logo/belevier_logo.png",
-      "width": "1121",
-      "height": "973",
+      "width": "256",
+      "height": "256",
       "ipfs_hash": ""
     },
-    "support": { "email": "info@believercards.com", "url": "" },
+    "support": {
+      "email": "info@believercards.com",
+      "url": "https://believercards.com/"
+    },
     "social": {
       "blog": "",
       "chat": "",
       "discord": "",
-      "facebook": "https://www.facebook.com/believercards",
+      "facebook": " https://www.facebook.com/believercards",
       "forum": "",
-      "github": "",
+      "github": "https://github.com/believercards/believer",
       "gitter": "",
       "instagram": "https://www.instagram.com/believercards/",
-      "linkedin": "https://www.linkedin.com/company/believercards/",
-      "reddit": "https://www.reddit.com/user/believercards",
+      "linkedin": "www.linkedin.com/company/believercards",
+      "reddit": "reddit.com/user/believercards",
       "slack": "",
-      "telegram": "https://t.me/believercards",
+      "telegram": "https://t.me/believercard",
       "twitter": "https://twitter.com/believercards",
       "youtube": "https://www.youtube.com/channel/UCZUBK7G0xKcw-nbRLEz96ow?reload=9"
     }
