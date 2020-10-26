@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 2,
   "website": "https://www.hugeswap.com/",
-  "logo": { "src": "https://ibb.co/3pDGNJN", "width": "512", "height": "512", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://ibb.co/3pDGNJN",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
   "support": { "email": "info@hugeswap.com", "url": "" },
   "social": {
     "blog": "https://medium.com/@hugeswap",
