@@ -91,6 +91,10 @@ const constraints = {
     presence: true,
     type: "string"
   },
+  'social.discord': {
+    presence: true,
+    type: "string"
+  },
   'social.facebook': {
     presence: true,
     type: "string"
@@ -138,6 +142,7 @@ const constraints = {
 };
 
 function checkToken() {
+  let errors = 0;
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
       if (
@@ -154,7 +159,7 @@ function checkToken() {
               `${errs[key][0]} for ${file} in ${tokensDirectory}/${folder}`
             );
           });
-          process.exit(1);
+          errors += 1;
         }
       } else {
         console.error('Incorrect file name or file extension');
@@ -162,6 +167,7 @@ function checkToken() {
       }
     });
   });
+  if(errors > 0) process.exit(1);
   process.exit(0);
 }
 

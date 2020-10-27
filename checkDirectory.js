@@ -5,6 +5,7 @@ const whitelist = [
   '.gitignore',
   '.prettierignore',
   '.prettierrc',
+  '.idea',
   'LICENSE',
   'README.md',
   'checkContract.js',
@@ -30,12 +31,12 @@ const whitelist = [
 
 function checkDirectory() {
   const currentContent = fs.readdirSync('./');
-  whitelist.forEach((file, idx) => {
-    if (currentContent[idx] !== file) {
-      console.log(`Move ${currentContent[idx]} to proper folder or delete it.`);
+  currentContent.forEach(file => {
+    if(!whitelist.includes(file)) {
+      console.log(`Move ${file} to proper folder or delete it.`);
       process.exit(1);
     }
-  });
+  })
 }
 
 module.exports = checkDirectory;

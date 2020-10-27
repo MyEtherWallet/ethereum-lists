@@ -56,6 +56,7 @@ async function createToken() {
             "social": {
                 "blog": "",
                 "chat": "",
+                "discord": "",
                 "facebook": "",
                 "forum": "",
                 "github": "",
