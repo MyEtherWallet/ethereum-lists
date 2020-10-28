@@ -33,49 +33,54 @@ async function createToken() {
       const tokenInfo = await fetch(`${api}/${notInList[index]}`).then(response => {
         return response.json();
       });
-      const homepage = tokenInfo.hasOwnProperty('links') ? tokenInfo.links.hasOwnProperty('homepage') ? tokenInfo.links.homepage[0] : '' : '';
-      const tokenTemp =
-          {
-            "symbol": tokenInfo.symbol.toUpperCase(),
-            "name": tokenInfo.name,
-            "type": "ERC20",
-            "address": utils.toChecksumAddress(notInList[index]),
-            "ens_address": "",
-            "decimals": Number(decimal),
-            "website": homepage,
-            "logo": {
-                "src": "",
-                "width": "",
-                "height": "",
-                "ipfs_hash": ""
-            },
-            "support": {
-                "email": "",
-                "url": ""
-            },
-            "social": {
-                "blog": "",
-                "chat": "",
-                "discord": "",
-                "facebook": "",
-                "forum": "",
-                "github": "",
-                "gitter": "",
-                "instagram": "",
-                "linkedin": "",
-                "reddit": "",
-                "slack": "",
-                "telegram": "",
-                "twitter": "",
-                "youtube": ""
-            }
-        };
-          fs.writeFileSync(
-            `${tokensDirectory}/${utils.toChecksumAddress(
-              notInList[index].replace('.json', '')
-            )}.json`,
-            JSON.stringify(tokenTemp)
-      );
+      if(!tokenInfo.hasOwnProperty('error')) {
+        const homepage = tokenInfo.hasOwnProperty('links') ? tokenInfo.links.hasOwnProperty('homepage') ? tokenInfo.links.homepage[0] : '' : '';
+        const tokenTemp =
+            {
+              "symbol": tokenInfo.symbol.toUpperCase(),
+              "name": tokenInfo.name,
+              "type": "ERC20",
+              "address": utils.toChecksumAddress(notInList[index]),
+              "ens_address": "",
+              "decimals": Number(decimal),
+              "website": homepage,
+              "logo": {
+                  "src": "",
+                  "width": "",
+                  "height": "",
+                  "ipfs_hash": ""
+              },
+              "support": {
+                  "email": "",
+                  "url": ""
+              },
+              "social": {
+                  "blog": "",
+                  "chat": "",
+                  "discord": "",
+                  "facebook": "",
+                  "forum": "",
+                  "github": "",
+                  "gitter": "",
+                  "instagram": "",
+                  "linkedin": "",
+                  "reddit": "",
+                  "slack": "",
+                  "telegram": "",
+                  "twitter": "",
+                  "youtube": ""
+              }
+          };
+            fs.writeFileSync(
+              `${tokensDirectory}/${utils.toChecksumAddress(
+                notInList[index].replace('.json', '')
+              )}.json`,
+              JSON.stringify(tokenTemp)
+
+              );
+      } else {
+        console.log(`CoinGecko could not find ${notInlist[index]}`)
+      }
     } catch(e) {
       console.log(e, notInList[index])
     }
