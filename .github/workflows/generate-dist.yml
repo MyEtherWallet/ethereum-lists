@@ -1,12 +1,12 @@
-name: add to develop
+name: generate dist
 
 on:
   push:
     branches:
-      - develop
+      - master
 
 jobs:
-  check:
+  generate-dist:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -39,7 +39,7 @@ jobs:
         run: |
           git config --local user.email "41133007+mew-bot@users.noreply.github.com";
           git config --local user.name "mewbot";
-          git commit -am "Compile changes to master";
+          git commit -am "Recompile";
       - name: push changes
         uses: ad-m/github-push-action@master
         with:
