@@ -10,10 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          ref: master
-      - name: pull develop
-        run: git pull origin develop
+
       - name: install packages
         run: npm install
 
@@ -29,7 +26,7 @@ jobs:
       - name: check token issue
         run: npm run test:checkToken
 
-      - name: check contract issue 
+      - name: check contract issue
         run: npm run test:checkContract
 
       - name: check nft issues
@@ -45,4 +42,3 @@ jobs:
         with:
           github_token: ${{secrets.MEW_BOT_TOKEN}}
           branch: master
-        
