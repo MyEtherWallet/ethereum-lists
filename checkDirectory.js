@@ -18,6 +18,7 @@ const whitelist = [
   'createFiles.js',
   'createTokens.js',
   'dist',
+  'generateCSV.js',
   'generateMasterFile.js',
   'generateMissingTokenListFromIcons.js',
   'node_modules',
@@ -32,11 +33,11 @@ const whitelist = [
 function checkDirectory() {
   const currentContent = fs.readdirSync('./');
   currentContent.forEach(file => {
-    if(!whitelist.includes(file)) {
+    if (!whitelist.includes(file)) {
       console.log(`Move ${file} to proper folder or delete it.`);
       process.exit(1);
     }
-  })
+  });
 }
 
 module.exports = checkDirectory;
