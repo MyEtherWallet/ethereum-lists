@@ -32,14 +32,14 @@ jobs:
       - name: check nft issues
         run: npm run test:checkNft
 
-        - name: commit files
-          run: |
-            git config --local user.email "41133007+mew-bot@users.noreply.github.com";
-            git config --llocal user.name "mewbot";
-            git commit -am "Compile changes to master";
-        - name: push changes
-          uses: ad-m/github-push-action@master
-          with:
-            github_token: ${{secrets.MEW_BOT_TOKEN}}
-            branch: master
-          
+      - name: commit files
+        run: |
+          git config --local user.email "41133007+mew-bot@users.noreply.github.com";
+          git config --llocal user.name "mewbot";
+          git commit -am "Compile changes to master";
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{secrets.MEW_BOT_TOKEN}}
+          branch: master
+        
