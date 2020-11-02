@@ -1,32 +1,26 @@
 {
-    "symbol": "MYST",
-    "name": "Mysterium",
-    "type": "ERC20",
-    "address": "0xa645264C5603E96c3b0B078cdab68733794B0A71",
-    "ens_address": "",
-    "decimals": 8,
-    "website": "https://mysterium.network",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "https://mysterium.network/faq" },
-    "social": {
-        "blog": "",
-        "chat": "",
-        "facebook": "",
-        "forum": "",
-        "github": "",
-        "gitter": "",
-        "instagram": "",
-        "linkedin": "",
-        "reddit": "",
-        "slack": "https://slack.mysterium.network",
-        "telegram": "https://t.me/mysterium_network",
-        "twitter": "https://twitter.com/MysteriumNet",
-        "youtube": ""
-    },
-    "deprecation": {
-        "new_address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
-        "migration_type": "instructions:https://mysterium.network/2020/08/31/myst-token-migration-guide/",
-        "announcement_url": "https://mysterium.network/2020/08/31/mysterium-network-begins-token-migration/",
-        "time": "2020-08-31T00:00:00Z"
-    }
+  "symbol": "MYST",
+  "name": "Mysterium",
+  "type": "ERC20",
+  "address": "0xa645264C5603E96c3b0B078cdab68733794B0A71",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://mysterium.network",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "https://mysterium.network/faq" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "https://slack.mysterium.network",
+    "telegram": "https://t.me/mysterium_network",
+    "twitter": "https://twitter.com/MysteriumNet",
+    "youtube": ""
+  }
 }

@@ -1,25 +1,25 @@
 {
-"symbol": "QUO",
+  "symbol": "QUO",
 
-"name": "QUOXENT",
+  "name": "QUOXENT",
 
-"type": "ERC20",
+  "type": "ERC20",
 
-"address": "0xefd720C94659F2cCb767809347245F917A145ed8",
-"ens_address": "",
-"decimals": 18,
-"website": "",
-"logo": {
+  "address": "0xefd720C94659F2cCb767809347245F917A145ed8",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": {
     "src": "https://etherscan.io/token/images/quoxent_32.png",
     "width": "32",
     "height": "32",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "support@quoxent.com",
     "url": "https://quoxent.com"
-},
-"social": {
+  },
+  "social": {
     "blog": "",
     "chat": "http://quoxent.chat",
     "facebook": "https://www.facebook.com/quoxent",
@@ -33,5 +33,5 @@
     "telegram": "http://quoxent.tel",
     "twitter": "",
     "youtube": ""
-}
+  }
 }
