@@ -12,7 +12,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: master
-
+      - name: pull develop
+          run: git pull origin develop
       - name: install packages
         run: npm install
 
