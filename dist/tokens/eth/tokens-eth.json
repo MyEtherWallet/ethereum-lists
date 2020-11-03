@@ -3651,6 +3651,38 @@
     }
   },
   {
+    "symbol": "ALBC",
+    "name": "AlbCoin",
+    "type": "ERC20",
+    "address": "0x2f9F75289466e9005F44C4fa25ddDf10aD16d684",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://albcoin.org/",
+    "logo": {
+      "src": "https://drive.google.com/uc?export=download&id=1lcjwyZYYskY8oBx00O1YkKXlq1XiREw8",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@albcoin.org", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/albcoin.official/?igshid=iwq9swmrtena",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/AlbcoinOrg",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "ALBT",
     "name": "AllianceBlock",
     "type": "ERC20",
@@ -24003,6 +24035,38 @@
     }
   },
   {
+    "symbol": "CTi",
+    "name": "ClinTex CTi",
+    "type": "ERC20",
+    "address": "0x8c18D6a985Ef69744b9d57248a45c0861874f244",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://clintex.io",
+    "logo": {
+      "src": "https://clintex.io/clintex256x256.png",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@clintex.io", "url": "https://clintex.io" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/ClinTex/",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/eclintex-ltd/",
+      "reddit": "https://www.reddit.com/r/clintexcti",
+      "slack": "",
+      "telegram": "https://t.me/ClinTexCTi",
+      "twitter": "https://twitter.com/ClinTexCTi",
+      "youtube": "https://www.youtube.com/channel/UC66MPSniK52KFZwE_SIDsOA"
+    }
+  },
+  {
     "symbol": "CTL",
     "name": "Citadel",
     "type": "ERC20",
@@ -39685,6 +39749,41 @@
       "telegram": "https://t.me/game4bitcoin",
       "twitter": "https://twitter.com/Game4Bitcoin",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "GALA",
+    "name": "GALA",
+    "type": "ERC20",
+    "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "",
+    "logo": {
+      "src": "https://etherscan.io/token/images/gala_32.png?v=2",
+      "width": "32",
+      "height": "32",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@gala.games",
+      "url": "https://gala.games/submit-a-support-ticket/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "http://galagames.chat",
+      "discord": "",
+      "facebook": "https://www.facebook.com/GoGalaGames",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/GoGalaGames",
+      "linkedin": "https://www.linkedin.com/company/68601129/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "http://galagames.tel",
+      "twitter": "https://www.twitter.com/GoGalaGames",
+      "youtube": "https://www.youtube.com/c/GalaGames"
     }
   },
   {
@@ -62484,11 +62583,14 @@
     "decimals": 18,
     "website": "https://mysterium.network/",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "support": {
+      "email": "help@mysterium.network",
+      "url": "https://mysterium.network/faq"
+    },
     "social": {
-      "blog": "",
+      "blog": "https://mysterium.network/blog/",
       "chat": "",
-      "discord": "",
+      "discord": "https://discordapp.com/invite/n3vtSwc",
       "facebook": "",
       "forum": "",
       "github": "",
@@ -62497,9 +62599,9 @@
       "linkedin": "",
       "reddit": "",
       "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
+      "telegram": "https://t.me/mysterium_network",
+      "twitter": "https://twitter.com/MysteriumNet",
+      "youtube": "https://www.youtube.com/channel/UCBxzWnZEHvuj-nfP00YImHQ"
     }
   },
   {
@@ -67366,6 +67468,38 @@
     }
   },
   {
+    "symbol": "OPCT",
+    "name": "Opacity",
+    "type": "ERC20",
+    "address": "0xDb05EA0877A2622883941b939f0bb11d1ac7c400",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://opacity.io",
+    "logo": {
+      "src": "https://opacity.io/static/media/logo.345da994bab620c05eb8db8b42358fff.svg",
+      "width": "",
+      "height": "",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@opacity.io", "url": "" },
+    "social": {
+      "blog": "https://medium.com/opacity-storage",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/opacitystorage/",
+      "forum": "",
+      "github": "https://github.com/opacity",
+      "gitter": "",
+      "instagram": "https://instagram.com/opacitystorage",
+      "linkedin": "https://www.linkedin.com/company/opacity-storage/",
+      "reddit": "https://www.reddit.com/r/Opacity/",
+      "slack": "",
+      "telegram": "https://telegram.me/opacitystorage",
+      "twitter": "https://twitter.com/Opacity_Storage",
+      "youtube": "https://www.youtube.com/channel/UC7wzTVHu2bRBcaIsdnLTwaA/"
+    }
+  },
+  {
     "symbol": "OPEN",
     "name": "Open Platform",
     "type": "ERC20",
@@ -67425,38 +67559,6 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
-    }
-  },
-  {
-    "symbol": "OPQ",
-    "name": "Opacity",
-    "type": "ERC20",
-    "address": "0x77599D2C6DB170224243e255e6669280F11F1473",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://opacity.io",
-    "logo": {
-      "src": "https://opacity.io/static/media/logo.345da994bab620c05eb8db8b42358fff.svg",
-      "width": "",
-      "height": "",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "support@opacity.io", "url": "" },
-    "social": {
-      "blog": "https://medium.com/opacity-storage",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "https://github.com/opacity",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company/opacity-storage/",
-      "reddit": "https://www.reddit.com/r/Opacity/",
-      "slack": "",
-      "telegram": "https://telegram.me/opacitystorage",
-      "twitter": "https://twitter.com/Opacity_Storage",
-      "youtube": "https://www.youtube.com/channel/UC7wzTVHu2bRBcaIsdnLTwaA/"
     }
   },
   {
@@ -74213,6 +74315,38 @@
       "reddit": "",
       "slack": "",
       "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "QUO",
+    "name": "QUOXENT",
+    "type": "ERC20",
+    "address": "0xefd720C94659F2cCb767809347245F917A145ed8",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": {
+      "src": "https://etherscan.io/token/images/quoxent_32.png",
+      "width": "32",
+      "height": "32",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@quoxent.com", "url": "https://quoxent.com" },
+    "social": {
+      "blog": "",
+      "chat": "http://quoxent.chat",
+      "discord": "",
+      "facebook": "https://www.facebook.com/quoxent",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "http://quoxent.tel",
       "twitter": "",
       "youtube": ""
     }
@@ -87071,53 +87205,31 @@
     "symbol": "TBTC",
     "name": "tBTC",
     "type": "ERC20",
-    "address": "0x1bBE271d15Bb64dF0bc6CD28Df9Ff322F2eBD847",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://tbtc.network/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TBTC",
-    "name": "tBTC",
-    "type": "ERC20",
     "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
     "ens_address": "",
     "decimals": 18,
     "website": "https://tbtc.network/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
+    "logo": {
+      "src": "https://ipfs.io/ipfs/QmQa3nXVbbKdg2JQ3Q3gAo9iYJeNW4gYeRAVLpwzMG9ytY/tbtclogo200x200.png",
+      "width": "200",
+      "height": "200",
+      "ipfs_hash": "QmQa3nXVbbKdg2JQ3Q3gAo9iYJeNW4gYeRAVLpwzMG9ytY"
+    },
+    "support": { "email": "work@keep.network", "url": "" },
     "social": {
-      "blog": "",
-      "chat": "",
+      "blog": "https://blog.keep.network",
+      "chat": "https://chat.tbtc.network",
       "discord": "",
       "facebook": "",
       "forum": "",
-      "github": "",
+      "github": "https://github.com/keep-network",
       "gitter": "",
       "instagram": "",
       "linkedin": "",
-      "reddit": "",
+      "reddit": "https://www.reddit.com/r/KeepNetwork",
       "slack": "",
-      "telegram": "",
-      "twitter": "",
+      "telegram": "https://t.me/KeepNetworkOfficial",
+      "twitter": "https://twitter.com/tBTC_project",
       "youtube": ""
     }
   },
@@ -94098,6 +94210,41 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "UNIS",
+    "name": "UniSlurm",
+    "type": "ERC20",
+    "address": "0x7611674336151835403c4dB867fDd30782073C65",
+    "ens_address": "unislurm.eth",
+    "decimals": 18,
+    "website": "https://unislurm.com",
+    "logo": {
+      "src": "https://unislurm.com/images/apple-icon.png",
+      "width": "192",
+      "height": "192",
+      "ipfs_hash": "QmPErEMDZwkiCVQQTXNpBkpkmr5Qnm7Cusunn2SgC2LFiG"
+    },
+    "support": {
+      "email": "bender@unislurm.com",
+      "url": "https://unislurm.com"
+    },
+    "social": {
+      "discord": "",
+      "blog": "",
+      "chat": "",
+      "facebook": "https://www.facebook.com/UniSlurm-105516684692539/",
+      "forum": "",
+      "github": "https://github.com/unislurm",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/unislurm/",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/unislurm",
+      "twitter": "https://twitter.com/unislurm",
       "youtube": ""
     }
   },
