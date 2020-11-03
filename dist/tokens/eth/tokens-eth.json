@@ -3651,38 +3651,6 @@
     }
   },
   {
-    "symbol": "ALBC",
-    "name": "AlbCoin",
-    "type": "ERC20",
-    "address": "0x2f9F75289466e9005F44C4fa25ddDf10aD16d684",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://albcoin.org/",
-    "logo": {
-      "src": "https://drive.google.com/uc?export=download&id=1lcjwyZYYskY8oBx00O1YkKXlq1XiREw8",
-      "width": "256",
-      "height": "256",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "support@albcoin.org", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "https://www.instagram.com/albcoin.official/?igshid=iwq9swmrtena",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "https://twitter.com/AlbcoinOrg",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "ALBT",
     "name": "AllianceBlock",
     "type": "ERC20",
@@ -17588,6 +17556,33 @@
   },
   {
     "symbol": "CAT",
+    "name": "BitClave",
+    "type": "ERC20",
+    "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.bitclave.com",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "help@bitclave.com", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "https://slack.bitclave.com",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "CAT",
     "name": "Cat Token",
     "type": "ERC20",
     "address": "0x56015BBE3C01fE05bc30A8a9a9Fd9A88917e7dB3",
@@ -17637,33 +17632,6 @@
       "slack": "https://slack.blockcat.io",
       "telegram": "",
       "twitter": "https://twitter.com/blockcatio",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "CAT (BitClave)",
-    "name": "BitClave",
-    "type": "ERC20",
-    "address": "0x1234567461d3f8Db7496581774Bd869C83D51c93",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://www.bitclave.com",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "help@bitclave.com", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "https://slack.bitclave.com",
-      "telegram": "",
-      "twitter": "",
       "youtube": ""
     }
   },
@@ -24032,38 +24000,6 @@
       "telegram": "https://telegram.me/CTGgroup",
       "twitter": "https://twitter.com/CtGcoin",
       "youtube": ""
-    }
-  },
-  {
-    "symbol": "CTi",
-    "name": "ClinTex CTi",
-    "type": "ERC20",
-    "address": "0x8c18D6a985Ef69744b9d57248a45c0861874f244",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://clintex.io",
-    "logo": {
-      "src": "https://clintex.io/clintex256x256.png",
-      "width": "256",
-      "height": "256",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "info@clintex.io", "url": "https://clintex.io" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "https://github.com/ClinTex/",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company/eclintex-ltd/",
-      "reddit": "https://www.reddit.com/r/clintexcti",
-      "slack": "",
-      "telegram": "https://t.me/ClinTexCTi",
-      "twitter": "https://twitter.com/ClinTexCTi",
-      "youtube": "https://www.youtube.com/channel/UC66MPSniK52KFZwE_SIDsOA"
     }
   },
   {
@@ -74320,38 +74256,6 @@
     }
   },
   {
-    "symbol": "QUO",
-    "name": "QUOXENT",
-    "type": "ERC20",
-    "address": "0xefd720C94659F2cCb767809347245F917A145ed8",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": {
-      "src": "https://etherscan.io/token/images/quoxent_32.png",
-      "width": "32",
-      "height": "32",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "support@quoxent.com", "url": "https://quoxent.com" },
-    "social": {
-      "blog": "",
-      "chat": "http://quoxent.chat",
-      "discord": "",
-      "facebook": "https://www.facebook.com/quoxent",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "http://quoxent.tel",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "QURA",
     "name": "QURA GLOBAL",
     "type": "ERC20",
@@ -94657,33 +94561,6 @@
     "symbol": "UQC",
     "name": "Uquid Coin",
     "type": "ERC20",
-    "address": "0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
-    "ens_address": "",
-    "decimals": 2,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "UQC",
-    "name": "Uquid Coin",
-    "type": "ERC20",
     "address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
     "ens_address": "",
     "decimals": 18,
@@ -95137,6 +95014,33 @@
     "address": "0xD760ADdFb24D9C01Fe4Bfea7475C5e3636684058",
     "ens_address": "",
     "decimals": 2,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "USDN",
+    "name": "Neutrino USD",
+    "type": "ERC20",
+    "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+    "ens_address": "",
+    "decimals": 18,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
@@ -105408,7 +105312,7 @@
     }
   },
   {
-    "symbol": "yUSDC",
+    "symbol": "YUSDC",
     "name": "iearn USDC",
     "type": "ERC20",
     "address": "0x73a052500105205d34Daf004eAb301916DA8190f",
@@ -105435,7 +105339,7 @@
     }
   },
   {
-    "symbol": "yUSDC",
+    "symbol": "YUSDC",
     "name": "iearn USDC",
     "type": "ERC20",
     "address": "0xd6aD7a6750A7593E092a9B218d66C0A814a3436e",
