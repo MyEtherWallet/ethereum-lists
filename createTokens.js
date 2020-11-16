@@ -95,11 +95,8 @@ async function createToken() {
         );
       } else {
         const newTokenCopy = Object.assign({}, tokenTemp, {
-          symbol: '',
-          name: '',
           address: utils.toChecksumAddress(notInList[index]),
-          decimals: Number(decimals),
-          website: ''
+          decimals: Number(decimals)
         });
         fs.writeFileSync(
           `${tokensDirectory}/${utils.toChecksumAddress(
