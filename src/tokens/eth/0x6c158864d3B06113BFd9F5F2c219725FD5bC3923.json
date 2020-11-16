@@ -1,11 +1,11 @@
 {
-  "symbol": "YUSDC",
-  "name": "iearn USDC",
+  "symbol": "METH",
+  "name": "Mini Ethereum 2",
   "type": "ERC20",
-  "address": "0x26ea744e5b887e5205727f55dfbe8685e3b21951",
+  "address": "0x6c158864d3B06113BFd9F5F2c219725FD5bC3923",
   "ens_address": "",
-  "decimals": 6,
-  "website": "",
+  "decimals": 0,
+  "website": "https://meth.selfdrop.eu/",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
