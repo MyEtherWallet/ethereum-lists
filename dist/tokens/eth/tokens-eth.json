@@ -51171,6 +51171,38 @@
     }
   },
   {
+    "symbol": "JACS",
+    "name": "JACS Token",
+    "type": "ERC20",
+    "address": "0xEFA694bc75fBB291bdB0FA86BFAbEd9cBd065aCB",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.jacs.tech/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/jacs_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@jacs.tech", "url": "https://www.jacs.tech/" },
+    "social": {
+      "blog": "",
+      "chat": "https://wa.me/message/PUUDEV5ZVWQBA1",
+      "discord": "",
+      "facebook": "https://www.facebook.com/viaBlockLTD",
+      "forum": "",
+      "github": "https://github.com/viaBlock/",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/viablock",
+      "reddit": "https://www.reddit.com/r/JACSTECH/",
+      "slack": "",
+      "telegram": "https://t.me/jacstech",
+      "twitter": "https://twitter.com/Moustafaamin77",
+      "youtube": "https://www.youtube.com/channel/UCICHtYggmdDTRJsPdOBs-GQ"
+    }
+  },
+  {
     "symbol": "JADE",
     "name": "Jade Currency",
     "type": "ERC20",
@@ -62153,7 +62185,7 @@
     "symbol": "MVP",
     "name": "Merculet",
     "type": "ERC20",
-    "address": "0x8a77e40936BbC27e80E9a3F526368C967869c86D",
+    "address": "0x432A2C54de2DDE941A36d2EB8c424Ed666F74Aef",
     "ens_address": "",
     "decimals": 18,
     "website": "https://www.merculet.io",
@@ -93325,6 +93357,38 @@
     }
   },
   {
+    "symbol": "UFT",
+    "name": "UniLend Finance Token",
+    "type": "ERC20",
+    "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://unilend.finance/",
+    "logo": {
+      "src": "https://drive.google.com/file/d/15XjuXwTnbZT70YzfnbmFMmcrDfzCOpIC/view?usp=sharing",
+      "width": "393",
+      "height": "393",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "hello@unilend.finance", "url": "" },
+    "social": {
+      "blog": "https://unilend.medium.com/",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/UniLendFinance",
+      "twitter": "https://twitter.com/unilend_finance",
+      "youtube": "https://www.youtube.com/channel/UCggNiVE5EGWGHh1YwIUW7Ug"
+    }
+  },
+  {
     "symbol": "UGAS",
     "name": "UltrainGas",
     "type": "ERC20",
@@ -97172,6 +97236,38 @@
       "telegram": "https://t.me/viulyofficial",
       "twitter": "https://twitter.com/ViulyOfficial",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "VKNF",
+    "name": "VKENAF",
+    "type": "ERC20",
+    "address": "0xD501900646641eAf5755758E11EeAA43dF691924",
+    "ens_address": "",
+    "decimals": 12,
+    "website": "https://vkenaf.com",
+    "logo": {
+      "src": "https://vkenaf.com/images/h_logo.png",
+      "width": "66",
+      "height": "94",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@vkenaf.com", "url": "https://vkenaf.com" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/vkenaf.coin.3",
+      "forum": "",
+      "github": "https://github.com/VkenafCoin/Vkenaf",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/officialvkenafcommunity",
+      "twitter": "https://twitter.com/vkenaf",
+      "youtube": "https://youtu.be/Zg-1AkdUPGs"
     }
   },
   {
@@ -104953,6 +105049,33 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "YOUC",
+    "name": "YOUcash",
+    "type": "ERC20",
+    "address": "0x3D371413dd5489F3A04C07c0C2CE369c20986ceb",
+    "ens_address": "",
+    "decimals": 10,
+    "website": "https://youengine.io/",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "info@youengine.io", "url": "" },
+    "social": {
+      "blog": "https://youengine.io/blog/",
+      "chat": "https://t.me/YouEngineGroup",
+      "discord": "",
+      "facebook": "https://www.facebook.com/YouEngineOfficial/",
+      "forum": "https://bitcointalk.org/index.php?topic=5237861",
+      "github": "https://github.com/YOUengine",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/youengine-io",
+      "reddit": "https://www.reddit.com/r/YOUengineFANs/",
+      "slack": "",
+      "telegram": "https://t.me/YouEngineGroup",
+      "twitter": "https://twitter.com/younive87630435",
+      "youtube": "https://www.youtube.com/c/YOUengine"
     }
   },
   {
