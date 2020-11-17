@@ -1,25 +1,25 @@
 {
-"symbol": "RFOX",
+  "symbol": "RFOX",
 
-"name": "RFOX Token",
+  "name": "RFOX Token",
 
-"type": "ERC20",
+  "type": "ERC20",
 
-"address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
-"ens_address": "",
-"decimals":18,
-"website": "https://www.redfoxlabs.io",
-"logo": {
+  "address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://www.redfoxlabs.io",
+  "logo": {
     "src": "https://etherscan.io/token/images/redfoxlabs_32.png",
     "width": "32px",
     "height": "32px",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "chris@redfoxlabs.io",
     "url": "https://www.redfoxlabs.io/contact"
-},
-"social": {
+  },
+  "social": {
     "blog": "",
     "chat": "",
     "discord": "",
@@ -34,5 +34,5 @@
     "telegram": "",
     "twitter": "@redfoxlabs_io",
     "youtube": ""
-}
+  }
 }

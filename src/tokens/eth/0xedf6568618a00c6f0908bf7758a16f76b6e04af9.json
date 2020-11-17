@@ -1,27 +1,28 @@
 {
-"symbol": "ARIA20",
+  "symbol": "ARIA20",
 
-"name": "Arianee",
+  "name": "Arianee",
 
-"type": "ERC20",
+  "type": "ERC20",
 
-"address": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
-"ens_address": "aria.eth",
-"decimals": 18,
-"website": "https://www.arianee.org/",
-"logo": {
+  "address": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
+  "ens_address": "aria.eth",
+  "decimals": 18,
+  "website": "https://www.arianee.org/",
+  "logo": {
     "src": "https://aria.fyi/images/Aria_Logo_256.png",
     "width": "256",
     "height": "256",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "hello@arianee.org",
     "url": "https://www.arianee.org/"
-},
-"social": {
+  },
+  "social": {
     "blog": "https://medium.com/arianee",
-    "chat": "https://discord.gg/tTER79v",
+    "chat": "",
+    "discord": "https://discord.gg/tTER79v",
     "facebook": "",
     "forum": "https://discord.gg/tTER79v",
     "github": "https://github.com/Arianee",
@@ -33,5 +34,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/ArianeeProject",
     "youtube": ""
-}
+  }
 }
