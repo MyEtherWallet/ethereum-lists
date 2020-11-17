@@ -2,34 +2,26 @@
   "symbol": "SHR",
   "name": "ShareToken",
   "type": "ERC20",
-  "address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+  "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
   "ens_address": "",
   "decimals": 2,
   "website": "https://sharering.network",
-  "logo": {
-    "src": "https://drive.google.com/file/d/1yqZnuG6GXrSR9bmm5rQbRospPMc0_up_/view?usp=sharing",
-    "width": "256",
-    "height": "269",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "hello@sharering.network",
-    "url": "https://sharering.network"
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.sharering.network",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/ShareRing.Network/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/ShareRing",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/ShareRing/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ShareRing",
-    "twitter": "https://twitter.com/shareringglobal",
-    "youtube": "https://www.youtube.com/channel/UCsV6WAvH-eE4pGcIw87pUHw"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }
