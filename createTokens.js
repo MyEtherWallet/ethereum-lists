@@ -84,7 +84,7 @@ async function createToken() {
           symbol: tokenInfo.symbol.toUpperCase(),
           name: tokenInfo.name,
           address: utils.toChecksumAddress(notInList[index]),
-          decimals: Number(decimals),
+          decimals: Number(decimal),
           website: homepage
         });
         fs.writeFileSync(
@@ -96,7 +96,7 @@ async function createToken() {
       } else {
         const newTokenCopy = Object.assign({}, tokenTemp, {
           address: utils.toChecksumAddress(notInList[index]),
-          decimals: Number(decimals)
+          decimals: Number(decimal)
         });
         fs.writeFileSync(
           `${tokensDirectory}/${utils.toChecksumAddress(
