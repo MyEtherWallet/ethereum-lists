@@ -5770,6 +5770,41 @@
     }
   },
   {
+    "symbol": "ARIA20",
+    "name": "Arianee",
+    "type": "ERC20",
+    "address": "0xeDF6568618A00C6F0908Bf7758A16F76B6E04aF9",
+    "ens_address": "aria.eth",
+    "decimals": 18,
+    "website": "https://www.arianee.org/",
+    "logo": {
+      "src": "https://aria.fyi/images/Aria_Logo_256.png",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "hello@arianee.org",
+      "url": "https://www.arianee.org/"
+    },
+    "social": {
+      "blog": "https://medium.com/arianee",
+      "chat": "",
+      "discord": "https://discord.gg/tTER79v",
+      "facebook": "",
+      "forum": "https://discord.gg/tTER79v",
+      "github": "https://github.com/Arianee",
+      "gitter": "",
+      "instagram": "http://instagram.com/arianee_project/",
+      "linkedin": "http://www.linkedin.com/company/arianee/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/ArianeeProject",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "ARM",
     "name": "Armours",
     "type": "ERC20",
@@ -7649,33 +7684,6 @@
     "ens_address": "",
     "decimals": 18,
     "website": "https://azbit.com",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "AZBI",
-    "name": "AZBI core",
-    "type": "ERC20",
-    "address": "0x21Efe20be784aC5dA569f72070e64525f95CCAb6",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -35638,33 +35646,6 @@
     }
   },
   {
-    "symbol": "ETHBTC26EMACO",
-    "name": "ETH/BTC Ratio 26 EMA Crossover",
-    "type": "ERC20",
-    "address": "0x6649BcD43767A6fd7B7A10dfc98AbEAa40f9141d",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "ETHBTC7525",
     "name": "ETH BTC 75%/25% Weight Set",
     "type": "ERC20",
@@ -37321,6 +37302,41 @@
       "telegram": "https://t.me/everexio",
       "twitter": "https://twitter.com/everexio",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "EVY",
+    "name": "EveryCoin",
+    "type": "ERC20",
+    "address": "0xEEd3aE7b0F8b5B9BB8C035A9941382B1822671CD",
+    "ens_address": "",
+    "decimals": 12,
+    "website": "https://everycoin.io",
+    "logo": {
+      "src": "https://www.everycoin.io/images/everycoin200x200.png",
+      "width": "200",
+      "height": "200",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@everycoin.io",
+      "url": "https://everycoin.io"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/aaron.jin.5895",
+      "forum": "",
+      "github": " https://github.com/aaron-platform/everycoin",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/joinchat/KB3SJhP3uv54cmFWwvdznA",
+      "twitter": "https://twitter.com/AaronJin20",
+      "youtube": "https://youtu.be/1alWlNzGzBo"
     }
   },
   {
@@ -50780,33 +50796,6 @@
     }
   },
   {
-    "symbol": "iETH",
-    "name": "Synth iETH",
-    "type": "ERC20",
-    "address": "0xD4fb1706Ae549FEBeC06bb7175b08010DD1B0C2e",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "IETH20SMACO",
     "name": "Inverse ETH 20 Day MA Crossover Set",
     "type": "ERC20",
@@ -61308,33 +61297,6 @@
   },
   {
     "symbol": "MDT",
-    "name": "governance token MonolithosDAO",
-    "type": "ERC20",
-    "address": "0x4Dfd148B532e934a2a26eA65689cf6268753e130",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "MDT",
     "name": "Measurable Data Token",
     "type": "ERC20",
     "address": "0x814e0908b12A99FeCf5BC101bB5d0b8B5cDf7d26",
@@ -70436,33 +70398,6 @@
     }
   },
   {
-    "symbol": "OPQ",
-    "name": "Opacity",
-    "type": "ERC20",
-    "address": "0x77599D2C6DB170224243e255e6669280F11F1473",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "OPT",
     "name": "Opus Foundation",
     "type": "ERC20",
@@ -79200,6 +79135,41 @@
     }
   },
   {
+    "symbol": "RFOX",
+    "name": "RFOX Token",
+    "type": "ERC20",
+    "address": "0xa1d6Df714F91DeBF4e0802A542E13067f31b8262",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.redfoxlabs.io",
+    "logo": {
+      "src": "https://etherscan.io/token/images/redfoxlabs_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "chris@redfoxlabs.io",
+      "url": "https://www.redfoxlabs.io/contact"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "@redfoxlabs_io",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "RFR",
     "name": "Refereum",
     "type": "ERC20",
@@ -84006,35 +83976,27 @@
     "symbol": "SHR",
     "name": "ShareToken",
     "type": "ERC20",
-    "address": "0xEE5fE244406F35d9B4dDb488a64D51456630beFC",
+    "address": "0xd98F75b1A3261dab9eEd4956c93F33749027a964",
     "ens_address": "",
     "decimals": 2,
     "website": "https://sharering.network",
-    "logo": {
-      "src": "https://drive.google.com/file/d/1yqZnuG6GXrSR9bmm5rQbRospPMc0_up_/view?usp=sharing",
-      "width": "256",
-      "height": "269",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "hello@sharering.network",
-      "url": "https://sharering.network"
-    },
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
     "social": {
-      "blog": "https://blog.sharering.network",
+      "blog": "",
       "chat": "",
       "discord": "",
-      "facebook": "https://www.facebook.com/ShareRing.Network/",
+      "facebook": "",
       "forum": "",
-      "github": "https://github.com/ShareRing",
+      "github": "",
       "gitter": "",
       "instagram": "",
       "linkedin": "",
-      "reddit": "https://www.reddit.com/r/ShareRing/",
+      "reddit": "",
       "slack": "",
-      "telegram": "https://t.me/ShareRing",
-      "twitter": "https://twitter.com/shareringglobal",
-      "youtube": "https://www.youtube.com/channel/UCsV6WAvH-eE4pGcIw87pUHw"
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
     }
   },
   {
@@ -90877,33 +90839,6 @@
       "slack": "https://tbotworkspace.slack.com",
       "telegram": "",
       "twitter": "https://twitter.com/tbit_bot",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "TBTC",
-    "name": "tBTC",
-    "type": "ERC20",
-    "address": "0x1bBE271d15Bb64dF0bc6CD28Df9Ff322F2eBD847",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
       "youtube": ""
     }
   },
