@@ -11305,10 +11305,10 @@
   },
   {
     "network": "eth",
-    "contract_address": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FKX-0x009e864923b49263c7f10d19b7f8ab7a9a5aad33.png",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FKX-0x009e864923b49263c7f10d19b7f8ab7a9a5aad33.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x009e864923b49263c7f10d19b7f8ab7a9a5aad33.json",
+    "contract_address": "0x16484d73ac08d2355f466d448d2b79d2039f6ebb",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x16484d73ac08d2355f466d448d2b79d2039f6ebb.json",
     "website": "https://fortknoxster.com"
   },
   {
@@ -12550,14 +12550,6 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/GLEX-0x0a0db74ef8b4480cc29b7d68647727feeb1ea4ec.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x0a0db74ef8b4480cc29b7d68647727feeb1ea4ec.json",
     "website": "https://glexcoin.com/"
-  },
-  {
-    "network": "eth",
-    "contract_address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429.json",
-    "website": "https://golem.network/ "
   },
   {
     "network": "eth",
@@ -32414,6 +32406,14 @@
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xe0cff8a40f540657c62eb4cac34b915e5ed8d8ff.json",
     "website": "https://www.sesocio.com/projects/cryptocurrency/investoland"
+  },
+  {
+    "network": "rsk",
+    "contract_address": "0x2d919f19d4892381d58edebeca66d5642cef1a1f",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x2d919f19d4892381d58edebeca66d5642cef1a1f.json",
+    "website": ""
   },
   {
     "network": "rsk",

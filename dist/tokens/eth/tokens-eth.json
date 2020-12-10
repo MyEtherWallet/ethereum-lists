@@ -39324,12 +39324,12 @@
     "symbol": "FKX",
     "name": "Knoxstertoken",
     "type": "ERC20",
-    "address": "0x009e864923b49263c7F10D19B7f8Ab7a9A5AAd33",
+    "address": "0x16484d73Ac08d2355F466d448D2b79D2039F6EBB",
     "ens_address": "",
     "decimals": 18,
     "website": "https://fortknoxster.com",
     "logo": {
-      "src": "https://fortknoxster.com/wp-content/uploads/2017/11/FortKnoxster-Icon-256.png",
+      "src": "https://fortknoxster.com/wp-content/uploads/2019/01/FortKnoxster-icon-navy.png",
       "width": "",
       "height": "",
       "ipfs_hash": ""
@@ -39346,13 +39346,13 @@
       "forum": "",
       "github": "https://github.com/FortKnoxster",
       "gitter": "",
-      "instagram": "",
-      "linkedin": "",
+      "instagram": "https://www.instagram.com/fortknoxster/",
+      "linkedin": "https://www.linkedin.com/company/fortknoxster/",
       "reddit": "https://www.reddit.com/r/FortKnoxster/",
       "slack": "",
       "telegram": "https://t.me/FortKnoxster",
       "twitter": "https://twitter.com/FortKnoxster",
-      "youtube": "https://www.youtube.com/channel/UCZB8URO26cktviSxp3SeHig/videos"
+      "youtube": "https://www.youtube.com/c/FortKnoxster"
     }
   },
   {
@@ -43735,33 +43735,6 @@
     "ens_address": "",
     "decimals": 18,
     "website": "https://glexcoin.com/",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "GLM",
-    "name": "Golem Network Token",
-    "type": "ERC20",
-    "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://golem.network/ ",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {

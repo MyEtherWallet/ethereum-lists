@@ -54,33 +54,6 @@
     }
   },
   {
-    "symbol": "$RIF",
-    "name": "$RIF",
-    "type": "ERC20",
-    "address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
-    "ens_address": "",
-    "decimals": 18,
-    "website": "https://www.rifos.org/",
-    "logo": { "src": "", "width": "358px", "height": "373px", "ipfs_hash": "" },
-    "support": { "email": "support@rifos.org", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "https://github.com/riflabs",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "https://t.me/rif_os",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
     "symbol": "$RDOC",
     "name": "$RIF Dollar on Chain",
     "type": "ERC20",
@@ -103,6 +76,33 @@
       "reddit": "",
       "slack": "",
       "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "$RIF",
+    "name": "$RIF",
+    "type": "ERC20",
+    "address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.rifos.org/",
+    "logo": { "src": "", "width": "358px", "height": "373px", "ipfs_hash": "" },
+    "support": { "email": "support@rifos.org", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/riflabs",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/rif_os",
       "twitter": "",
       "youtube": ""
     }
