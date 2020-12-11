@@ -78336,41 +78336,6 @@
   },
   {
     "symbol": "REAL",
-    "name": "Real Coin",
-    "type": "ERC20",
-    "address": "0x6b4389Afb3e243A65668B7311fA9Ef092A8a3B64",
-    "ens_address": "0x6b4389afb3e243a65668b7311fa9ef092a8a3b64",
-    "decimals": 18,
-    "website": "https://real-coin.co",
-    "logo": {
-      "src": "http://real-coin.co/wp-content/uploads/2020/09/Real-LOGO_fav_Retina.png",
-      "width": "180",
-      "height": "180",
-      "ipfs_hash": ""
-    },
-    "support": {
-      "email": "info@real-coin.co",
-      "url": "https://real-coin.co/contact-us"
-    },
-    "social": {
-      "blog": "https://medium.com/@realcoinco",
-      "chat": "https://wa.me/message/HXJAEWOK5DR6H1",
-      "discord": "",
-      "facebook": "https://www.facebook.com/real.coin.3726",
-      "forum": "",
-      "github": "http://github.com/Realcoinco",
-      "gitter": "",
-      "instagram": "https://www.instagram.com/realcoin.co/",
-      "linkedin": "https://www.linkedin.com/mwlite/in/real-coin",
-      "reddit": "https://www.reddit.com/user/Real_Coin/",
-      "slack": "",
-      "telegram": "http://t.me/realcoin_co",
-      "twitter": "https://twitter.com/Realcoin9",
-      "youtube": "https://m.youtube.com/?reload=9&noapp=1"
-    }
-  },
-  {
-    "symbol": "REAL",
     "name": "Real Estate Asset Ledger",
     "type": "ERC20",
     "address": "0x9214eC02CB71CbA0ADA6896b8dA260736a67ab10",
@@ -83667,33 +83632,6 @@
     "ens_address": "",
     "decimals": 18,
     "website": "https://spaceswap.app",
-    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-    "support": { "email": "", "url": "" },
-    "social": {
-      "blog": "",
-      "chat": "",
-      "discord": "",
-      "facebook": "",
-      "forum": "",
-      "github": "",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "",
-      "reddit": "",
-      "slack": "",
-      "telegram": "",
-      "twitter": "",
-      "youtube": ""
-    }
-  },
-  {
-    "symbol": "SHARE",
-    "name": "Mining.Taxi",
-    "type": "ERC20",
-    "address": "0xC787A019EA4E0700e997C8E7d26Ba2EFA2e6862a",
-    "ens_address": "",
-    "decimals": 0,
-    "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
@@ -103928,6 +103866,33 @@
     "symbol": "WOM",
     "name": "WOM Protocol",
     "type": "ERC20",
+    "address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://womprotocol.io",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "WOM",
+    "name": "WOM Protocol",
+    "type": "ERC20",
     "address": "0xa982B2e19e90b2D9F7948e9C1b65D119F1CE88D6",
     "ens_address": "",
     "decimals": 18,
@@ -109516,38 +109481,6 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
-    }
-  },
-  {
-    "symbol": "YOUC",
-    "name": "yOUcash",
-    "type": "ERC20",
-    "address": "0x3D371413dd5489F3A04C07c0C2CE369c20986ceb",
-    "ens_address": "",
-    "decimals": 10,
-    "website": "https://youengine.io",
-    "logo": {
-      "src": "https://etherscan.io/token/images/youcash_32.png",
-      "width": "32px",
-      "height": "32px",
-      "ipfs_hash": ""
-    },
-    "support": { "email": "info@youengine.io", "url": "https://youengine.io" },
-    "social": {
-      "blog": "https://youengine.io/blog",
-      "chat": "https://t.me/YouEngineGroup",
-      "discord": "",
-      "facebook": "https://www.facebook.com/YouEngineOfficial",
-      "forum": "https://bitcointalk.org/index.php?topic=5237861.0",
-      "github": "https://github.com/YOUengine",
-      "gitter": "",
-      "instagram": "",
-      "linkedin": "https://www.linkedin.com/company/youengine-io",
-      "reddit": "https://www.reddit.com/r/YOUengineFANs",
-      "slack": "",
-      "telegram": "https://t.me/YouEngineGroup",
-      "twitter": "https://twitter.com/younive87630435",
-      "youtube": "https://www.youtube.com/c/YOUengine"
     }
   },
   {
