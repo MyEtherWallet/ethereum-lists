@@ -6,7 +6,7 @@
     "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
   },
   "scripts": {
-    "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
+    "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '{src}/**/**/*.json' '*./{js,json}'",
     "test:checkToken": "node checkToken.js",
     "test:checkContract": "node checkContract.js",
     "test:checkNft": "node checkNfts.js",
