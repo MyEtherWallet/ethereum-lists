@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://dcb.my",
-  "logo": { "src": "https://dcblabs.com.my/static/assets/img/favicon/apple-touch-icon.png", "width": "256", "height": "256", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://dcblabs.com.my/static/assets/img/favicon/apple-touch-icon.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
   "support": { "email": "token@dcb.my", "url": "" },
   "social": {
     "blog": "",
