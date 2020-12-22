@@ -13,8 +13,8 @@ function compile() {
     console.log('Directory is clean!');
     // recreateFiles();
     // console.log('Recreated files!');
-    renameToChecksum();
-    console.log('Renamed files to checksum!');
+    // renameToChecksum();
+    // console.log('Renamed files to checksum!');
     generateMasterFile();
     console.log('Generate master-file');
     console.log('Done');
