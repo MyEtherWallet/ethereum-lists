@@ -78844,6 +78844,38 @@
     }
   },
   {
+    "symbol": "OML",
+    "name": "OM Lira",
+    "type": "ERC20",
+    "address": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://omlira.com/",
+    "logo": {
+      "src": "https://omlira.com/images/eposta/logo.png",
+      "width": "1126",
+      "height": "1126",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "iletisim@omlira.com", "url": "https://omlira.com" },
+    "social": {
+      "blog": "https://omlira.medium.com",
+      "chat": "",
+      "discord": "https://discord.gg/MB75Bnc",
+      "facebook": "https://fb.me/omlira",
+      "forum": "",
+      "github": "https://github.com/omprojesi",
+      "gitter": "",
+      "instagram": "https://instagram.com/om_lira",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/omlira",
+      "twitter": "https://twitter.com/om_lira",
+      "youtube": "https://www.youtube.com/channel/UClU7BbBZAv2R9Ml55KIHcbg"
+    }
+  },
+  {
     "symbol": "OMNES",
     "name": "OmnesCoin",
     "type": "ERC20",
@@ -83847,6 +83879,38 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "PLOT",
+    "name": "PlotX",
+    "type": "ERC20",
+    "address": "0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://plotx.io/",
+    "logo": {
+      "src": "PLOT-0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "https://medium.com/plotx",
+      "chat": "",
+      "discord": "https://discord.com/invite/8CWNQnG",
+      "facebook": "https://www.facebook.com/TryPlotX",
+      "forum": "https://research.plotx.io",
+      "github": "https://github.com/plotx",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://reddit.com/r/PlotX",
+      "slack": "",
+      "telegram": "https://t.me/plotx_official",
+      "twitter": "https://twitter.com/TryPlotX",
+      "youtube": "https://www.youtube.com/channel/UCiUd_PC6uUdsavWk3vYbtgA"
     }
   },
   {
@@ -123489,6 +123553,38 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "YLFi",
+    "name": "Yearn Loans Finance",
+    "type": "ERC20",
+    "address": "0x186Af393bF9cEef31CE7EaE2b468C46231163cC7",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://yloans.finance/",
+    "logo": {
+      "src": "https://yloans.finance/assets/img/logo-new.png",
+      "width": "355px",
+      "height": "355px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@yloans.finance", "url": "" },
+    "social": {
+      "blog": "https://yearnloansfinance.medium.com/",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/YlFi",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/Yearn_Loans_Finance_YlFi_chat",
+      "twitter": "https://twitter.com/Yearn_Loans_Fin",
       "youtube": ""
     }
   },

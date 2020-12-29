@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://plotx.io/",
-  "logo": { "src": "PLOT-0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb.png", "width": "128", "height": "128", "ipfs_hash": "" },
+  "logo": {
+    "src": "PLOT-0x72F020f8f3E8fd9382705723Cd26380f8D0c66Bb.png",
+    "width": "128",
+    "height": "128",
+    "ipfs_hash": ""
+  },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "https://medium.com/plotx",
