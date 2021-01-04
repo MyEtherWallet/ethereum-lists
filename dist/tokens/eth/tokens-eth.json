@@ -31762,6 +31762,41 @@
     }
   },
   {
+    "symbol": "DFINE",
+    "name": "DalecoinFinance",
+    "type": "ERC20",
+    "address": "0xe666bCf60BdCFDC66fEa10F27Eab84E3f255Ef72",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://dalecoin.finance/",
+    "logo": {
+      "src": "https://dalecoin.finance/image/dfine1.png",
+      "width": "50",
+      "height": "50",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@dalecoin.finance",
+      "url": "https://dalecoin.finance/"
+    },
+    "social": {
+      "blog": "https://dfinedevs.medium.com/",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/dalecoinfinance/",
+      "forum": "",
+      "github": "https://github.com/dfinedev/contracts",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/dfin33",
+      "twitter": "https://twitter.com/DfineDev",
+      "youtube": "https://www.youtube.com/channel/UCIW7bH-Cj3B4I1akc8hmhpA"
+    }
+  },
+  {
     "symbol": "DFIO",
     "name": "DeFi Omega",
     "type": "ERC20",
@@ -116011,6 +116046,38 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "WISE",
+    "name": "WISE Token",
+    "type": "ERC20",
+    "address": "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://wisetoken.net/",
+    "logo": {
+      "src": "WISE-0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "WiseTokenOfficial@gmail.com", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://discord.gg/keJUb4W",
+      "facebook": "https://www.facebook.com/wisetokens",
+      "forum": "",
+      "github": "https://github.com/wise-foundation",
+      "gitter": "https://gitter.im/WiseToken/community",
+      "instagram": "https://www.instagram.com/wisetoken/",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/WiseTokenOfficial/",
+      "slack": "",
+      "telegram": "https://t.me/WiseToken",
+      "twitter": "https://twitter.com/wise_token",
+      "youtube": "https://www.youtube.com/channel/UCkrhXAz9MIpCARoZ0SeibDA"
     }
   },
   {
