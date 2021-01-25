@@ -26274,6 +26274,38 @@
     }
   },
   {
+    "symbol": "CLT",
+    "address": "0x2001f2A0Cf801EcFda622f6C28fb6E10d803D969",
+    "decimals": 8,
+    "name": "CoinLoan",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://coinloan.io",
+    "logo": {
+      "src": "https://cdn.coinloan.io/images/logo/clt.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "support@coinloan.io", "url": "https://coinloan.io" },
+    "social": {
+      "blog": "https://blog.coinloan.io",
+      "chat": "",
+      "facebook": "https://www.facebook.com/coinloan.project/",
+      "forum": "",
+      "github": "",
+      "discord": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/coinloan/",
+      "reddit": "https://www.reddit.com/r/coinloan/",
+      "slack": "",
+      "telegram": "https://t.me/coinloan_news",
+      "twitter": "https://twitter.com/coin_loan",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "CLVS.CX",
     "name": "Clovis Oncology Inc",
     "type": "ERC20",
@@ -33761,6 +33793,38 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "DDX",
+    "name": "DerivaDAO",
+    "type": "ERC20",
+    "address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "derivadex.com",
+    "logo": {
+      "src": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBH%0AZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDI1LjAuMCwgU1ZHIEV4cG9y%0AdCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPgo8%0Ac3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6%0AeGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249%0AIjEuMSIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCA2MDAgNjAwIiBz%0AdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA2MDAgNjAwOyIgeG1s%0AOnNwYWNlPSJwcmVzZXJ2ZSI+CjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgku%0Ac3Qwe2ZpbGw6I0ZGRkZGRjt9Cgkuc3Qxe2ZpbGw6bm9uZTt9Cgkuc3Qye2Zp%0AbGw6IzJEMTY4MDt9Cgkuc3Qze2ZpbGw6IzJFMTc4MDt9Cgkuc3Q0e2ZpbGw6%0AI0VGODhBQTt9Cgkuc3Q1e2ZpbGw6I0EyOThDNDt9Cgkuc3Q2e2ZpbGw6I0Yx%0AQTNCRDt9Cgkuc3Q3e2ZpbGw6IzM5MjQ4Nzt9Cgkuc3Q4e2ZpbGw6IzQ2MzI4%0ARjt9Cjwvc3R5bGU+CjxnIGlkPSJMYXllcl8xIj4KCTxyZWN0IGNsYXNzPSJz%0AdDAiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIi8+Cgk8cGF0aCBjbGFzcz0i%0Ac3QxIiBkPSJNMCwyMi44Ii8+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCwy%0AMi44Ii8+Cgk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNNjUuNjEsMjg1Ljgydi03%0ANS44NWg3Mi45NmMzLjksMCw3LjczLDAuNTQsMTEuNTQsMS4zMmMxLjcsMC4z%0ANSwzLjQ3LDAuMzcsNS4xMywwLjgxICAgYzIzLjM5LDYuMTIsNDAuNiwxOS45%0ALDUxLjA2LDQxLjc3YzIuODQsNS45NCw1LDEyLjE5LDUuODIsMTguODNjMC41%0ANCw0LjMxLDEuNDgsOC41NywxLjMyLDEyLjkyICAgQzIxMS43MywyODYuMTQs%0ANjkuNSwyODYuMzMsNjUuNjEsMjg1LjgyTDY1LjYxLDI4NS44MnogTTM3Ni4x%0ANSwyODUuODlIMjI4LjV2LTc1Ljc0YzAuNjEtMC4wNiwxLjIyLTAuMTcsMS44%0AMy0wLjE3ICAgYzIzLjk4LTAuMDEsNDcuOTYtMC4xMSw3MS45MywwLjA1Yzcu%0AOCwwLjA1LDE1LjQyLDEuNTMsMjIuODUsNC4xNWMyMC43Miw3LjMyLDM1LjU4%0ALDIxLDQ0LjY4LDQwLjg5ICAgYzIuNSw1LjQ3LDQuNDksMTEuMjMsNS4zNCwx%0ANy4yNWMwLjU5LDQuMjIsMC44NCw4LjQ4LDEuMjMsMTIuNzNDMzc2LjM4LDI4%0ANS4yNywzNzYuMjUsMjg1LjUxLDM3Ni4xNSwyODUuODlMMzc2LjE1LDI4NS44%0AOXogICAgTTY2LjIyLDMwMi4wN2MwLjg4LTAuMDMsMS43NS0wLjA5LDIuNjMt%0AMC4wOWgxNDQuNTljMCwxLjI0LDAuMSwyLjM0LTAuMDIsMy40MmMtMC42Niw2%0ALjIyLTEuMjMsMTIuNDYtMy4xNiwxOC40NiAgIGMtNy4yNCwyMi41OS0yMS42%0AOCwzOC43Mi00My40Miw0OC4yNGMtNS4wMywyLjItMTAuMjksMy43OC0xNS43%0ALDQuNjVjLTMuOTEsMC42My03Ljg5LDEuMDktMTEuODQsMS4xICAgYy0yMy44%0AMiwwLjEtNDcuNjQsMC4wNS03MS40NiwwLjA1aC0yLjM2di0yLjU3YzAtMjMu%0ANzQsMC00Ny40OCwwLjAxLTcxLjIyYzAtMC41NSwwLjExLTEuMSwwLjE3LTEu%0ANjUgICBDNjUuODQsMzAyLjMzLDY2LjAzLDMwMi4yLDY2LjIyLDMwMi4wN0w2%0ANi4yMiwzMDIuMDd6IE0zNzYuMjUsMzAyLjVjMC4xMSwzLjc1LTAuMDUsNy40%0ANy0wLjksMTEuMTUgICBjLTAuNjIsMi43MS0wLjgzLDUuNTMtMS42MSw4LjE5%0AYy03LjQyLDI1LjEzLTIzLjI1LDQyLjUyLTQ3LjkxLDUxLjcxYy02LjUyLDIu%0ANDMtMTMuMjcsMy43Ni0yMC4xOSw0LjI4ICAgYy0wLjMyLDAuMDEtMC42NCww%0ALjAzLTAuOTYsMC4wNGMtMjQuOTUsMC4wMS00OS45MSwwLjAzLTc0Ljg2LDAu%0AMDRjLTAuMzIsMC0wLjYzLTAuMDYtMC45NS0wLjFsLTAuNC0wLjQ2ICAgYy0w%0ALjAzLTAuNjQtMC4wOC0xLjI4LTAuMDgtMS45MXYtNzF2LTIuMjZjMC42Ni0w%0ALjA4LDEuMTktMC4xOSwxLjcyLTAuMTljNDguMTMtMC4wMSw5Ni4yNi0wLjAx%0ALDE0NC4zOSwwICAgYzAuNCwwLDAuNzksMC4wNiwxLjE5LDAuMDlDMzc1Ljg4%0ALDMwMi4yMSwzNzYuMDYsMzAyLjM1LDM3Ni4yNSwzMDIuNUwzNzYuMjUsMzAy%0ALjV6Ii8+Cgk8cGF0aCBjbGFzcz0ic3QzIiBkPSJNMzcwLjM0LDIxMC4wNGg1%0AMy4zN2MzNy43MSw1NS43MSw3NS41LDExMS41NSwxMTMuMzQsMTY3LjQ0Yy0y%0ALjEsMC41Ny00Ny44NiwwLjc5LTU2LjE1LDAuMzEgICBDNDQ0LjE5LDMyMi4x%0ALDQwNy40LDI2Ni4yOCwzNzAuMzQsMjEwLjA0eiIvPgoJPHBhdGggY2xhc3M9%0AInN0NCIgZD0iTTM2Ny4yNCwzNzcuNzFjMTYuMTMtMjMuMTgsMzEuOTgtNDUu%0AOTQsNDcuODQtNjguNzNjMS42OCwxLjM1LDQ0Ljc1LDY2LjAxLDQ1Ljg0LDY4%0ALjczSDM2Ny4yNHogICAgTTUzNi45NCwyMTAuOTFjLTMuMTYsNC42MS02LjI5%0ALDkuMjMtOS40OCwxMy44MmMtNS41MSw3LjkzLTExLjA2LDE1LjgzLTE2LjU5%0ALDIzLjc2Yy02LjU3LDkuNDMtMTMuMTQsMTguODctMTkuNzEsMjguMjkgICBj%0ALTAuMzEsMC40NS0wLjcyLDAuODMtMS4yOCwxLjQ3Yy0wLjUyLTAuNTktMS4w%0AMy0xLjA1LTEuNDEtMS42Yy00LjUxLTYuNTgtOS0xMy4xOS0xMy41LTE5Ljc4%0AICAgYy0xMC4yNy0xNS4wMy0yMC41NC0zMC4wNS0zMC44MS00NS4wOGMtMC4x%0AOC0wLjI2LTAuMjctMC41Ny0wLjQtMC44NmwwLjA5LTAuOTRjMC43Mi0wLjAy%0ALDEuNDQtMC4wNSwyLjE2LTAuMDVoODguNyAgIGMwLjcyLDAsMS40NCwwLjA0%0ALDIuMTYsMC4wNkM1MzYuODksMjEwLjMsNTM2LjkyLDIxMC42MSw1MzYuOTQs%0AMjEwLjkxTDUzNi45NCwyMTAuOTF6Ii8+Cgk8cGF0aCBjbGFzcz0ic3Q1IiBk%0APSJNMzAyLjE2LDM4NC43MmMwLjMyLTAuMDEsMC42NC0wLjAzLDAuOTYtMC4w%0ANEMzMDIuOCwzODQuNywzMDIuNDgsMzg0LjcxLDMwMi4xNiwzODQuNzJ6Ii8+%0ACgk8cGF0aCBjbGFzcz0ic3Q2IiBkPSJNNDQzLjg1LDIwOS45OWwtMC4wOSww%0ALjk0QzQ0My40MSwyMTAuNTgsNDQzLjEsMjEwLjIzLDQ0My44NSwyMDkuOTl6%0AIE01MzYuOTQsMjEwLjkxICAgYy0wLjAzLTAuMzEtMC4wNS0wLjYxLTAuMDgt%0AMC45MkM1MzcuNjEsMjEwLjI0LDUzNy4zMSwyMTAuNTcsNTM2Ljk0LDIxMC45%0AMXoiLz4KCTxwYXRoIGNsYXNzPSJzdDciIGQ9Ik02Ni4yMiwzMDIuMDdjLTAu%0AMTksMC4xMy0wLjM3LDAuMjctMC41NiwwLjRDNjUuODQsMzAyLjMzLDY2LjAz%0ALDMwMi4yLDY2LjIyLDMwMi4wN3ogTTM3Ni4yNSwzMDIuNSAgIGMtMC4xOS0w%0ALjE0LTAuMzctMC4yOC0wLjU2LTAuNDNDMzc1Ljg4LDMwMi4yMSwzNzYuMDYs%0AMzAyLjM1LDM3Ni4yNSwzMDIuNXoiLz4KCTxwYXRoIGNsYXNzPSJzdDgiIGQ9%0AIk0yMjUuOTUsMzg0LjJsMC40LDAuNDZMMjI1Ljk1LDM4NC4yeiIvPgo8L2c+%0ACjxnIGlkPSJMYXllcl8yIj4KPC9nPgo8L3N2Zz4K",
+      "width": "400",
+      "height": "400",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@derivadex.com", "url": "" },
+    "social": {
+      "blog": "https://medium.com/derivadex",
+      "chat": "",
+      "discord": "https://discord.gg/DwdqWyHG",
+      "facebook": "",
+      "forum": "https://forum.derivadex.com/",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/derivadex",
+      "reddit": "https://www.reddit.com/r/derivadex/",
+      "slack": "",
+      "telegram": "https://t.me/DerivaDEX",
+      "twitter": "https://twitter.com/DDX_Official",
+      "youtube": "https://www.youtube.com/channel/UCSAEVzSu0AEcJF2e7TMbZJg"
     }
   },
   {
@@ -78486,6 +78550,41 @@
   },
   {
     "symbol": "MDX",
+    "name": "Mandala Exchange Token",
+    "type": "ERC20",
+    "address": "0x947AEb02304391f8fbE5B25D7D98D649b57b1788",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://trade.mandala.exchange",
+    "logo": {
+      "src": "https://static.wixstatic.com/media/8fdab8_96d298cc46774e9caefc77fff6c49694~mv2.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@mandala.exchange",
+      "url": "https://support.mandala.exchange"
+    },
+    "social": {
+      "blog": "https://www.mandala.exchange/blog",
+      "chat": "",
+      "discord": "https://discord.com/invite/GRZsb28",
+      "facebook": "https://www.facebook.com/mandalaexchange",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/mandalaexchange",
+      "twitter": "https://www.twitter.com/mandalaex",
+      "youtube": "https://www.youtube.com/channel/UCTUb3DrAoOaIbPTc-VSCCsg"
+    }
+  },
+  {
+    "symbol": "MDX",
     "name": "Mandala Token",
     "type": "ERC20",
     "address": "0x9d03393d297E42C135625D450C814892505F1a84",
@@ -108947,6 +109046,41 @@
     }
   },
   {
+    "symbol": "SETS",
+    "address": "0x04E0Af0af1b7f0023c6B12af5a94Df59B0e8cF59",
+    "decimals": 18,
+    "name": "Sensitrust Token",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://wwww.sensitrust.io",
+    "logo": {
+      "src": "https://www.sensitrust.io/build/img/noVer/logo/logo_square_256_256.png",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@sensitrust.io",
+      "url": "https://www.sensitrust.io/contact_us/"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/sensitrust/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/sensitrust_eng_chat",
+      "twitter": "https://twitter.com/sensitrust",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "sEUR",
     "name": "Synth sEUR",
     "type": "ERC20",
@@ -128137,6 +128271,38 @@
       "telegram": "",
       "twitter": "https://twitter.com/gluwa",
       "youtube": "https://www.youtube.com/channel/UCqJfH4lOL7keXBBDtxsz0TA"
+    }
+  },
+  {
+    "symbol": "USD1",
+    "name": "Psyche",
+    "type": "ERC20",
+    "address": "0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783",
+    "ens_address": "",
+    "decimals": 2,
+    "website": "https://psyche.cash/",
+    "logo": {
+      "src": "https://etherscan.io/token/images/psychetoken_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "cs@psyche.cash", "url": "https://psyche.cash/" },
+    "social": {
+      "blog": "https://psycheusd.medium.com/",
+      "chat": "https://t.me/psychefan",
+      "discord": "",
+      "facebook": "https://www.facebook.com/psycheusd",
+      "forum": "https://bitcointalk.org/index.php?topic=5283530.0",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/psycheusd/",
+      "linkedin": "https://www.linkedin.com/company/psychecoin/",
+      "reddit": "https://www.reddit.com/r/PsycheCoin/",
+      "slack": "",
+      "telegram": "http://t.me/psycheusd",
+      "twitter": "https://twitter.com/psycheusd",
+      "youtube": "https://youtu.be/ymbLGd76RXU"
     }
   },
   {

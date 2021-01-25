@@ -1,35 +1,35 @@
 {
-"symbol": "USD1",
-"name": "Psyche",
-"type": "ERC20",
-"address": "0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783",
-"ens_address": "",
-"decimals": 2,
-"website": "https://psyche.cash/",
-"logo": {
-"src": "https://etherscan.io/token/images/psychetoken_32.png",
-"width": "32px",
-"height": "32px",
-"ipfs_hash": ""
-},
-"support": {
-"email": "cs@psyche.cash",
-"url": "https://psyche.cash/"
-},
-"social": {
-"blog": "https://psycheusd.medium.com/",
-"chat": "https://t.me/psychefan",
-"discord": "",
-"facebook": "https://www.facebook.com/psycheusd",
-"forum": "https://bitcointalk.org/index.php?topic=5283530.0",
-"github": "",
-"gitter": "",
-"instagram": "https://www.instagram.com/psycheusd/",
-"linkedin": "https://www.linkedin.com/company/psychecoin/",
-"reddit": "https://www.reddit.com/r/PsycheCoin/",
-"slack": "",
-"telegram": "http://t.me/psycheusd",
-"twitter": "https://twitter.com/psycheusd",
-"youtube": "https://youtu.be/ymbLGd76RXU"
-}
+  "symbol": "USD1",
+  "name": "Psyche",
+  "type": "ERC20",
+  "address": "0xf6c0aA7eBFE9992200C67E5388E4F42da49E1783",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "https://psyche.cash/",
+  "logo": {
+    "src": "https://etherscan.io/token/images/psychetoken_32.png",
+    "width": "32px",
+    "height": "32px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "cs@psyche.cash",
+    "url": "https://psyche.cash/"
+  },
+  "social": {
+    "blog": "https://psycheusd.medium.com/",
+    "chat": "https://t.me/psychefan",
+    "discord": "",
+    "facebook": "https://www.facebook.com/psycheusd",
+    "forum": "https://bitcointalk.org/index.php?topic=5283530.0",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/psycheusd/",
+    "linkedin": "https://www.linkedin.com/company/psychecoin/",
+    "reddit": "https://www.reddit.com/r/PsycheCoin/",
+    "slack": "",
+    "telegram": "http://t.me/psycheusd",
+    "twitter": "https://twitter.com/psycheusd",
+    "youtube": "https://youtu.be/ymbLGd76RXU"
+  }
 }
