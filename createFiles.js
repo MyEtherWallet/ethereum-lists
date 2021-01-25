@@ -18,7 +18,7 @@ function createContractFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${contractsDirectory}/${folder}/${file}`, 'utf8')
       );
-      obj.address = utils.toChecksumAddress(obj.address)
+      obj.address = utils.toChecksumAddress(obj.address);
       contractArray.push(obj);
     });
     const writeArray = contractArray.sort(function(a, b) {
@@ -52,7 +52,7 @@ function createTokenFiles() {
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
 
-      obj.address = utils.toChecksumAddress(obj.address)
+      obj.address = utils.toChecksumAddress(obj.address);
       tokenArr.push(obj);
     });
     const writeArray = tokenArr.sort(function(a, b) {
@@ -84,7 +84,7 @@ function createNftFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${nftsDirectory}/${folder}/${file}`, 'utf8')
       );
-      obj.address = utils.toChecksumAddress(obj.contractAddress)
+      obj.address = utils.toChecksumAddress(obj.contractAddress);
       nftArr.push(obj);
     });
     const writeArray = nftArr.sort(function(a, b) {
@@ -114,12 +114,16 @@ function renameIcons() {
     const extension = item.substring(dotIdx, item.length);
 
     if (utils.isAddress(address)) {
-      fs.renameSync(`./src/icons/${item}`, `./src/icons/${symbol}-${utils.toChecksumAddress(address).toLowerCase()}${extension}`)
+      fs.renameSync(
+        `./src/icons/${item}`,
+        `./src/icons/${symbol}-${utils
+          .toChecksumAddress(address)
+          .toLowerCase()}${extension}`
+      );
     } else {
-      fs.renameSync(`./src/icons/${item}`, `./src/icons/${item}`)
+      fs.renameSync(`./src/icons/${item}`, `./src/icons/${item}`);
     }
-
-  })
+  });
 }
 
 function createFiles() {
@@ -129,7 +133,7 @@ function createFiles() {
   createContractFiles();
   createTokenFiles();
   createNftFiles();
-  renameIcons();
+  // renameIcons();
 }
 
 module.exports = createFiles;
