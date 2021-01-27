@@ -1,35 +1,35 @@
 {
-   "symbol":"AUS",
-   "name":"Gold Standard",
-   "type":"ERC20",
-   "address":"0x171f9cFc136f2B2aaA148fcC6b660a2029baB048",
-   "ens_address":"",
-   "decimals":4,
-   "website":"https://goldsilverstandard.com/",
-   "logo":{
-      "src":"",
-      "width":"",
-      "height":"",
-      "ipfs_hash":""
-   },
-   "support":{
-      "email":"info@goldsilverstandard.com",
-      "url":"https://goldsilverstandard.com/"
-   },
-   "social":{
-      "blog":"",
-      "chat":"",
-      "discord":"",
-      "facebook":"https://www.facebook.com/goldsilverstandard/",
-      "forum":"",
-      "github":"",
-      "gitter":"",
-      "instagram":"https://www.instagram.com/goldandsilverstandard/",
-      "linkedin":"",
-      "reddit":"",
-      "slack":"",
-      "telegram":"https://t.me/GoldSilverStandard",
-      "twitter":"",
-      "youtube":""
-   }
+  "symbol": "AUS",
+  "name": "Gold Standard",
+  "type": "ERC20",
+  "address": "0x171f9cFc136f2B2aaA148fcC6b660a2029baB048",
+  "ens_address": "",
+  "decimals": 4,
+  "website": "https://goldsilverstandard.com/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@goldsilverstandard.com",
+    "url": "https://goldsilverstandard.com/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://www.facebook.com/goldsilverstandard/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/goldandsilverstandard/",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GoldSilverStandard",
+    "twitter": "",
+    "youtube": ""
+  }
 }
