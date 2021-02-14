@@ -1,6 +1,6 @@
 {
   "symbol": "DNA",
-  "name": "EncrypGen",
+  "name": "EncrypGen (old)",
   "type": "ERC20",
   "address": "0x82b0E50478eeaFde392D45D1259Ed1071B6fDa81",
   "ens_address": "",
@@ -23,5 +23,10 @@
     "telegram": "",
     "twitter": "",
     "youtube": ""
+  }
+ "deprecation": {
+    "new_address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+    "migration_type": "announcement:https://encrypgen.com/the-big-dna-token-swap/",
+    "time": "2021-02-06 12:00:00 UTC"
   }
 }
