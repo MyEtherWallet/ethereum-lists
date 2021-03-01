@@ -1,25 +1,25 @@
 {
-"symbol": "DNA",
+  "symbol": "DNA",
 
-"name": "EncrypGen",
+  "name": "EncrypGen",
 
-"type": "ERC20",
+  "type": "ERC20",
 
-"address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
-"ens_address": "",
-"decimals": 18,
-"website": "https://encrypgen.com/",
-"logo": {
+  "address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://encrypgen.com/",
+  "logo": {
     "src": "http://encrypgen.com/logo128x128.png",
     "width": "128",
     "height": "128",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "info@encrypgen.com",
     "url": "https://encrypgen.com/"
-},
-"social": {
+  },
+  "social": {
     "blog": "https://encrypgen.com/blog/",
     "chat": "",
     "discord": "",
@@ -34,5 +34,5 @@
     "telegram": "",
     "twitter": "https://twitter.com/encrypgen",
     "youtube": "https://www.youtube.com/channel/UC1qg5ZxwT4B2LNl8HUwj4NQ"
-}
+  }
 }
