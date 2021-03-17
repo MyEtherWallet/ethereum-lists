@@ -1,25 +1,25 @@
 {
-"symbol": "ID",
+  "symbol": "ID",
 
-"name": "Everest ID",
+  "name": "Everest ID",
 
-"type": "ERC20",
+  "type": "ERC20",
 
-"address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
-"ens_address": "",
-"decimals": 18,
-"website": "https://everest.org",
-"logo": {
+  "address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://everest.org",
+  "logo": {
     "src": "https://media-exp1.licdn.com/dms/image/C4E0BAQGDxFrpyeCHgw/company-logo_200_200/0/1571184627497?e=1621468800&v=beta&t=qeIlx186z1zkpXmpd05_LODA63nTzoDrdvfVzp6pMuk",
     "width": "200",
     "height": "200",
     "ipfs_hash": ""
-},
-"support": {
+  },
+  "support": {
     "email": "contact@everest.org",
     "url": ""
-},
-"social": {
+  },
+  "social": {
     "blog": "https://medium.com/@EverestDotOrg",
     "chat": "",
     "discord": "",
@@ -34,5 +34,5 @@
     "telegram": "https://t.me/Everestdotorg",
     "twitter": "https://twitter.com/everestdotorg",
     "youtube": "https://www.youtube.com/channel/UCvW9R1_GgJ2h9ThBJEa_ahw/featured"
-}
+  }
 }
