@@ -1,10 +1,7 @@
 {
   "symbol": "DNA",
-
   "name": "EncrypGen",
-
   "type": "ERC20",
-
   "address": "0xef6344de1fcfC5F48c30234C16c1389e8CdC572C",
   "ens_address": "",
   "decimals": 18,
@@ -15,10 +12,7 @@
     "height": "128",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "info@encrypgen.com",
-    "url": "https://encrypgen.com/"
-  },
+  "support": { "email": "info@encrypgen.com", "url": "https://encrypgen.com/" },
   "social": {
     "blog": "https://encrypgen.com/blog/",
     "chat": "",

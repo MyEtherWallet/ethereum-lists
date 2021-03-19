@@ -2,7 +2,7 @@
   "symbol": "YOUC",
   "name": "yOUcash",
   "type": "ERC20",
-  "address": "0x3d371413dd5489f3a04c07c0c2ce369c20986ceb",
+  "address": "0x3D371413dd5489F3A04C07c0C2CE369c20986ceb",
   "ens_address": "",
   "decimals": 10,
   "website": "https://youengine.io",
@@ -12,10 +12,7 @@
     "height": "32px",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "info@youengine.io",
-    "url": "https://youengine.io"
-  },
+  "support": { "email": "info@youengine.io", "url": "https://youengine.io" },
   "social": {
     "blog": "https://youengine.io/blog",
     "chat": "https://t.me/YouEngineGroup",

@@ -1,11 +1,8 @@
 {
   "symbol": "CORX",
-
   "name": "CorionX Utility token",
-
   "type": "ERC20",
-
-  "address": "0x26a604dffe3ddab3bee816097f81d3c4a2a4cf97",
+  "address": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
   "ens_address": "",
   "decimals": 8,
   "website": "https://corion.io",
@@ -15,10 +12,7 @@
     "height": "",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "info@corion.io",
-    "url": ""
-  },
+  "support": { "email": "info@corion.io", "url": "" },
   "social": {
     "blog": "https://blog.corion.io/",
     "chat": "https://t.me/corionx",
