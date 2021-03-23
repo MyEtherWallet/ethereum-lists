@@ -2,8 +2,8 @@ name: generate dist
 
 on:
   push:
-    branches:
-      - master
+    branches-ignore:
+      - '**'
 
 jobs:
   generate-dist:

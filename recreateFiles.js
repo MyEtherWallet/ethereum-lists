@@ -77,10 +77,10 @@ function recreateIconFiles() {
   });
 }
 
-// function recreateFiles() {
-//   recreateContractFiles();
-//   recreateTokenFiles();
-// }
-// module.exports = recreateFiles;
+function recreateFiles() {
+  recreateContractFiles();
+  recreateTokenFiles();
+}
+module.exports = recreateFiles;
 
-recreateIconFiles();
+// recreateIconFiles();

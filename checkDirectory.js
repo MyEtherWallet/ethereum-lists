@@ -27,7 +27,8 @@ const whitelist = [
   'recreateFiles.js',
   'renameToChecksum.js',
   'src',
-  'validateObject.js'
+  'validateObject.js',
+  '.vscode'
 ];
 
 function checkDirectory() {
