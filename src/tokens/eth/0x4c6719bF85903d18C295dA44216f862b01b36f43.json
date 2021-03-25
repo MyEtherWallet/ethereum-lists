@@ -1,11 +1,8 @@
 {
   "symbol": "ALH",
-
   "name": "AlloHash",
-
   "type": "ERC20",
-
-  "address": "0x4c6719bf85903d18c295da44216f862b01b36f43",
+  "address": "0x4c6719bF85903d18C295dA44216f862b01b36f43",
   "ens_address": "",
   "decimals": 18,
   "website": "https://allohash.com",
@@ -15,10 +12,7 @@
     "height": "128",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "contact@allohash.com",
-    "url": ""
-  },
+  "support": { "email": "contact@allohash.com", "url": "" },
   "social": {
     "blog": "",
     "chat": "https://t.me/allohash_com",
