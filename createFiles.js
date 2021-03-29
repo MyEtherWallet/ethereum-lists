@@ -47,9 +47,7 @@ function createTokenFiles() {
     if (!fs.existsSync(`./dist/tokens/${folder}`)) {
       fs.mkdirSync(`./dist/tokens/${folder}`);
     }
-    console.log(folder);
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
-      console.log(file);
       const obj = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
