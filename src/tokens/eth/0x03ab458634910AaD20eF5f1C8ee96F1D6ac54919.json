@@ -1,11 +1,11 @@
- 
 {
   "symbol": "RAI",
   "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
   "decimals": 18,
   "name": "Rai Reflex Index",
-  "ens_address": "",
+  "ens_address": "ERC20",
   "website": "https://reflexer.finance/",
+  "type": "",
   "logo": {
     "src": "https://gateway.pinata.cloud/ipfs/QmSQY3BJpwLjGReyXCVZ9PKVghmzwzqppoKrkFEaNDd7io",
     "width": "128",
@@ -18,7 +18,8 @@
   },
   "social": {
     "blog": "https://medium.com/reflexer-labs",
-    "chat": "https://discord.gg/83t3xKT",
+    "chat": "",
+    "discord": "https://discord.gg/83t3xKT",
     "facebook": "",
     "forum": "",
     "github": "https://github.com/reflexer-labs/",
