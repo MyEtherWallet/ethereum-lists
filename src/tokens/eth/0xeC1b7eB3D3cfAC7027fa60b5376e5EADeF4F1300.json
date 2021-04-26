@@ -2,7 +2,7 @@
   "symbol": "HZM",
   "name": "HZMCoin",
   "type": "ERC20",
-  "address": "0xec1b7eb3d3cfac7027fa60b5376e5eadef4f1300",
+  "address": "0xeC1b7eB3D3cfAC7027fa60b5376e5EADeF4F1300",
   "ens_address": "",
   "decimals": 8,
   "website": "https://hzmcoin.com",
@@ -12,10 +12,7 @@
     "height": "32px",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "info@hzmcoin.com",
-    "url": "https://hzmcoin.com"
-  },
+  "support": { "email": "info@hzmcoin.com", "url": "https://hzmcoin.com" },
   "social": {
     "blog": "",
     "chat": "",

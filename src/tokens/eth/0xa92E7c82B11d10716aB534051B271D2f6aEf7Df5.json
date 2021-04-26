@@ -1,32 +1,35 @@
 {
   "symbol": "ARA",
-  "name": "Ara Token",
+  "name": "Ara",
   "type": "ERC20",
   "address": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
-  "ens_address": "",
+  "ens_address": "ara-token.eth",
   "decimals": 18,
   "website": "https://ara.one",
   "logo": {
-    "src": "https://media.ara.one/ara-icon-mew.png",
-    "width": "72px",
-    "height": "72px",
+    "src": "https://avatars.githubusercontent.com/u/38865347?s=200&v=4",
+    "width": "200",
+    "height": "200",
     "ipfs_hash": ""
   },
-  "support": { "email": "support@ara.one", "url": "https://ara.one/contact" },
+  "support": {
+    "email": "support@ara.one",
+    "url": "https://github.com/arablocks"
+  },
   "social": {
-    "blog": "https://medium.com/ara-blocks",
-    "chat": "",
-    "discord": "",
-    "facebook": "https://www.facebook.com/AraBlocks/",
-    "forum": "https://bitcointalk.org/index.php?topic=5080663.msg48472775#msg48472775",
-    "github": "https://github.com/arablocks",
-    "gitter": "",
-    "instagram": "https://www.instagram.com/arablocks",
-    "linkedin": "https://www.linkedin.com/company/ara-blocks/",
+    "blog": "https://medium.com/@arablocks",
+    "chat": "https://discord.gg/yYKwRY29wu",
     "reddit": "https://www.reddit.com/r/AraBlocks/",
-    "slack": "https://ara-blocks.slack.com",
+    "discord": "https://discord.gg/yYKwRY29wu",
+    "facebook": "https://www.facebook.com/AraBlocks",
+    "github": "https://github.com/AraBlocks",
+    "instagram": "https://www.instagram.com/arablocks",
+    "linkedin": "https://www.linkedin.com/company/ara-blocks",
     "telegram": "https://t.me/arablocks",
-    "twitter": "https://twitter.com/arablocks",
-    "youtube": "https://www.youtube.com/channel/UC1EMIg_GPQxEzYSgx9oL_pQ"
+    "twitter": "https://www.twitter.com/arablocks",
+    "youtube": "https://www.youtube.com/channel/UC1EMIg_GPQxEzYSgx9oL_pQ",
+    "forum": "",
+    "gitter": "",
+    "slack": ""
   }
 }
