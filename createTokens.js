@@ -25,7 +25,7 @@ const abi = [
 ];
 const web3 = new Web3(node);
 async function createToken() {
-  for (let index = 0; index < notInList.length; index++) {
+  for (let index = 93; index < notInList.length; index++) {
     try {
       const contract = new web3.eth.Contract(abi, notInList[index]);
       const decimal = await contract.methods
