@@ -1,27 +1,34 @@
 {
   "symbol": "LEVL",
-  "name": "Levolution",
+  "name": "Levolution.io Token",
   "type": "ERC20",
   "address": "0x09970aec766b6f3223aCA9111555E99DC50Ff13a",
-  "ens_address": "",
+  "ens_address": "token.levolution.eth",
   "decimals": 18,
-  "website": "https://ito.levolution.io/",
-  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "", "url": "" },
+  "website": "https://levolution.io",
+  "logo": {
+    "src": "https://levolution.io/brand/levolution-logo-circle-black.svg",
+    "width": "512px",
+    "height": "512px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@levolution.io",
+    "url": "https://levolution.io"
+  },
   "social": {
-    "blog": "",
+    "blog": "https://levolution.io/news/",
     "chat": "",
-    "discord": "",
-    "facebook": "",
-    "forum": "",
-    "github": "",
+    "facebook": "https://www.facebook.com/Levolution.io",
+    "forum": "https://bitcointalk.org/index.php?topic=5093234.0",
+    "github": "https://github.com/orgs/LEVL-LLC/",
     "gitter": "",
-    "instagram": "",
-    "linkedin": "",
-    "reddit": "",
+    "instagram": "https://www.instagram.com/levolution.io/",
+    "linkedin": "https://www.linkedin.com/company/levltoken/",
+    "reddit": "https://www.reddit.com/user/Levolution_Platform/",
     "slack": "",
     "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "twitter": "https://twitter.com/Levolution_io",
+    "youtube": "https://www.youtube.com/channel/UCnGHFZBWiI7RAKRYZqh5bcw"
   }
 }
