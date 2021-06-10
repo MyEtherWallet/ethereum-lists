@@ -6,41 +6,42 @@ const validateObject = require('./validateObject');
 const constraints = {
   network: {
     presence: {
-      allowEmpty: false,
+      allowEmpty: false
     },
     inclusion: {
-      within: [ 'akroma',
-      'ath',
-      'clo',
-      'egem',
-      'ella',
-      'esn',
-      'etc',
-      'eth',
-      'etho',
-      'etsc',
-      'exp',
-      'go',
-      'goerli',
-      'iolite',
-      'kov',
-      'mix',
-      'music',
-      'pirl',
-      'poa',
-      'reosc',
-      'rin',
-      'rop',
-      'rsk',
-      'rsk-test',
-      'tomo',
-      'tt',
-      'ubq',
-      'web',
-      'wtc' ]
-    
+      within: [
+        'akroma',
+        'ath',
+        'clo',
+        'egem',
+        'ella',
+        'esn',
+        'etc',
+        'eth',
+        'etho',
+        'etsc',
+        'exp',
+        'go',
+        'goerli',
+        'iolite',
+        'kov',
+        'mix',
+        'music',
+        'pirl',
+        'poa',
+        'reosc',
+        'rin',
+        'rop',
+        'rsk',
+        'rsk-test',
+        'tomo',
+        'tt',
+        'ubq',
+        'web',
+        'wtc'
+      ]
     },
-    type: "string"
+    type: 'string'
   },
   contract_address: function(value) {
     if (web3.utils.isAddress(value)) {
@@ -53,21 +54,33 @@ const constraints = {
   },
   icon: {
     presence: true,
-    type: "string"
+    type: 'string'
   },
   icon_png: {
     presence: true,
-    type: "string"
+    type: 'string'
   },
   link: {
     presence: {
       allowEmpty: false
     },
-    type: "string"
+    type: 'string'
   },
   website: {
     presence: true,
-    type: "string"
+    type: 'string'
+  },
+  symbol: {
+    presence: true,
+    type: 'string'
+  },
+  name: {
+    presence: true,
+    type: 'string'
+  },
+  decimals: {
+    presence: true,
+    type: 'number'
   }
 };
 
@@ -78,9 +91,7 @@ function checkMasterFile() {
     if (validate(item, constraints) !== undefined) {
       const errs = validate(item, constraints);
       Object.keys(errs).forEach(key => {
-        console.error(
-          `${errs[key][0]} for Master File`
-        );
+        console.error(`${errs[key][0]} for Master File`);
       });
       process.exit(1);
     }
