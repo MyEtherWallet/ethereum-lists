@@ -17,6 +17,11 @@ actualIcons.forEach(item => {
       address,
       utils.toChecksumAddress(address)
     );
-    fs.rename(`${icons}/${item}`, `${icons}/${appendEth}`);
+    fs.rename(`${icons}/${item}`, `${icons}/${appendEth}`, err => {
+      if (err) throw err;
+      console.log(
+        `Renamed: ${icons}/${item} to ${icons}/${appendEth} successfully`
+      );
+    });
   }
 });
