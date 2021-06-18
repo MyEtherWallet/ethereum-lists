@@ -1,12 +1,12 @@
 const fs = require('fs');
-const icons = './src/icons';
+const icons = './src/icons/bsc';
 const actualIcons = fs.readdirSync(icons);
 const web3 = require('web3');
 const utils = web3.utils;
 actualIcons.forEach(item => {
   const extension = item.substr(item.length - 4, item.length);
   const noExtension = item.replace(extension, '');
-  const appendEth = `${noExtension}-eth${extension}`;
+  const appendEth = `${noExtension}-bsc${extension}`;
   const address = item
     .substring(item.length - 46, item.length)
     .replace(extension, '');

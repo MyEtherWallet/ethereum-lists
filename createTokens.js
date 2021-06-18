@@ -2,11 +2,15 @@ const fs = require('fs');
 const Web3 = require('web3');
 const fetch = require('node-fetch');
 const utils = Web3.utils;
-const tokensDirectory = './src/tokens/eth/';
 const notInListPath = './notinlist.json';
 const notInList = JSON.parse(fs.readFileSync(notInListPath));
 const api = 'https://api.coingecko.com/api/v3/coins/ethereum/contract';
-const node = 'https://nodes.mewapi.io/rpc/eth';
+const networks = {
+  eth: 'https://nodes.mewapi.io/rpc/eth',
+  rop: 'wss://nodes.mewapi.io/ws/rop',
+  kov: 'wss://nodes.mewapi.io/ws/kovan',
+  bsc: 'wss://nodes.mewapi.io/ws/bsc'
+};
 const abi = [
   {
     constant: true,
@@ -21,24 +25,49 @@ const abi = [
     payable: false,
     stateMutability: 'view',
     type: 'function'
+  },
+  {
+    constant: true,
+    inputs: [],
+    name: 'symbol',
+    outputs: [
+      {
+        name: '',
+        type: 'string'
+      }
+    ],
+    payable: false,
+    stateMutability: 'view',
+    type: 'function'
   }
 ];
-const web3 = new Web3(node);
 async function createToken() {
   for (let index = 0; index < notInList.length; index++) {
+    const web3 = new Web3(networks[notInList[index].network]);
     try {
-      const contract = new web3.eth.Contract(abi, notInList[index]);
+      const contract = new web3.eth.Contract(abi, notInList[index].address);
       const decimal = await contract.methods
         .decimals()
         .call()
         .catch(() => {
-          console.log(`Could not fetch decimal for: ${notInList[index]}!`);
+          console.log(
+            `Could not fetch decimal for: ${notInList[index].address}!`
+          );
         });
-      const tokenInfo = await fetch(`${api}/${notInList[index]}`).then(
-        response => {
-          return response.json();
-        }
-      );
+      const symbol = await contract.methods
+        .symbol()
+        .call()
+        .catch(() => {
+          console.log(
+            `Could not fetch symbol for: ${notInList[index].address}!`
+          );
+        });
+      const tokenInfo =
+        notInList[index].network !== 'eth'
+          ? null
+          : await fetch(`${api}/${notInList[index].address}`).then(response => {
+              return response.json();
+            });
       const tokenTemp = {
         symbol: '',
         name: '',
@@ -74,7 +103,10 @@ async function createToken() {
           youtube: ''
         }
       };
-      if (!tokenInfo.hasOwnProperty('error')) {
+      if (
+        notInList[index].network === 'eth' &&
+        !tokenInfo.hasOwnProperty('error')
+      ) {
         const homepage = tokenInfo.hasOwnProperty('links')
           ? tokenInfo.links.hasOwnProperty('homepage')
             ? tokenInfo.links.homepage[0]
@@ -88,28 +120,30 @@ async function createToken() {
           website: homepage
         });
         fs.writeFileSync(
-          `${tokensDirectory}/${utils.toChecksumAddress(
+          `./src/tokens/${notInList[index].network}/${utils.toChecksumAddress(
             notInList[index].replace('.json', '')
           )}.json`,
           JSON.stringify(newTokenCopy)
         );
       } else {
         const newTokenCopy = Object.assign({}, tokenTemp, {
-          address: utils.toChecksumAddress(notInList[index]),
-          decimals: Number(decimal)
+          address: utils.toChecksumAddress(notInList[index].address),
+          decimals: Number(decimal),
+          symbol: symbol,
+          name: symbol
         });
         fs.writeFileSync(
-          `${tokensDirectory}/${utils.toChecksumAddress(
-            notInList[index].replace('.json', '')
+          `./src/tokens/${notInList[index].network}/${utils.toChecksumAddress(
+            notInList[index].address.replace('.json', '')
           )}.json`,
           JSON.stringify(newTokenCopy)
         );
         console.log(
-          `CoinGecko could not find ${notInList[index]}! Some info will be missing`
+          `CoinGecko could not find ${notInList[index].address}! Some info will be missing`
         );
       }
     } catch (e) {
-      console.log(e, notInList[index], index);
+      console.log(e, notInList[index].address, index);
     }
   }
 }

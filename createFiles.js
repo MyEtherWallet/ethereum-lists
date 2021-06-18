@@ -56,6 +56,7 @@ function createTokenFiles() {
       tokenArr.push(obj);
     });
     const writeArray = tokenArr.sort(function(a, b) {
+      // console.log(a, b);
       let aSym = a.symbol.toLowerCase();
       let bSym = b.symbol.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;

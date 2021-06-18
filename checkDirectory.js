@@ -25,6 +25,7 @@ const whitelist = [
   'package-lock.json',
   'package.json',
   'recreateFiles.js',
+  'renameIcons.js',
   'renameToChecksum.js',
   'src',
   'validateObject.js',
