@@ -103,10 +103,8 @@ async function createToken() {
           youtube: ''
         }
       };
-      if (
-        notInList[index].network === 'eth' &&
-        !tokenInfo.hasOwnProperty('error')
-      ) {
+      const isEth = notInList[index].network === 'eth';
+      if (isEth && !tokenInfo.hasOwnProperty('error')) {
         const homepage = tokenInfo.hasOwnProperty('links')
           ? tokenInfo.links.hasOwnProperty('homepage')
             ? tokenInfo.links.homepage[0]
@@ -115,32 +113,41 @@ async function createToken() {
         const newTokenCopy = Object.assign({}, tokenTemp, {
           symbol: tokenInfo.symbol.toUpperCase(),
           name: tokenInfo.name,
-          address: utils.toChecksumAddress(notInList[index]),
+          address: utils.toChecksumAddress(notInList[index].address),
           decimals: Number(decimal),
           website: homepage
         });
         fs.writeFileSync(
           `./src/tokens/${notInList[index].network}/${utils.toChecksumAddress(
-            notInList[index].replace('.json', '')
-          )}.json`,
-          JSON.stringify(newTokenCopy)
-        );
-      } else {
-        const newTokenCopy = Object.assign({}, tokenTemp, {
-          address: utils.toChecksumAddress(notInList[index].address),
-          decimals: Number(decimal),
-          symbol: symbol,
-          name: symbol
-        });
-        fs.writeFileSync(
-          `./src/tokens/${notInList[index].network}/${utils.toChecksumAddress(
-            notInList[index].address.replace('.json', '')
+            notInList[index].address
           )}.json`,
           JSON.stringify(newTokenCopy)
         );
         console.log(
-          `CoinGecko could not find ${notInList[index].address}! Some info will be missing`
+          `Successfully created: ${notInList[index].address} in ${notInList[index].network}`
         );
+      } else {
+        const newTokenCopy = Object.assign({}, tokenTemp, {
+          symbol: symbol ? symbol : '',
+          name: symbol ? symbol : '',
+          address: utils.toChecksumAddress(notInList[index].address),
+          decimals: Number(decimal)
+        });
+        fs.writeFileSync(
+          `./src/tokens/${notInList[index].network}/${utils.toChecksumAddress(
+            notInList[index].address
+          )}.json`,
+          JSON.stringify(newTokenCopy)
+        );
+        if (isEth) {
+          console.log(
+            `CoinGecko could not find ${notInList[index].address}! Some info will be missing`
+          );
+        } else {
+          console.log(
+            `Successfully created: ${notInList[index].address} in ${notInList[index].network}`
+          );
+        }
       }
     } catch (e) {
       console.log(e, notInList[index].address, index);

@@ -18,10 +18,7 @@ function generateMissingToken() {
     const idxOf = icon.indexOf('-0x');
     const getAddr = icon.substring(idxOf + 1, icon.length);
     const noExtension = getAddr.substr(0, getAddr.length - 4);
-    const network = noExtension.substr(
-      noExtension.length - 3,
-      noExtension.length
-    );
+    const network = noExtension.substr(43, noExtension.length);
     if (getAddr.length !== 42) {
       const actualAddress = getAddr.substring(getAddr.indexOf('0x'), 42);
       return { address: actualAddress, network: network };
@@ -59,7 +56,8 @@ function generateMissingToken() {
         addr.length === 42 &&
         !inExclusionList
       )
-        return obj;
+        console.log(`processed: ${addr} in ${obj.network}`);
+      return obj;
     } else {
       console.log('errored:', addr);
     }
