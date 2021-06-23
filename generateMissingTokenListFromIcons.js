@@ -7,6 +7,7 @@ function generateMissingToken() {
   const icons = fs.readdirSync(ethIcons);
   const exclusion = [
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-eth',
+    '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-bsc',
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-matic',
     '0xef68e7c694f40c8202821edf525de3782458639f-eth',

@@ -71,6 +71,18 @@ const constraints = {
   website: {
     presence: true,
     type: 'string'
+  },
+  symbol: {
+    presence: true,
+    type: 'string'
+  },
+  name: {
+    presence: true,
+    type: 'string'
+  },
+  decimals: {
+    presence: true,
+    type: 'number'
   }
 };
 
