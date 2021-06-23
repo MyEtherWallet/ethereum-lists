@@ -1,32 +1,27 @@
 {
   "symbol": "EVED",
-  "name": "Evedo Token",
+  "name": "Evedo",
   "type": "ERC20",
   "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.evedo.co",
-  "logo": {
-    "src": "https://www.evedo.co/images/media/evedomark.svg",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@evedo.co", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/evedo",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/evedo.co",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/evedo-co",
+    "github": "",
     "gitter": "",
-    "instagram": "https://instagram.com/evedo.co",
+    "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/evedo/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/evedoco",
-    "twitter": "https://twitter.com/evedotoken",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

@@ -5,19 +5,14 @@
   "address": "0x8C65e992297d5f092A756dEf24F4781a280198Ff",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://gazecoin.io",
-  "logo": {
-    "src": "https://media.gazecoin.io/static/icons/gazecoin-28x28-on-trans.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@gazecoin.io", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/gazecoin",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/GazeCoinPublic",
-    "twitter": "https://twitter.com/GazeCoin",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

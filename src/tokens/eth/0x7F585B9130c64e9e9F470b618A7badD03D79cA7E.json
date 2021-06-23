@@ -5,28 +5,23 @@
   "address": "0x7F585B9130c64e9e9F470b618A7badD03D79cA7E",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://cr7coin.org",
-  "logo": {
-    "src": "https://cr7coin.org/assets/images/logo2.png",
-    "width": "200px",
-    "height": "200px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "hello@cr7coin.org", "url": "https://cr7coin.org" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@CR7Coin",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/CR7Coin",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/CR7CoinProject",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/CR7Coin",
+    "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/CR7Coin",
-    "twitter": "https://twitter.com/TheCR7Coin",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

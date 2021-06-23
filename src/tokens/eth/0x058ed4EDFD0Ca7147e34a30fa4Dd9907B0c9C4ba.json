@@ -6,18 +6,13 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://vipgo.io",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1580068026/VIPG-LOGO.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@vipgo.io", "url": "https://vipgo.io" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
-    "chat": "https://t.me/VIPGoCommunity",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/vipgoluxury",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/VipGoAsia",
-    "twitter": "https://twitter.com/VIPGoAsia",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

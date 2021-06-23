@@ -1,35 +1,27 @@
 {
   "symbol": "PATR",
-  "name": "PatriotToken",
+  "name": "PATRIOT",
   "type": "ERC20",
   "address": "0x9FbA684D77D2d6A1408C24b60A1f5534e71f5b75",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://patriotsilvertoken.com",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1552326699/patriot-logo-28x28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@patriotsilvertoken.com",
-    "url": "http://patriotsilvertoken.com"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Patriot-Token-414806535745582",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/PatriotToken",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/35612617",
-    "reddit": "https://www.reddit.com/user/PatriotToken",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/PatriotToken",
+    "twitter": "",
     "youtube": ""
   }
 }

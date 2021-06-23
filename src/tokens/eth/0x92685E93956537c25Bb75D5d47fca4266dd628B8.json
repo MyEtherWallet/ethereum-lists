@@ -5,14 +5,9 @@
   "address": "0x92685E93956537c25Bb75D5d47fca4266dd628B8",
   "ens_address": "",
   "decimals": 4,
-  "website": "https://bitlle.com",
-  "logo": {
-    "src": "https://bitlle.com/img/btl.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@bitlle.com", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
@@ -25,7 +20,7 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/bitlle",
+    "telegram": "",
     "twitter": "",
     "youtube": ""
   }

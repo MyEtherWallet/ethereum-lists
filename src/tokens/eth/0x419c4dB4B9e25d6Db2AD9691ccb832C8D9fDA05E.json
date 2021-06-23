@@ -1,32 +1,27 @@
 {
   "symbol": "DRGN",
-  "name": "Dragon",
+  "name": "Dragonchain",
   "type": "ERC20",
   "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
-  "ens_address": "dragonchain.eth",
+  "ens_address": "",
   "decimals": 18,
-  "website": "https://dragonchain.com",
-  "logo": {
-    "src": "https://dragonchain.com/assets/images/dragon.png",
-    "width": "813px",
-    "height": "879px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@dragonchain.com", "url": "" },
+  "website": "https://dragonchain.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://dragonchain.com/blog",
-    "chat": "https://t.me/dragontalk",
+    "blog": "",
+    "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/dragonchain/dragonchain",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/18216867",
-    "reddit": "https://www.reddit.com/r/dragonchain",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/dragontalk",
-    "twitter": "https://twitter.com/dragonchaingang",
-    "youtube": "https://www.youtube.com/channel/UC2_StJYNWFrQz2wiL8n6hoA/videos"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

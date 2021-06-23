@@ -1,32 +1,27 @@
 {
   "symbol": "BMX",
-  "name": "BitMartToken",
+  "name": "BitMart Token",
   "type": "ERC20",
   "address": "0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.bitmart.com",
-  "logo": {
-    "src": "https://www.bitmart.com/images/white-logo.png",
-    "width": "100px",
-    "height": "100px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@bitmart.com", "url": "support.bitmart.com" },
+  "website": "https://www.bitmart.com/trade/en?symbol=AKT_USDT",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://www.facebook.com/bitmartexchange/?modal=admin_todo_tour",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/bitmartexchange",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/AweProton",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/bitmart_exchange/",
-    "linkedin": "https://www.linkedin.com/company/bitmart",
-    "reddit": "https://www.reddit.com/r/BitMartExchange/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/BitmartExchange",
-    "twitter": "https://twitter.com/BitMartExchange",
-    "youtube": "https://www.youtube.com/watch?v=Cr5-eBEWgqg"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

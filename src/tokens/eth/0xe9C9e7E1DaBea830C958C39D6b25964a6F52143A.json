@@ -5,29 +5,23 @@
   "address": "0xe9C9e7E1DaBea830C958C39D6b25964a6F52143A",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://hey.network",
-  "logo": {
-    "src": "https://assets.hey.network/public/icon/icon-512x512%401x.png",
-    "width": "512px",
-    "height": "512px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@hey.network", "url": "https://hey.network" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/hey-project",
-    "chat": "https://hey.network",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/hey.extension",
-    "forum": "https://www.reddit.com/r/heynetwork/",
-    "github": "https://github.com/hey-network",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/thomasfromhey",
-    "medium": "https://medium.com/hey-project",
-    "linkedin": "https://www.linkedin.com/company/11297540",
-    "reddit": "https://www.reddit.com/r/heynetwork/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/hey_network",
-    "twitter": "https://twitter.com/hey_network_",
-    "youtube": "https://www.youtube.com/channel/UCqUBiGhaBgKAxaavU-5DDKA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

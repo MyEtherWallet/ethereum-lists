@@ -1,17 +1,12 @@
 {
   "symbol": "HUSL",
-  "name": "HUSTLE",
+  "name": "Hustle Token",
   "type": "ERC20",
   "address": "0x56BE94D29e1125D2D61D06629c1b251d72c1b3B3",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1567323959/HUSL-LOGO.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
+  "website": "https://www.hustletoken.org/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",

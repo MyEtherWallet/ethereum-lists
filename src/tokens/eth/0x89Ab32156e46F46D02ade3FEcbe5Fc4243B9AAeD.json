@@ -1,32 +1,27 @@
 {
   "symbol": "PNT",
-  "name": "pNetwork Token",
-  "type": "ERC777",
+  "name": "pNetwork",
+  "type": "ERC20",
   "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://p.Network",
-  "logo": {
-    "src": "https://imgur.com/a/YTk5Dqk",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "hello@p.network", "url": "" },
+  "website": "https://p.network",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@provablethings",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/provable-things/ptokens.js",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/provablethings",
-    "reddit": "https://www.reddit.com/r/pTokens/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ptokens",
-    "twitter": "https://twitter.com/ptokens_io",
-    "youtube": "https://www.youtube.com/channel/UC7InBHQKgW1wymYnYx4UfCg"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

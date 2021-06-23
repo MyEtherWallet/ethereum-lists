@@ -6,30 +6,22 @@
   "ens_address": "",
   "decimals": 0,
   "website": "https://www.veridocglobal.com/",
-  "logo": {
-    "src": "https://veridocglobal.com/Themes/veridoc/Content/img/logo.png",
-    "width": "350px",
-    "height": "145px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "admin@veridocglobal.com",
-    "url": "https://www.veridocglobal.com/contactus"
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://veridocglobal.com/news",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/VeriDocGlobal",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/VeriDocGlobal",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/VeriDocGlobal/",
-    "linkedin": "https://www.linkedin.com/company/veridocglobal",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/veridocglobal",
-    "twitter": "https://twitter.com/VeriDocGlobal",
-    "youtube": "https://www.youtube.com/channel/UCbl5uvM3vd-XRm-aDj2YZJw"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

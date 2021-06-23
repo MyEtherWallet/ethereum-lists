@@ -1,35 +1,27 @@
 {
   "symbol": "BOLT",
-  "name": "BOLT Token",
+  "name": "Bolt Token",
   "type": "ERC20",
   "address": "0x9F235D23354857EfE6c541dB92a9eF1877689BCB",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.bolt.global",
-  "logo": {
-    "src": "https://pbs.twimg.com/profile_images/1107544269227606017/2pygq6d1_400x400.png",
-    "width": "400px",
-    "height": "400px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@bolt.global",
-    "url": "https://bolt.global/contact"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Global.Bolt/",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/bolt_global/",
-    "linkedin": "https://www.linkedin.com/company/bolt-global/",
-    "reddit": "https://www.reddit.com/r/BoltGlobal/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/BoltGlobal",
-    "twitter": "https://twitter.com/bolt_global",
-    "youtube": "https://www.youtube.com/channel/UCqyGHc_IQpnsMMwJfCYetFA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

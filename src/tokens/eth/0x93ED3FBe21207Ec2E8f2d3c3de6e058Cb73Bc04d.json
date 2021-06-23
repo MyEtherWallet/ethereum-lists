@@ -1,32 +1,27 @@
 {
   "symbol": "PNK",
-  "name": "Pinakion",
+  "name": "Kleros",
   "type": "ERC20",
   "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
   "ens_address": "",
   "decimals": 18,
   "website": "https://kleros.io",
-  "logo": {
-    "src": "https://kleros.io/favicon-32x32.png",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "contact@kleros.io", "url": "https://kleros.io" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.kleros.io/",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/kleros",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "http://slack.kleros.io/",
+    "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/Kleros_io",
+    "twitter": "",
     "youtube": ""
   }
 }

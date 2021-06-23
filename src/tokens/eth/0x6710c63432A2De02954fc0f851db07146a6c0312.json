@@ -1,32 +1,27 @@
 {
   "symbol": "MFG",
-  "name": "SyncFab Manufacturing",
+  "name": "Smart MFG",
   "type": "ERC20",
   "address": "0x6710c63432A2De02954fc0f851db07146a6c0312",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://syncfab.com/",
-  "logo": {
-    "src": "https://blockchain.syncfab.com/assets/img/mfg-logo.png",
-    "width": "500px",
-    "height": "500px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@syncfab.com", "url": "" },
+  "website": "https://smartmfg.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/syncfabmfg",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://facebook.com/syncfab",
-    "forum": "https://bitcointalk.org/index.php?topic=2286102.0",
-    "github": "https://github.com/syncfab",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/syncfab/",
-    "linkedin": "https://www.linkedin.com/company/syncfab",
-    "reddit": "https://www.reddit.com/r/syncfab/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/syncfab",
-    "twitter": "https://twitter.com/syncfab",
-    "youtube": "https://youtube.com/channel/syncfab"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

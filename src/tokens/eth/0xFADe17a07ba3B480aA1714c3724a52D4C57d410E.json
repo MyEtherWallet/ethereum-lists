@@ -1,35 +1,27 @@
 {
-  "symbol": "VGN",
-  "name": "Vegan Token",
+  "symbol": "VEGAN",
+  "name": "Vegan",
   "type": "ERC20",
   "address": "0xFADe17a07ba3B480aA1714c3724a52D4C57d410E",
   "ens_address": "",
   "decimals": 8,
-  "website": "www.vegancurrency.org",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1550925563/vegan-logo-28x28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@vegancurrency.org",
-    "url": "www.vegancurrency.org"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://facebook.com/vegancurrency",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/vegan-currency",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/vegancurrency",
+    "twitter": "",
     "youtube": ""
   }
 }

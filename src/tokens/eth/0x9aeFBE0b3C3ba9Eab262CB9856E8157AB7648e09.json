@@ -5,14 +5,9 @@
   "address": "0x9aeFBE0b3C3ba9Eab262CB9856E8157AB7648e09",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://flaircoin.co/",
-  "logo": {
-    "src": "https://flaircoin.co/assets/images/flair_logo_64x64.png",
-    "width": "64px",
-    "height": "64px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@flaircoin.co", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",

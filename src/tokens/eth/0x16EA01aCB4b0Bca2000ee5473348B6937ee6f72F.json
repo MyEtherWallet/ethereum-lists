@@ -5,31 +5,23 @@
   "address": "0x16EA01aCB4b0Bca2000ee5473348B6937ee6f72F",
   "ens_address": "",
   "decimals": 10,
-  "website": "https://enecuum.com",
-  "logo": {
-    "src": "https://new.enecuum.com/files/ENQ-logo128x128.png",
-    "width": "128",
-    "height": "128",
-    "ipfs_hash": "QmRqbCPoGvXP52tkQznrB1T8BXfufUhVHDC2yXc2XatFrj"
-  },
-  "support": {
-    "email": "hello@enecuum.com",
-    "url": "https://guides.enecuum.com/"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@EnqBlockchain",
-    "chat": "https://t.me/Enecuum_EN",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/enecuum.EN/?ref=bookmarks",
-    "forum": "https://bitcointalk.org/index.php?topic=2939909.0;topicseen",
-    "github": "https://github.com/Enecuum",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/enecuum-limited/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/Enecuum_EN",
-    "twitter": "https://twitter.com/enq_enecuum",
-    "youtube": "https://www.youtube.com/channel/UCyZqNfzK_PP82nkAVOlmN4Q"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

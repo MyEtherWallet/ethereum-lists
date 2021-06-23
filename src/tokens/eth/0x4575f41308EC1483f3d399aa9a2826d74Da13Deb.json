@@ -1,35 +1,27 @@
 {
   "symbol": "OXT",
-  "name": "Orchid",
+  "name": "Orchid Protocol",
   "type": "ERC20",
   "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.orchid.com",
-  "logo": {
-    "src": "https://drive.google.com/uc?export=view&id=1urWoMRgUpfFGG07rWegD2TON4qnNv2q-",
-    "width": "128px",
-    "height": "128px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "contact@orchid.com",
-    "url": "https://www.orchid.com/contact"
-  },
+  "website": "https://www.orchid.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.orchid.com",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/OrchidProtocol",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/orchidtechnologies/orchid",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/orchidprotocol",
-    "reddit": "https://www.reddit.com/r/orchid",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/orchidofficial",
-    "twitter": "https://twitter.com/orchidprotocol",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

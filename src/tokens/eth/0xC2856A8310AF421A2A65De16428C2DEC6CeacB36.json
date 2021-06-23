@@ -5,31 +5,23 @@
   "address": "0xC2856A8310AF421A2A65De16428C2DEC6CeacB36",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://jamaicoin.com",
-  "logo": {
-    "src": "https://jamaicoin.com/images/yah.png",
-    "width": "206",
-    "height": "207",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "info@jamaicoin.com",
-    "url": "https://jamaicoin.com/whitepaper.html"
-  },
+  "website": "https://jamaicoin.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@jamaicoin",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "http://instagram.com/jamaicoin/",
-    "forum": "https://bitcointalk.org/index.php?topic=5163412.0",
-    "github": "https://github.com/JamaiCoin/JamaiCoin",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
-    "instagram": "http://instagram.com/jamaicoin/",
-    "linkedin": "https://www.linkedin.com/company/jamaicoin/",
-    "reddit": "https://www.reddit.com/r/JamaiCoin/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/JamaiCoin/",
-    "twitter": "https://twitter.com/jamaicoin",
-    "youtube": "https://www.youtube.com/c/jamaicoin"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

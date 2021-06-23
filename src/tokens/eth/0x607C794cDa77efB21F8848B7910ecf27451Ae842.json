@@ -1,32 +1,27 @@
 {
   "symbol": "PIE",
-  "name": "DeFiPIE Token",
+  "name": "DeFiPie",
   "type": "ERC20",
   "address": "0x607C794cDa77efB21F8848B7910ecf27451Ae842",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": {
-    "src": "https://defipie.com/images/logo256.png",
-    "width": "256",
-    "height": "256",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "contact@defipie.com", "url": "https://defipie.com/" },
+  "website": "https://defipie.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/defipie",
-    "chat": "https://t.me/defipie",
+    "blog": "",
+    "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/DefiPie",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/66673935",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/defipie_announcements",
-    "twitter": "https://twitter.com/defipiepie",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

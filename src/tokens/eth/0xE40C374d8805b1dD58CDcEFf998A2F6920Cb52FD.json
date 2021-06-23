@@ -1,32 +1,27 @@
 {
   "symbol": "PRPS",
-  "name": "Purpose Token",
+  "name": "Purpose",
   "type": "ERC20",
   "address": "0xE40C374d8805b1dD58CDcEFf998A2F6920Cb52FD",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://prps.io",
-  "logo": {
-    "src": "https://imgur.com/hm9naIz",
-    "width": "385px",
-    "height": "385px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@gamingforgood.net", "url": "" },
+  "website": "https://www.prps.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/SingularityGroup/Purpose",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/PRPS",
+    "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/prps_io",
+    "twitter": "",
     "youtube": ""
   }
 }

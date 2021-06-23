@@ -1,32 +1,27 @@
 {
   "symbol": "VIU",
-  "name": "VIU",
+  "name": "Viuly",
   "type": "ERC20",
   "address": "0x519475b31653E46D20cD09F9FdcF3B12BDAcB4f5",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://viuly.io",
-  "logo": {
-    "src": "https://etherscan.io/token/images/viuly_28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@viuly.com", "url": "" },
+  "website": "https://viuly.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@Viuly",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/viuly",
-    "forum": "https://bitcointalk.org/index.php?topic=2353646.0",
-    "github": "https://github.com/viuly",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/Viuly",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/viulyofficial",
-    "twitter": "https://twitter.com/ViulyOfficial",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

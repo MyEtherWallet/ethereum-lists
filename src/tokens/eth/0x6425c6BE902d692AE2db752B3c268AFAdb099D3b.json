@@ -1,23 +1,18 @@
 {
   "symbol": "MWAT",
-  "name": "Restart Energy MWAT",
+  "name": "Restart Energy",
   "type": "ERC20",
   "address": "0x6425c6BE902d692AE2db752B3c268AFAdb099D3b",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.restartenergy.io",
-  "logo": {
-    "src": "https://restartenergy.io/images/re-logo.png",
-    "width": "342px",
-    "height": "189px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "sales@restartenergy.io", "url": "" },
+  "website": "https://restartenergy.io",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.restartenergy.io",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://fb.com/restartenergydemocracy",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,7 +20,7 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/restartenergy",
+    "telegram": "",
     "twitter": "",
     "youtube": ""
   }

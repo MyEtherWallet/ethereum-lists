@@ -5,14 +5,9 @@
   "address": "0x70b147E01E9285E7cE68B9BA437Fe3a9190E756a",
   "ens_address": "",
   "decimals": 18,
-  "website": "fluxproject.xyz",
-  "logo": {
-    "src": "https://fluxproject.xyz/gallery_gen/271ecfb9c8f4f7dfc5ea539cfa57f44d_150x150.png",
-    "width": "150px",
-    "height": "150px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@fluxproject.xyz", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
@@ -23,10 +18,10 @@
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/FLUXProject",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/joinchat/GZcBtg6Oi6mjkBAn-t9Z4A",
-    "twitter": "https://twitter.com/flux_project",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

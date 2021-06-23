@@ -1,32 +1,27 @@
 {
   "symbol": "MKT",
-  "name": "Mikado",
+  "name": "Mikado Token",
   "type": "ERC20",
   "address": "0x7939882b54fcf0bCAe6b53dEc39Ad6e806176442",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://mikado.io",
-  "logo": {
-    "src": "https://avatars3.githubusercontent.com/u/38851395?s=400",
-    "width": "400px",
-    "height": "400px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@mikado.io", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@mikado.io",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/mikadohq",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/mikadoio/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/mikadoio",
-    "twitter": "https://twitter.com/mikadoio",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

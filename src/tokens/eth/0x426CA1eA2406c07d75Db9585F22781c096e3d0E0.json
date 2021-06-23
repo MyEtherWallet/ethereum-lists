@@ -1,35 +1,27 @@
 {
-  "symbol": "MNEv2",
+  "symbol": "MNE",
   "name": "Minereum",
   "type": "ERC20",
   "address": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
-  "logo": {
-    "src": "https://i.imgur.com/TXZPWoB.png",
-    "width": "256",
-    "height": "256",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "admin@minereum.com",
-    "url": "https://www.minereum.com"
-  },
+  "website": "https://www.minereum.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
-    "forum": "https://bitcointalk.org/index.php?topic=4495159",
+    "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/minereumtoken",
-    "twitter": "https://twitter.com/minereumtoken",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

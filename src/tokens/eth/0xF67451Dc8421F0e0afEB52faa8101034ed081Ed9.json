@@ -1,32 +1,27 @@
 {
   "symbol": "GAM",
-  "name": "Gambit",
+  "name": "Gambit Token",
   "type": "ERC20",
   "address": "0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
   "ens_address": "",
   "decimals": 8,
-  "website": "http://gambitcrypto.com",
-  "logo": {
-    "src": "https://gateway.ipfs.io/ipfs/QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh",
-    "width": "4167px",
-    "height": "4167px",
-    "ipfs_hash": "QmSDhPfF52qV7KcYMQ6kosvxc9TnMY45fMHst2hJEscUoh"
-  },
-  "support": { "email": "raithe@gmail.com", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/BlockchainLabsNZ/gambit",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/gambitcrypto",
+    "twitter": "",
     "youtube": ""
   }
 }

@@ -1,30 +1,27 @@
 {
   "symbol": "TNT",
-  "name": "Tierion Network Token",
+  "name": "Tierion",
   "type": "ERC20",
   "address": "0x08f5a9235B08173b7569F83645d2c7fB55e8cCD8",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://tierion.com",
+  "website": "https://tierion.com/",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": {
-    "email": "team@tierion.com",
-    "url": "https://tierion.com/contact"
-  },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/tierion",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://facebook.com/TierionInc",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/tierion",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://linkedin.com/company/tierion",
-    "reddit": "https://reddit.com/r/tierion",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/tierion",
-    "twitter": "https://twitter.com/tierion",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

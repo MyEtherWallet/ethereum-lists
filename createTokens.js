@@ -39,6 +39,20 @@ const abi = [
     payable: false,
     stateMutability: 'view',
     type: 'function'
+  },
+  {
+    constant: true,
+    inputs: [],
+    name: 'name',
+    outputs: [
+      {
+        name: '',
+        type: 'string'
+      }
+    ],
+    payable: false,
+    stateMutability: 'view',
+    type: 'function'
   }
 ];
 async function createToken() {
@@ -61,6 +75,12 @@ async function createToken() {
           console.log(
             `Could not fetch symbol for: ${notInList[index].address}!`
           );
+        });
+      const name = await contract.methods
+        .name()
+        .call()
+        .catch(() => {
+          console.log(`Could not fetch name for: ${notInList[index].address}!`);
         });
       const tokenInfo =
         notInList[index].network !== 'eth'
@@ -129,9 +149,9 @@ async function createToken() {
       } else {
         const newTokenCopy = Object.assign({}, tokenTemp, {
           symbol: symbol ? symbol : '',
-          name: symbol ? symbol : '',
+          name: name ? name : symbol ? symbol : '',
           address: utils.toChecksumAddress(notInList[index].address),
-          decimals: Number(decimal)
+          decimals: decimal >= 0 ? Number(decimal) : null
         });
         fs.writeFileSync(
           `./src/tokens/${notInList[index].network}/${utils.toChecksumAddress(

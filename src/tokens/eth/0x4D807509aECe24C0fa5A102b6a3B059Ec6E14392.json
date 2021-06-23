@@ -6,27 +6,22 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://menlo.one",
-  "logo": {
-    "src": "https://raw.githubusercontent.com/MenloOne/menlo-one-logos/master/menlo-one-blue-logo-solid-transparent.png",
-    "width": "868px",
-    "height": "868px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@menlo.one", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/menlo-one",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/menloone/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/MenloOne/",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/menloone",
-    "reddit": "https://www.reddit.com/r/menloone/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/menloone",
-    "twitter": "hgttps://teitter.com/menloone",
-    "youtube": "http://www.youtube.com/c/MenloOne"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

@@ -3,30 +3,25 @@
   "name": "Dentacoin",
   "type": "ERC20",
   "address": "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
-  "ens_address": "Dentacoin.eth",
+  "ens_address": "",
   "decimals": 0,
-  "website": "https://dentacoin.com",
-  "logo": {
-    "src": "https://dentacoin.com/web/img/DCNlogo.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "admin@dentacoin.com", "url": "https://dentacoin.com" },
+  "website": "https://www.dentacoin.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://www.blog.dentacoin.com",
-    "chat": "https://dentacoin.com",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/dentacoin",
-    "forum": "https://bitcointalk.org/index.php?topic=1944236.0",
-    "github": "https://github.com/Dentacoin",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/Dentacoin",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/dentacoin",
-    "twitter": "https://twitter.com/dentacoin?lang=en",
-    "youtube": "https://www.youtube.com/channel/UCSL-UsN8dc4CzHWiCv-NfrQ"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

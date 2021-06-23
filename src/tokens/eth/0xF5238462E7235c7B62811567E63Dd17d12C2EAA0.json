@@ -3,30 +3,25 @@
   "name": "CACHE Gold",
   "type": "ERC20",
   "address": "0xF5238462E7235c7B62811567E63Dd17d12C2EAA0",
-  "decimals": 8,
   "ens_address": "",
-  "website": "https://cache.gold",
-  "logo": {
-    "src": "https://etherscan.io/token/images/cachegold_32.png",
-    "width": "32",
-    "height": "32",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "contact@cache.gold", "url": "" },
+  "decimals": 8,
+  "website": "https://cache.gold/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/CACHEGoldToken",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/cache-token/cache-contract",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/cache-gold",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/cache_gold",
+    "twitter": "",
     "youtube": ""
   }
 }

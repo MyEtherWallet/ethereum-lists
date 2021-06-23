@@ -5,19 +5,14 @@
   "address": "0x37427576324fE1f3625c9102674772d7CF71377d",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://sgt.selfieyo.com",
-  "logo": {
-    "src": "https://sgt.selfieyo.com/wp-content/uploads/2018/01/token-new.png",
-    "width": "400px",
-    "height": "400px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "sgt@selfieyo.com", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
-    "discord": "https://discord.gg/QY6EVuY",
-    "facebook": "https://www.facebook.com/SelfieYoApp/",
+    "discord": "",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/SGTcoin",
-    "twitter": "https://twitter.com/SelfieYo",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

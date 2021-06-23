@@ -1,32 +1,27 @@
 {
   "symbol": "ENTRP",
-  "name": "Hut34 Entropy Token",
+  "name": "Hut34 Entropy",
   "type": "ERC20",
   "address": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3",
   "ens_address": "",
   "decimals": 18,
   "website": "https://hut34.io/",
-  "logo": {
-    "src": "https://hut34.io/images/comms/Hut34-logo-orange.jpg",
-    "width": "300px",
-    "height": "300px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "admin@hut34.io", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@hut34project",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/hut34project",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/hut34",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/18132913/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/hut34",
-    "twitter": "https://twitter.com/hut34project",
-    "youtube": "https://www.youtube.com/channel/UCiemFFyT2Sv2ulrRQfNI89Q"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

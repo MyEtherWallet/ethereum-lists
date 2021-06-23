@@ -1,35 +1,27 @@
 {
   "symbol": "XCL",
-  "name": "CLASSIE Token",
+  "name": "CLASSIE",
   "type": "ERC20",
   "address": "0x0843971B4ac6e842a518AA184e0271d88B5cB74F",
   "ens_address": "",
   "decimals": 8,
-  "website": "www.classify.global",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1551593804/classie-xcl-logo-28x28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@classify.global",
-    "url": "www.classify.global"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Classie-Project-1670093409804049",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/classieprojects",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/classietokenproject",
-    "reddit": "https://www.reddit.com/r/CLASSIETOKENPROJECT",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/Classietokens",
-    "twitter": "https://twitter.com/ClassieToken",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

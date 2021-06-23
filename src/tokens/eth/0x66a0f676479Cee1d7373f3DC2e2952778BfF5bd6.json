@@ -1,32 +1,27 @@
 {
   "symbol": "WISE",
-  "name": "WISE Token",
+  "name": "Wise",
   "type": "ERC20",
   "address": "0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://wisetoken.net/",
-  "logo": {
-    "src": "WISE-0x66a0f676479Cee1d7373f3DC2e2952778BfF5bd6.png",
-    "width": "128",
-    "height": "128",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "WiseTokenOfficial@gmail.com", "url": "" },
+  "website": "https://wisetoken.net",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
-    "discord": "https://discord.gg/keJUb4W",
-    "facebook": "https://www.facebook.com/wisetokens",
+    "discord": "",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/wise-foundation",
-    "gitter": "https://gitter.im/WiseToken/community",
-    "instagram": "https://www.instagram.com/wisetoken/",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/WiseTokenOfficial/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/WiseToken",
-    "twitter": "https://twitter.com/wise_token",
-    "youtube": "https://www.youtube.com/channel/UCkrhXAz9MIpCARoZ0SeibDA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

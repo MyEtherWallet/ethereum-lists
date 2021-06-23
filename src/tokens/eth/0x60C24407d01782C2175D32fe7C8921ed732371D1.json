@@ -5,28 +5,23 @@
   "address": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
   "ens_address": "",
   "decimals": 18,
-  "website": "www.lemochain.com",
-  "logo": {
-    "src": "https://lemochip.hellobyebye.com/logo.png",
-    "width": "110px",
-    "height": "72px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "foundation@lemochain.com", "url": "" },
+  "website": "https://www.lemochain.com/#/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/LemoChain",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/LemoFoundationLtd",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/user/LemoChain",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/lemochain",
-    "twitter": "https://twitter.com/LemoChain",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

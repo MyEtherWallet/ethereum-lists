@@ -5,31 +5,23 @@
   "address": "0x0258F474786DdFd37ABCE6df6BBb1Dd5dfC4434a",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://orionprotocol.io/",
-  "logo": {
-    "src": "https://s2.coinmarketcap.com/static/img/coins/64x64/5631.png",
-    "width": "64",
-    "height": "64",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "contact@orionprotocol.io",
-    "url": "https://orionprotocol.io/"
-  },
+  "website": "https://www.orionprotocol.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/orion-protocol",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/orionprotocol",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/orion-protocol",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/orionprotocol",
-    "twitter": "https://twitter.com/orion_protocol",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

@@ -5,31 +5,23 @@
   "address": "0x7865af71cf0b288b4E7F654f4F7851EB46a2B7F8",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://sentivate.com/",
-  "logo": {
-    "src": "https://etherscan.io/token/images/sentivate_28.png?v=2.2",
-    "width": "28",
-    "height": "28",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "partner@sentivate.com",
-    "url": "https://twitter.com/sentivate"
-  },
+  "website": "https://sentivate.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://sentivate.com/blog/",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/sentivate/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/sentivate/",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/sntvt/",
-    "linkedin": "https://www.linkedin.com/company/sentivate",
-    "reddit": "https://www.reddit.com/r/sentivate/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/sentivate",
-    "twitter": "https://twitter.com/sentivate",
-    "youtube": "https://www.youtube.com/channel/UCFoai5_Qc_Ai64jn5fN0Gsg"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

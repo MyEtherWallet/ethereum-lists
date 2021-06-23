@@ -1,35 +1,27 @@
 {
   "symbol": "TBC",
-  "name": "ThunderBoltCoin",
+  "name": "THUNDERBOLT COIN",
   "type": "ERC20",
   "address": "0x627974847450C45b60B3Fe3598f4e6E4cf945B9a",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://thunderboltcoin.es",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1556434941/TBC-LOGO-NEW-256x256.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@thunderboltcoin.es",
-    "url": "http://thunderboltcoin.es"
-  },
+  "website": "https://www.thunderboltcoin.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Thunderbolt-Coin-289975025259882",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/THUNDERBOLTCOIN",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/in/thunderbolt-coin-759533184",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/coin_bolt",
+    "twitter": "",
     "youtube": ""
   }
 }

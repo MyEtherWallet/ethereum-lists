@@ -5,31 +5,23 @@
   "address": "0xc73f2474001aD1D6aEd615aF53631148CF98dE6b",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://billionareambition.com",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1552755402/bar-logo-128x128.png",
-    "width": "128px",
-    "height": "128px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@domain.com",
-    "url": "http://billionareambition.com"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Billionare-Ambition-Token-399166777563768/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/BillonareAmbitionToken",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/in/billionare-ambition-token-177751182",
-    "reddit": "https://www.reddit.com/user/BillionareAmbition",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/joinchat/JxpwLBNS0k0soh9rDzsEhA",
-    "twitter": "https://twitter.com/AmbitionToken",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

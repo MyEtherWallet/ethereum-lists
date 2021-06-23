@@ -1,32 +1,27 @@
 {
   "symbol": "LRC",
-  "name": "Loopring V2",
+  "name": "Loopring",
   "type": "ERC20",
   "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
-  "ens_address": "lrctoken.eth",
+  "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": {
-    "src": "https://loopring.org/resources/LRC/blue.svg",
-    "width": "300",
-    "height": "300",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "foundation@loopring.org", "url": "" },
+  "website": "https://loopring.org/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/loopring-protocol",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/Loopring",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/loopringorg",
+    "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/loopringorg",
+    "twitter": "",
     "youtube": ""
   }
 }

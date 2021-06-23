@@ -1,27 +1,27 @@
 {
-  "symbol": "eBTC",
+  "symbol": "EBTC",
   "name": "eBitcoin",
   "type": "ERC20",
   "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://ebitcoin.org",
+  "website": "https://ebitcoin.org/",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "contact@ebitcoin.org", "url": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@eBTCFoundation",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/eBitcoin.org",
-    "forum": "https://bitcointalk.org/index.php?topic=2210565.0",
-    "github": "https://github.com/eBTCCommunityTrustToken/eBTC",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/eBTC",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ComTrust",
-    "twitter": "https://twitter.com/ebtcfoundation",
-    "youtube": "https://www.youtube.com/channel/UC3qfrY1tpUFEy3nOjqaGBDw/videos"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

@@ -1,32 +1,27 @@
 {
   "symbol": "APIS",
-  "name": "APIS Token",
+  "name": "APIS",
   "type": "ERC20",
   "address": "0x4C0fBE1BB46612915E7967d2C3213cd4d87257AD",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://apisplatform.io",
-  "logo": {
-    "src": "https://apisplatform.io/img/icon_250.png",
-    "width": "250px",
-    "height": "250px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "apis_official@apisplatform.io", "url": "" },
+  "website": "https://apisplatform.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/apisplatform",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/Oxchild/crowdsale",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/TheApisplatform",
-    "twitter": "https://twitter.com/Apis11Official",
-    "youtube": "https://www.youtube.com/channel/UCArVzPjkC_BrqkjFG3DZOjQ"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

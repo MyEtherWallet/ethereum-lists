@@ -1,32 +1,27 @@
 {
   "symbol": "UMKA",
-  "name": "UMKA Token",
+  "name": "UMKA",
   "type": "ERC20",
   "address": "0x8e5afc69f6227A3ad75eD346c8723Bc62ce97123",
   "ens_address": "",
   "decimals": 4,
-  "website": "https://umka.city",
-  "logo": {
-    "src": "https://cdn-images-1.medium.com/fit/c/200/200/1*2qbLwo61-mobpkNCWeBcLQ.jpeg",
-    "width": "200px",
-    "height": "200px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "umka.labormarket@gmail.com", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@umka_",
-    "chat": "https://t.me/umka2018",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/freelance.umka/",
-    "forum": "https://bitcointalk.org/index.php?topic=3382203.msg35440294#msg35440294",
-    "github": "https://github.com/UMKAman",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/umka_freelance/",
-    "linkedin": "https://www.linkedin.com/company/umka/",
-    "reddit": "https://www.reddit.com/user/UMKA_Labor_Market",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/umkachannel",
-    "twitter": "https://twitter.com/umka_freelance",
-    "youtube": "https://www.youtube.com/channel/UCzuPC-job7i8A8ycobx939w"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

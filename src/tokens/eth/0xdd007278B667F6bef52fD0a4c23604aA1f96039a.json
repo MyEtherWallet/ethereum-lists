@@ -1,32 +1,27 @@
 {
   "symbol": "RIPT",
-  "name": "RiptideCoin",
+  "name": "Riptide Coin",
   "type": "ERC20",
   "address": "0xdd007278B667F6bef52fD0a4c23604aA1f96039a",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://riptidecoin.com",
-  "logo": {
-    "src": "https://etherscan.io/token/images/riptide_28.png",
-    "width": "24px",
-    "height": "24px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@riptidecoin.com", "url": "" },
+  "website": "https://riptidecoin.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/RiptideCoin",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/riptidecoin/riptide-coin",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/riptide_coin",
+    "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "https://mmjfintech.slack.com",
+    "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/RiptideCoin",
+    "twitter": "",
     "youtube": ""
   }
 }

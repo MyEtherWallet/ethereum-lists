@@ -5,31 +5,23 @@
   "address": "0xCc2a74b28E786Fac86bE3CA354B1941c25aB3EaB",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://gabotoken.org",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1556654278/GBO-LOGO-256X256.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@gabotoken.org",
-    "url": "http://gabotoken.org"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/gabo.token.1",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/GABOtoken",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/gabotoken",
+    "twitter": "",
     "youtube": ""
   }
 }

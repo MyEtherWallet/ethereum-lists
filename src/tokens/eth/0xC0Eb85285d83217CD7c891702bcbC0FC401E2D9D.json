@@ -1,35 +1,27 @@
 {
   "symbol": "HVN",
-  "name": "Hive Project",
+  "name": "Hiveterminal token",
   "type": "ERC20",
   "address": "0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://hive-project.net",
-  "logo": {
-    "src": "https://hive-project.net/images/hive-logo.png",
-    "width": "151px",
-    "height": "64px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@hive-project.net",
-    "url": "https://hive-project.zendesk.com"
-  },
+  "website": "https://www.hiveterminal.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.hive-project.net",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/HiveProject.net",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/HiveProjectLTD",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/hiveproject_net",
-    "reddit": "https://www.reddit.com/r/HiveProject_net",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/hiveprojectnet",
-    "twitter": "https://twitter.com/hiveproject_net",
-    "youtube": "https://www.youtube.com/channel/UCpV4Wwhy5sZbjH9hqAdHlKw"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

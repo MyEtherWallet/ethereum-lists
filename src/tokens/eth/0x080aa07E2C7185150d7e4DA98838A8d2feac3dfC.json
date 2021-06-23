@@ -1,32 +1,27 @@
 {
   "symbol": "BTT",
-  "name": "Bitether",
+  "name": "BitEther",
   "type": "ERC20",
   "address": "0x080aa07E2C7185150d7e4DA98838A8d2feac3dfC",
   "ens_address": "",
   "decimals": 0,
-  "website": "https://bytom.io",
-  "logo": {
-    "src": "https://www.bitether.co/wp-content/uploads/thegem-logos/logo_865d0b770c80162beeec3624ca062e6d_1x.png",
-    "width": "164px",
-    "height": "63px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@bitether.co", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://t.me/BitEthercoin",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/Andyss4545/BitEther",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/BitEthercoin",
-    "twitter": "https://twitter.com/bitEther_coin",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

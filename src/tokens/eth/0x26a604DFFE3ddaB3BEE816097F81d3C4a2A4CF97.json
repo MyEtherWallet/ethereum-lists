@@ -1,32 +1,27 @@
 {
   "symbol": "CORX",
-  "name": "CorionX Utility token",
+  "name": "CorionX",
   "type": "ERC20",
   "address": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://corion.io",
-  "logo": {
-    "src": "https://corion.io/wp-content/uploads/2020/05/corionx.svg",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@corion.io", "url": "" },
+  "website": "https://corion.io/corionx/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.corion.io/",
-    "chat": "https://t.me/corionx",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/CorionFoundation",
-    "forum": "https://bitcointalk.org/index.php?topic=5263408.0",
+    "facebook": "",
+    "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/corionplatform/",
-    "linkedin": "https://www.linkedin.com/company/corionplatform/",
-    "reddit": "https://www.reddit.com/user/CorionX/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/corionx",
-    "twitter": "https://twitter.com/CorionPlatform",
-    "youtube": "https://www.youtube.com/channel/UCD9royvfm_-02vV9eHvZk8A"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

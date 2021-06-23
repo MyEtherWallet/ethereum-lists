@@ -5,19 +5,14 @@
   "address": "0x28d7F432d24ba6020d1cbD4f28BEDc5a82F24320",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.tercet.network",
-  "logo": {
-    "src": "http://tercet.network/180Logo.jpg",
-    "width": "180px",
-    "height": "180px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "business.i@tercet.network", "url": "" },
+  "website": "https://tercet.network/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@tercetnetwork",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/TercetN",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/TercetN",
-    "twitter": "https://twitter.com/TercetN",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

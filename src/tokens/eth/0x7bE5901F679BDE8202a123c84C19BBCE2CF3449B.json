@@ -6,18 +6,13 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://fiola.network/",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1603008196/logo_FLA.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@fiola.network", "url": "https://fiola.network/" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/FiolaNetwork",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/FiolaDiscussion",
-    "twitter": "https://twitter.com/FiolaNetwork",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

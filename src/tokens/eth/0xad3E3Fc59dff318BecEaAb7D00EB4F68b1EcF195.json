@@ -1,35 +1,27 @@
 {
-  "symbol": "wCUSD",
-  "name": "Wrapped Celo USD",
+  "symbol": "WCUSD",
+  "name": "Wrapped Celo Dollar",
   "type": "ERC20",
   "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://medium.com/wrapped",
-  "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": "QmP7wfSxUzxJm8gDW1yEL7N4kZ3VyBbJKBmbw98Qw81EF1"
-  },
-  "support": {
-    "email": "info@wrapped.com",
-    "url": "https://medium.com/wrapped"
-  },
+  "website": "https://www.wrapped.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://www.medium.com/wrapped ",
-    "chat": "https://t.me/wrappedfi",
+    "blog": "",
+    "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/tokensoft/tokensoft_token",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/wrappedfi",
-    "twitter": "https://www.twitter.com/wrappedfi",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

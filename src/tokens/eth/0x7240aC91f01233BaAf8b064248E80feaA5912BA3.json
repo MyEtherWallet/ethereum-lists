@@ -5,28 +5,23 @@
   "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://octo.fi",
-  "logo": {
-    "src": "https://raw.githubusercontent.com/octofi/assets/master/logo/octofi-256x256.jpg",
-    "width": "",
-    "height": "",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "hello@octo.fi", "url": "" },
+  "website": "https://octo.fi ",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://octo.fi/blog/",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/octofi",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/octofinance/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/OctoFiNews",
-    "twitter": "https://twitter.com/octofinance",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

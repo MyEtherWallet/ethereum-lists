@@ -1,16 +1,16 @@
 {
   "symbol": "STAR",
-  "name": "Star Token",
+  "name": "Starbase",
   "type": "ERC20",
   "address": "0xF70a642bD387F94380fFb90451C2c81d4Eb82CBc",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://starbase.co",
+  "website": "https://starbase.co/",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "support@starbase.co", "url": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
-    "chat": "https://starbase.rocket.chat",
+    "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
@@ -19,8 +19,8 @@
     "instagram": "",
     "linkedin": "",
     "reddit": "",
-    "slack": "https://starbase-community.slack.com",
-    "telegram": "https://t.me/starbase",
+    "slack": "",
+    "telegram": "",
     "twitter": "",
     "youtube": ""
   }

@@ -1,21 +1,13 @@
 {
   "symbol": "GRO",
-  "name": "GROWTH",
+  "name": "GROWTH DeFi",
   "type": "ERC20",
   "address": "0x09e64c2B61a5f1690Ee6fbeD9baf5D6990F8dFd0",
   "ens_address": "",
   "decimals": 18,
   "website": "https://growthdefi.com/",
-  "logo": {
-    "src": "https://growthdefi.com/assets/img/favicon.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "mike@growthdefi.com",
-    "url": "https://t.me/growthdefi"
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
@@ -28,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/growthdefi",
-    "twitter": "https://twitter.com/GrowthDefi",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

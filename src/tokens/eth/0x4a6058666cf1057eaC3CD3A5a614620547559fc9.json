@@ -1,35 +1,27 @@
 {
   "symbol": "BBK",
-  "name": "BRICKBLOCK TOKEN",
+  "name": "BrickBlock",
   "type": "ERC20",
   "address": "0x4a6058666cf1057eaC3CD3A5a614620547559fc9",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.brickblock.io/",
-  "logo": {
-    "src": "https://www.brickblock.io/images/bb_logo_white.svg?crc=205463457",
-    "width": "100px",
-    "height": "100px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@brickblock.io",
-    "url": "https://www.brickblock.io/"
-  },
+  "website": "http://brickblock.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.brickblock.io/",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/brickblock.io/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/brickblock-io",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/brickblock.io/",
-    "linkedin": "https://www.linkedin.com/company/18035479/",
-    "reddit": "https://www.reddit.com/r/BrickBlock/",
-    "slack": "https://brickblock-team.slack.com/",
-    "telegram": "https://t.me/brickblock  ",
-    "twitter": "https://twitter.com/brickblock_io",
-    "youtube": "https://www.youtube.com/channel/UC7etm1NmMFIlg2KJ6VXNNrA"
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

@@ -1,21 +1,13 @@
 {
   "symbol": "CTT",
-  "name": "CASTWEET TOKEN",
+  "name": "Castweet",
   "type": "ERC20",
   "address": "0x1A4743Cf1af4C289351390A2B3fe7c13D2F7C235",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://castweet.com",
-  "logo": {
-    "src": "https://user-images.githubusercontent.com/24792377/62755414-e0329d00-baae-11e9-9ce6-a2095e3450b4.png",
-    "width": "800",
-    "height": "800",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "castweet@castweet.com",
-    "url": "http://castweet.com/"
-  },
+  "website": "https://www.castweet.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
@@ -28,7 +20,7 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/CastweetOfficialCommunity",
+    "telegram": "",
     "twitter": "",
     "youtube": ""
   }

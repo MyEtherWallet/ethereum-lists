@@ -1,32 +1,27 @@
 {
   "symbol": "ESZ",
-  "name": "ESZCoin",
+  "name": "EtherSportz",
   "type": "ERC20",
   "address": "0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
   "ens_address": "",
   "decimals": 18,
   "website": "https://ethersportz.com",
-  "logo": {
-    "src": "https://ethersportz.com/ESZCoin200by200.png",
-    "width": "200px",
-    "height": "200px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@ethersportz.com", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "http://medium.com/@EtherSportz",
-    "chat": "https://discord.gg/Hf2eMvV",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/ethersportz",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/EtherSportz/ESZCoin",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.facebook.com/EtherSportz",
-    "linkedin": "http://linkedin.com/company/ethersportz",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ESZCoin",
-    "twitter": "https://www.instagram.com/EtherSportz",
-    "youtube": "https://youtube.com/ethersportz"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

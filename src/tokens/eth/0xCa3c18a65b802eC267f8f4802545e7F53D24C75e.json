@@ -1,32 +1,27 @@
 {
   "symbol": "BUC",
-  "name": "BeeUnity Chain",
+  "name": "BeeunityChain",
   "type": "ERC20",
   "address": "0xCa3c18a65b802eC267f8f4802545e7F53D24C75e",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://beeunity.org",
-  "logo": {
-    "src": "http://beeunity.org/wp-content/uploads/2018/03/buc60.png",
-    "width": "60px",
-    "height": "37px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@beeunity.org", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://goo.gl/VhHEoA",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/beeunity",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/beeunity",
-    "twitter": "https://twitter.com/beeunity",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

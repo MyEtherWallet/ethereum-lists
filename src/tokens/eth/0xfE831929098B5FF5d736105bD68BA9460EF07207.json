@@ -5,31 +5,23 @@
   "address": "0xfE831929098B5FF5d736105bD68BA9460EF07207",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://cyclemontreal.net",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1556694453/CYCLE-LOGO-256X256.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "contact@cyclemontreal.net",
-    "url": "http://cyclemontreal.net"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/cyclemontreal",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/in/guillaume-dumas-lapointe-7a32b8177",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/Cyclemontreal",
+    "twitter": "",
     "youtube": ""
   }
 }

@@ -5,28 +5,23 @@
   "address": "0x3A880652F47bFaa771908C07Dd8673A787dAEd3A",
   "ens_address": "",
   "decimals": 18,
-  "website": "derivadex.com",
-  "logo": {
-    "src": "https://raw.githubusercontent.com/brennanfife/ddx-128-logo/main/128-ddx-logo.png",
-    "width": "128",
-    "height": "128",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@derivadex.com", "url": "" },
+  "website": "https://derivadex.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/derivadex",
+    "blog": "",
     "chat": "",
-    "discord": "https://discord.gg/DwdqWyHG",
+    "discord": "",
     "facebook": "",
-    "forum": "https://forum.derivadex.com/",
+    "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/derivadex",
-    "reddit": "https://www.reddit.com/r/derivadex/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/DerivaDEX",
-    "twitter": "https://twitter.com/DDX_Official",
-    "youtube": "https://www.youtube.com/channel/UCSAEVzSu0AEcJF2e7TMbZJg"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

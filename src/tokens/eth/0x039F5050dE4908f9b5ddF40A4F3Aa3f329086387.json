@@ -1,32 +1,27 @@
 {
   "symbol": "ENC",
-  "name": "Ethernet.Cash",
+  "name": "Ethernet Cash",
   "type": "ERC20",
   "address": "0x039F5050dE4908f9b5ddF40A4F3Aa3f329086387",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://ethernet.cash",
-  "logo": {
-    "src": "https://ethernet.cash/images/logo28x28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "contact@ethernet.cash", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@ethernetcash",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://fb.me/ethernetcash.official",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/ethernetcash",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ethernetcash",
-    "twitter": "https://twitter.com/ethernetcash",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

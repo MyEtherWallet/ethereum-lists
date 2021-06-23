@@ -6,27 +6,22 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://swaps.network/",
-  "logo": {
-    "src": "https://raw.githubusercontent.com/MyWishPlatform/coinmarketcap_coin_images/master/swap.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@swaps.network", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@VladimirTikhomirov",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/MyWish.io/",
-    "forum": "https://bitcointalk.org/index.php?topic=5160919.new#new",
-    "github": "https://github.com/swaps-network",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/swaps-network/",
-    "reddit": "https://www.reddit.com/r/mywishteam/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/SWAPS_NETWORK",
-    "twitter": "https://twitter.com/mywishplatform",
-    "youtube": "https://www.youtube.com/channel/UCBL6_ojQyXqgHRFRqB-ei-w"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

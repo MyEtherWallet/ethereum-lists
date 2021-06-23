@@ -1,32 +1,27 @@
 {
   "symbol": "LOOM",
-  "name": "LOOM",
+  "name": "Loom Network (NEW)",
   "type": "ERC20",
   "address": "0x42476F744292107e34519F9c357927074Ea3F75D",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": {
-    "src": "https://s3.amazonaws.com/loomrandom/loom-ticker-logo+small.png",
-    "width": "29",
-    "height": "29",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "hello@loomx.io", "url": "" },
+  "website": "https://loomx.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/loom-network",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "github.com/loomnetwork/",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/loomnetwork/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/loomnetwork",
-    "twitter": "https://twitter.com/loomnetwork",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

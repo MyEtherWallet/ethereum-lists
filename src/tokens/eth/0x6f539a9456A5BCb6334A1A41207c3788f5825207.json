@@ -1,32 +1,27 @@
 {
   "symbol": "OHNI",
-  "name": "Ohni Token",
+  "name": "ohni_2",
   "type": "ERC20",
   "address": "0x6f539a9456A5BCb6334A1A41207c3788f5825207",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://ohni.us",
-  "logo": {
-    "src": "https://ohni.us/wp-content/uploads/2018/05/Main_Logo-e1526670376669.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "james@ohni.us", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "ohni.us/blog",
-    "chat": "ohni.us/discord",
+    "blog": "",
+    "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "ohni_us",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "OhniGroup",
-    "twitter": "OhniOfficial",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

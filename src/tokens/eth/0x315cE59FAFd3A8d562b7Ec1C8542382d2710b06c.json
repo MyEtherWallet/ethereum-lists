@@ -1,35 +1,27 @@
 {
   "symbol": "CCS",
-  "name": "CacaoShares",
+  "name": "Cacao Shares",
   "type": "ERC20",
   "address": "0x315cE59FAFd3A8d562b7Ec1C8542382d2710b06c",
-  "ens_address": "cacaoshares.eth",
+  "ens_address": "",
   "decimals": 18,
-  "website": "http://www.cacaoshares.com",
-  "logo": {
-    "src": "http://cacaoshares.com/wp-content/uploads/2017/12/cropped-logo-cherry-2018-1-e1513046302595.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "ico@1cacaoshares.com",
-    "url": "http://www.cacaoshares.com"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "http://www.cacaoshares.com/blog",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "github.com/AnalemaTechnologies/CacaoShares",
+    "github": "",
     "gitter": "",
-    "instagram": "http://www.instagram.com/cacaoshares",
-    "linkedin": "https://www.linkedin.com/company/cacaoshares",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/joinchat/FoJjLkP1Qxh9yZbCZ5mC9A",
-    "twitter": "https://twitter.com/cacaoshares",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

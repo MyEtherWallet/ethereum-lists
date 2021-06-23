@@ -1,32 +1,27 @@
 {
   "symbol": "BTCF",
-  "name": "Bitcoin Fast",
+  "name": "Bitcoin Fast BTCF",
   "type": "ERC20",
   "address": "0x225927F8fa71d16EE07968B8746364D1d9F839bD",
   "ens_address": "",
   "decimals": 8,
   "website": "https://bitcfast.com/",
-  "logo": {
-    "src": "https://bitcfast.com/btcf.png",
-    "width": "630px",
-    "height": "630px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "bitcfast@gmail.com", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
-    "chat": "https://t.me/btcfastcoin",
+    "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/BitcoinFast",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/btcfastcoin",
-    "twitter": "https://twitter.com/BTCFcoin",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

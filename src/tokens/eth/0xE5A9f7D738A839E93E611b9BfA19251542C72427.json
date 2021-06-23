@@ -5,31 +5,23 @@
   "address": "0xE5A9f7D738A839E93E611b9BfA19251542C72427",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://gocoworker.com",
-  "logo": {
-    "src": "https://drive.google.com/file/d/1B9NwYd0tHLgvdfBj25b_4-wobp0HiDxZ/view?usp=sharing",
-    "width": "2977",
-    "height": "2976",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "contact@gocoworker.com",
-    "url": "https://gocoworker.com"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@gocoworker",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Gocoworker",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/gocoworker",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/gocowork",
-    "twitter": "https://twitter.com/gocoworker",
-    "youtube": "https://www.youtube.com/channel/UCNfOO8alfkV4pC-pb5NJXWw"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

@@ -1,18 +1,13 @@
 {
-  "symbol": "CO2Bit",
-  "name": "CO2Bit Token",
+  "symbol": "CO2",
+  "name": "Co2Bit",
   "type": "ERC20",
   "address": "0x574B36BceD443338875d171CC377E691f7d4F887",
-  "ens_address": "co2energy.eth",
+  "ens_address": "",
   "decimals": 18,
-  "website": "https://co2bit.com",
-  "logo": {
-    "src": "http://co2bit.com/wp-content/uploads/2017/12/28x28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@co2bit.com", "url": "https://co2bit.com" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",

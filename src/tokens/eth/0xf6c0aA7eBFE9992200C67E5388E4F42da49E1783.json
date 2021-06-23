@@ -6,27 +6,22 @@
   "ens_address": "",
   "decimals": 2,
   "website": "https://psyche.cash/",
-  "logo": {
-    "src": "https://etherscan.io/token/images/psychetoken_32.png",
-    "width": "32px",
-    "height": "32px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "cs@psyche.cash", "url": "https://psyche.cash/" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://psycheusd.medium.com/",
-    "chat": "https://t.me/psychefan",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/psycheusd",
-    "forum": "https://bitcointalk.org/index.php?topic=5283530.0",
+    "facebook": "",
+    "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/psycheusd/",
-    "linkedin": "https://www.linkedin.com/company/psychecoin/",
-    "reddit": "https://www.reddit.com/r/PsycheCoin/",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "http://t.me/psycheusd",
-    "twitter": "https://twitter.com/psycheusd",
-    "youtube": "https://youtu.be/ymbLGd76RXU"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

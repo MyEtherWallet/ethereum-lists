@@ -1,31 +1,26 @@
 {
   "symbol": "RTC",
-  "name": "OSMOTIC Token",
+  "name": "OSMOTIC TOKEN",
   "type": "ERC20",
   "address": "0x7A5599B97E8c4abB5dd06EBA0E9d1F75AF818DB9",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://osmotic.io",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1556042850/RTC-LOGO-256X256.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@osmotic.io", "url": "http://osmotic.io" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "http://www.github.com/osmoticio",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/osmoticio",
+    "telegram": "",
     "twitter": "",
     "youtube": ""
   }

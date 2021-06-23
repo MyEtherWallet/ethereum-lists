@@ -1,32 +1,27 @@
 {
   "symbol": "LIKE",
-  "name": "LikeCoin",
+  "name": "LikeCoin (ERC-20)",
   "type": "ERC20",
   "address": "0x02F61Fd266DA6E8B102D4121f5CE7b992640CF98",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://like.co",
-  "logo": {
-    "src": "https://like.co/logo.png",
-    "width": "300px",
-    "height": "300px",
-    "ipfs_hash": "QmX32sitN5UCsxZni27r3nyGwJV9hMDY2BzxuQQiafQREy"
-  },
-  "support": { "email": "team@like.co", "url": "https://help.like.co" },
+  "website": "https://like.co/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/likecoin",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/LikeCoin.Foundation/",
-    "forum": "https://www.facebook.com/groups/likecoin/",
-    "github": "https://github.com/likecoin",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/likecoin-fdn/",
-    "reddit": "https://www.reddit.com/r/LikeCoin/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/likecoin",
-    "twitter": "https://twitter.com/likecoin_fdn",
-    "youtube": "https://www.youtube.com/c/likecoin"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

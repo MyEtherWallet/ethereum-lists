@@ -1,11 +1,11 @@
 {
-  "symbol": "aTUSD",
-  "name": "Aave Interest bearing TUSD",
+  "symbol": "ATUSD",
+  "name": "Aave TUSD v1",
   "type": "ERC20",
   "address": "0x4DA9b813057D04BAef4e5800E36083717b4a0341",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://aave.com/atokens",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {

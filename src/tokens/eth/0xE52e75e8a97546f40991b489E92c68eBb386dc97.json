@@ -1,23 +1,18 @@
 {
   "symbol": "ETHPAY",
-  "name": "EthPay Token",
+  "name": "ETHPAY",
   "type": "ERC20",
   "address": "0xE52e75e8a97546f40991b489E92c68eBb386dc97",
   "ens_address": "",
   "decimals": 18,
-  "website": "http://ethpay.im",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1555062501/ETHPAY-Logo-256x256.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@ethpay.im", "url": "http://ethpay.im" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Ethpay-390129785176746",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ETHPAYtoken",
-    "twitter": "https://twitter.com/ETHPAY1",
-    "youtube": "https://www.youtube.com/channel/UC7S9by9-rLm69qmcW_fk3eQ"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

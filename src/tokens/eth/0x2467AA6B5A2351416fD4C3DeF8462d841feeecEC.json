@@ -1,32 +1,27 @@
 {
   "symbol": "QBX",
-  "name": "qiibeeToken",
+  "name": "qiibee",
   "type": "ERC20",
   "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.qiibee.com",
-  "logo": {
-    "src": "https://avatars0.githubusercontent.com/u/31820267?s=400&u=f671cf8b24876d0dddf9b16930d31cc2114103eb&v=4",
-    "width": "378px",
-    "height": "378px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@qiibee.com", "url": "https://qiibee.com" },
+  "website": "https://qiibee.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.qiibee.com",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/qiibee",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/qiibee",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/qiibee",
-    "linkedin": "https://www.linkedin.com/company/qiibee-ag",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/qiibee",
-    "twitter": "https://twitter.com/qiibee",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

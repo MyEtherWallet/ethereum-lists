@@ -1,23 +1,18 @@
 {
   "symbol": "ROCK2",
-  "name": "ICE ROCK MINING",
+  "name": "Ice Rock Mining",
   "type": "ERC20",
   "address": "0xC16b542ff490e01fcc0DC58a60e1EFdc3e357cA6",
-  "decimals": 0,
   "ens_address": "",
-  "website": "https://icerockmining.io",
-  "logo": {
-    "src": "https://rockmining.blob.core.windows.net/logo/fullLogo.png",
-    "width": "132px",
-    "height": "132px",
-    "ipfs_hash": ""
-  },
+  "decimals": 0,
+  "website": "https://icerockmining.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/IceRockMiningICO",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/icerockmining",
-    "twitter": "https://twitter.com/icerockmining",
-    "youtube": "https://www.youtube.com/channel/UCxQCi2z51-LU9vgiBeuuGLg"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

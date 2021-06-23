@@ -1,32 +1,27 @@
 {
   "symbol": "CLL",
-  "name": "CryptoLiveLeak",
+  "name": "Attention Mining",
   "type": "ERC20",
   "address": "0x3dC9a42fa7Afe57BE03c58fD7F4411b1E466C508",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.cryptoliveleak.com/",
-  "logo": {
-    "src": "https://github.com/CryptoLiveLeak/CLL-Token/blob/master/28%20x%2028%20CLL%20png.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "contactus@cryptoliveleak.com", "url": "" },
+  "website": "https://www.attentionmining.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@cryptoliveleak",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/CryptoLiveLeak/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/CryptoLiveLeak/CLL-Token",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/cryptoliveleak/",
+    "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/CryptoLiveLeak/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/CryptoLiveLeak",
-    "twitter": "https://twitter.com/CryptoLiveLeak",
-    "youtube": "https://www.youtube.com/channel/UCeoB_bpoVOcwIh-MSLxzNpA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

@@ -1,32 +1,27 @@
 {
   "symbol": "PAL",
-  "name": "PolicyPal Network",
+  "name": "PAL Network",
   "type": "ERC20",
   "address": "0xfeDAE5642668f8636A11987Ff386bfd215F942EE",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.policypal.network",
-  "logo": {
-    "src": "https://etherscan.io/token/images/policypal_28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@policypal.com", "url": "" },
+  "website": "https://www.policypal.network/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@policypalnet",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/policypalnet",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/18528158",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/PolicyPalNetwork",
-    "twitter": "https://twitter.com/PolicyPalNET",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

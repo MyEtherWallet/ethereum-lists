@@ -1,35 +1,27 @@
 {
   "symbol": "GALA",
-  "name": "GALA",
+  "name": "Gala",
   "type": "ERC20",
   "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
   "ens_address": "",
   "decimals": 8,
-  "website": "",
-  "logo": {
-    "src": "https://etherscan.io/token/images/gala_32.png?v=2",
-    "width": "32",
-    "height": "32",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@gala.games",
-    "url": "https://gala.games/submit-a-support-ticket/"
-  },
+  "website": "https://gala.games/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
-    "chat": "http://galagames.chat",
+    "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/GoGalaGames",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/GoGalaGames",
-    "linkedin": "https://www.linkedin.com/company/68601129/",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "http://galagames.tel",
-    "twitter": "https://www.twitter.com/GoGalaGames",
-    "youtube": "https://www.youtube.com/c/GalaGames"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

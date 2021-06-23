@@ -3,33 +3,25 @@
   "name": "Convenient To Go",
   "type": "ERC20",
   "address": "0x9E7D29bd499B6c7da2a5B2EaFCF4A39d3BD845D1",
-  "ens_address": "christiantraders.eth",
+  "ens_address": "",
   "decimals": 18,
-  "website": "https://www.ctgcoin.org",
-  "logo": {
-    "src": "https://www.ctgcoin.org/upload/logo/ctg.logo.png",
-    "width": "68px",
-    "height": "41px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@ctgcoin.org",
-    "url": "https://www.ctgcoin.org"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://weibo.com/6550499942/info",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/ctg.coin",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/ctgcoin/",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://telegram.me/CTGgroup",
-    "twitter": "https://twitter.com/CtGcoin",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

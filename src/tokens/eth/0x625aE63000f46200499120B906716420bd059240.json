@@ -1,11 +1,11 @@
 {
-  "symbol": "aSUSD",
-  "name": "Aave Interest bearing SUSD",
+  "symbol": "ASUSD",
+  "name": "Aave SUSD v1",
   "type": "ERC20",
   "address": "0x625aE63000f46200499120B906716420bd059240",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
+  "website": "https://aave.com/atokens",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {

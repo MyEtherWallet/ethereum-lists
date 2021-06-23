@@ -6,12 +6,7 @@
   "ens_address": "",
   "decimals": 9,
   "website": "https://www.antiample.org/",
-  "logo": {
-    "src": "https://global-uploads.webflow.com/5f1f9b86fd976556dacaa42b/5f1f9c5354c8e025995fdf60_anarchy-p-500.png",
-    "width": "500px",
-    "height": "500px",
-    "ipfs_hash": ""
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/antiample_official",
-    "twitter": "https://twitter.com/burn_the_state",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

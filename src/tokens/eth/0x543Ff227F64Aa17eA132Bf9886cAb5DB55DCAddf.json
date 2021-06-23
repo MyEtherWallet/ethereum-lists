@@ -5,28 +5,23 @@
   "address": "0x543Ff227F64Aa17eA132Bf9886cAb5DB55DCAddf",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://daostack.io",
-  "logo": {
-    "src": "https://daostack.io/daostack2828.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@daostack.io", "url": "" },
+  "website": "https://daostack.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/daostack",
+    "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
-    "forum": "https://forum.daostack.io",
-    "github": "https://github.com/daostack",
-    "gitter": "https://gitter.im/daostack/Lobby",
+    "forum": "",
+    "github": "",
+    "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/daostack",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/daostackcommunity",
-    "twitter": "https://twitter.com/daostack",
-    "youtube": "https://www.youtube.com/daostack"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

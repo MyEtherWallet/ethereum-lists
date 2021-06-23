@@ -1,32 +1,27 @@
 {
-  "symbol": "MOVED",
-  "name": "Twinkle",
+  "symbol": "TWNKL",
+  "name": "Rainbow Currency",
   "type": "ERC20",
   "address": "0xfbd0d1c77B501796A35D86cF91d65D9778EeE695",
   "ens_address": "",
   "decimals": 3,
-  "website": "https://www.rainbowcurrency.com/",
-  "logo": {
-    "src": "https://www.rainbowcurrency.com/new/assets/img/logo_full2.jpg",
-    "width": "748px",
-    "height": "748px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@rainbowcurrency.com", "url": "" },
+  "website": "https://rainbowcurrency.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/RainbowCurrency",
-    "forum": "https://bitcointalk.org/index.php?topic=2735483",
+    "facebook": "",
+    "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/RainbowCurrency",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/joinchat/C4OIwEUEDO69rS7rsPRpsg",
-    "twitter": "https://twitter.com/RainbowCurrency",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

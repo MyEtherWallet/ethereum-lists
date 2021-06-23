@@ -1,10 +1,10 @@
 {
-  "symbol": "",
-  "name": "",
+  "symbol": "WBTC",
+  "name": "(PoS) Wrapped BTC",
   "type": "ERC20",
   "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
   "ens_address": "",
-  "decimals": null,
+  "decimals": 18,
   "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },

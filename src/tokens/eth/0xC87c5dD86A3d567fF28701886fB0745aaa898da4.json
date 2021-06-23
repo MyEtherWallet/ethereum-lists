@@ -1,30 +1,27 @@
 {
   "symbol": "CTG",
-  "name": "CT Global Token",
+  "name": "CT Global",
   "type": "ERC20",
   "address": "0xC87c5dD86A3d567fF28701886fB0745aaa898da4",
-  "ens_address": "christiantraders.eth",
+  "ens_address": "",
   "decimals": 18,
-  "website": "https://christiantraders.com",
+  "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": {
-    "email": "support@christiantraders.com",
-    "url": "https://christiantraders.com"
-  },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "http://emini.cfrn.net",
-    "chat": "https://christiantraders.com",
+    "blog": "",
+    "chat": "",
     "discord": "",
-    "facebook": "facebook.com/cryptodailyinfo/",
-    "forum": "https://discordapp.com/channels/432450856319975424/432451525093359618",
-    "github": "github.com/CTGlobal/ChristianTraders",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/in/dewayne-reeves/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ChristianTraders",
-    "twitter": "https://twitter.com/cryptodailyinfo",
-    "youtube": "https://youtube.com/CFRN"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

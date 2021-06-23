@@ -5,19 +5,14 @@
   "address": "0x04cC783b450b8D11F3C7d00DD03fDF7FB51fE9F2",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://filmscoin.com",
-  "logo": {
-    "src": "https://filmscoin.com/images/icon-flmc28.png",
-    "width": "28px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/cryptofilms",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/filmscoin",
-    "twitter": "https://twitter.com/filmscoin1",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

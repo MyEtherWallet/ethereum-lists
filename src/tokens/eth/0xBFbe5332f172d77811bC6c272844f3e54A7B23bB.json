@@ -1,32 +1,27 @@
 {
   "symbol": "WMK",
-  "name": "WemarkToken",
+  "name": "Wemark",
   "type": "ERC20",
   "address": "0xBFbe5332f172d77811bC6c272844f3e54A7B23bB",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.wemark.com",
-  "logo": {
-    "src": "https://cdn.wemark.com/wmk-logo-250.png",
-    "width": "250px",
-    "height": "250px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@wemark.com", "url": "" },
+  "website": "https://tge.wemark.com/?utm_source=coingecko",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/wemark-stories",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/WemarkOfficial/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/WemarkSource",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/Wemark/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/wemark",
-    "twitter": "https://twitter.com/@_wemark",
-    "youtube": "https://www.youtube.com/channel/UCKIxNl0HhoTWshUnrBL70Og"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

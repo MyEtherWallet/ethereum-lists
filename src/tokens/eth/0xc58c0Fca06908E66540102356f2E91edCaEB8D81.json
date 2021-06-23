@@ -1,35 +1,27 @@
 {
   "symbol": "NUKE",
-  "name": "HalfLife",
+  "name": "Half Life",
   "type": "ERC20",
   "address": "0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://nuketoken.com",
-  "logo": {
-    "src": "https://imgur.com/a/DrYKnCA",
-    "width": "128",
-    "height": "128",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "rachel@nuketoken.com",
-    "url": "https://nuketoken.com"
-  },
+  "website": "http://nuketoken.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@NukeTokenOfficial",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/Deflationary",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/halflifecode",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/nuke.token/",
+    "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/nukeme/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/NukeToken",
-    "twitter": "https://twitter.com/NukeToken",
-    "youtube": "https://www.youtube.com/channel/UCaJJ7X08hhLSk8oYId_YKxA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

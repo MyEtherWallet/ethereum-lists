@@ -5,19 +5,14 @@
   "address": "0xb3616550aBc8AF79c7A5902DEF9Efa3bC9A95200",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://telexai.com",
-  "logo": {
-    "src": "http://telexai.com/img/tlxlogo.png",
-    "width": "656px",
-    "height": "656px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@telexai.com", "url": "https://t.me/telexai" },
+  "website": "http://telexai.com",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/telexai",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/telexai",
+    "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
@@ -25,8 +20,8 @@
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/telexai",
-    "twitter": "https://twitter.com/telex_ai",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

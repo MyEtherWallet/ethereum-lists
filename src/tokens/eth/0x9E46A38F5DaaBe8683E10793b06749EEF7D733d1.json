@@ -1,32 +1,27 @@
 {
   "symbol": "NCT",
-  "name": "Nectar",
+  "name": "PolySwarm",
   "type": "ERC20",
   "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://polyswarm.io",
-  "logo": {
-    "src": "https://polyswarm.io/img/coin/nectar_300x300.png",
-    "width": "301px",
-    "height": "301px",
-    "ipfs_hash": "QmaQmaNUDawjkbnH6STZStmUMx32se3rBTvgHeZi7Cygmq"
-  },
-  "support": { "email": "info@polyswarm.io", "url": "" },
+  "website": "https://polyswarm.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/swarmdotmarket",
+    "blog": "",
     "chat": "",
     "discord": "",
-    "facebook": "https://www.facebook.com/PolySwarm/",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/polyswarm",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/swarm-industries",
-    "reddit": "https://www.reddit.com/r/polyswarm",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/polyswarm",
-    "twitter": "https://twitter.com/polyswarm",
-    "youtube": "https://www.youtube.com/channel/UClkA8JVQ--oMsPomOKM85fA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

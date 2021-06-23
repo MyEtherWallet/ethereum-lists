@@ -1,27 +1,27 @@
 {
   "symbol": "pUSD",
-  "name": "PegNet pUSD",
+  "name": "US Dollar",
   "type": "ERC20",
   "address": "0x93d3296cac208422BF587c3597D116e809870f2b",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://pegnet.org/",
+  "website": "",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "support@pegnet.org", "url": "https://pegnet.org/" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
     "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/pegnet",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/PegNet/",
+    "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/GetPegNet",
+    "twitter": "",
     "youtube": ""
   }
 }
