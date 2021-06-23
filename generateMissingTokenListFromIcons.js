@@ -15,7 +15,9 @@ function generateMissingToken() {
     '0xacfc95585d80ab62f67a14c566c1b7a49fe91167-eth', // not erc tokens
     '0x71850b7e9ee3f13ab46d67167341e4bdc905eef9-eth', // not erc tokens
     '0x1C5b760F133220855340003B43cC9113EC494823-eth', // self destructed
-    '0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A-eth' // ????
+    '0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A-eth', // ????
+    '0x1d350417d9787E000cc1b95d70E9536DcD91F373-bsc', // not in bsc
+    '0x5e3845a1d78db544613edbe43dc1ea497266d3b8-bsc' // not in bsc
   ];
 
   const addressOnly = icons.map(icon => {
@@ -49,21 +51,19 @@ function generateMissingToken() {
         )
       );
       const found = list.find(item => {
-        if (addr.substring(0, 2) === '0x' && addr.length === 42) {
-          return (
-            utils.toChecksumAddress(item.address) ===
+        if (
+          addr.substring(0, 2) === '0x' &&
+          addr.length === 42 &&
+          utils.toChecksumAddress(item.address) ===
             utils.toChecksumAddress(addr)
-          );
+        ) {
+          return item;
         }
       });
-      if (
-        !found &&
-        addr.substring(0, 2) === '0x' &&
-        addr.length === 42 &&
-        !inExclusionList
-      )
+      if (!found && !inExclusionList) {
         console.log(`processed: ${addr} in ${obj.network}`);
-      return obj;
+        return obj;
+      }
     } else {
       console.log('errored:', addr);
     }
