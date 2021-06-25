@@ -24,16 +24,14 @@ function generateMasterFile() {
       trimmedOffBurner.forEach(item => {
         const matchedImagePng = images.find(img => {
           return (
-            img.includes(
-              `${utils.toChecksumAddress(item.address).toLowerCase()}`
-            ) && img.includes('.png')
+            img.includes(`${utils.toChecksumAddress(item.address)}`) &&
+            img.includes('.png')
           );
         });
         const matchedImage = images.find(img => {
           return (
-            img.includes(
-              `${utils.toChecksumAddress(item.address).toLowerCase()}`
-            ) && img.includes('.svg')
+            img.includes(`${utils.toChecksumAddress(item.address)}`) &&
+            img.includes('.svg')
           );
         });
         mainArr.push({
@@ -41,16 +39,16 @@ function generateMasterFile() {
           symbol: item.symbol,
           name: item.name,
           decimals: item.decimals,
-          contract_address: utils.toChecksumAddress(item.address).toLowerCase(),
+          contract_address: utils.toChecksumAddress(item.address),
           icon: !!matchedImage
             ? `${ICON_LINK}${matchedImage}`
             : !!matchedImagePng
             ? `${ICON_LINK}${matchedImagePng}`
             : '',
           icon_png: !!matchedImagePng ? `${ICON_LINK}${matchedImagePng}` : '',
-          link: `${CONTRACT_LINK}${folderName}/${utils
-            .toChecksumAddress(item.address)
-            .toLowerCase()}.json`,
+          link: `${CONTRACT_LINK}${folderName}/${utils.toChecksumAddress(
+            item.address
+          )}.json`,
           website: item.website
         });
       });
