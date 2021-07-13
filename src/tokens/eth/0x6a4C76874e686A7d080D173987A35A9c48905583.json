@@ -1,11 +1,8 @@
 {
   "symbol": "LPNT",
-
   "name": "Luxurious Pro Network Token",
-
   "type": "ERC20",
-
-  "address": "0x6a4c76874e686a7d080d173987a35a9c48905583",
+  "address": "0x6a4C76874e686A7d080D173987A35A9c48905583",
   "ens_address": "",
   "decimals": 18,
   "website": "https://www.lpntoken.io",
@@ -15,13 +12,11 @@
     "height": "32px",
     "ipfs_hash": ""
   },
-  "support": {
-    "email": "support@lpntoken.io",
-    "url": ""
-  },
+  "support": { "email": "support@lpntoken.io", "url": "" },
   "social": {
     "blog": "https://blog.lpntoken.io/",
     "chat": "",
+    "discord": "",
     "facebook": "https://www.facebook.com/officialLPNT",
     "forum": "",
     "github": "",

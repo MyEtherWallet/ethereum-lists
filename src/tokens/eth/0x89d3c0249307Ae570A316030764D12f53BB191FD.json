@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 14,
   "website": "https://xiglutecoin.io",
-  "logo": { "src": "https://xiglutecoin.io/img/512x512.png", "width": "512", "height": "512", "ipfs_hash": "" },
-  "support": { "email": "contact@xiglutecoin.io", "url": "https://xiglutecoin.io" },
+  "logo": {
+    "src": "https://xiglutecoin.io/img/512x512.png",
+    "width": "512",
+    "height": "512",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "contact@xiglutecoin.io",
+    "url": "https://xiglutecoin.io"
+  },
   "social": {
     "blog": "",
     "chat": "",
