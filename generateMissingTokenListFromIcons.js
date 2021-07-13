@@ -45,25 +45,28 @@ function generateMissingToken() {
           utils.toChecksumAddress(addr)
         );
       });
-      const list = JSON.parse(
-        fs.readFileSync(
-          `./dist/tokens/${obj.network}/tokens-${obj.network}.json`,
-          'utf8'
-        )
-      );
-      const found = list.find(item => {
-        if (
-          addr.substring(0, 2) === '0x' &&
-          addr.length === 42 &&
-          utils.toChecksumAddress(item.address) ===
-            utils.toChecksumAddress(addr)
-        ) {
-          return item;
+      if (!inExclusionList) {
+        const list = JSON.parse(
+          fs.readFileSync(
+            `./dist/tokens/${obj.network}/tokens-${obj.network}.json`,
+            'utf8'
+          )
+        );
+        const found = list.find(item => {
+          if (
+            addr.substring(0, 2) === '0x' &&
+            addr.length === 42 &&
+            utils.toChecksumAddress(item.address) ===
+              utils.toChecksumAddress(addr)
+          ) {
+            return item;
+          }
+        });
+        console.log(obj);
+        if (!found) {
+          console.log(`processed: ${addr} in ${obj.network}`);
+          return obj;
         }
-      });
-      if (!found && !inExclusionList) {
-        console.log(`processed: ${addr} in ${obj.network}`);
-        return obj;
       }
     } else {
       console.log('errored:', addr);

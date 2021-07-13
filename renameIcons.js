@@ -29,23 +29,4 @@ actualIcons.forEach(item => {
       });
     }
   }
-  // const noKey = noExtension.replace('POLYGON-', '');
-  // const appendEth = `${noExtension}-bsc${extension}`;
-  // const address = item
-  //   .substring(item.length - 46, item.length)
-  //   .replace(extension, '');
-  // if (!utils.isAddress(address)) {
-  //   console.log(address);
-  // } else {
-  //   const checksummed = appendEth.replace(
-  //     address,
-  //     utils.toChecksumAddress(address)
-  //   );
-  //   fs.rename(`${icons}/${item}`, `${icons}/${checksummed}`, err => {
-  //     if (err) throw err;
-  //     console.log(
-  //       `Renamed: ${icons}/${item} to ${icons}/${checksummed} successfully`
-  //     );
-  //   });
-  // }
 });
