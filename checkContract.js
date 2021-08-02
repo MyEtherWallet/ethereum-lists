@@ -35,30 +35,36 @@ const constraints = {
 };
 
 function checkContract() {
-  fs.readdirSync(contractsDirectory).forEach(folder => {
-    fs.readdirSync(`${contractsDirectory}/${folder}`).forEach(file => {
-      if (
-        path.extname(file) === '.json' &&
-        web3.utils.isAddress(file.replace('.json', ''))
-      ) {
-        const fullPath = `${contractsDirectory}/${folder}/${file}`;
-        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
-        validateObject(constraints, obj, fullPath);
-        if (validate(obj, constraints) !== undefined) {
-          const errs = validate(obj, constraints);
-          Object.keys(errs).forEach(key => {
-            console.log(
-              `${errs[key][0]} for ${file} in ${contractsDirectory}/${folder}`
-            );
-          });
-          process.exit(1);
-        }
-      } else {
-        console.log('Incorrect file name or file extension');
-        process.exit(1);
-      }
+  fs.readdirSync(contractsDirectory)
+    .sort()
+    .forEach(folder => {
+      fs.readdirSync(`${contractsDirectory}/${folder}`)
+        .sort()
+        .forEach(file => {
+          if (
+            path.extname(file) === '.json' &&
+            web3.utils.isAddress(file.replace('.json', ''))
+          ) {
+            const fullPath = `${contractsDirectory}/${folder}/${file}`;
+            const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+            validateObject(constraints, obj, fullPath);
+            if (validate(obj, constraints) !== undefined) {
+              const errs = validate(obj, constraints);
+              Object.keys(errs).forEach(key => {
+                console.log(
+                  `${
+                    errs[key][0]
+                  } for ${file} in ${contractsDirectory}/${folder}`
+                );
+              });
+              process.exit(1);
+            }
+          } else {
+            console.log('Incorrect file name or file extension');
+            process.exit(1);
+          }
+        });
     });
-  });
   process.exit(0);
 }
 

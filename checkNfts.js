@@ -10,19 +10,19 @@ const constraints = {
     presence: {
       allowEmpty: false
     },
-    type: "boolean"
+    type: 'boolean'
   },
   title: {
     presence: {
       allowEmpty: false
     },
-    type: "string"
+    type: 'string'
   },
   itemName: {
     presence: {
       allowEmpty: true
     },
-    type: "string"
+    type: 'string'
   },
   contractAddress: function(value) {
     if (web3.utils.isAddress(value)) {
@@ -40,67 +40,71 @@ const constraints = {
         url: true
       }
     },
-    type: "string"
+    type: 'string'
   },
   keys: {
     presence: true,
-    type: "array"
+    type: 'array'
   },
   imageKey: {
     presence: {
       allowEmpty: false
     },
-    type: "string"
+    type: 'string'
   },
   metadataKeys: {
     presence: true,
-    type: "array"
+    type: 'array'
   },
   ERC721Extension: {
     presence: {
       allowEmpty: false
     },
-    type: "boolean"
+    type: 'boolean'
   },
   ERC721Metadata: {
     presence: {
       allowEmpty: false
     },
-    type: "boolean"
+    type: 'boolean'
   },
   nonStandard: {
     presence: {
       allowEmpty: false
     },
-    type: "boolean"
-  },
+    type: 'boolean'
+  }
 };
 
 function checkNfts() {
-  fs.readdirSync(nftsDirectory).forEach(folder => {
-    fs.readdirSync(`${nftsDirectory}/${folder}`).forEach(file => {
-      if (
-        path.extname(file) === '.json' &&
-        web3.utils.isAddress(file.replace('.json', ''))
-      ) {
-        const fullPath = `${nftsDirectory}/${folder}/${file}`;
-        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
-        validateObject(constraints, obj, fullPath);
-        if (validate(obj, constraints) !== undefined) {
-          const errs = validate(obj, constraints);
-          Object.keys(errs).forEach(key => {
-            console.error(
-              `${errs[key][0]} for ${file} in ${nftsDirectory}/${folder}`
-            );
-          });
-          process.exit(1);
-        }
-      } else {
-        console.error('Incorrect file name or file extension');
-        process.exit(1);
-      }
+  fs.readdirSync(nftsDirectory)
+    .sort()
+    .forEach(folder => {
+      fs.readdirSync(`${nftsDirectory}/${folder}`)
+        .sort()
+        .forEach(file => {
+          if (
+            path.extname(file) === '.json' &&
+            web3.utils.isAddress(file.replace('.json', ''))
+          ) {
+            const fullPath = `${nftsDirectory}/${folder}/${file}`;
+            const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+            validateObject(constraints, obj, fullPath);
+            if (validate(obj, constraints) !== undefined) {
+              const errs = validate(obj, constraints);
+              Object.keys(errs).forEach(key => {
+                console.error(
+                  `${errs[key][0]} for ${file} in ${nftsDirectory}/${folder}`
+                );
+              });
+              process.exit(1);
+            }
+          } else {
+            console.error('Incorrect file name or file extension');
+            process.exit(1);
+          }
+        });
     });
-  });
   process.exit(0);
 }
 

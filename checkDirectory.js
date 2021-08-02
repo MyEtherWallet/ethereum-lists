@@ -29,7 +29,7 @@ const whitelist = [
 ];
 
 function checkDirectory() {
-  const currentContent = fs.readdirSync('./');
+  const currentContent = fs.readdirSync('./').sort();
   whitelist.forEach((file, idx) => {
     if (currentContent[idx] !== file) {
       console.log(`Move ${currentContent[idx]} to proper folder or delete it.`);
