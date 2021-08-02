@@ -2,6 +2,7 @@ const fs = require('fs');
 const whitelist = [
   '.git',
   '.gitignore',
+  '.nvmrc',
   '.prettierignore',
   '.prettierrc',
   '.travis.yml',
