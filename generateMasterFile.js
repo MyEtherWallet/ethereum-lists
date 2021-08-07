@@ -16,7 +16,7 @@ function generateMasterFile() {
       fs.readFileSync(`${MAIN_SRC}/${folderName}/${distFiles[0]}`, 'utf8')
     );
     const trimmedOffBurner = readFile.filter(item => {
-      return item.address !== '0x0000000000000000000000000000000000000000';
+      return item.address !== '0x73BCEb1Cd57C711feaC4224D062b0F6ff338501e';
     });
 
     if (trimmedOffBurner.length > 0) {
