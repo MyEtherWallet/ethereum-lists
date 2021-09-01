@@ -62,14 +62,13 @@ function generateMissingToken() {
             return item;
           }
         });
-        console.log(obj);
         if (!found) {
           console.log(`processed: ${addr} in ${obj.network}`);
           return obj;
         }
       }
     } else {
-      console.log('errored:', addr);
+      console.log('errored:', obj);
     }
   });
   fs.writeFileSync('notinlist.json', JSON.stringify(notInList));
