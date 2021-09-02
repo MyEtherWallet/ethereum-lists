@@ -1,12 +1,12 @@
 {
-  "symbol": "INV",
-  "name": "Invecoin",
+  "symbol": "BTCCB",
+  "name": "Bitcoin PagoLinea",
   "type": "ERC20",
-  "address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
+  "address": "0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.sesocio.com/projects/cryptocurrency/investoland",
-  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
+  "website": "",
+  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/btccb.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",

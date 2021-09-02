@@ -1,12 +1,12 @@
 {
-  "symbol": "INV",
-  "name": "Invecoin",
+  "symbol": "rDAI",
+  "name": "Dai Stablecoin on RSK",
   "type": "ERC20",
-  "address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
+  "address": "0x6B1A73d547F4009a26B8485B63d7015d248Ad406",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.sesocio.com/projects/cryptocurrency/investoland",
-  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
+  "website": "",
+  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/dai.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",

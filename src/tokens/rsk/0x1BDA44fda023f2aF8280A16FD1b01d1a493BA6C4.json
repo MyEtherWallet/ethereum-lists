@@ -1,12 +1,12 @@
 {
-  "symbol": "INV",
-  "name": "Invecoin",
+  "symbol": "rUSDC",
+  "name": "USD Coin on RSK",
   "type": "ERC20",
-  "address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
+  "address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.sesocio.com/projects/cryptocurrency/investoland",
-  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
+  "website": "",
+  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/usdc.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",

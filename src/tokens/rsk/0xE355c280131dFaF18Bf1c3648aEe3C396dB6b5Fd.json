@@ -1,12 +1,12 @@
 {
-  "symbol": "INV",
-  "name": "Invecoin",
+  "symbol": "BRZ",
+  "name": "Brazilian Digital Token",
   "type": "ERC20",
-  "address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
+  "address": "0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd",
   "ens_address": "",
-  "decimals": 18,
-  "website": "https://www.sesocio.com/projects/cryptocurrency/investoland",
-  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
+  "decimals": 4,
+  "website": "",
+  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/brz.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",

@@ -1,12 +1,12 @@
 {
-  "symbol": "INV",
-  "name": "Invecoin",
+  "symbol": "cRIF",
+  "name": "rLending RIF",
   "type": "ERC20",
-  "address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
+  "address": "0xB7FF2C56C897562c0aA6747D2679d35F5e937492",
   "ens_address": "",
-  "decimals": 18,
-  "website": "https://www.sesocio.com/projects/cryptocurrency/investoland",
-  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/inv.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
+  "decimals": 8,
+  "website": "",
+  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/crif.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
