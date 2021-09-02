@@ -6,8 +6,16 @@
   "ens_address": "",
   "decimals": 18,
   "website": "",
-  "logo": { "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rifpro.png", "width": "358px", "height": "373px", "ipfs_hash": "" },
-  "support": { "email": "", "url": "" },
+  "logo": {
+    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/rifpro.png",
+    "width": "358px",
+    "height": "373px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
   "social": {
     "blog": "",
     "chat": "",
