@@ -5,30 +5,23 @@
   "address": "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9",
   "ens_address": "",
   "decimals": 6,
-  "website": "https://neutralproject.com",
-  "logo": {
-    "src": "https://neutralproject.com/images/logos/nusd.png",
-    "width": "300px",
-    "height": "300px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "hello@neutralproject.com",
-    "url": "https://neutralproject.com"
-  },
+  "website": "https://neutralproject.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.neutralproject.com",
+    "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/Neutral-Project-391548818084169/",
+    "discord": "",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/NeutralGroup",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/neutralproject",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/neutralproject",
-    "twitter": "https://twitter.com/neutral_project",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

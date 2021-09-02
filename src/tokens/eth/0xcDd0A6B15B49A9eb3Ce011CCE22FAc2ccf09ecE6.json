@@ -1,0 +1,32 @@
+{
+  "symbol": "TARM",
+  "name": "ARMTOKEN",
+  "type": "ERC20",
+  "address": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://armtoken.io",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1584561875/TARM-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@armtoken.io", "url": "https://armtoken.io" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://www.facebook.com/Armcoin-109438237351171",
+    "forum": "",
+    "github": "https://github.com/ArmToken",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/armtoken",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ArmToken",
+    "twitter": "https://twitter.com/ArmToken",
+    "youtube": ""
+  }
+}

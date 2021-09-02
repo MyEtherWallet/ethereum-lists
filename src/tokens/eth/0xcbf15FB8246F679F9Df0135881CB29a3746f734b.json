@@ -5,27 +5,23 @@
   "address": "0xcbf15FB8246F679F9Df0135881CB29a3746f734b",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://bitherplatform.io",
-  "logo": {
-    "src": "https://bitherplatform.io/images/logo/BTR.png",
-    "width": "29px",
-    "height": "28px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@bitherplatform.io", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@bitherplatform",
-    "chat": "https://discord.gg/S6HH9dG",
-    "facebook": "https://www.facebook.com/Bitherplatform",
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/bitherhq",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/bitherplatform/",
-    "linkedin": "https://www.linkedin.com/company/bitherplatform/",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/bitherplatform",
-    "twitter": "https://twitter.com/BitherPlatform",
-    "youtube": "https://www.youtube.com/channel/UCET5vWo5wLHtvtqfmOqkSMA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

@@ -5,20 +5,13 @@
   "address": "0x7FCcaDee21660425FDEc86029b6362845ffC052C",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://tokens.rebene.com",
-  "logo": {
-    "src": "https://resources.rebene.com/tokens/logo.jpeg",
-    "width": "110px",
-    "height": "110px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "tokens@rebene.com",
-    "url": "https://tokens.rebene.com"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
     "github": "",

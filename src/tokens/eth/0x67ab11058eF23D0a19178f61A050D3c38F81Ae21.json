@@ -5,27 +5,23 @@
   "address": "0x67ab11058eF23D0a19178f61A050D3c38F81Ae21",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://selftoken.co/",
-  "logo": {
-    "src": "https://selftoken-projects.github.io/self-token-assets/self_token_icon_green_256x256.png",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "contact@selftoken.co", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/self-token-cn",
+    "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/selftoken",
+    "discord": "",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/selftoken-projects",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/self_token",
-    "twitter": "https://twitter.com/self_token_co",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

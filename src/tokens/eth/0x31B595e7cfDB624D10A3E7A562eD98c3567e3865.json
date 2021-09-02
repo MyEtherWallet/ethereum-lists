@@ -1,0 +1,35 @@
+{
+  "symbol": "stZEN",
+  "name": "stakedZEN",
+  "type": "ERC20",
+  "address": "0x31B595e7cfDB624D10A3E7A562eD98c3567e3865",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "http://stzen.io/",
+  "logo": {
+    "src": "https://www.horizen.io/assets/img_v2/pages/staked-zen/logo-wolf.png",
+    "width": "137px",
+    "height": "133px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@horizen.io",
+    "url": "http://support.horizen.io"
+  },
+  "social": {
+    "blog": "https://stakehound.medium.com/",
+    "chat": "",
+    "discord": "https://discord.gg/Tw9JkUVGux",
+    "facebook": "https://www.facebook.com/StakeHound",
+    "forum": "",
+    "github": "https://github.com/stakehound/stakehound-core",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/stakehound",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/stakehound",
+    "twitter": "https://twitter.com/stakedzen",
+    "youtube": "https://www.youtube.com/channel/UCG02bDS9QfzKsUa0XM6rA_g?view_as=public"
+  }
+}

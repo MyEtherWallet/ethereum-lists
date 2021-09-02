@@ -1,0 +1,35 @@
+{
+  "symbol": "CRS",
+  "name": "CryptoRewards",
+  "type": "ERC20",
+  "address": "0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://cryptorewards.co.uk",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1594823038/CRS-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@cryptorewards.co.uk",
+    "url": "http://cryptorewards.co.uk"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/crypto_lets",
+    "youtube": ""
+  }
+}

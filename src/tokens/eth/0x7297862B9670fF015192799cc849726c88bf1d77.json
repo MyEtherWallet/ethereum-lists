@@ -1,31 +1,27 @@
 {
   "symbol": "SKYM",
-  "name": "Skymap Token",
+  "name": "SkyMap",
   "type": "ERC20",
   "address": "0x7297862B9670fF015192799cc849726c88bf1d77",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://soar.earth",
-  "logo": {
-    "src": "https://www.soar.earth/img/soar_logo_black.png",
-    "width": "571px",
-    "height": "161px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@soar.earth", "url": "https://t.me/SoarEarth" },
+  "website": "https://www.soar.earth",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/soar-earth",
-    "chat": "https://t.me/SoarEarth",
-    "facebook": "https://www.facebook.com/SoarEarthOfficial/",
-    "forum": "https://bitcointalk.org/index.php?topic=4807008",
-    "github": "https://github.com/SoarEarth",
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/soarearth/",
-    "linkedin": "https://www.linkedin.com/company/soar-earth/",
-    "reddit": "https://www.reddit.com/r/soar",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/SoarEarth",
-    "twitter": "https://twitter.com/Soar_Earth",
-    "youtube": "https://www.youtube.com/channel/UCklyklf0WEeHZtlY-X-q28g"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

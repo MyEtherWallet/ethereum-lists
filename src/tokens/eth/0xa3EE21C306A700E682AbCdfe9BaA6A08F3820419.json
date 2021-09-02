@@ -1,34 +1,27 @@
 {
-  "symbol": "G-CRE",
-  "name": "Creditcoin Token",
+  "symbol": "CTC",
+  "name": "Creditcoin",
   "type": "ERC20",
   "address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://creditcoinfoundation.org",
-  "logo": {
-    "src": "https://i.ibb.co/hH3ywD0/logo.png",
-    "width": "128px",
-    "height": "128px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@gluwa.com",
-    "url": "https://gluwa.zendesk.com"
-  },
+  "website": "https://creditcoin.org/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/gluwa/Creditcoin",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/gluwa",
-    "reddit": "https://www.reddit.com/r/Creditcoin/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/CreditcoinOfficial",
-    "twitter": "https://twitter.com/crecfoundation",
-    "youtube": "https://www.youtube.com/channel/UCqJfH4lOL7keXBBDtxsz0TA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

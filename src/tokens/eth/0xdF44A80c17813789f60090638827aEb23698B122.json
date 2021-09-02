@@ -1,0 +1,32 @@
+{
+  "symbol": "STDEX",
+  "name": "stableDEX",
+  "type": "ERC20",
+  "address": "0xdF44A80c17813789f60090638827aEb23698B122",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://stabledex.io",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1574103283/STDEX-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "hello@stabledex.io", "url": "https://stabledex.io" },
+  "social": {
+    "blog": "https://medium.com/stabledex",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/stabledex/stableDEX-token-contract",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/stabledex",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/stabledexnews",
+    "twitter": "https://twitter.com/DEXstable",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "symbol": "GATE",
+  "name": "GATE Token",
+  "type": "ERC20",
+  "address": "0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://gatetoken.io/",
+  "logo": {
+    "src": "https://etherscan.io/token/images/gate_32.png",
+    "width": "32px",
+    "height": "32px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@gatetoken.io",
+    "url": "https://gatetoken.io/"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/GateNet-IO/gate-erc20-token",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/GSXGATECommunity",
+    "twitter": "",
+    "youtube": ""
+  }
+}

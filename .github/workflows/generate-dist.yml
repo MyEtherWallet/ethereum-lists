@@ -1,0 +1,44 @@
+name: generate dist
+
+on:
+  push:
+    branches-ignore:
+      - '**'
+
+jobs:
+  generate-dist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: install packages
+        run: npm install
+
+      - name: check formatting issues
+        run: npm run compile
+
+      - name: check for lint issues
+        run: npm run lint
+
+      - name: check master-file
+        run: npm run test:checkMasterFile
+
+      - name: check token issue
+        run: npm run test:checkToken
+
+      - name: check contract issue
+        run: npm run test:checkContract
+
+      - name: check nft issues
+        run: npm run test:checkNft
+
+      - name: commit files
+        run: |
+          git config --local user.email "41133007+mew-bot@users.noreply.github.com";
+          git config --local user.name "mewbot";
+          git commit -am "Recompile";
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{secrets.MEW_BOT_TOKEN}}
+          branch: master

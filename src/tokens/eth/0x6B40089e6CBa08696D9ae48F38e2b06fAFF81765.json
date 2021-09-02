@@ -1,0 +1,35 @@
+{
+  "symbol": "SKO",
+  "name": "Sikoba Network Token",
+  "type": "ERC20",
+  "address": "0x6B40089e6CBa08696D9ae48F38e2b06fAFF81765",
+  "ens_address": "sikoba.eth",
+  "decimals": 18,
+  "website": "https://www.sikoba.com",
+  "logo": {
+    "src": "https://sikoba.com/docs/img/sko_200_200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@sikoba.com",
+    "url": "https://users.sikoba.com/"
+  },
+  "social": {
+    "blog": "https://medium.com/sikoba-network",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://www.facebook.com/sikobanetwork",
+    "forum": "",
+    "github": "https://github.com/sikoba/sko-public",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/sikoba",
+    "reddit": "https://www.reddit.com/r/sikoba/",
+    "slack": "",
+    "telegram": "https://t.me/sikobaNetwork",
+    "twitter": "https://twitter.com/sikobaNetwork",
+    "youtube": "https://www.youtube.com/channel/UC3nqhotmBxwn-wUjI4EziPg"
+  }
+}

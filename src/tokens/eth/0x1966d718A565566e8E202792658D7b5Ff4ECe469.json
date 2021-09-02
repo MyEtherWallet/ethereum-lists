@@ -6,29 +6,22 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://ndexnetwork.com",
-  "logo": {
-    "src": "https://raw.githubusercontent.com/ndexnetwork/NDX/master/nDEX.png",
-    "width": "1433px",
-    "height": "1667px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "support@ndexnetwork.com",
-    "url": "https://ndexnetwork.com"
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/ndexmedia",
-    "chat": "https://t.me/ndexofficial",
-    "facebook": "https://www.facebook.com/ndexnetwork",
-    "forum": "https://bitcointalk.org/index.php?topic=4549377",
-    "github": "https://github.com/ndexnetwork/NDX",
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/ndex-network/",
-    "reddit": "https://www.reddit.com/user/nDEXofficial/",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ndexofficialchannel",
-    "twitter": "https://twitter.com/NdexOfficial",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

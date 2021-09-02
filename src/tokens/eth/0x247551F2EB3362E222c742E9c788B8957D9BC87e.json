@@ -1,31 +1,27 @@
 {
   "symbol": "GNY",
-  "name": "GNY Token",
+  "name": "GNY",
   "type": "ERC20",
   "address": "0x247551F2EB3362E222c742E9c788B8957D9BC87e",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.gny.io/",
-  "logo": {
-    "src": "https://public.liangnotes.com/images/gny/gny-logo.png",
-    "width": "696px",
-    "height": "696px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@gny.io", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/GNYIO",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/GNYioBlockchain",
-    "twitter": "https://twitter.com/gny_io",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

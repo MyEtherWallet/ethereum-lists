@@ -1,0 +1,35 @@
+{
+  "symbol": "PESO",
+  "name": "PESOTOKEN",
+  "type": "ERC20",
+  "address": "0x30FEF258d2728F9d1eDF038059c725FAf785697E",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "http://pesoexchange.com",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1560173317/PESO-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "pesotoken@gmail.com",
+    "url": "http://pesoexchange.com"
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://facebook.com/pesotoken",
+    "forum": "",
+    "github": "https://github.com/pesotoken/PESO",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/pesotoken",
+    "twitter": "https://twitter.com/pesotoken",
+    "youtube": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "symbol": "XPAY",
+  "name": "Xpayment",
+  "type": "ERC20",
+  "address": "0xbC7Ed0c8cf986ae62337fc8DF3B02C6EC87310Ed",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://xpayment.de",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1560978446/XPAY.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@xpayment.de", "url": "http://xpayment.de" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/xpayment",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/xpaymentscoin",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/XPaymentcoin",
+    "youtube": ""
+  }
+}

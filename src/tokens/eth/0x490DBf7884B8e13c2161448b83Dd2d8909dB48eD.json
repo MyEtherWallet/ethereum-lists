@@ -1,0 +1,32 @@
+{
+  "symbol": "CUR8",
+  "name": "Curate",
+  "type": "ERC20",
+  "address": "0x490DBf7884B8e13c2161448b83Dd2d8909dB48eD",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://curate.style",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1561923412/CUR8-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@curate.style", "url": "https://curate.style" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/curate-project",
+    "gitter": "",
+    "instagram": "https://instagram.com/curateproject",
+    "linkedin": "",
+    "reddit": "https://reddit.com/user/curateproject",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/curateproject",
+    "youtube": "https://www.youtube.com/channel/UCVq646oBKp6CTFUSIHsfKAw"
+  }
+}

@@ -1,31 +1,27 @@
 {
   "symbol": "PCL",
-  "name": "Peculium Token",
+  "name": "Peculium",
   "type": "ERC20",
   "address": "0x0F02e27745e3b6e9e1310d19469e2b5D7B5eC99A",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://peculium.io",
-  "logo": {
-    "src": "https://peculium.io/share/pcl_logo.png",
-    "width": "320px",
-    "height": "320px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@peculium.io", "url": "https://peculium.io" },
+  "website": "https://peculium.io/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://peculium.io/blog",
+    "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/PeculiumICO",
-    "forum": "https://bitcointalk.org/index.php?topic=2249486",
-    "github": "https://github.com/Peculium-Dev",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/_peculium",
-    "linkedin": "https://www.linkedin.com/company/peculium.io",
-    "reddit": "https://www.reddit.com/r/Peculium",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ico_peculium",
-    "twitter": "https://twitter.com/_Peculium",
-    "youtube": "https://www.youtube.com/channel/UCBhRs-vzAuv_ezlPBcZjmNQ"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

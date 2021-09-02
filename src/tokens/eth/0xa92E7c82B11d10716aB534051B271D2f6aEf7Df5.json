@@ -1,0 +1,35 @@
+{
+  "symbol": "ARA",
+  "name": "Ara",
+  "type": "ERC20",
+  "address": "0xa92E7c82B11d10716aB534051B271D2f6aEf7Df5",
+  "ens_address": "ara-token.eth",
+  "decimals": 18,
+  "website": "https://ara.one",
+  "logo": {
+    "src": "https://avatars.githubusercontent.com/u/38865347?s=200&v=4",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@ara.one",
+    "url": "https://github.com/arablocks"
+  },
+  "social": {
+    "blog": "https://medium.com/@arablocks",
+    "chat": "https://discord.gg/yYKwRY29wu",
+    "reddit": "https://www.reddit.com/r/AraBlocks/",
+    "discord": "https://discord.gg/yYKwRY29wu",
+    "facebook": "https://www.facebook.com/AraBlocks",
+    "github": "https://github.com/AraBlocks",
+    "instagram": "https://www.instagram.com/arablocks",
+    "linkedin": "https://www.linkedin.com/company/ara-blocks",
+    "telegram": "https://t.me/arablocks",
+    "twitter": "https://www.twitter.com/arablocks",
+    "youtube": "https://www.youtube.com/channel/UC1EMIg_GPQxEzYSgx9oL_pQ",
+    "forum": "",
+    "gitter": "",
+    "slack": ""
+  }
+}

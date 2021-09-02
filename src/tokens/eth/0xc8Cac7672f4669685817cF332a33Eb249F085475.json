@@ -1,0 +1,35 @@
+{
+  "symbol": "LVN",
+  "name": "LivenCoin",
+  "type": "ERC20",
+  "address": "0xc8Cac7672f4669685817cF332a33Eb249F085475",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://livenpay.io",
+  "logo": {
+    "src": "https://img.liven.com.au/external/myetherwallet_logo.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "info@liven.com.au",
+    "url": "https://help.liven.com.au"
+  },
+  "social": {
+    "blog": "https://blog.livenpay.io",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://www.facebook.com/LivenPay",
+    "forum": "",
+    "github": "https://github.com/livenpay",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/livenpay",
+    "linkedin": "https://www.linkedin.com/company/liven",
+    "reddit": "https://www.reddit.com/r/LivenPay",
+    "slack": "",
+    "telegram": "https://t.me/livenpay",
+    "twitter": "https://twitter.com/livenpay",
+    "youtube": "https://www.youtube.com/user/livenaustralia"
+  }
+}

@@ -6,29 +6,22 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://needscoin.info",
-  "logo": {
-    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1542398850/NeedsCoinLogo/ncc.png",
-    "width": "128px",
-    "height": "128px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "help@needscoin.info",
-    "url": "https://needscoin.info/contact"
-  },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://steemit.com/blockchain/@okane81/needscoin-token",
+    "blog": "",
     "chat": "",
-    "facebook": "https://facebook.com/needscoin",
-    "forum": "https://bitcointalk.org/index.php?topic=4862385",
-    "github": "https://github.com/NeedsCoinProject",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/NeedsCoin",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/ethernetcash",
-    "twitter": "https://twitter.com/NeedsCoin",
-    "youtube": "https://www.youtube.com/watch?v=H-svrLj7mPA"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

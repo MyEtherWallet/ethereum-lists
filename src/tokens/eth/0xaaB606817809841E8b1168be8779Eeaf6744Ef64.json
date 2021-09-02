@@ -5,30 +5,23 @@
   "address": "0xaaB606817809841E8b1168be8779Eeaf6744Ef64",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://www.tend.swiss",
-  "logo": {
-    "src": "https://miro.medium.com/fit/c/128/128/1*XcCWcqLz5_WVOnz9JD1Cdg.png",
-    "width": "128px",
-    "height": "128px",
-    "ipfs_hash": "QmTSx5UAVmTyny4kJN2e54RJGm9CsBDxJBEVnEKpUwbom5"
-  },
-  "support": {
-    "email": "support@tend.swiss",
-    "url": "https://help.tend.swiss"
-  },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/tendswiss",
+    "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "http://github.com/TendTechnologies",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/tendswiss/",
-    "linkedin": "https://www.linkedin.com/company/11300789/",
+    "instagram": "",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "https://twitter.com/tendswiss",
+    "twitter": "",
     "youtube": ""
   }
 }

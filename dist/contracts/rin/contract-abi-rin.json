@@ -214,7 +214,7 @@
   },
   {
     "name": "ENS - Eth Registrar (Auction)",
-    "address": "0x21397c1a1f4acd9132fe36df011610564b87e24b",
+    "address": "0x21397c1A1F4aCD9132fE36Df011610564b87E24b",
     "comment": "",
     "abi": [
       {
@@ -263,7 +263,7 @@
   },
   {
     "name": "ENS - Registry",
-    "address": "0xe7410170f87102df0055eb195163a03b7f2bff4a",
+    "address": "0xe7410170f87102DF0055eB195163A03B7F2Bff4A",
     "comment": "",
     "abi": [
       {
@@ -376,7 +376,7 @@
   },
   {
     "name": "ENS: Public Resolver",
-    "address": "0x5d20cf83cb385e06d2f2a892f9322cd4933eacdc",
+    "address": "0x5d20cf83CB385e06D2F2A892F9322cd4933eAcDc",
     "comment": "",
     "abi": [
       {
@@ -812,6 +812,27 @@
         ],
         "name": "Approval",
         "type": "event"
+      }
+    ]
+  },
+  {
+    "name": "qweToken",
+    "address": "0x2d427D9E535e4382606B93290dcC13a5e9A694Be",
+    "comment": "",
+    "abi": [
+      {
+        "constant": false,
+        "inputs": [
+          { "name": "from", "type": "address" },
+          { "name": "tokens", "type": "uint256" },
+          { "name": "token", "type": "address" },
+          { "name": "data", "type": "bytes" }
+        ],
+        "name": "receiveApproval",
+        "outputs": [],
+        "payable": false,
+        "stateMutability": "nonpayable",
+        "type": "function"
       }
     ]
   },

@@ -3,29 +3,25 @@
   "name": "TrueAUD",
   "type": "ERC20",
   "address": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
-  "ens_address": "trueaud.eth",
+  "ens_address": "",
   "decimals": 18,
   "website": "https://www.trusttoken.com/trueaud",
-  "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": "QmTnCsfG8WX71q5GEysEN2oK2i98Az1avqE4jY7bfKYZQV"
-  },
-  "support": { "email": "support@trusttoken.com", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.trusttoken.com",
+    "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/trusttoken",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/TrustToken/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
-    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

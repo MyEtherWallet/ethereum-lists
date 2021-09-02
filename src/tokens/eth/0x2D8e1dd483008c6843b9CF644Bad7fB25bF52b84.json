@@ -1,0 +1,32 @@
+{
+  "symbol": "DCB",
+  "name": "Digital Coin",
+  "type": "ERC20",
+  "address": "0x2D8e1dd483008c6843b9CF644Bad7fB25bF52b84",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://dcb.my",
+  "logo": {
+    "src": "https://dcblabs.com.my/static/assets/img/favicon/apple-touch-icon.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "token@dcb.my", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://fb.me/dcblabs",
+    "forum": "",
+    "github": "https://github.com/dcblabs",
+    "gitter": "",
+    "instagram": "https://instagram.me/dcblabs",
+    "linkedin": "",
+    "reddit": "https://reddit.com/r/dcblabs",
+    "slack": "",
+    "telegram": "https://t.me/dcblabs",
+    "twitter": "https://twitter.com/dcblabs",
+    "youtube": ""
+  }
+}

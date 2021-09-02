@@ -1,21 +1,17 @@
 {
   "symbol": "LG",
-  "name": "LG Token",
+  "name": "LG",
   "type": "ERC20",
   "address": "0xc520F3Ac303a107D8F4B08b326B6ea66A4f961cd",
   "ens_address": "",
   "decimals": 18,
-  "website": "https://android.myapp.com/myapp/detail.htm?apkName=com.inspiration.lemoCard",
-  "logo": {
-    "src": "https://res.cloudinary.com/lnky/image/upload/v1541827304/lg/lg.jpg",
-    "width": "120px",
-    "height": "120px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "1140194040@qq.com", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
     "github": "",

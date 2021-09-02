@@ -5,27 +5,23 @@
   "address": "0xB91C2a2b953D72f3EF890490669a0A41B0ADD5f7",
   "ens_address": "",
   "decimals": 8,
-  "website": "https://belifex.com/",
-  "logo": {
-    "src": "https://belifex.com/assets/Belifex_256x256.ico",
-    "width": "256px",
-    "height": "256px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "support@belifex.com", "url": "" },
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/Belifex",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/belifex_official",
-    "twitter": "https://twitter.com/BelifexE",
-    "youtube": "https://www.youtube.com/channel/UCwXLUJQ2mlQrjZYrTQKDvFw"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

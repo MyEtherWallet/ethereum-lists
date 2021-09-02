@@ -5,27 +5,23 @@
   "address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
   "ens_address": "",
   "decimals": 18,
-  "website": "btu-protocol.com",
-  "logo": {
-    "src": "https://btu-protocol.com/fr/favicon/favicon-32x32.png",
-    "width": "32px",
-    "height": "32px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "info@btu-protocol.com", "url": "btu-protocol.com" },
+  "website": "https://www.btu-protocol.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@BTUProtocolTeam/latest",
+    "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/btuprotocol",
+    "github": "",
     "gitter": "",
     "instagram": "",
-    "linkedin": "https://www.linkedin.com/company/btu-protocol/",
+    "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/btucommunity",
-    "twitter": "https://twitter.com/BtuProtocol?lang=en",
-    "youtube": "https://www.youtube.com/channel/UC4TU0cH82u0kLeEomf26Z0g"
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
   }
 }

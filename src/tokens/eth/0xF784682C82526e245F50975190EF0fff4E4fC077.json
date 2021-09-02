@@ -1,0 +1,32 @@
+{
+  "symbol": "ILK",
+  "name": "INLOCK Token",
+  "type": "ERC20",
+  "address": "0xF784682C82526e245F50975190EF0fff4E4fC077",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://inlock.io/",
+  "logo": {
+    "src": "https://inlock.io/images/inlock-token-logo-200x200.png",
+    "width": "200",
+    "height": "200",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@inlock.io", "url": "https://prod.inlock.io/" },
+  "social": {
+    "blog": "https://inlock.io/blog",
+    "chat": "https://t.me/inlock",
+    "discord": "",
+    "facebook": "https://www.facebook.com/incomelocker/",
+    "forum": "",
+    "github": "https://github.com/IncomeLocker",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/income-locker/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/inlock",
+    "twitter": "https://twitter.com/inlock_token",
+    "youtube": "https://www.youtube.com/channel/UCSogl8qLfKoG5JC3MqaoL-Q"
+  }
+}

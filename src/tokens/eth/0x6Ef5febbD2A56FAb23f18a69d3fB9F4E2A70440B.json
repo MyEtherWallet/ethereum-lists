@@ -1,0 +1,32 @@
+{
+  "symbol": "ITR",
+  "name": "Intercoin",
+  "type": "ERC20",
+  "address": "0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://intercoin.org",
+  "logo": {
+    "src": "https://intercoin.org/img/intercoin/logo.png",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "https://community.intercoin.org",
+    "chat": "https://community.intercoin.org",
+    "discord": "",
+    "facebook": "",
+    "forum": "https://community.intercoin.org",
+    "github": "http://github.com/Intercoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/intercoin-inc",
+    "reddit": "",
+    "slack": "",
+    "telegram": "http://telegram.im/intercoin",
+    "twitter": "http://twitter.com/IntercoinOrg",
+    "youtube": "https://www.youtube.com/channel/UCyKZPoV5SGx6LCyGS9GvOpg"
+  }
+}

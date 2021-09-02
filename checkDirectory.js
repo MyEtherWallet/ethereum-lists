@@ -1,33 +1,42 @@
 const fs = require('fs');
 const whitelist = [
   '.git',
+  '.github',
   '.gitignore',
   '.prettierignore',
   '.prettierrc',
-  '.travis.yml',
+  '.idea',
   'LICENSE',
   'README.md',
   'checkContract.js',
   'checkDirectory.js',
   'checkLogos.js',
+  'checkMasterFile.js',
+  'checkNfts.js',
   'checkToken.js',
   'compile.js',
   'createFiles.js',
+  'createTokens.js',
   'dist',
+  'generateCSV.js',
+  'generateMasterFile.js',
+  'generateMissingTokenListFromIcons.js',
   'node_modules',
   'package-lock.json',
   'package.json',
   'recreateFiles.js',
+  'renameIcons.js',
   'renameToChecksum.js',
   'src',
-  'validateObject.js'
+  'validateObject.js',
+  '.vscode'
 ];
 
 function checkDirectory() {
   const currentContent = fs.readdirSync('./');
-  whitelist.forEach((file, idx) => {
-    if (currentContent[idx] !== file) {
-      console.log(`Move ${currentContent[idx]} to proper folder or delete it.`);
+  currentContent.forEach(file => {
+    if (!whitelist.includes(file)) {
+      console.log(`Move ${file} to proper folder or delete it.`);
       process.exit(1);
     }
   });

@@ -1,0 +1,32 @@
+{
+  "symbol": "EVCO",
+  "name": "EVCOIN",
+  "type": "ERC20",
+  "address": "0xAa5C28be0F1173612eA3fCC9e461cCB7b9390213",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "http://evcoin.us",
+  "logo": {
+    "src": "https://res.cloudinary.com/cloudimgstorage/image/upload/v1570350885/EVCO-LOGO.png",
+    "width": "256px",
+    "height": "256px",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "support@evcoin.us", "url": "http://evcoin.us" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://www.facebook.com/Evcoin-103531124392961/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/evtoken",
+    "twitter": "",
+    "youtube": ""
+  }
+}

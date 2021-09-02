@@ -1,0 +1,32 @@
+{
+  "symbol": "MNR",
+  "name": "Mnoer",
+  "type": "ERC20",
+  "address": "0xE4E2DAf5F7F0C1c35DF922C5d9340913EDECC8e8",
+  "ens_address": "mnoer.eth",
+  "decimals": 18,
+  "website": "https://www.mnoer.com",
+  "logo": {
+    "src": "https://bit.ly/35tzx4z",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "mnr@mnoer.com", "url": "" },
+  "social": {
+    "blog": "https://www.mnoer.com/2019/12/blog-post_49.html",
+    "chat": "",
+    "discord": "",
+    "facebook": "https://facebook.com/MnoerInc",
+    "forum": "https://bitcointalk.org/index.php?topic=5222725.0",
+    "github": "https://www.github.com/mnoerinc",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/mnoerinc",
+    "linkedin": "https://www.linkedin.com/in/MnoerInc",
+    "reddit": "https://www.reddit.com/user/MnoerInc/",
+    "slack": "",
+    "telegram": "https://www.t.me/mnoerInc",
+    "twitter": "https://www.twitter.com/MnoerInc",
+    "youtube": "https://www.youtube.com/channel/UCMyS5tSbwUdc1k7hdMKNdFw"
+  }
+}

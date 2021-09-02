@@ -3,29 +3,25 @@
   "name": "TrueHKD",
   "type": "ERC20",
   "address": "0x0000852600CEB001E08e00bC008be620d60031F2",
-  "ens_address": "truehkd.eth",
+  "ens_address": "",
   "decimals": 18,
   "website": "https://www.trusttoken.com/truehkd",
-  "logo": {
-    "src": "",
-    "width": "",
-    "height": "",
-    "ipfs_hash": "QmbExpUA5ZocoXpqPBRLEeKp2VtQmq1KUSZPvPfeggCDd9"
-  },
-  "support": { "email": "support@trusttoken.com", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://blog.trusttoken.com",
+    "blog": "",
     "chat": "",
+    "discord": "",
     "facebook": "",
     "forum": "",
-    "github": "https://github.com/trusttoken",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "https://www.reddit.com/r/TrustToken/",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/joinchat/HihkMkTja1gIyBRM1J1_vg",
-    "twitter": "https://twitter.com/TrustToken",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }

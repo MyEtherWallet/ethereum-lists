@@ -1,30 +1,26 @@
 {
-  "symbol": "Fzcoin",
+  "symbol": "FZ",
   "name": "Frozencoin Network",
   "type": "ERC20",
   "address": "0xE5aeE163513119F4F750376C718766B40fA37A5F",
   "ens_address": "",
   "decimals": 18,
   "website": "https://fzcoin.cc/",
-  "logo": {
-    "src": "https://avatars2.githubusercontent.com/u/44194025?s=400&u=970b2065cf404120fe0f9e486c506003aa96563f&v=4",
-    "width": "100px",
-    "height": "100px",
-    "ipfs_hash": ""
-  },
-  "support": { "email": "fzcoin.cc@gmail.com", "url": "" },
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/coin.fz.39",
+    "discord": "",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/fzcoinProtocol",
+    "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/Official_Fzcoin",
+    "telegram": "",
     "twitter": "",
     "youtube": ""
   }

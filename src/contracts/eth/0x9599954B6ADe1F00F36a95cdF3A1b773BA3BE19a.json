@@ -1,0 +1,55 @@
+{
+  "name": "SIFT Dividends",
+  "address": "0x9599954B6ADe1F00F36a95cdF3A1b773BA3BE19a",
+  "comment": "",
+  "abi": [
+    {
+      "constant": true,
+      "inputs": [{ "name": "", "type": "address" }],
+      "name": "dividends",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": false,
+      "inputs": [],
+      "name": "withdrawDividend",
+      "outputs": [],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "constant": true,
+      "inputs": [],
+      "name": "contractVersion",
+      "outputs": [{ "name": "", "type": "uint256" }],
+      "payable": false,
+      "type": "function"
+    },
+    {
+      "inputs": [{ "name": "_siftContractAddress", "type": "address" }],
+      "payable": false,
+      "type": "constructor"
+    },
+    { "payable": true, "type": "fallback" },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "addr", "type": "address" },
+        { "indexed": false, "name": "amount", "type": "uint256" }
+      ],
+      "name": "PaymentAvailable",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        { "indexed": false, "name": "paymentPerShare", "type": "uint256" },
+        { "indexed": false, "name": "timestamp", "type": "uint256" }
+      ],
+      "name": "DividendPayment",
+      "type": "event"
+    }
+  ]
+}

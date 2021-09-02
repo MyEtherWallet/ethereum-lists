@@ -6,10 +6,12 @@
     "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
   },
   "scripts": {
-    "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",
+    "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '{src}/**/**/*.json' '*./{js,json}'",
     "test:checkToken": "node checkToken.js",
     "test:checkContract": "node checkContract.js",
-    "test": "npm run test:checkToken; npm run test:checkContract",
+    "test:checkNft": "node checkNfts.js",
+    "test:checkMasterFile": "node checkMasterFile.js",
+    "test": "npm run test:checkToken; npm run test:checkContract; npm run test:checkNft; npm run test:checkMasterFile",
     "compile": "node compile.js",
     "precommit": "pretty-quick --staged"
   },
@@ -25,6 +27,7 @@
     "web3": "^1.0.0-beta.36"
   },
   "dependencies": {
+    "node-fetch": "^2.6.0",
     "prettier": "^1.14.2",
     "validate.js": "^0.13.1"
   }

@@ -1,29 +1,27 @@
 {
   "symbol": "WIB",
-  "name": "Wibson Token",
+  "name": "WIBSON",
   "type": "ERC20",
   "address": "0x3F17Dd476faF0a4855572F0B6ed5115D9bBA22AD",
   "ens_address": "",
   "decimals": 9,
-  "website": "https://wibson.org",
+  "website": "https://wibson.org/",
   "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": {
-    "email": "info@wibson.org",
-    "url": "https://wibson.zendesk.com/hc/en-us"
-  },
+  "support": { "email": "", "url": "" },
   "social": {
-    "blog": "https://medium.com/@wibson",
+    "blog": "",
     "chat": "",
-    "facebook": "https://www.facebook.com/WibsonOrg",
+    "discord": "",
+    "facebook": "",
     "forum": "",
-    "github": "https://github.com/wibsonorg",
+    "github": "",
     "gitter": "",
-    "instagram": "https://www.instagram.com/wibson_org/",
-    "linkedin": "https://www.linkedin.com/company/wibson",
-    "reddit": "https://www.reddit.com/r/wibson",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
     "slack": "",
-    "telegram": "https://t.me/wibsoncommunity",
-    "twitter": "https://twitter.com/WibsonOrg",
+    "telegram": "",
+    "twitter": "",
     "youtube": ""
   }
 }
