@@ -5,31 +5,23 @@
   "address": "0x055A902303746382FBB7D18f6aE0df56eFDc5213",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": {
-    "src": "https://raw.githubusercontent.com/rsksmart/rsk-contract-metadata/master/images/fish.png",
-    "width": "358px",
-    "height": "373px",
-    "ipfs_hash": ""
-  },
-  "support": {
-    "email": "",
-    "url": ""
-  },
+  "website": "https://babelfish.money/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
     "chat": "",
-    "discord": "",
+    "discord": "https://discord.gg/mEddUjcEfT",
     "facebook": "",
     "forum": "",
-    "github": "",
+    "github": "https://github.com/BabelFishProtocol/babelfish-phase-1",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
     "reddit": "",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
+    "telegram": "https://t.me/BabelFishTalk",
+    "twitter": "https://twitter.com/babelfishmoney",
     "youtube": ""
   }
 }
