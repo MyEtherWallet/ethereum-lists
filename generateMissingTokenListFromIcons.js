@@ -3,6 +3,28 @@ const web3 = require('web3');
 const utils = web3.utils;
 const fs = require('fs');
 
+function fileProcessor(address, obj) {
+  const list = JSON.parse(
+    fs.readFileSync(
+      `./dist/tokens/${obj.network}/tokens-${obj.network}.json`,
+      'utf8'
+    )
+  );
+  const found = list.find(item => {
+    if (
+      address.substring(0, 2) === '0x' &&
+      address.length === 42 &&
+      utils.toChecksumAddress(item.address) === utils.toChecksumAddress(address)
+    ) {
+      return item;
+    }
+  });
+  if (!found) {
+    console.log(`processed: ${address} in ${obj.network}`);
+    return obj;
+  }
+}
+
 function generateMissingToken() {
   const icons = fs.readdirSync(ethIcons);
   const exclusion = [
@@ -31,11 +53,15 @@ function generateMissingToken() {
     //   const actualAddress = getAddr.substring(getAddr.indexOf('0x'), 42);
     //   return { address: actualAddress, network: network };
     // } else {
-    return { address: noExtension, network: network };
+    return {
+      address: noExtension,
+      network: network === 'png' || network === 'svg' ? null : ''
+    };
     // }
   });
 
-  const notInList = addressOnly.filter(obj => {
+  const notInList = [];
+  addressOnly.forEach(obj => {
     const addr = obj.address;
     if (utils.isAddress(addr)) {
       const inExclusionList = exclusion.find(item => {
@@ -46,29 +72,20 @@ function generateMissingToken() {
         );
       });
       if (!inExclusionList) {
-        const list = JSON.parse(
-          fs.readFileSync(
-            `./dist/tokens/${obj.network}/tokens-${obj.network}.json`,
-            'utf8'
-          )
-        );
-        const found = list.find(item => {
-          if (
-            addr.substring(0, 2) === '0x' &&
-            addr.length === 42 &&
-            utils.toChecksumAddress(item.address) ===
-              utils.toChecksumAddress(addr)
-          ) {
-            return item;
-          }
-        });
-        if (!found) {
-          console.log(`processed: ${addr} in ${obj.network}`);
-          return obj;
+        if (obj.network) {
+          const processedFile = fileProcessor(addr, obj);
+          if (processedFile) notInList.push(processedFile);
+        } else {
+          const attemptNetworks = ['eth', 'bsc', 'matic'];
+          attemptNetworks.forEach(item => {
+            const copyObj = Object.assign({}, obj, { network: item });
+            const processedFile = fileProcessor(addr, copyObj);
+            if (processedFile) notInList.push(processedFile);
+          });
         }
       }
     } else {
-      console.log('errored:', obj);
+      console.log('errored:', obj.address);
     }
   });
   fs.writeFileSync('notinlist.json', JSON.stringify(notInList));
