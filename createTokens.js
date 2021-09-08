@@ -7,10 +7,10 @@ const notInList = JSON.parse(fs.readFileSync(notInListPath));
 const api = 'https://api.coingecko.com/api/v3/coins/ethereum/contract';
 const networks = {
   eth: 'https://nodes.mewapi.io/rpc/eth',
-  rop: 'wss://nodes.mewapi.io/ws/rop',
-  kov: 'wss://nodes.mewapi.io/ws/kovan',
-  bsc: 'wss://nodes.mewapi.io/ws/bsc',
-  matic: 'wss://nodes.mewapi.io/ws/matic'
+  rop: 'wss://nodes.mewapi.io/rpc/rop',
+  kov: 'wss://nodes.mewapi.io/rpc/kovan',
+  bsc: 'wss://nodes.mewapi.io/rpc/bsc',
+  matic: 'wss://nodes.mewapi.io/rpc/matic'
 };
 const abi = [
   {
