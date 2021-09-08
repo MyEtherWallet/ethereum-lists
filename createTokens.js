@@ -58,6 +58,7 @@ const abi = [
 ];
 
 async function createToken(web3, obj) {
+  console.log(obj);
   try {
     const contract = new web3.eth.Contract(abi, obj.address);
     const decimal = await contract.methods.decimals().call();
@@ -152,23 +153,15 @@ async function createToken(web3, obj) {
     // }
     console.log(decimal, symbol, name);
   } catch (e) {
-    console.log(e, network.address);
+    console.log(e.message, obj.address, obj.network);
   }
 }
 
 function parseTokens() {
-  for (let index = 0; index < notInList.length; index++) {
-    if (!networks[notInList[index].network]) {
-      const attemptNetworks = ['eth', 'bsc', 'matic'];
-      attemptNetworks.forEach(item => {
-        const copyObj = Object.assign({}, obj, { network: item });
-        const web3 = new Web3(networks[item]);
-        createToken(web3, copyObj);
-      });
-    } else {
-      const web3 = new Web3(networks[notInList[index].network]);
-      createToken(web3, notInList[index]);
-    }
+  for (let index = 0; index < 25; index++) {
+    const web3 = new Web3(networks[notInList[index].network]);
+    // console.log(networks[notInList[index].network]);
+    createToken(web3, notInList[index]);
   }
 }
 parseTokens();
