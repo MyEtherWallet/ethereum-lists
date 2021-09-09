@@ -6,11 +6,11 @@ const notInListPath = './notinlist.json';
 const notInList = JSON.parse(fs.readFileSync(notInListPath));
 const api = 'https://api.coingecko.com/api/v3/coins/ethereum/contract';
 const networks = {
-  eth: 'https://nodes.mewapi.io/rpc/eth',
-  rop: 'https://nodes.mewapi.io/rpc/rop',
-  kov: 'https://nodes.mewapi.io/rpc/kovan',
-  bsc: 'https://nodes.mewapi.io/rpc/bsc',
-  matic: 'https://nodes.mewapi.io/rpc/matic'
+  eth: new Web3('https://nodes.mewapi.io/rpc/eth'),
+  rop: new Web3('https://nodes.mewapi.io/rpc/rop'),
+  kov: new Web3('https://nodes.mewapi.io/rpc/kovan'),
+  bsc: new Web3('https://nodes.mewapi.io/rpc/bsc'),
+  matic: new Web3('https://nodes.mewapi.io/rpc/matic')
 };
 const abi = [
   {
@@ -58,18 +58,21 @@ const abi = [
 ];
 
 async function createToken(web3, obj) {
-  console.log(obj);
+  // console.log(obj);
   try {
     const contract = new web3.eth.Contract(abi, obj.address);
-    const decimal = await contract.methods.decimals().call();
-    const symbol = await contract.methods.symbol().call();
-    const name = await contract.methods.name().call();
-    const tokenInfo =
-      obj.network !== 'eth'
-        ? null
-        : await fetch(`${api}/${obj.address}`).then(response => {
-            return response.json();
-          });
+    const decimal = await contract.methods
+      .decimals()
+      .call()
+      .catch(() => {
+        console.log('failed on decimal for', obj.address, ' on ', obj.network);
+      });
+    const symbol = await contract.methods
+      .symbol()
+      .call()
+      .catch(() => {
+        console.log('failed on symbol for', obj.address, ' on ', obj.network);
+      });
     const tokenTemp = {
       symbol: '',
       name: '',
@@ -105,62 +108,25 @@ async function createToken(web3, obj) {
         youtube: ''
       }
     };
-    const isEth = obj.network === 'eth';
-    // if (isEth && !tokenInfo.hasOwnProperty('error')) {
-    //   const homepage = tokenInfo.hasOwnProperty('links')
-    //     ? tokenInfo.links.hasOwnProperty('homepage')
-    //       ? tokenInfo.links.homepage[0]
-    //       : ''
-    //     : '';
-    //   const newTokenCopy = Object.assign({}, tokenTemp, {
-    //     symbol: tokenInfo.symbol.toUpperCase(),
-    //     name: tokenInfo.name,
-    //     address: utils.toChecksumAddress(notInList[index].address),
-    //     decimals: Number(decimal),
-    //     website: homepage
-    //   });
-    //   fs.writeFileSync(
-    //     `./src/tokens/${network}/${utils.toChecksumAddress(
-    //       notInList[index].address
-    //     )}.json`,
-    //     JSON.stringify(newTokenCopy)
-    //   );
-    //   console.log(
-    //     `Successfully created: ${notInList[index].address} in ${network}`
-    //   );
-    // } else {
-    //   const newTokenCopy = Object.assign({}, tokenTemp, {
-    //     symbol: symbol ? symbol : '',
-    //     name: name ? name : symbol ? symbol : '',
-    //     address: utils.toChecksumAddress(notInList[index].address),
-    //     decimals: decimal >= 0 ? Number(decimal) : null
-    //   });
-    //   fs.writeFileSync(
-    //     `./src/tokens/${network}/${utils.toChecksumAddress(
-    //       notInList[index].address
-    //     )}.json`,
-    //     JSON.stringify(newTokenCopy)
-    //   );
-    //   if (isEth) {
-    //     console.log(
-    //       `CoinGecko could not find ${notInList[index].address}! Some info will be missing`
-    //     );
-    //   } else {
-    //     console.log(
-    //       `Successfully created: ${notInList[index].address} in ${network}`
-    //     );
-    //   }
-    // }
-    console.log(decimal, symbol, name);
-  } catch (e) {
-    console.log(e.message, obj.address, obj.network);
-  }
+    const newTokenCopy = Object.assign({}, tokenTemp, {
+      symbol: symbol ? symbol : '',
+      name: symbol ? symbol : '',
+      address: utils.toChecksumAddress(obj.address),
+      decimals: decimal >= 0 ? Number(decimal) : null
+    });
+    fs.writeFileSync(
+      `./src/tokens/${obj.network}/${utils.toChecksumAddress(
+        obj.address
+      )}.json`,
+      JSON.stringify(newTokenCopy)
+    );
+    console.log(`Successfully created: ${obj.address} in ${obj.network}`);
+  } catch (e) {}
 }
 
 function parseTokens() {
-  for (let index = 0; index < 25; index++) {
-    const web3 = new Web3(networks[notInList[index].network]);
-    // console.log(networks[notInList[index].network]);
+  for (let index = 700; index < 899; index++) {
+    const web3 = networks[notInList[index].network];
     createToken(web3, notInList[index]);
   }
 }
