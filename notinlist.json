@@ -233,12 +233,10 @@
     "address": "0x29f350b3822f51dc29619c583adbc9628646e315",
     "network": "matic"
   },
-  { "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042", "network": "eth" },
   {
     "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
     "network": "matic"
   },
-  { "address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042", "network": "eth" },
   {
     "address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
     "network": "matic"
@@ -666,7 +664,6 @@
     "address": "0x4daE3Ed84d32f015cA6E5c94bEaF56203C7E46bA",
     "network": "matic"
   },
-  { "address": "0xc314b0e758d5ff74f63e307a86ebfe183c95767b", "network": "eth" },
   { "address": "0xc314b0e758d5ff74f63e307a86ebfe183c95767b", "network": "bsc" },
   {
     "address": "0xc314b0e758d5ff74f63e307a86ebfe183c95767b",
@@ -713,7 +710,6 @@
     "network": "matic"
   },
   { "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819", "network": "eth" },
-  { "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819", "network": "bsc" },
   {
     "address": "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
     "network": "matic"
@@ -908,7 +904,6 @@
     "network": "matic"
   },
   { "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d", "network": "eth" },
-  { "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d", "network": "bsc" },
   {
     "address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
     "network": "matic"
@@ -994,15 +989,7 @@
     "network": "matic"
   },
   { "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628", "network": "bsc" },
-  {
-    "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
-    "network": "matic"
-  },
   { "address": "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e", "network": "bsc" },
-  {
-    "address": "0xC0134b5B924c2FCA106eFB33C45446c466FBe03e",
-    "network": "matic"
-  },
   { "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315", "network": "bsc" },
   {
     "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
@@ -1043,12 +1030,10 @@
     "address": "0x4289c043A12392F1027307fB58272D8EBd853912",
     "network": "matic"
   },
-  { "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8", "network": "bsc" },
   {
     "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
     "network": "matic"
   },
-  { "address": "0xac51066d7bec65dc4589368da368b212745d63e8", "network": "bsc" },
   {
     "address": "0xac51066d7bec65dc4589368da368b212745d63e8",
     "network": "matic"
@@ -1386,7 +1371,6 @@
     "network": "matic"
   },
   { "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8", "network": "eth" },
-  { "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8", "network": "bsc" },
   { "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa", "network": "eth" },
   {
     "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
@@ -1614,12 +1598,10 @@
     "address": "0x1337DEF16F9B486fAEd0293eb623Dc8395dFE46a",
     "network": "matic"
   },
-  { "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6", "network": "bsc" },
   {
     "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
     "network": "matic"
   },
-  { "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6", "network": "bsc" },
   {
     "address": "0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6",
     "network": "matic"
@@ -1629,12 +1611,10 @@
     "address": "0xbA68D28ddA9708bc6100Ec403CBaCBFfA1f9b283",
     "network": "matic"
   },
-  { "address": "0x0C37Bcf456bC661C14D596683325623076D7e283", "network": "bsc" },
   {
     "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
     "network": "matic"
   },
-  { "address": "0x0C37Bcf456bC661C14D596683325623076D7e283", "network": "bsc" },
   {
     "address": "0x0C37Bcf456bC661C14D596683325623076D7e283",
     "network": "matic"
@@ -1769,8 +1749,6 @@
     "address": "0xbf8fB919A8bbF28e590852AeF2D284494eBC0657",
     "network": "matic"
   },
-  { "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225", "network": "eth" },
-  { "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225", "network": "bsc" },
   {
     "address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
     "network": "matic"
@@ -2051,7 +2029,6 @@
     "network": "matic"
   },
   { "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0", "network": "eth" },
-  { "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0", "network": "bsc" },
   {
     "address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
     "network": "matic"
@@ -2061,7 +2038,6 @@
     "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
     "network": "matic"
   },
-  { "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b", "network": "eth" },
   { "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b", "network": "bsc" },
   {
     "address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
@@ -2929,17 +2905,14 @@
     "address": "0x4d31200e6D7854C2F664aF7Fc38a21600960F74D",
     "network": "matic"
   },
-  { "address": "0x2b2b0559081c41e962777B5049632fdb30f7E652", "network": "bsc" },
   {
     "address": "0x2b2b0559081c41e962777B5049632fdb30f7E652",
     "network": "matic"
   },
-  { "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b", "network": "eth" },
   {
     "address": "0x81859801b01764D4f0Fa5E64729f5a6C3b91435b",
     "network": "matic"
   },
-  { "address": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b", "network": "eth" },
   {
     "address": "0x81859801b01764d4f0fa5e64729f5a6c3b91435b",
     "network": "matic"
@@ -3144,7 +3117,6 @@
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "network": "matic"
   },
-  { "address": "0xFbdd194376de19a88118e84E279b977f165d01b8", "network": "eth" },
   { "address": "0xFbdd194376de19a88118e84E279b977f165d01b8", "network": "bsc" },
   { "address": "0xca3f508b8e4dd382ee878a314789373d80a5190a", "network": "eth" },
   {
@@ -3406,7 +3378,6 @@
     "address": "0x45245bc59219eeaAF6cD3f382e078A461FF9De7B",
     "network": "matic"
   },
-  { "address": "0xAec7e1f531Bb09115103C53ba76829910Ec48966", "network": "bsc" },
   {
     "address": "0xAec7e1f531Bb09115103C53ba76829910Ec48966",
     "network": "matic"
@@ -3552,7 +3523,6 @@
     "network": "matic"
   },
   { "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2", "network": "eth" },
-  { "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2", "network": "bsc" },
   {
     "address": "0x935a544bf5816e3a7c13db2efe3009ffda0acda2",
     "network": "matic"
@@ -7524,7 +7494,6 @@
     "network": "matic"
   },
   { "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82", "network": "eth" },
-  { "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82", "network": "bsc" },
   {
     "address": "0x22f3997a5df5a80e29871fed24fe3e85741f5e82",
     "network": "matic"
@@ -8674,7 +8643,6 @@
     "network": "matic"
   },
   { "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08", "network": "eth" },
-  { "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08", "network": "bsc" },
   {
     "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
     "network": "matic"
@@ -9139,7 +9107,6 @@
     "address": "0x2f102963f61acF1ca4baDfe82057B440F2FC722C",
     "network": "matic"
   },
-  { "address": "0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039", "network": "bsc" },
   {
     "address": "0x63a18BC38D1101DB7F0efCbCBdCbe927A5879039",
     "network": "matic"
@@ -9717,12 +9684,10 @@
     "address": "0x9501BFc48897DCEEadf73113EF635d2fF7ee4B97",
     "network": "matic"
   },
-  { "address": "0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32", "network": "bsc" },
   {
     "address": "0x29E9fDF5933824ad21Bc6dbb8BF156EFA3735e32",
     "network": "matic"
   },
-  { "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F", "network": "bsc" },
   {
     "address": "0xBd2949F67DcdC549c6Ebe98696449Fa79D988A9F",
     "network": "matic"
@@ -10803,7 +10768,6 @@
     "network": "matic"
   },
   { "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1", "network": "eth" },
-  { "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1", "network": "bsc" },
   {
     "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
     "network": "matic"
@@ -10938,7 +10902,6 @@
     "address": "0x389999216860AB8E0175387A0c90E5c52522C945",
     "network": "matic"
   },
-  { "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca", "network": "eth" },
   { "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca", "network": "bsc" },
   {
     "address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
@@ -11281,12 +11244,10 @@
     "address": "0xdE522a2778E4554707E6a8Df36a4871ce9967BB5",
     "network": "matic"
   },
-  { "address": "0x99c6e435eC259A7E8d65E1955C9423DB624bA54C", "network": "eth" },
   {
     "address": "0x99c6e435eC259A7E8d65E1955C9423DB624bA54C",
     "network": "matic"
   },
-  { "address": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c", "network": "eth" },
   {
     "address": "0x99c6e435ec259a7e8d65e1955c9423db624ba54c",
     "network": "matic"
@@ -11311,7 +11272,6 @@
     "address": "0x06404399e748CD83F25AB163711F9F4D61cfd0e6",
     "network": "matic"
   },
-  { "address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad", "network": "eth" },
   { "address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad", "network": "bsc" },
   {
     "address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
@@ -11452,7 +11412,6 @@
     "address": "0xFbe878CED08132bd8396988671b450793C44bC12",
     "network": "matic"
   },
-  { "address": "0x31d457e7bcff5bc9a5ef86e6a5ea1db5b5c3bfb0", "network": "eth" },
   { "address": "0x31d457e7bcff5bc9a5ef86e6a5ea1db5b5c3bfb0", "network": "bsc" },
   {
     "address": "0x31d457e7bcff5bc9a5ef86e6a5ea1db5b5c3bfb0",
@@ -11481,7 +11440,6 @@
   { "address": "0x104592a158490a9228070E0A8e5343B499e125D0", "network": "eth" },
   { "address": "0x104592a158490a9228070E0A8e5343B499e125D0", "network": "bsc" },
   { "address": "0x29ced01c447166958605519f10dcf8b0255fb379", "network": "eth" },
-  { "address": "0x29ced01c447166958605519f10dcf8b0255fb379", "network": "bsc" },
   {
     "address": "0x29ced01c447166958605519f10dcf8b0255fb379",
     "network": "matic"
@@ -11537,10 +11495,6 @@
     "network": "matic"
   },
   { "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C", "network": "bsc" },
-  {
-    "address": "0xE5CAeF4Af8780E59Df925470b050Fb23C43CA68C",
-    "network": "matic"
-  },
   { "address": "0x69d2779533a4D2c780639713558B2cC98c46A9b7", "network": "bsc" },
   {
     "address": "0x69d2779533a4D2c780639713558B2cC98c46A9b7",
@@ -11873,7 +11827,6 @@
     "address": "0x9653cFd0865ad8313BEA2f0C2EC0584BFd05115B",
     "network": "matic"
   },
-  { "address": "0x8a40c222996f9F3431f63Bf80244C36822060f12", "network": "bsc" },
   {
     "address": "0x8a40c222996f9F3431f63Bf80244C36822060f12",
     "network": "matic"
@@ -12317,7 +12270,6 @@
     "address": "0xbe30F684d62C9F7883a75A29c162c332c0d98f23",
     "network": "matic"
   },
-  { "address": "0x728f30fa2f100742c7949d1961804fa8e0b1387d", "network": "eth" },
   { "address": "0x728f30fa2f100742c7949d1961804fa8e0b1387d", "network": "bsc" },
   {
     "address": "0x728f30fa2f100742c7949d1961804fa8e0b1387d",
@@ -12373,7 +12325,6 @@
     "address": "0x7C0382583Bc52d677d17E205665979cA75AA724A",
     "network": "matic"
   },
-  { "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24", "network": "bsc" },
   {
     "address": "0x9F9c8ec3534c3cE16F928381372BfbFBFb9F4D24",
     "network": "matic"
@@ -13015,7 +12966,6 @@
     "network": "matic"
   },
   { "address": "0xaa9e582e5751d703f85912903bacaddfed26484c", "network": "eth" },
-  { "address": "0xaa9e582e5751d703f85912903bacaddfed26484c", "network": "bsc" },
   {
     "address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
     "network": "matic"
@@ -13785,7 +13735,6 @@
     "address": "0xE2Bdd39a86a711A167967D04f39AC75E3ca14a08",
     "network": "matic"
   },
-  { "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994", "network": "bsc" },
   {
     "address": "0x38A0df9a08d18dc06CD91Fc7Ec94a0AcdF28D994",
     "network": "matic"
@@ -13795,7 +13744,6 @@
     "address": "0xeDbcC06B603ea1f512720A4073a62CC4fdefCb86",
     "network": "matic"
   },
-  { "address": "0x8e9A29e7Ed21DB7c5B2E1cd75e676dA0236dfB45", "network": "bsc" },
   {
     "address": "0x8e9A29e7Ed21DB7c5B2E1cd75e676dA0236dfB45",
     "network": "matic"
@@ -13946,15 +13894,7 @@
     "network": "matic"
   },
   { "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8", "network": "eth" },
-  {
-    "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
-    "network": "matic"
-  },
   { "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8", "network": "eth" },
-  {
-    "address": "0x948d2a81086a075b3130bac19e4c6dee1d2e3fe8",
-    "network": "matic"
-  },
   { "address": "0x8A8079c7149B8A1611e5C5d978DCA3bE16545F83", "network": "bsc" },
   {
     "address": "0x8A8079c7149B8A1611e5C5d978DCA3bE16545F83",
@@ -14005,12 +13945,10 @@
     "address": "0x5a84969bb663fb64F6d015DcF9F622Aedc796750",
     "network": "matic"
   },
-  { "address": "0xf16e81dce15B08F326220742020379B855B87DF9", "network": "eth" },
   {
     "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "network": "matic"
   },
-  { "address": "0xf16e81dce15b08f326220742020379b855b87df9", "network": "eth" },
   {
     "address": "0xf16e81dce15b08f326220742020379b855b87df9",
     "network": "matic"
@@ -14519,7 +14457,6 @@
     "address": "0x5B2e4a700dfBc560061e957edec8F6EeEb74a320",
     "network": "matic"
   },
-  { "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb", "network": "eth" },
   { "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb", "network": "bsc" },
   {
     "address": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
@@ -14747,11 +14684,6 @@
   },
   { "address": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3", "network": "eth" },
   { "address": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3", "network": "bsc" },
-  {
-    "address": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
-    "network": "matic"
-  },
-  { "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9", "network": "eth" },
   { "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9", "network": "bsc" },
   {
     "address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
@@ -15374,7 +15306,6 @@
     "address": "0xd5527579226E4ebC8864906E49D05d4458CcF47f",
     "network": "matic"
   },
-  { "address": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d", "network": "bsc" },
   {
     "address": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d",
     "network": "matic"
@@ -15535,10 +15466,6 @@
     "network": "matic"
   },
   { "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa", "network": "bsc" },
-  {
-    "address": "0x177BA0cac51bFC7eA24BAd39d81dcEFd59d74fAa",
-    "network": "matic"
-  },
   { "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E", "network": "bsc" },
   {
     "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
@@ -15654,7 +15581,6 @@
     "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
     "network": "matic"
   },
-  { "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202", "network": "eth" },
   { "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202", "network": "bsc" },
   {
     "address": "0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202",
@@ -15958,12 +15884,10 @@
     "address": "0x9541FD8B9b5FA97381783783CeBF2F5fA793C262",
     "network": "matic"
   },
-  { "address": "0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b", "network": "eth" },
   {
     "address": "0xe5a09784b16E1065C37dF14c6e2f06fDcE317a1b",
     "network": "matic"
   },
-  { "address": "0xe5a09784b16e1065c37df14c6e2f06fdce317a1b", "network": "eth" },
   {
     "address": "0xe5a09784b16e1065c37df14c6e2f06fdce317a1b",
     "network": "matic"
@@ -17271,7 +17195,6 @@
     "network": "matic"
   },
   { "address": "0x3947b992dc0147d2d89df0392213781b04b25075", "network": "eth" },
-  { "address": "0x3947b992dc0147d2d89df0392213781b04b25075", "network": "bsc" },
   {
     "address": "0x3947b992dc0147d2d89df0392213781b04b25075",
     "network": "matic"
@@ -17389,7 +17312,6 @@
     "network": "matic"
   },
   { "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3", "network": "eth" },
-  { "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3", "network": "bsc" },
   {
     "address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
     "network": "matic"
@@ -18041,7 +17963,6 @@
     "network": "matic"
   },
   { "address": "0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f", "network": "eth" },
-  { "address": "0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f", "network": "bsc" },
   {
     "address": "0x62d71b23bf15218c7d2d7e48dbbd9e9c650b173f",
     "network": "matic"
@@ -18388,7 +18309,6 @@
     "address": "0xF26893f89B23084C4C6216038D6eBDBE9e96C5cb",
     "network": "matic"
   },
-  { "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611", "network": "eth" },
   { "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611", "network": "bsc" },
   {
     "address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
@@ -19038,7 +18958,6 @@
     "address": "0x4f01eCbe8D6882FFaEe47fe23A9677A96AAbED07",
     "network": "matic"
   },
-  { "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1", "network": "bsc" },
   {
     "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
     "network": "matic"
@@ -20312,12 +20231,6 @@
     "address": "0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F",
     "network": "matic"
   },
-  { "address": "0xee9801669c6138e84bd50deb500827b776777d28", "network": "eth" },
-  { "address": "0xee9801669c6138e84bd50deb500827b776777d28", "network": "bsc" },
-  {
-    "address": "0xee9801669c6138e84bd50deb500827b776777d28",
-    "network": "matic"
-  },
   { "address": "0x5e888B83B7287EED4fB7DA7b7d0A0D4c735d94b3", "network": "bsc" },
   {
     "address": "0x5e888B83B7287EED4fB7DA7b7d0A0D4c735d94b3",
@@ -20676,7 +20589,6 @@
   { "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea", "network": "eth" },
   { "address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea", "network": "bsc" },
   { "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2", "network": "eth" },
-  { "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2", "network": "bsc" },
   {
     "address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
     "network": "matic"
@@ -22330,7 +22242,6 @@
     "address": "0x81b4D08645DA11374a03749AB170836E4e539767",
     "network": "matic"
   },
-  { "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2", "network": "bsc" },
   {
     "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
     "network": "matic"
@@ -22856,7 +22767,6 @@
     "network": "matic"
   },
   { "address": "0xd21d29b38374528675c34936bf7d5dd693d2a577", "network": "eth" },
-  { "address": "0xd21d29b38374528675c34936bf7d5dd693d2a577", "network": "bsc" },
   {
     "address": "0xd21d29b38374528675c34936bf7d5dd693d2a577",
     "network": "matic"
@@ -23228,7 +23138,6 @@
     "network": "matic"
   },
   { "address": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9", "network": "eth" },
-  { "address": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9", "network": "bsc" },
   { "address": "0x9534ad65fb398E27Ac8F4251dAe1780B989D136e", "network": "bsc" },
   {
     "address": "0x9534ad65fb398E27Ac8F4251dAe1780B989D136e",
@@ -23656,7 +23565,6 @@
     "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
     "network": "matic"
   },
-  { "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd", "network": "bsc" },
   {
     "address": "0x50DE6856358Cc35f3A9a57eAAA34BD4cB707d2cd",
     "network": "matic"
@@ -24451,16 +24359,11 @@
     "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
     "network": "matic"
   },
-  { "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64", "network": "bsc" },
   {
     "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
     "network": "matic"
   },
   { "address": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E", "network": "bsc" },
-  {
-    "address": "0xCb5f72d37685C3D5aD0bB5F982443BC8FcdF570E",
-    "network": "matic"
-  },
   { "address": "0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2", "network": "bsc" },
   {
     "address": "0xD04785C4d8195e4A54d9dEc3a9043872875ae9E2",
@@ -24542,15 +24445,7 @@
     "network": "matic"
   },
   { "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823", "network": "eth" },
-  {
-    "address": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
-    "network": "matic"
-  },
   { "address": "0x61ed1c66239d29cc93c8597c6167159e8f69a823", "network": "eth" },
-  {
-    "address": "0x61ed1c66239d29cc93c8597c6167159e8f69a823",
-    "network": "matic"
-  },
   { "address": "0xcf42De80d80edC4a8D56E4e840b5FF0Dc84AaA17", "network": "bsc" },
   {
     "address": "0xcf42De80d80edC4a8D56E4e840b5FF0Dc84AaA17",
@@ -25021,7 +24916,6 @@
     "address": "0xF48e200EAF9906362BB1442fca31e0835773b8B4",
     "network": "matic"
   },
-  { "address": "0xc1eEcf1f4AF8EB9a2a19f6C26B434aA96ce859e1", "network": "bsc" },
   {
     "address": "0xc1eEcf1f4AF8EB9a2a19f6C26B434aA96ce859e1",
     "network": "matic"
@@ -25576,12 +25470,10 @@
     "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
     "network": "matic"
   },
-  { "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77", "network": "eth" },
   {
     "address": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
     "network": "matic"
   },
-  { "address": "0x60b3bc37593853c04410c4f07fe4d6748245bf77", "network": "eth" },
   {
     "address": "0x60b3bc37593853c04410c4f07fe4d6748245bf77",
     "network": "matic"
@@ -25797,7 +25689,6 @@
     "network": "matic"
   },
   { "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab", "network": "eth" },
-  { "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab", "network": "bsc" },
   {
     "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
     "network": "matic"
@@ -26574,7 +26465,6 @@
     "network": "matic"
   },
   { "address": "0x78a18db278f9c7c9657f61da519e6ef43794dd5d", "network": "eth" },
-  { "address": "0x78a18db278f9c7c9657f61da519e6ef43794dd5d", "network": "bsc" },
   {
     "address": "0x78a18db278f9c7c9657f61da519e6ef43794dd5d",
     "network": "matic"
@@ -26594,7 +26484,6 @@
     "address": "0x0324dd195D0Cd53F9F07bEe6a48eE7a20bad738f",
     "network": "matic"
   },
-  { "address": "0x1fDaB294EDA5112B7d066ED8F2E4E562D5bCc664", "network": "bsc" },
   {
     "address": "0x1fDaB294EDA5112B7d066ED8F2E4E562D5bCc664",
     "network": "matic"
@@ -27139,7 +27028,6 @@
     "address": "0xc2e343118f937F88Ee1FC3150cDc0d6f3D11bBa7",
     "network": "matic"
   },
-  { "address": "0x990f341946A3fdB507aE7e52d17851B87168017c", "network": "bsc" },
   {
     "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
     "network": "matic"
@@ -27254,17 +27142,11 @@
     "network": "matic"
   },
   { "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806", "network": "eth" },
-  { "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806", "network": "bsc" },
-  {
-    "address": "0x9b17baadf0f21f03e35249e0e59723f34994f806",
-    "network": "matic"
-  },
   { "address": "0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2", "network": "bsc" },
   {
     "address": "0xb5a4ac5b04E777230bA3381195EfF6a60c3934F2",
     "network": "matic"
   },
-  { "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e", "network": "eth" },
   { "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e", "network": "bsc" },
   {
     "address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
@@ -27323,7 +27205,6 @@
     "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
     "network": "matic"
   },
-  { "address": "0x7ca62545a380e7d71f8f5cfa14b9211002075930", "network": "eth" },
   { "address": "0x7ca62545a380e7d71f8f5cfa14b9211002075930", "network": "bsc" },
   {
     "address": "0x7ca62545a380e7d71f8f5cfa14b9211002075930",
@@ -27893,7 +27774,6 @@
     "address": "0x7A3D5d49D64E57DBd6FBB21dF7202bD3EE7A2253",
     "network": "matic"
   },
-  { "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4", "network": "eth" },
   { "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4", "network": "bsc" },
   {
     "address": "0x06576eb3b212d605b797dc15523d9dc9f4f66db4",
@@ -29043,12 +28923,10 @@
     "address": "0x30ceCB5461A449A90081F5a5F55db4e048397BAB",
     "network": "matic"
   },
-  { "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5", "network": "eth" },
   {
     "address": "0x92a42Db88Ed0F02c71D439e55962Ca7CAB0168b5",
     "network": "matic"
   },
-  { "address": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5", "network": "eth" },
   {
     "address": "0x92a42db88ed0f02c71d439e55962ca7cab0168b5",
     "network": "matic"
@@ -29098,7 +28976,6 @@
     "address": "0x3A856d4effa670C54585a5D523e96513e148e95d",
     "network": "matic"
   },
-  { "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b", "network": "eth" },
   { "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b", "network": "bsc" },
   {
     "address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
@@ -29767,7 +29644,6 @@
     "network": "matic"
   },
   { "address": "0x2645d5f59d952ef2317c8e0aaa5a61c392ccd44d", "network": "eth" },
-  { "address": "0x2645d5f59d952ef2317c8e0aaa5a61c392ccd44d", "network": "bsc" },
   {
     "address": "0x2645d5f59d952ef2317c8e0aaa5a61c392ccd44d",
     "network": "matic"
@@ -31635,7 +31511,6 @@
     "address": "0x5F0E628B693018f639D10e4A4F59BD4d8B2B6B44",
     "network": "matic"
   },
-  { "address": "0xe71458296ce66f7E8C8DF694569b519013f3BD3c", "network": "eth" },
   { "address": "0xe71458296ce66f7E8C8DF694569b519013f3BD3c", "network": "bsc" },
   {
     "address": "0xe71458296ce66f7E8C8DF694569b519013f3BD3c",
@@ -32003,21 +31878,15 @@
     "address": "0xBe68b4645Ab798ED4dB88192a444898ff4FDa5Ae",
     "network": "matic"
   },
-  { "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B", "network": "bsc" },
   {
     "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
     "network": "matic"
   },
-  { "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b", "network": "bsc" },
   {
     "address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
     "network": "matic"
   },
   { "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1", "network": "bsc" },
-  {
-    "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
-    "network": "matic"
-  },
   { "address": "0x8b303d5BbfBbf46F1a4d9741E491e06986894e18", "network": "eth" },
   {
     "address": "0x8b303d5BbfBbf46F1a4d9741E491e06986894e18",
@@ -33171,7 +33040,6 @@
     "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
     "network": "matic"
   },
-  { "address": "0x618679df9efcd19694bb1daa8d00718eacfa2883", "network": "eth" },
   { "address": "0x618679df9efcd19694bb1daa8d00718eacfa2883", "network": "bsc" },
   {
     "address": "0x618679df9efcd19694bb1daa8d00718eacfa2883",
@@ -33654,7 +33522,6 @@
     "address": "0x3DD66732113Af9981A861Cf489431533aebA33B8",
     "network": "matic"
   },
-  { "address": "0xAc0C8dA4A4748d8d821A0973d00b157aA78C473D", "network": "bsc" },
   {
     "address": "0xAc0C8dA4A4748d8d821A0973d00b157aA78C473D",
     "network": "matic"
@@ -33849,7 +33716,6 @@
     "address": "0xC7596f3FC97AE603e1D7FfA61e6eFb7B6a59Bed2",
     "network": "matic"
   },
-  { "address": "0xAE1eaAE3F627AAca434127644371b67B18444051", "network": "bsc" },
   {
     "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
     "network": "matic"
@@ -34209,7 +34075,6 @@
     "address": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07",
     "network": "matic"
   },
-  { "address": "0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229", "network": "bsc" },
   {
     "address": "0xB1e9157c2Fdcc5a856C8DA8b2d89b6C32b3c1229",
     "network": "matic"
@@ -35330,45 +35195,13 @@
     "network": "matic"
   },
   { "address": "0x31a0D1A199631D244761EEba67e8501296d2E383", "network": "eth" },
-  {
-    "address": "0x31a0D1A199631D244761EEba67e8501296d2E383",
-    "network": "matic"
-  },
   { "address": "0x31a0d1a199631d244761eeba67e8501296d2e383", "network": "eth" },
-  {
-    "address": "0x31a0d1a199631d244761eeba67e8501296d2e383",
-    "network": "matic"
-  },
   { "address": "0xc3fEd6eB39178A541D274e6Fc748d48f0Ca01CC3", "network": "eth" },
-  {
-    "address": "0xc3fEd6eB39178A541D274e6Fc748d48f0Ca01CC3",
-    "network": "matic"
-  },
   { "address": "0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3", "network": "eth" },
-  {
-    "address": "0xc3fed6eb39178a541d274e6fc748d48f0ca01cc3",
-    "network": "matic"
-  },
   { "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501", "network": "eth" },
-  {
-    "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
-    "network": "matic"
-  },
   { "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501", "network": "eth" },
-  {
-    "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
-    "network": "matic"
-  },
   { "address": "0xc4Ace9278e7E01755B670C0838c3106367639962", "network": "eth" },
-  {
-    "address": "0xc4Ace9278e7E01755B670C0838c3106367639962",
-    "network": "matic"
-  },
   { "address": "0xc4ace9278e7e01755b670c0838c3106367639962", "network": "eth" },
-  {
-    "address": "0xc4ace9278e7e01755b670c0838c3106367639962",
-    "network": "matic"
-  },
   { "address": "0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7", "network": "eth" },
   {
     "address": "0x695FD30aF473F2960e81Dc9bA7cB67679d35EDb7",

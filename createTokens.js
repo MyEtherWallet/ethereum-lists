@@ -58,21 +58,10 @@ const abi = [
 ];
 
 async function createToken(web3, obj) {
-  // console.log(obj);
   try {
     const contract = new web3.eth.Contract(abi, obj.address);
-    const decimal = await contract.methods
-      .decimals()
-      .call()
-      .catch(() => {
-        console.log('failed on decimal for', obj.address, ' on ', obj.network);
-      });
-    const symbol = await contract.methods
-      .symbol()
-      .call()
-      .catch(() => {
-        console.log('failed on symbol for', obj.address, ' on ', obj.network);
-      });
+    const decimal = await contract.methods.decimals().call();
+    const symbol = await contract.methods.symbol().call();
     const tokenTemp = {
       symbol: '',
       name: '',
@@ -121,13 +110,18 @@ async function createToken(web3, obj) {
       JSON.stringify(newTokenCopy)
     );
     console.log(`Successfully created: ${obj.address} in ${obj.network}`);
-  } catch (e) {}
+  } catch (e) {
+    // console.log(e.message, obj.address, obj.network);
+  }
 }
 
 function parseTokens() {
-  for (let index = 700; index < 899; index++) {
+  for (let index = 0; index < notInList.length; index++) {
     const web3 = networks[notInList[index].network];
-    createToken(web3, notInList[index]);
+    setTimeout(function() {
+      createToken(web3, notInList[index]);
+    }, 500);
   }
+  // console.log(notInList.length);
 }
 parseTokens();
