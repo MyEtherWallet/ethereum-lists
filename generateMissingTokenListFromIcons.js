@@ -2,6 +2,10 @@ const ethIcons = './src/icons';
 const web3 = require('web3');
 const utils = web3.utils;
 const fs = require('fs');
+const bsc = 'https://tokens.coingecko.com/binance-smart-chain/all.json';
+const matic = 'https://tokens.coingecko.com/polygon-pos/all.json';
+const eth = 'https://tokens.coingecko.com/ethereum/all.json';
+const fetch = require('node-fetch');
 
 function fileProcessor(address, obj) {
   const list = JSON.parse(
@@ -89,6 +93,39 @@ function generateMissingToken() {
     }
   });
   fs.writeFileSync('notinlist.json', JSON.stringify(notInList));
+  fetch(bsc)
+    .then(res => {
+      return res.json();
+    })
+    .then(data => {
+      fs.writeFileSync('bscTokens.json', JSON.stringify(data.tokens));
+      console.log('Success on fetching data for bsc');
+    })
+    .catch(e => {
+      console.log('Error on fetching data for bsc');
+    });
+  fetch(matic)
+    .then(res => {
+      return res.json();
+    })
+    .then(data => {
+      fs.writeFileSync('maticTokens.json', JSON.stringify(data.tokens));
+      console.log('Success on fetching data for matic');
+    })
+    .catch(e => {
+      console.log('Error on fetching data for matic');
+    });
+  fetch(eth)
+    .then(res => {
+      return res.json();
+    })
+    .then(data => {
+      fs.writeFileSync('ethTokens.json', JSON.stringify(data.tokens));
+      console.log('Success on fetching data for eth');
+    })
+    .catch(e => {
+      console.log('Error on fetching data for eth');
+    });
 }
 
 generateMissingToken();

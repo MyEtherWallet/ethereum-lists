@@ -1,67 +1,28 @@
 const fs = require('fs');
 const Web3 = require('web3');
-const fetch = require('node-fetch');
 const utils = Web3.utils;
 const notInListPath = './notinlist.json';
 const notInList = JSON.parse(fs.readFileSync(notInListPath));
-const api = 'https://api.coingecko.com/api/v3/coins/ethereum/contract';
 const networks = {
-  eth: new Web3('https://nodes.mewapi.io/rpc/eth'),
-  rop: new Web3('https://nodes.mewapi.io/rpc/rop'),
-  kov: new Web3('https://nodes.mewapi.io/rpc/kovan'),
-  bsc: new Web3('https://nodes.mewapi.io/rpc/bsc'),
-  matic: new Web3('https://nodes.mewapi.io/rpc/matic')
+  eth: 'ethTokens.json',
+  matic: 'maticTokens.json',
+  bsc: 'bscTokens.json'
 };
-const abi = [
-  {
-    constant: true,
-    inputs: [],
-    name: 'decimals',
-    outputs: [
-      {
-        name: '',
-        type: 'uint8'
-      }
-    ],
-    payable: false,
-    stateMutability: 'view',
-    type: 'function'
-  },
-  {
-    constant: true,
-    inputs: [],
-    name: 'symbol',
-    outputs: [
-      {
-        name: '',
-        type: 'string'
-      }
-    ],
-    payable: false,
-    stateMutability: 'view',
-    type: 'function'
-  },
-  {
-    constant: true,
-    inputs: [],
-    name: 'name',
-    outputs: [
-      {
-        name: '',
-        type: 'string'
-      }
-    ],
-    payable: false,
-    stateMutability: 'view',
-    type: 'function'
-  }
-];
 
-async function createToken(web3, obj) {
-  try {
-    const contract = new web3.eth.Contract(abi, obj.address);
-    const decimal = await contract.methods.decimals().call();
-    const symbol = await contract.methods.symbol().call();
+function createToken(obj) {
+  const tokens = JSON.parse(fs.readFileSync(networks[obj.network]));
+  const found = tokens.find(item => {
+    const objAddress = obj.address.replace(/\s/g, '');
+    const addressIdx = item.address.indexOf('0x');
+    const itemAddress = item.address
+      .substring(addressIdx, item.address.length)
+      .replace(/\s/g, '');
+    return (
+      utils.toChecksumAddress(objAddress) ===
+      utils.toChecksumAddress(itemAddress)
+    );
+  });
+  if (found) {
     const tokenTemp = {
       symbol: '',
       name: '',
@@ -98,10 +59,10 @@ async function createToken(web3, obj) {
       }
     };
     const newTokenCopy = Object.assign({}, tokenTemp, {
-      symbol: symbol ? symbol : '',
-      name: symbol ? symbol : '',
+      symbol: found.symbol,
+      name: found.name,
       address: utils.toChecksumAddress(obj.address),
-      decimals: decimal >= 0 ? Number(decimal) : null
+      decimals: found.decimals
     });
     fs.writeFileSync(
       `./src/tokens/${obj.network}/${utils.toChecksumAddress(
@@ -110,18 +71,12 @@ async function createToken(web3, obj) {
       JSON.stringify(newTokenCopy)
     );
     console.log(`Successfully created: ${obj.address} in ${obj.network}`);
-  } catch (e) {
-    // console.log(e.message, obj.address, obj.network);
   }
 }
 
 function parseTokens() {
   for (let index = 0; index < notInList.length; index++) {
-    const web3 = networks[notInList[index].network];
-    setTimeout(function() {
-      createToken(web3, notInList[index]);
-    }, 500);
+    createToken(notInList[index]);
   }
-  // console.log(notInList.length);
 }
 parseTokens();
