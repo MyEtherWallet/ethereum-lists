@@ -4610,6 +4610,17 @@
   },
   {
     "network": "bsc",
+    "symbol": "TIK",
+    "name": "ChronoBase",
+    "decimals": 18,
+    "contract_address": "0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/bsc/0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859.json",
+    "website": "https://chronobase.eu/"
+  },
+  {
+    "network": "bsc",
     "symbol": "TINFOIL Token",
     "name": "TIN",
     "decimals": 18,
@@ -13913,6 +13924,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BTCA-0x02725836ebF3eCDb1cDf1c7b02FcbBfaa2736AF8-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x02725836ebF3eCDb1cDf1c7b02FcbBfaa2736AF8.json",
     "website": "https://bitair.io/"
+  },
+  {
+    "network": "eth",
+    "symbol": "BTCA",
+    "name": "Bitcoin Asia",
+    "decimals": 10,
+    "contract_address": "0x7dB02Aa39A3d0271e4c61C04D03857a10fc922c5",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7dB02Aa39A3d0271e4c61C04D03857a10fc922c5.json",
+    "website": "https://bitcoinasia.travel"
   },
   {
     "network": "eth",
@@ -25199,6 +25221,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EUSD-0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073.json",
     "website": "https://egoras.com/"
+  },
+  {
+    "network": "eth",
+    "symbol": "EVAI",
+    "name": "Evai",
+    "decimals": 8,
+    "contract_address": "0x50f09629d0afDF40398a3F317cc676cA9132055c",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x50f09629d0afDF40398a3F317cc676cA9132055c.json",
+    "website": "https://www.evai.io/"
   },
   {
     "network": "eth",
@@ -40328,13 +40361,13 @@
   {
     "network": "eth",
     "symbol": "MM",
-    "name": "MM",
+    "name": "Million",
     "decimals": 18,
     "contract_address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
     "icon": "",
     "icon_png": "",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611.json",
-    "website": ""
+    "website": "https://www.milliontoken.org"
   },
   {
     "network": "eth",
@@ -43539,6 +43572,17 @@
   },
   {
     "network": "eth",
+    "symbol": "OBC",
+    "name": "Oblichain",
+    "decimals": 18,
+    "contract_address": "0x43E577338d6C07bc92a06C8CA4B781470515dFA8",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x43E577338d6C07bc92a06C8CA4B781470515dFA8.json",
+    "website": "https://oblichain.com/en/home"
+  },
+  {
+    "network": "eth",
     "symbol": "OBE",
     "name": "OneBitEarn",
     "decimals": 18,
@@ -45439,17 +45483,6 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PATS-0x3310f5Acb5df71DA3b15A27230122bFbF3f7B9A0-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x3310f5Acb5df71DA3b15A27230122bFbF3f7B9A0.json",
     "website": "https://c-patex.com/pats.html"
-  },
-  {
-    "network": "eth",
-    "symbol": "PAX",
-    "name": "Paxos Standard",
-    "decimals": 18,
-    "contract_address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8E870D67F660D95d5be530380D0eC0bd388289E1.json",
-    "website": "https://www.paxos.com/standard/"
   },
   {
     "network": "eth",
@@ -48277,6 +48310,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/pUSD-0x93d3296cac208422BF587c3597D116e809870f2b-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x93d3296cac208422BF587c3597D116e809870f2b.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "symbol": "PUSSY",
+    "name": "Pussy Financial",
+    "decimals": 18,
+    "contract_address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9196E18Bc349B1F64Bc08784eaE259525329a1ad.json",
+    "website": "https://pussy.financial"
   },
   {
     "network": "eth",
@@ -52878,6 +52922,17 @@
   },
   {
     "network": "eth",
+    "symbol": "SIH",
+    "name": "Salient Investment Holding",
+    "decimals": 18,
+    "contract_address": "0x6D728fF862Bfe74be2aba30537E992A24F259a22",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6D728fF862Bfe74be2aba30537E992A24F259a22.json",
+    "website": "https://salientinvestmentholding.com"
+  },
+  {
+    "network": "eth",
     "symbol": "SILK",
     "name": "SilkChain",
     "decimals": 18,
@@ -57399,6 +57454,17 @@
   },
   {
     "network": "eth",
+    "symbol": "TIK",
+    "name": "ChronoBase",
+    "decimals": 18,
+    "contract_address": "0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859.json",
+    "website": "https://chronobase.eu/"
+  },
+  {
+    "network": "eth",
     "symbol": "TILE",
     "name": "Loomia",
     "decimals": 18,
@@ -58199,6 +58265,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TOR-0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE.json",
     "website": "https://torex.one/"
+  },
+  {
+    "network": "eth",
+    "symbol": "TORG",
+    "name": "TORG",
+    "decimals": 18,
+    "contract_address": "0xCfa0885131F602D11D4DA248D2c65A62063567A9",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xCfa0885131F602D11D4DA248D2c65A62063567A9.json",
+    "website": "https://torg.to"
   },
   {
     "network": "eth",
@@ -60740,6 +60817,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/USDP-0x1456688345527bE1f37E9e627DA0837D6f08C925-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1456688345527bE1f37E9e627DA0837D6f08C925.json",
     "website": "https://unit.xyz/"
+  },
+  {
+    "network": "eth",
+    "symbol": "USDP",
+    "name": "Pax Dollar",
+    "decimals": 18,
+    "contract_address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8E870D67F660D95d5be530380D0eC0bd388289E1.json",
+    "website": "https://www.paxos.com/usdp/"
   },
   {
     "network": "eth",
@@ -68684,6 +68772,17 @@
     "website": ""
   },
   {
+    "network": "go",
+    "symbol": "FAST",
+    "name": "Fast.Finance",
+    "decimals": 18,
+    "contract_address": "0x67bBB47f6942486184f08a671155FCFA6cAd8d71",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/go/0x67bBB47f6942486184f08a671155FCFA6cAd8d71.json",
+    "website": "https://fast.finance/"
+  },
+  {
     "network": "goerli",
     "symbol": "cBAT",
     "name": "Compound Basic Attention Token",
@@ -69595,6 +69694,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IFARM-0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff-matic.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff.json",
     "website": ""
+  },
+  {
+    "network": "matic",
+    "symbol": "MM",
+    "name": "Million (PoS)",
+    "decimals": 18,
+    "contract_address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/matic/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927.json",
+    "website": "https://www.milliontoken.org"
   },
   {
     "network": "matic",
@@ -70665,47 +70775,443 @@
   },
   {
     "network": "rsk",
-    "symbol": "$DOC",
-    "name": "$Dollar on Chain",
+    "symbol": "ARSCB",
+    "name": "Pesos Argentinos PagoLinea",
     "decimals": 18,
-    "contract_address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
-    "icon": "",
-    "icon_png": "",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.json",
+    "contract_address": "0xD52dA63689543924dCa66bCBe2e2ea599c45D575",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ARSCB-0xD52dA63689543924dCa66bCBe2e2ea599c45D575-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ARSCB-0xD52dA63689543924dCa66bCBe2e2ea599c45D575-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xD52dA63689543924dCa66bCBe2e2ea599c45D575.json",
     "website": ""
   },
   {
     "network": "rsk",
-    "symbol": "$INV",
-    "name": "$Invecoin",
+    "symbol": "BOBCB",
+    "name": "Pesos Bolivianos PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x977675B863B3b1cf46A927FdDcBE0C831BF50135",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOBCB-0x977675B863B3b1cf46A927FdDcBE0C831BF50135-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BOBCB-0x977675B863B3b1cf46A927FdDcBE0C831BF50135-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x977675B863B3b1cf46A927FdDcBE0C831BF50135.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "BPro",
+    "name": "BitPro",
+    "decimals": 18,
+    "contract_address": "0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BPro-0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BPro-0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x440CD83C160De5C96Ddb20246815eA44C7aBBCa8.json",
+    "website": "https://moneyonchain.com/bpro-hodl-earn-token"
+  },
+  {
+    "network": "rsk",
+    "symbol": "BRLCB",
+    "name": "Real Brasileño PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x3e040020648A2F2C872Ce0c7165BA5ad7841C972",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BRLCB-0x3e040020648A2F2C872Ce0c7165BA5ad7841C972-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BRLCB-0x3e040020648A2F2C872Ce0c7165BA5ad7841C972-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x3e040020648A2F2C872Ce0c7165BA5ad7841C972.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "BRZ",
+    "name": "Brezilian Digital Coin",
+    "decimals": 18,
+    "contract_address": "0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BRZ-0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BRZ-0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xE355c280131dFaF18Bf1c3648aEe3C396dB6b5Fd.json",
+    "website": "https://www.brztoken.io/"
+  },
+  {
+    "network": "rsk",
+    "symbol": "BTCCB",
+    "name": "Bitcoin PagoLinea",
+    "decimals": 18,
+    "contract_address": "0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BTCCB-0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BTCCB-0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xAB2D290B7A600f5eA8d5b933f6F15C867Fd7e60e.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "CNYCB",
+    "name": "Yuan Chino PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x61B50D8Fb43cC28b56EE7F9DA32AE46c3C1C68a3",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CNYCB-0x61B50D8Fb43cC28b56EE7F9DA32AE46c3C1C68a3-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/CNYCB-0x61B50D8Fb43cC28b56EE7F9DA32AE46c3C1C68a3-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x61B50D8Fb43cC28b56EE7F9DA32AE46c3C1C68a3.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "COPCB",
+    "name": "Pesos Colombianos PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x7C459C5b11E2815db085DdA9Ec314A9CDE00A082",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COPCB-0x7C459C5b11E2815db085DdA9Ec314A9CDE00A082-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/COPCB-0x7C459C5b11E2815db085DdA9Ec314A9CDE00A082-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x7C459C5b11E2815db085DdA9Ec314A9CDE00A082.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "cRBTC",
+    "name": "rLending RBTCF",
+    "decimals": 8,
+    "contract_address": "0x872664a885A1995D754e3666a23Fad5C801401c4",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/cRBTC-0x872664a885A1995D754e3666a23Fad5C801401c4-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/cRBTC-0x872664a885A1995D754e3666a23Fad5C801401c4-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x872664a885A1995D754e3666a23Fad5C801401c4.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "cRIF",
+    "name": "rLending RIF",
+    "decimals": 8,
+    "contract_address": "0xB7FF2C56C897562c0aA6747D2679d35F5e937492",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/cRIF-0xB7FF2C56C897562c0aA6747D2679d35F5e937492-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/cRIF-0xB7FF2C56C897562c0aA6747D2679d35F5e937492-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xB7FF2C56C897562c0aA6747D2679d35F5e937492.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "crUSDT",
+    "name": "rLending USDT",
+    "decimals": 8,
+    "contract_address": "0xd256C121a507CAdd2687599E27fa45E31B7C3199",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/crUSDT-0xd256C121a507CAdd2687599E27fa45E31B7C3199-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/crUSDT-0xd256C121a507CAdd2687599E27fa45E31B7C3199-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xd256C121a507CAdd2687599E27fa45E31B7C3199.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "DOC",
+    "name": "Dollar on Chain",
+    "decimals": 18,
+    "contract_address": "0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DOC-0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/DOC-0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xe700691dA7b9851F2F35f8b8182c69c53CcaD9Db.json",
+    "website": "https://moneyonchain.com/doc-bitcoin-backed-stablecoin/"
+  },
+  {
+    "network": "rsk",
+    "symbol": "ETHCB",
+    "name": "Ether PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x84c0cB1D6623cFB3546a79C66EB96b874ce6659D",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ETHCB-0x84c0cB1D6623cFB3546a79C66EB96b874ce6659D-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/ETHCB-0x84c0cB1D6623cFB3546a79C66EB96b874ce6659D-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x84c0cB1D6623cFB3546a79C66EB96b874ce6659D.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "EURCB",
+    "name": "Euro PagoLinea",
+    "decimals": 18,
+    "contract_address": "0xAe2ceb4B57ade22643Be2909425105d5114b1dBC",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EURCB-0xAe2ceb4B57ade22643Be2909425105d5114b1dBC-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EURCB-0xAe2ceb4B57ade22643Be2909425105d5114b1dBC-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xAe2ceb4B57ade22643Be2909425105d5114b1dBC.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "FISH",
+    "name": "Babelfish",
+    "decimals": 18,
+    "contract_address": "0x055A902303746382FBB7D18f6aE0df56eFDc5213",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FISH-0x055A902303746382FBB7D18f6aE0df56eFDc5213-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/FISH-0x055A902303746382FBB7D18f6aE0df56eFDc5213-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x055A902303746382FBB7D18f6aE0df56eFDc5213.json",
+    "website": "https://babelfish.money/"
+  },
+  {
+    "network": "rsk",
+    "symbol": "IDRCB",
+    "name": "Rupia Indonesia PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x3D9f9e1F8151410Beda306FdF8626a02E03Ea8aa",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IDRCB-0x3D9f9e1F8151410Beda306FdF8626a02E03Ea8aa-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IDRCB-0x3D9f9e1F8151410Beda306FdF8626a02E03Ea8aa-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x3D9f9e1F8151410Beda306FdF8626a02E03Ea8aa.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "INV",
+    "name": "Invecoin",
     "decimals": 18,
     "contract_address": "0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff",
-    "icon": "",
-    "icon_png": "",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IVN-0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/IVN-0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff-rsk.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xE0cfF8a40F540657C62eB4CAC34b915e5Ed8D8Ff.json",
     "website": "https://www.sesocio.com/projects/cryptocurrency/investoland"
   },
   {
     "network": "rsk",
-    "symbol": "$RDOC",
-    "name": "$RIF Dollar on Chain",
+    "symbol": "MOC",
+    "name": "Money on Chain Governance Token",
+    "decimals": 18,
+    "contract_address": "0x9AC7fE28967B30E3A4e6e03286d715b42B453D10",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MOC-0x9AC7fE28967B30E3A4e6e03286d715b42B453D10-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MOC-0x9AC7fE28967B30E3A4e6e03286d715b42B453D10-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x9AC7fE28967B30E3A4e6e03286d715b42B453D10.json",
+    "website": "https://moneyonchain.com/moc-govern-stake/"
+  },
+  {
+    "network": "rsk",
+    "symbol": "MXNCB",
+    "name": "Pesos Mexicanos PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x2058BA9577C4F90246BEa9d74AE2E4cd0167A123",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MXNCB-0x2058BA9577C4F90246BEa9d74AE2E4cd0167A123-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/MXNCB-0x2058BA9577C4F90246BEa9d74AE2E4cd0167A123-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x2058BA9577C4F90246BEa9d74AE2E4cd0167A123.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "PABCB",
+    "name": "Pesos Panameños PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x99Af5DEb8dAEBCD36FCCD16fA46dC95D922CdE5b",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PABCB-0x99Af5DEb8dAEBCD36FCCD16fA46dC95D922CdE5b-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PABCB-0x99Af5DEb8dAEBCD36FCCD16fA46dC95D922CdE5b-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x99Af5DEb8dAEBCD36FCCD16fA46dC95D922CdE5b.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "PENCB",
+    "name": "Sol Peruano PagoLinea",
+    "decimals": 18,
+    "contract_address": "0x0F6895Fa2679453D2C32C5F6E2f00E4621c57CA2",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PENCB-0x0F6895Fa2679453D2C32C5F6E2f00E4621c57CA2-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PENCB-0x0F6895Fa2679453D2C32C5F6E2f00E4621c57CA2-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x0F6895Fa2679453D2C32C5F6E2f00E4621c57CA2.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "PYGCB",
+    "name": "Guaranies Paraguayos PagoLinea",
+    "decimals": 18,
+    "contract_address": "0xa05Fd8082e19923AA4868Ff3C2AE48850b734736",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PYGCB-0xa05Fd8082e19923AA4868Ff3C2AE48850b734736-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PYGCB-0xa05Fd8082e19923AA4868Ff3C2AE48850b734736-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xa05Fd8082e19923AA4868Ff3C2AE48850b734736.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rAMLT",
+    "name": "AMLT Coinfirm on RSK",
+    "decimals": 18,
+    "contract_address": "0xff9eA341d9eA91Cb7C54342354377f5104fD403f",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rAMLT-0xff9eA341d9eA91Cb7C54342354377f5104fD403f-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rAMLT-0xff9eA341d9eA91Cb7C54342354377f5104fD403f-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xff9eA341d9eA91Cb7C54342354377f5104fD403f.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rBUND",
+    "name": "Bundles Finance on RSK",
+    "decimals": 18,
+    "contract_address": "0x4991516DF6053121121274397a8C1dAD608Bc95B",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rBUND-0x4991516DF6053121121274397a8C1dAD608Bc95B-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rBUND-0x4991516DF6053121121274397a8C1dAD608Bc95B-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x4991516DF6053121121274397a8C1dAD608Bc95B.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rDAI",
+    "name": "Dai Stablecoin on RSK",
+    "decimals": 18,
+    "contract_address": "0x6B1A73d547F4009a26B8485B63d7015d248Ad406",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rDAI-0x6B1A73d547F4009a26B8485B63d7015d248Ad406-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rDAI-0x6B1A73d547F4009a26B8485B63d7015d248Ad406-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x6B1A73d547F4009a26B8485B63d7015d248Ad406.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "RDOC",
+    "name": "RIF Dollar on Chain",
     "decimals": 18,
     "contract_address": "0x2d919F19D4892381D58edeBeca66D5642Cef1a1f",
-    "icon": "",
-    "icon_png": "",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/RDOC-0x2d919F19D4892381D58edeBeca66D5642Cef1a1f-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/RDOC-0x2d919F19D4892381D58edeBeca66D5642Cef1a1f-rsk.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x2d919F19D4892381D58edeBeca66D5642Cef1a1f.json",
     "website": ""
   },
   {
     "network": "rsk",
-    "symbol": "$RIF",
-    "name": "$RIF",
+    "symbol": "rFLIXX",
+    "name": "Flixxo on RSK",
+    "decimals": 18,
+    "contract_address": "0x73c08467E23F7DCB7dDBbc8d05041B74467A498A",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rFLIXX-0x73c08467E23F7DCB7dDBbc8d05041B74467A498A-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rFLIXX-0x73c08467E23F7DCB7dDBbc8d05041B74467A498A-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x73c08467E23F7DCB7dDBbc8d05041B74467A498A.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "RIF",
+    "name": "RIF",
     "decimals": 18,
     "contract_address": "0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5",
-    "icon": "",
-    "icon_png": "",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/RIF-0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/RIF-0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5-rsk.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x2AcC95758f8b5F583470ba265EB685a8F45fC9D5.json",
     "website": "https://www.rifos.org/"
+  },
+  {
+    "network": "rsk",
+    "symbol": "RIFP",
+    "name": "RIF Pro",
+    "decimals": 18,
+    "contract_address": "0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xf4d27c56595Ed59B66cC7F03CFF5193e4bd74a61.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rLINK",
+    "name": "ChainLink Token on RSK",
+    "decimals": 18,
+    "contract_address": "0x14AdaE34beF7ca957Ce2dDe5ADD97ea050123827",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rLINK-0x14AdaE34beF7ca957Ce2dDe5ADD97ea050123827-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rLINK-0x14AdaE34beF7ca957Ce2dDe5ADD97ea050123827-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x14AdaE34beF7ca957Ce2dDe5ADD97ea050123827.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rRFOX",
+    "name": "RedFOX Labs on RSK",
+    "decimals": 18,
+    "contract_address": "0x9C3a5F8d686fADE293c0CE989A62a34408C4E307",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rFOX-0x9C3a5F8d686fADE293c0CE989A62a34408C4E307-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rFOX-0x9C3a5F8d686fADE293c0CE989A62a34408C4E307-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x9C3a5F8d686fADE293c0CE989A62a34408C4E307.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rUBI",
+    "name": "Universal Basic Income on RSK",
+    "decimals": 18,
+    "contract_address": "0x70566D8541BEaBE984C8BAbF8a816eD908514ba8",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rUBI-0x70566D8541BEaBE984C8BAbF8a816eD908514ba8-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rUBI-0x70566D8541BEaBE984C8BAbF8a816eD908514ba8-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x70566D8541BEaBE984C8BAbF8a816eD908514ba8.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rUSDC",
+    "name": "USD Coin on RSK",
+    "decimals": 18,
+    "contract_address": "0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rUSDC-0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rUSDC-0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "rUSDT",
+    "name": "Tether USD on RSK",
+    "decimals": 18,
+    "contract_address": "0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rUSDT-0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/rUSDT-0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xef213441A85dF4d7ACbDaE0Cf78004e1E486bB96.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "SOV",
+    "name": "Sovryn Token",
+    "decimals": 18,
+    "contract_address": "0xEFc78fc7d48b64958315949279Ba181c2114ABBd",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SOV-0xEFc78fc7d48b64958315949279Ba181c2114ABBd-rsk.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/SOV-0xEFc78fc7d48b64958315949279Ba181c2114ABBd-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xEFc78fc7d48b64958315949279Ba181c2114ABBd.json",
+    "website": "https://www.sovryn.app/"
+  },
+  {
+    "network": "rsk",
+    "symbol": "USDCB",
+    "name": "Dolar Americano PagoLinea",
+    "decimals": 18,
+    "contract_address": "0xAa5dc2Ea0e056fC962f48aB25547d66d3586ee8a",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/USDCB-0xAa5dc2Ea0e056fC962f48aB25547d66d3586ee8a-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/USDCB-0xAa5dc2Ea0e056fC962f48aB25547d66d3586ee8a-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xAa5dc2Ea0e056fC962f48aB25547d66d3586ee8a.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "UYUCB",
+    "name": "Peso Uruguayo PagoLinea",
+    "decimals": 18,
+    "contract_address": "0xD8132625b10b3962239F6842981Dce02F1A163D2",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/UYUCB-0xD8132625b10b3962239F6842981Dce02F1A163D2-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/UYUCB-0xD8132625b10b3962239F6842981Dce02F1A163D2-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xD8132625b10b3962239F6842981Dce02F1A163D2.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "VESCB",
+    "name": "Bolivares PagoLinea",
+    "decimals": 18,
+    "contract_address": "0xE9F78E507f24537F3F78C212CF93F65EEc9054c2",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VESCB-0xE9F78E507f24537F3F78C212CF93F65EEc9054c2-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/VESCB-0xE9F78E507f24537F3F78C212CF93F65EEc9054c2-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xE9F78E507f24537F3F78C212CF93F65EEc9054c2.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "WRBTC",
+    "name": "Wrapped RBTC on RSK",
+    "decimals": 18,
+    "contract_address": "0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/WRBTC-0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/WRBTC-0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0.json",
+    "website": ""
+  },
+  {
+    "network": "rsk",
+    "symbol": "XUSD",
+    "name": "XUSD Babelfish stablecoin",
+    "decimals": 18,
+    "contract_address": "0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/XUSD-0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F-rsk.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/XUSD-0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F-rsk.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/rsk/0xb5999795BE0EbB5bAb23144AA5FD6A02D080299F.json",
+    "website": "https://babelfish.money/"
   },
   {
     "network": "rsk-test",
