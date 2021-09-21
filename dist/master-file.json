@@ -4610,6 +4610,17 @@
   },
   {
     "network": "bsc",
+    "symbol": "TIK",
+    "name": "ChronoBase",
+    "decimals": 18,
+    "contract_address": "0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/bsc/0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859.json",
+    "website": "https://chronobase.eu/"
+  },
+  {
+    "network": "bsc",
     "symbol": "TINFOIL Token",
     "name": "TIN",
     "decimals": 18,
@@ -13913,6 +13924,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/BTCA-0x02725836ebF3eCDb1cDf1c7b02FcbBfaa2736AF8-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x02725836ebF3eCDb1cDf1c7b02FcbBfaa2736AF8.json",
     "website": "https://bitair.io/"
+  },
+  {
+    "network": "eth",
+    "symbol": "BTCA",
+    "name": "Bitcoin Asia",
+    "decimals": 10,
+    "contract_address": "0x7dB02Aa39A3d0271e4c61C04D03857a10fc922c5",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x7dB02Aa39A3d0271e4c61C04D03857a10fc922c5.json",
+    "website": "https://bitcoinasia.travel"
   },
   {
     "network": "eth",
@@ -25199,6 +25221,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/EUSD-0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073.json",
     "website": "https://egoras.com/"
+  },
+  {
+    "network": "eth",
+    "symbol": "EVAI",
+    "name": "Evai",
+    "decimals": 8,
+    "contract_address": "0x50f09629d0afDF40398a3F317cc676cA9132055c",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x50f09629d0afDF40398a3F317cc676cA9132055c.json",
+    "website": "https://www.evai.io/"
   },
   {
     "network": "eth",
@@ -43539,6 +43572,17 @@
   },
   {
     "network": "eth",
+    "symbol": "OBC",
+    "name": "Oblichain",
+    "decimals": 18,
+    "contract_address": "0x43E577338d6C07bc92a06C8CA4B781470515dFA8",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x43E577338d6C07bc92a06C8CA4B781470515dFA8.json",
+    "website": "https://oblichain.com/en/home"
+  },
+  {
+    "network": "eth",
     "symbol": "OBE",
     "name": "OneBitEarn",
     "decimals": 18,
@@ -45439,17 +45483,6 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PATS-0x3310f5Acb5df71DA3b15A27230122bFbF3f7B9A0-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x3310f5Acb5df71DA3b15A27230122bFbF3f7B9A0.json",
     "website": "https://c-patex.com/pats.html"
-  },
-  {
-    "network": "eth",
-    "symbol": "PAX",
-    "name": "Paxos Standard",
-    "decimals": 18,
-    "contract_address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
-    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.svg",
-    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.png",
-    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8E870D67F660D95d5be530380D0eC0bd388289E1.json",
-    "website": "https://www.paxos.com/standard/"
   },
   {
     "network": "eth",
@@ -48277,6 +48310,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/pUSD-0x93d3296cac208422BF587c3597D116e809870f2b-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x93d3296cac208422BF587c3597D116e809870f2b.json",
     "website": ""
+  },
+  {
+    "network": "eth",
+    "symbol": "PUSSY",
+    "name": "Pussy Financial",
+    "decimals": 18,
+    "contract_address": "0x9196E18Bc349B1F64Bc08784eaE259525329a1ad",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9196E18Bc349B1F64Bc08784eaE259525329a1ad.json",
+    "website": "https://pussy.financial"
   },
   {
     "network": "eth",
@@ -52878,6 +52922,17 @@
   },
   {
     "network": "eth",
+    "symbol": "SIH",
+    "name": "Salient Investment Holding",
+    "decimals": 18,
+    "contract_address": "0x6D728fF862Bfe74be2aba30537E992A24F259a22",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x6D728fF862Bfe74be2aba30537E992A24F259a22.json",
+    "website": "https://salientinvestmentholding.com"
+  },
+  {
+    "network": "eth",
     "symbol": "SILK",
     "name": "SilkChain",
     "decimals": 18,
@@ -57399,6 +57454,17 @@
   },
   {
     "network": "eth",
+    "symbol": "TIK",
+    "name": "ChronoBase",
+    "decimals": 18,
+    "contract_address": "0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x0922F1D808aDc3A4444BEd2F73fAC53a1A2A5859.json",
+    "website": "https://chronobase.eu/"
+  },
+  {
+    "network": "eth",
     "symbol": "TILE",
     "name": "Loomia",
     "decimals": 18,
@@ -58199,6 +58265,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/TOR-0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x9ea20fBFAA44efBc60C6728fCdBA17f01b7E04FE.json",
     "website": "https://torex.one/"
+  },
+  {
+    "network": "eth",
+    "symbol": "TORG",
+    "name": "TORG",
+    "decimals": 18,
+    "contract_address": "0xCfa0885131F602D11D4DA248D2c65A62063567A9",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0xCfa0885131F602D11D4DA248D2c65A62063567A9.json",
+    "website": "https://torg.to"
   },
   {
     "network": "eth",
@@ -60740,6 +60817,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/USDP-0x1456688345527bE1f37E9e627DA0837D6f08C925-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x1456688345527bE1f37E9e627DA0837D6f08C925.json",
     "website": "https://unit.xyz/"
+  },
+  {
+    "network": "eth",
+    "symbol": "USDP",
+    "name": "Pax Dollar",
+    "decimals": 18,
+    "contract_address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.svg",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/PAX-0x8E870D67F660D95d5be530380D0eC0bd388289E1-eth.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x8E870D67F660D95d5be530380D0eC0bd388289E1.json",
+    "website": "https://www.paxos.com/usdp/"
   },
   {
     "network": "eth",
@@ -68682,6 +68770,17 @@
     "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/UNICORN-0x89205A3A3b2A69De6Dbf7f01ED13B2108B2c43e7-eth.png",
     "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/eth/0x89205A3A3b2A69De6Dbf7f01ED13B2108B2c43e7.json",
     "website": ""
+  },
+  {
+    "network": "go",
+    "symbol": "FAST",
+    "name": "Fast.Finance",
+    "decimals": 18,
+    "contract_address": "0x67bBB47f6942486184f08a671155FCFA6cAd8d71",
+    "icon": "",
+    "icon_png": "",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/go/0x67bBB47f6942486184f08a671155FCFA6cAd8d71.json",
+    "website": "https://fast.finance/"
   },
   {
     "network": "goerli",
