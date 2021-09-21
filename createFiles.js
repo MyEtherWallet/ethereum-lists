@@ -104,29 +104,6 @@ function createNftFiles() {
   });
 }
 
-function renameIcons() {
-  const icons = fs.readdirSync('./src/icons');
-  icons.forEach(item => {
-    const dashIdx = item.indexOf('-');
-    const dotIdx = item.indexOf('.');
-
-    const address = item.substring(dashIdx + 1, dotIdx);
-    const symbol = item.substring(0, dashIdx);
-    const extension = item.substring(dotIdx, item.length);
-
-    if (utils.isAddress(address)) {
-      fs.renameSync(
-        `./src/icons/${item}`,
-        `./src/icons/${symbol}-${utils
-          .toChecksumAddress(address)
-          .toLowerCase()}${extension}`
-      );
-    } else {
-      fs.renameSync(`./src/icons/${item}`, `./src/icons/${item}`);
-    }
-  });
-}
-
 function createFiles() {
   if (!fs.existsSync('./dist')) {
     fs.mkdirSync('./dist');
@@ -134,7 +111,6 @@ function createFiles() {
   createContractFiles();
   createTokenFiles();
   createNftFiles();
-  // renameIcons();
 }
 
 module.exports = createFiles;
