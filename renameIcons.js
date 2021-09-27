@@ -4,29 +4,31 @@ const actualIcons = fs.readdirSync(icons);
 const web3 = require('web3');
 const utils = web3.utils;
 actualIcons.forEach(item => {
-  const extension = item.substr(item.length - 4, item.length);
-  const noExtension = item.replace(extension, '');
-  const addressStart = noExtension.indexOf(`-0x`);
-  const addressOnly = noExtension.substr(addressStart + 1, 42);
-  const addressWithNetwork = noExtension.substr(
-    addressStart + 1,
-    noExtension.length
-  );
-  const symbol = noExtension.substr(0, addressStart);
-  const network = addressWithNetwork.replace(addressOnly, '');
-  if (!utils.isAddress(addressOnly)) {
-    console.log('NOT AN ADDRESS', addressOnly);
-  } else {
-    const checksummed = `${symbol}-${utils.toChecksumAddress(
-      addressOnly
-    )}${network}${extension}`;
-    if (checksummed !== item) {
-      fs.rename(`${icons}/${item}`, `${icons}/${checksummed}`, err => {
-        if (err) throw err;
-        console.log(
-          `Renamed: ${icons}/${item} to ${icons}/${checksummed} successfully`
-        );
-      });
+  if (
+    item !== 'eth.svg' &&
+    item !== 'btc.svg' &&
+    item !== 'btc.png' &&
+    item !== '.DS_Store'
+  ) {
+    try {
+      const addressStart = item.indexOf('-0x');
+      const address = item.substr(addressStart + 1, 42);
+      const symbol = item.substr(0, addressStart);
+      const ending = item.substring(addressStart + 43, item.length);
+      const checksummed = `${symbol}-${utils.toChecksumAddress(
+        address
+      )}${ending}`;
+      if (checksummed !== item) {
+        fs.rename(`${icons}/${item}`, `${icons}/${checksummed}`, err => {
+          if (err) throw err;
+          console.log(
+            `Renamed: ${icons}/${item} to ${icons}/${checksummed} succesfully`
+          );
+        });
+      }
+    } catch (e) {
+      console.log('Errored on: ', item);
+      return;
     }
   }
 });
