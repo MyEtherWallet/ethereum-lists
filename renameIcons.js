@@ -8,7 +8,12 @@ actualIcons.forEach(item => {
     item !== 'eth.svg' &&
     item !== 'btc.svg' &&
     item !== 'btc.png' &&
-    item !== '.DS_Store'
+    item !== '.DS_Store' &&
+    item !== 'BNB-0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-bsc.png' &&
+    item !== 'BNB-0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png' &&
+    item !== 'ETH-0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.png' &&
+    item !== 'ETH-0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.svg' &&
+    item !== 'MATIC-0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-matic.svg'
   ) {
     try {
       const addressStart = item.indexOf('-0x');
