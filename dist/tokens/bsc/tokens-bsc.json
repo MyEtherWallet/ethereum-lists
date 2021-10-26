@@ -4266,6 +4266,38 @@
     }
   },
   {
+    "symbol": "DARA",
+    "name": "Immutable",
+    "type": "ERC20",
+    "address": "0x0255af6c9f86F6B0543357baCefA262A2664f80F",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://dara.global",
+    "logo": {
+      "src": "https://bscscan.com/token/images/immutable_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@dara.global", "url": "https://dara.global" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "https://dara.global/discord",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/daratoken",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "DART",
     "name": "dART Insurance",
     "type": "ERC20",

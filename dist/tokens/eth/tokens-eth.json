@@ -3957,6 +3957,38 @@
     }
   },
   {
+    "symbol": "AFN",
+    "address": "0xE46F290Cd59195a83e757891430d8D517d16b334",
+    "decimals": 18,
+    "name": "AltaFin",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://altafin.co",
+    "logo": {
+      "src": "https://images.ctfassets.net/dj2ij87ekk1y/6QLADorHyGFcr804X0spbG/a11f3a582c9f6b40bc7b010d481c9242/AltaFin-Logo-Square-700x.png",
+      "width": "700px",
+      "height": "700px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "help@altafin.co", "url": "https://altafin.co" },
+    "social": {
+      "blog": "https://altafin.co/updates",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/altafinprotocol",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/altafin/",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/altafinprotocol",
+      "twitter": "https://twitter.com/altafinprotocol",
+      "youtube": "",
+      "discord": "https://discord.gg/Xkcj95p2Gx"
+    }
+  },
+  {
     "symbol": "AGA",
     "name": "AGA Token",
     "type": "ERC20",
@@ -22770,6 +22802,38 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "BTP",
+    "name": "BitPlay",
+    "type": "ERC20",
+    "address": "0xD7eeD0FcDe8D805B6798cdA396968C25335cD379",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://bitplay.gg",
+    "logo": {
+      "src": "https://etherscan.io/token/images/bitplay_28.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "admin@bitplay.gg", "url": "https://bitplay.gg" },
+    "social": {
+      "blog": "",
+      "chat": "https://t.me/bitsport_finance",
+      "discord": "",
+      "facebook": "https://www.facebook.com/bitsport",
+      "forum": "",
+      "github": "https://github.com/bitsport",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/bitplay-gaming/",
+      "reddit": "https://www.reddit.com/r/bitsport",
+      "slack": "",
+      "telegram": "https://t.me/bitsport_finance",
+      "twitter": "https://twitter.com/officialbitplay",
       "youtube": ""
     }
   },
@@ -43445,6 +43509,38 @@
     }
   },
   {
+    "symbol": "ECGO",
+    "address": "0xa01b656E49Efbb8210D882A1F1A4d10F5CadA8cc",
+    "decimals": 18,
+    "name": "Eco Gold",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://ecgo.io",
+    "logo": {
+      "src": "https://static.ecgo.io/ecogold-ecgo-256x256.png",
+      "width": "256",
+      "height": "256",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@ecgo.io", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "discord": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "ECHT",
     "name": "e-Chat",
     "type": "ERC20",
@@ -52280,6 +52376,41 @@
     "website": "https://friendz.io",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "FEAR",
+    "name": "FEARLESS",
+    "type": "ERC20",
+    "address": "0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://fearless-coin.io/",
+    "logo": {
+      "src": "https://img1.wsimg.com/isteam/ip/e9647bcf-7710-42f7-9882-fd7c71abe0f0/logo1-removebg-preview.png/:/rs=h:100,cg:true,m",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "admin@fearless-coin.io",
+      "url": "https://fearless-coin.io"
+    },
     "social": {
       "blog": "",
       "chat": "",
@@ -143702,6 +143833,41 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "VOY",
+    "name": "enVoy Token",
+    "type": "ERC20",
+    "address": "0x2Ac8172D8Ce1C5Ad3D869556FD708801a42c1c0E",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://envoydefi.com",
+    "logo": {
+      "src": "https://etherscan.io/token/images/envoydefi_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@envoydefi.com",
+      "url": "https://envoydefi.com"
+    },
+    "social": {
+      "blog": "https://medium.com/@Envoydefi",
+      "chat": "",
+      "discord": "https://discord.gg/BSB7Mp2H",
+      "facebook": "https://www.facebook.com/Envoy-Defi-108041351471140",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/envoydefi",
+      "reddit": "https://www.reddit.com/r/Envoy/",
+      "slack": "",
+      "telegram": "",
+      "twitter": "https://twitter.com/Envoy_defi",
       "youtube": ""
     }
   },

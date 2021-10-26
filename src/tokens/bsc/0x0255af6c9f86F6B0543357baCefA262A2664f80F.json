@@ -6,7 +6,12 @@
   "ens_address": "",
   "decimals": 18,
   "website": "https://dara.global",
-  "logo": { "src": "https://bscscan.com/token/images/immutable_32.png", "width": "32px", "height": "32px", "ipfs_hash": "" },
+  "logo": {
+    "src": "https://bscscan.com/token/images/immutable_32.png",
+    "width": "32px",
+    "height": "32px",
+    "ipfs_hash": ""
+  },
   "support": { "email": "info@dara.global", "url": "https://dara.global" },
   "social": {
     "blog": "",
