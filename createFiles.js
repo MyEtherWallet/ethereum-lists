@@ -51,12 +51,10 @@ function createTokenFiles() {
       const obj = JSON.parse(
         fs.readFileSync(`${tokensDirectory}/${folder}/${file}`, 'utf8')
       );
-
       obj.address = utils.toChecksumAddress(obj.address);
       tokenArr.push(obj);
     });
     const writeArray = tokenArr.sort(function(a, b) {
-      // console.log(a, b);
       let aSym = a.symbol.toLowerCase();
       let bSym = b.symbol.toLowerCase();
       return aSym < bSym ? -1 : aSym > bSym ? 1 : 0;
