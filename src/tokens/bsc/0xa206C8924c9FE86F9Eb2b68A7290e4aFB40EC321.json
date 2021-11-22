@@ -1,35 +1,35 @@
 {
-"symbol": "MYMC",
-"name": "Msuri",
-"type": "BEP20",
-"address": "0xa206C8924c9FE86F9Eb2b68A7290e4aFB40EC321",
-"ens_address": "",
-"decimals": 2,
-"website": "https://dapp.asiaweb.com.my",
-"logo": {
-"src": "https://images.asiaweb.com.my/mymcicoo.png",
-"width": "32px",
-"height": "32px",
-"ipfs_hash": ""
-},
-"support": {
-"email": "office@asiaweb.com.my",
-"url": "https://mymc.asiaweb.com.my"
-},
-"social": {
-"blog": "https://mymc.asiaweb.com.my/blog",
-"chat": "http://telegram.mymc.biz.my",
-"discord": "https://discord.gg/mymctoken",
-"facebook": "https://www.facebook.com/mymctoken",
-"forum": "https://bitcointalk.org/index.php?topic=5237861.0",
-"github": "https://github.com/langkawidev",
-"gitter": "",
-"instagram": "http://ig.mymc.biz.my",
-"linkedin": "https://www.linkedin.com/company/mymctoken",
-"reddit": "https://www.reddit.com/r/mymctokenupdates",
-"slack": "",
-"telegram": "https://t.me/mymctokenupdates",
-"twitter": "https://twitter.mymc.biz.my",
-"youtube": "https://www.youtube.com/c/mymctoken"
-}
+  "symbol": "MYMC",
+  "name": "Msuri",
+  "type": "ERC20",
+  "address": "0xa206C8924c9FE86F9Eb2b68A7290e4aFB40EC321",
+  "ens_address": "",
+  "decimals": 2,
+  "website": "https://dapp.asiaweb.com.my",
+  "logo": {
+    "src": "https://images.asiaweb.com.my/mymcicoo.png",
+    "width": "32px",
+    "height": "32px",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "office@asiaweb.com.my",
+    "url": "https://mymc.asiaweb.com.my"
+  },
+  "social": {
+    "blog": "https://mymc.asiaweb.com.my/blog",
+    "chat": "http://telegram.mymc.biz.my",
+    "discord": "https://discord.gg/mymctoken",
+    "facebook": "https://www.facebook.com/mymctoken",
+    "forum": "https://bitcointalk.org/index.php?topic=5237861.0",
+    "github": "https://github.com/langkawidev",
+    "gitter": "",
+    "instagram": "http://ig.mymc.biz.my",
+    "linkedin": "https://www.linkedin.com/company/mymctoken",
+    "reddit": "https://www.reddit.com/r/mymctokenupdates",
+    "slack": "",
+    "telegram": "https://t.me/mymctokenupdates",
+    "twitter": "https://twitter.mymc.biz.my",
+    "youtube": "https://www.youtube.com/c/mymctoken"
+  }
 }
