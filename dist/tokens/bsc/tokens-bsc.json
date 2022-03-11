@@ -2835,6 +2835,41 @@
     }
   },
   {
+    "symbol": "CARLI",
+    "name": "CarlitoToken",
+    "type": "ERC20",
+    "address": "0x24e1bC89A6c50b8c2e0BdA3827bAfc0a8EA116c0",
+    "ens_address": "",
+    "decimals": 9,
+    "website": "https://carlitotoken.net",
+    "logo": {
+      "src": "https://bscscan.com/token/images/carlitotoken_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@carlitotoken.net",
+      "url": "https://carlitotoken.net"
+    },
+    "social": {
+      "blog": "https://carlitotoken.medium.com/",
+      "chat": "https://t.me/CarlitoToken_Official",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/CarlitoToken",
+      "slack": "",
+      "telegram": "https://t.me/CarlitoToken_Official",
+      "twitter": "https://twitter.com/CarlitoToken",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "CBIX",
     "name": "Cubiex",
     "type": "ERC20",
@@ -4320,6 +4355,38 @@
     }
   },
   {
+    "symbol": "DAF",
+    "name": "Diamonds are Forever",
+    "type": "BEP20",
+    "address": "0x8Fb1a59cA2d57B51e5971A85277EFe72c4492983",
+    "ens_address": "",
+    "decimals": 6,
+    "website": "https://daftoken.io",
+    "logo": {
+      "src": "https://raw.githubusercontent.com/daftoken/DAF/main/logo2.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@daftoken.io", "url": "https://daftoken.io" },
+    "social": {
+      "blog": "",
+      "chat": "https://t.me/kingcrypto83",
+      "discord": "https://discord.gg/DAFtoken#9454",
+      "facebook": "https://www.facebook.com/daftoken",
+      "forum": "",
+      "github": "https://github.com/daftoken/DAF",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/daf9token",
+      "twitter": "https://twitter.com/daf_token",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "DAI",
     "name": "Dai Token",
     "type": "ERC20",
@@ -5675,6 +5742,76 @@
     }
   },
   {
+    "symbol": "FBLX",
+    "address": "0xCd7B102d82b9a8F089669d2AFA74ad2A121AC137",
+    "decimals": 9,
+    "name": "Feblix Finance",
+    "type": "BEP20",
+    "ens_address": "",
+    "website": "https://feblix.finance",
+    "logo": {
+      "src": "https://feblix.finance/logo-128x128.png",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@feblix.finance",
+      "url": "https://feblix.finance"
+    },
+    "social": {
+      "blog": "https://medium.com/@feblixfinance",
+      "chat": "https://t.me/feblixgroup",
+      "discord": "",
+      "facebook": "https://www.facebook.com/feblixfinance",
+      "forum": "",
+      "github": "https://github.com/feblix",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/feblix.finance",
+      "linkedin": "https://www.linkedin.com/company/feblix-finance",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/feblixfinance",
+      "twitter": "https://twitter.com/feblixfinance",
+      "youtube": "https://www.youtube.com/channel/UCbArU-CPJa9FZgWnfPYJECA"
+    }
+  },
+  {
+    "symbol": "FBLX",
+    "name": "Feblix Finance",
+    "type": "BEP20",
+    "address": "0xCd7B102d82b9a8F089669d2AFA74ad2A121AC137",
+    "ens_address": "",
+    "decimals": 9,
+    "website": "https://feblix.finance",
+    "logo": {
+      "src": "https://feblix.finance/bscscan.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@feblix.finance",
+      "url": "https://feblix.finance"
+    },
+    "social": {
+      "blog": "https://medium.com/@feblixfinance",
+      "chat": "https://t.me/feblixgroup",
+      "discord": "https://discord.gg/Dgk74KUdQV",
+      "facebook": "https://www.facebook.com/feblixfinance",
+      "forum": "",
+      "github": "https://github.com/feblix",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/feblix.finance",
+      "linkedin": "https://www.linkedin.com/company/feblix-finance",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/feblixfinance",
+      "twitter": "https://twitter.com/FeblixFinance",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "FEB",
     "name": "FEB Token",
     "type": "ERC20",
@@ -6485,10 +6622,72 @@
     }
   },
   {
+    "symbol": "GOOSE",
+    "address": "0xfb11D7ffdE8D643F5368C62fA9943BceaBcB0c36",
+    "decimals": 2,
+    "name": "GooseCoin",
+    "type": "BEP20",
+    "ens_address": "",
+    "website": "https://www.thegoosecoin.com",
+    "logo": {
+      "src": "https://static.wixstatic.com/media/d34c98_84e946cf658e4e67b32eec5e35f0ded6~mv2.png",
+      "width": "150",
+      "height": "150",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "goosecoinoffical@gmail.com",
+      "url": "https://www.thegoosecoin.com"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/TheGooseCoin",
+      "slack": "",
+      "telegram": "https://t.me/GOOSECOIN",
+      "twitter": "https://twitter.com/The_Goose_Coin",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "GREEN",
     "name": "GreenToken",
     "type": "ERC20",
     "address": "0xa4FB1f591980e6E4eb4661A0D96df19A13D21aA7",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "GRM",
+    "name": "Green Money",
+    "type": "ERC20",
+    "address": "0xC8c6FC3c4f6342c5291e747268625f979A888EBF",
     "ens_address": "",
     "decimals": 18,
     "website": "",
@@ -9154,6 +9353,41 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "MUSD",
+    "name": "MetaDollars",
+    "type": "BEP20",
+    "address": "0x85C5Fbd34dAB134b867E39A6709962F54F0c442A",
+    "ens_address": "",
+    "decimals": 9,
+    "website": "https://metadollars.io",
+    "logo": {
+      "src": "https://metadollars.io/wp-content/uploads/2022/01/metadollars-logo-mini-1.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@metadollars.io",
+      "url": "https://metadollars.io"
+    },
+    "social": {
+      "blog": "",
+      "chat": "https://t.me/MetaDollarsBSC",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/MetaDollars/MetaDollars",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/MetaDollarsBSC",
+      "twitter": "https://twitter.com/MetaDollarsBSC",
       "youtube": ""
     }
   },

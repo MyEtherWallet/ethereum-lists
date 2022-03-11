@@ -133,7 +133,7 @@ ABIs associated with contract addresses.
 - `comment`: Any notes or comment about the contract
 - `abi`: The contract abi
 
-Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/contracts): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
+Please make sure that you name the files by their address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/contracts): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
 
 ## Tokens
 
@@ -147,9 +147,9 @@ Information related to tokens. ERC-20 compliant only (For now).
 - `decimal`: The decimals of the token.
 - `logo`: An optional logo of your token. Must be a **square** (recommended: 128x128) PNG w/ transparent background. Please compress using https://tinypng.com/
 - `support`: A support email, support URL, or other way people can get assistance regarding the token.
-- `social`: Where details about the token is
+- `social`: Where details about the token are.
 
-Please make sure that you name the files by its address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
+Please make sure that you name the files by their address. You can see examples [here](https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens): https://github.com/MyEtherWallet/ethereum-lists/tree/master/src/tokens
 
 #### Development
 

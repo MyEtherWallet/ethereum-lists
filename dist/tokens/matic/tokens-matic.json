@@ -6245,6 +6245,33 @@
     }
   },
   {
+    "symbol": "PYR",
+    "name": "Vulcan Forged",
+    "type": "ERC20",
+    "address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "PZAP",
     "name": "PolyZap",
     "type": "ERC20",
@@ -8140,7 +8167,7 @@
     "type": "ERC20",
     "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
     "ens_address": "",
-    "decimals": 18,
+    "decimals": 8,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
