@@ -23,7 +23,7 @@ const constraints = {
       allowEmpty: false
     },
     inclusion: {
-      within: ['ERC20', 'ERC223', 'ERC721', 'ERC777']
+      within: ['ERC20', 'ERC223', 'ERC721', 'ERC777', 'BEP20']
     },
     type: 'string'
   },
@@ -145,25 +145,29 @@ function checkToken() {
   let errors = 0;
   fs.readdirSync(tokensDirectory).forEach(folder => {
     fs.readdirSync(`${tokensDirectory}/${folder}`).forEach(file => {
-      if (
-        path.extname(file) === '.json' &&
-        web3.utils.isAddress(file.replace('.json', ''))
-      ) {
-        const fullPath = `${tokensDirectory}/${folder}/${file}`;
-        const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
-        validateObject(constraints, obj, fullPath);
-        if (validate(obj, constraints) !== undefined) {
-          const errs = validate(obj, constraints);
-          Object.keys(errs).forEach(key => {
-            console.error(
-              `${errs[key][0]} for ${file} in ${tokensDirectory}/${folder}`
-            );
-          });
-          errors += 1;
+      try {
+        if (
+          path.extname(file) === '.json' &&
+          web3.utils.isAddress(file.replace('.json', ''))
+        ) {
+          const fullPath = `${tokensDirectory}/${folder}/${file}`;
+          const obj = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+          validateObject(constraints, obj, fullPath);
+          if (validate(obj, constraints) !== undefined) {
+            const errs = validate(obj, constraints);
+            Object.keys(errs).forEach(key => {
+              console.error(
+                `${errs[key][0]} for ${file} in ${tokensDirectory}/${folder}`
+              );
+            });
+            errors += 1;
+          }
+        } else {
+          console.error(`Incorrect file name or file extension for: ${file}`);
+          process.exit(1);
         }
-      } else {
-        console.error(`Incorrect file name or file extension for: ${file}`);
-        process.exit(1);
+      } catch (e) {
+        console.log('or here?', tokensDirectory, folder, file);
       }
     });
   });

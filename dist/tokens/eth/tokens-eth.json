@@ -3687,6 +3687,41 @@
     }
   },
   {
+    "symbol": "ADCO",
+    "name": "Advertise Coin",
+    "type": "ERC20",
+    "address": "0xB6c3DC857845a713d3531cea5ac546F6767992F4",
+    "ens_address": "",
+    "decimals": 6,
+    "website": "https://advertisecoin.com",
+    "logo": {
+      "src": "https://etherscan.io/token/images/advertisecoin_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "support@advertiscoin.com",
+      "url": "https://advertisecoin.com"
+    },
+    "social": {
+      "blog": "https://advertisecoin.medium.com",
+      "chat": "https://t.me/advertisecoin",
+      "discord": "",
+      "facebook": "https://www.facebook.com/advertisecoincom",
+      "forum": "",
+      "github": "https://github.com/advertisecoin",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/advertisecoin",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/advertisecoin",
+      "twitter": "https://twitter.com/advertisecoin",
+      "youtube": "https://www.youtube.com/c/AdvertiseCoin"
+    }
+  },
+  {
     "symbol": "ADDC",
     "name": "Aladdin",
     "type": "ERC20",
@@ -21878,6 +21913,41 @@
     }
   },
   {
+    "symbol": "BRUH",
+    "address": "0xe6D2a9fCD946E07826C6cdd919DA04763eA4D812",
+    "decimals": 18,
+    "name": "Bruh",
+    "type": "ERC20",
+    "ens_address": "",
+    "website": "https://bruhcrypto.org",
+    "logo": {
+      "src": "https://imgur.com/gallery/3ZyIBzh",
+      "width": "400",
+      "height": "400",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "bruhofficial@bruhcrypto.org",
+      "url": "https://bruhcrypto.org"
+    },
+    "social": {
+      "blog": "https://t.me/bruhcrypto",
+      "chat": "https://t.me/bruhcrypto",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/bruhtokeno/bruhtokeno",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/youengine-io",
+      "reddit": "https://reddit.com/r/bruhcrypto",
+      "slack": "",
+      "telegram": "https://t.me/bruhcrypto",
+      "twitter": "https://twitter.com/bruhtokeno",
+      "youtube": "https://www.youtube.com/channel/UCfpjmsJMmRKAs6Ff9MPAzsQ"
+    }
+  },
+  {
     "symbol": "BRX",
     "name": "BEEREX",
     "type": "ERC20",
@@ -31128,6 +31198,41 @@
     }
   },
   {
+    "symbol": "CNDL",
+    "name": "Candle",
+    "type": "ERC20",
+    "address": "0xbc138bD20C98186CC0342C8e380953aF0cb48BA8",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://candlelabs.org",
+    "logo": {
+      "src": "https://i.ibb.co/NSpWHmX/candlelogo-32x32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@candlelabs.org",
+      "url": "https://candlelabs.org"
+    },
+    "social": {
+      "blog": "https://candlelabs.org/blog",
+      "chat": "https://t.me/candlelabs",
+      "discord": "https://discord.gg/candle",
+      "facebook": "https://www.facebook.com/candlelabs",
+      "forum": "https://community.candlelabs.org/",
+      "github": "https://github.com/candleplatforms",
+      "gitter": "",
+      "instagram": "https://instagram.com/candlelabs",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/cndl",
+      "slack": "",
+      "telegram": "https://t.me/candlelabs",
+      "twitter": "https://twitter.com/candle_labs",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "CNFI",
     "name": "Connect Financial",
     "type": "ERC20",
@@ -32563,6 +32668,38 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "COSHIB",
+    "name": "Shiba Inu VS COVID",
+    "type": "ERC20",
+    "address": "0x24456F2786d975973a0905Fd53236c8311cc3006",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://coshib.com",
+    "logo": {
+      "src": "https://coshib.com/?attachment_id=149",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@coshib.com", "url": "https://coshib.com" },
+    "social": {
+      "blog": "",
+      "chat": "https://t.me/coshib",
+      "discord": "",
+      "facebook": "https://www.facebook.com/coshibcom",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/r/coshib",
+      "slack": "",
+      "telegram": "https://t.me/coshib",
+      "twitter": "https://twitter.com/coshibcom",
       "youtube": ""
     }
   },
@@ -34837,6 +34974,41 @@
       "facebook": "",
       "forum": "",
       "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "CRYN",
+    "name": "CRYNCOIN",
+    "type": "ERC20",
+    "address": "0x51Bb3aB03Ab49ec5CB3883705949657838a015FD",
+    "ens_address": "",
+    "decimals": 8,
+    "website": "https://cryncoin.io",
+    "logo": {
+      "src": "https://metadollars.io/wp-content/uploads/2022/01/metadollars-logo-mini-1.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "sec.tecnica.prome@gmail.com",
+      "url": "https://cryncoin.io"
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/CRYNCOIN",
       "gitter": "",
       "instagram": "",
       "linkedin": "",
