@@ -7,6 +7,10 @@ const matic = 'https://tokens.coingecko.com/polygon-pos/all.json';
 const eth = 'https://tokens.coingecko.com/ethereum/all.json';
 const fetch = require('node-fetch');
 
+const isAddress = address => {
+  return address && utils.isHexStrict(address) && utils.isAddress(address);
+};
+
 function fileProcessor(address, obj) {
   const list = JSON.parse(
     fs.readFileSync(
@@ -67,7 +71,7 @@ function generateMissingToken() {
   const notInList = [];
   addressOnly.forEach(obj => {
     const addr = obj.address;
-    if (utils.isAddress(addr)) {
+    if (isAddress(addr)) {
       const inExclusionList = exclusion.find(item => {
         const splitAddress = item.split(/[^a-z0-9+]+/gi);
         return (
@@ -98,7 +102,10 @@ function generateMissingToken() {
       return res.json();
     })
     .then(data => {
-      fs.writeFileSync('bscTokens.json', JSON.stringify(data.tokens));
+      fs.writeFileSync(
+        'bscTokens.json',
+        JSON.stringify(data.tokens.filter(t => isAddress(t.address)))
+      );
       console.log('Success on fetching data for bsc');
     })
     .catch(e => {
@@ -109,7 +116,10 @@ function generateMissingToken() {
       return res.json();
     })
     .then(data => {
-      fs.writeFileSync('maticTokens.json', JSON.stringify(data.tokens));
+      fs.writeFileSync(
+        'maticTokens.json',
+        JSON.stringify(data.tokens.filter(t => isAddress(t.address)))
+      );
       console.log('Success on fetching data for matic');
     })
     .catch(e => {
@@ -120,7 +130,10 @@ function generateMissingToken() {
       return res.json();
     })
     .then(data => {
-      fs.writeFileSync('ethTokens.json', JSON.stringify(data.tokens));
+      fs.writeFileSync(
+        'ethTokens.json',
+        JSON.stringify(data.tokens.filter(t => isAddress(t.address)))
+      );
       console.log('Success on fetching data for eth');
     })
     .catch(e => {
