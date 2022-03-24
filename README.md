@@ -156,6 +156,24 @@ Please make sure that you name the files by their address. You can see examples 
 on terminal, run: `git clone git@github.com:MyEtherWallet/ethereum-lists.git; cd ethereum-lists`  
 and then run: `npm run compile; npm run test:checkToken; npm run test:checkContract; npm run lint` to compile
 
+#### Importing new Icons
+
+1.  unzip icons into root
+2.  `renameIcons.js` - set var icons to path of extracted folder
+3.  `node renameIcons`
+4.  move files into src/icons
+5.  `node generateMissingTokenListFromIcons`
+6.  `node createTokens`
+7.  delete files/folders
+    - maticTokens.json
+    - bscTokens.json
+    - ethTokens.json
+    - notinlist.json
+    - extracted folder from step 1
+8.  `npm run test`
+9.  `npm run compile`
+10. `npm run lint`
+
 #### A last note
 
 This list is maintained by volunteers in the cryptocurrency community &amp; people like you around the internet. It may not always be up to date, and it may occasionally get it wrong. If you find an error or omission, please open an issue or make a PR with any corrections.
