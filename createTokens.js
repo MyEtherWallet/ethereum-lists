@@ -1,5 +1,6 @@
 const fs = require('fs');
 const Web3 = require('web3');
+const { timer } = require('./utils');
 const utils = Web3.utils;
 const notInListPath = './notinlist.json';
 const notInList = JSON.parse(fs.readFileSync(notInListPath));
@@ -8,21 +9,28 @@ const networks = {
   matic: 'maticTokens.json',
   bsc: 'bscTokens.json'
 };
+const cache = {};
 
 function createToken(obj) {
-  const tokens = JSON.parse(fs.readFileSync(networks[obj.network]));
-  const found = tokens.find(item => {
-    const objAddress = obj.address.replace(/\s/g, '');
-    const addressIdx = item.address.indexOf('0x');
-    const itemAddress = item.address
-      .substring(addressIdx, item.address.length)
-      .replace(/\s/g, '');
-    return (
-      utils.toChecksumAddress(objAddress) ===
-      utils.toChecksumAddress(itemAddress)
-    );
-  });
-  if (found) {
+  if (!cache.eth) {
+    console.log('Caching tokens');
+    let nets = ['eth', 'matic', 'bsc'];
+    nets.forEach(network => {
+      const tokens = JSON.parse(fs.readFileSync(networks[network]));
+      tokens.forEach(token => {
+        const address = token.address
+          .substring(token.address.indexOf('0x'), token.address.length)
+          .replace(/\s/g, '');
+        cache[network] = {
+          [utils.toChecksumAddress(address)]: token,
+          ...cache[network]
+        };
+      });
+    });
+  }
+  const address = utils.toChecksumAddress(obj.address.replace(/\s/g, ''));
+  const token = cache[obj.network][address];
+  if (token) {
     const tokenTemp = {
       symbol: '',
       name: '',
@@ -59,10 +67,10 @@ function createToken(obj) {
       }
     };
     const newTokenCopy = Object.assign({}, tokenTemp, {
-      symbol: found.symbol,
-      name: found.name,
+      symbol: token.symbol,
+      name: token.name,
       address: utils.toChecksumAddress(obj.address),
-      decimals: found.decimals
+      decimals: token.decimals
     });
     fs.writeFileSync(
       `./src/tokens/${obj.network}/${utils.toChecksumAddress(
@@ -75,8 +83,7 @@ function createToken(obj) {
 }
 
 function parseTokens() {
-  for (let index = 0; index < notInList.length; index++) {
-    createToken(notInList[index]);
-  }
+  notInList.forEach(i => createToken(i));
 }
-parseTokens();
+
+timer(parseTokens);
