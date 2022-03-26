@@ -6,36 +6,28 @@ const bsc = 'https://tokens.coingecko.com/binance-smart-chain/all.json';
 const matic = 'https://tokens.coingecko.com/polygon-pos/all.json';
 const eth = 'https://tokens.coingecko.com/ethereum/all.json';
 const fetch = require('node-fetch');
-const { timer, isAddress } = require('./utils');
 
-const cache = {};
+const isAddress = address => {
+  return address && utils.isHexStrict(address) && utils.isAddress(address);
+};
 
 function fileProcessor(address, obj) {
-  if (!cache[obj.network]) {
-    console.log(`Caching network: ${obj.network}`);
-    const list = JSON.parse(
-      fs.readFileSync(
-        `./dist/tokens/${obj.network}/tokens-${obj.network}.json`,
-        'utf8'
-      )
-    );
-    list.forEach(
-      item =>
-        (cache[obj.network] = { [item.address]: item, ...cache[obj.network] })
-    );
-  }
-  const token = cache[obj.network][address];
-  if (!token) {
-    console.log(`processed: ${address} in ${obj.network}`);
-    return obj;
-  }
-  const validAddress =
-    address.substring(0, 2) === '0x' &&
-    address.length === 42 &&
-    utils.toChecksumAddress(token.address) === utils.toChecksumAddress(address)
-      ? true
-      : false;
-  if (!validAddress) {
+  const list = JSON.parse(
+    fs.readFileSync(
+      `./dist/tokens/${obj.network}/tokens-${obj.network}.json`,
+      'utf8'
+    )
+  );
+  const found = list.find(item => {
+    if (
+      address.substring(0, 2) === '0x' &&
+      address.length === 42 &&
+      utils.toChecksumAddress(item.address) === utils.toChecksumAddress(address)
+    ) {
+      return item;
+    }
+  });
+  if (!found) {
     console.log(`processed: ${address} in ${obj.network}`);
     return obj;
   }
@@ -94,7 +86,7 @@ function generateMissingToken() {
         } else {
           const attemptNetworks = ['eth', 'bsc', 'matic'];
           attemptNetworks.forEach(item => {
-            const copyObj = { ...obj, network: item };
+            const copyObj = Object.assign({}, obj, { network: item });
             const processedFile = fileProcessor(addr, copyObj);
             if (processedFile) notInList.push(processedFile);
           });
@@ -148,4 +140,5 @@ function generateMissingToken() {
       console.log('Error on fetching data for eth');
     });
 }
-timer(generateMissingToken);
+
+generateMissingToken();

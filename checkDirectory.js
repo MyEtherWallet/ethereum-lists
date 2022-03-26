@@ -29,8 +29,7 @@ const whitelist = [
   'renameToChecksum.js',
   'src',
   'validateObject.js',
-  '.vscode',
-  'utils.js'
+  '.vscode'
 ];
 
 function checkDirectory() {
