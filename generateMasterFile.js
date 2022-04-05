@@ -17,6 +17,7 @@ function generateMasterFile() {
     if (addr.includes('-0x')) {
       addr = addr.split('-0x')[1].split('.');
       addr = `0x${addr[0].split('-')[0]}`;
+      addr = addr.split('_')[0];
     }
 
     if (img.includes('.png') && !imageCache.png[addr])
