@@ -14,8 +14,8 @@ function generateMasterFile() {
   const imageCache = { png: {}, svg: {} };
   images.forEach(img => {
     let addr = img;
-    if (addr.includes('0x')) {
-      addr = addr.split('0x')[1].split('.');
+    if (addr.includes('-0x')) {
+      addr = addr.split('-0x')[1].split('.');
       addr = `0x${addr[0].split('-')[0]}`;
     }
 
