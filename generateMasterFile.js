@@ -10,6 +10,21 @@ const CONTRACT_LINK =
 function generateMasterFile() {
   const mainArr = [];
   const folderNames = fs.readdirSync(MAIN_SRC);
+  const images = fs.readdirSync(IMG_SRC);
+  const imageCache = { png: {}, svg: {} };
+  images.forEach(img => {
+    let addr = img;
+    if (addr.includes('-0x')) {
+      addr = addr.split('-0x')[1].split('.');
+      addr = `0x${addr[0].split('-')[0]}`;
+      addr = addr.split('_')[0];
+    }
+
+    if (img.includes('.png') && !imageCache.png[addr])
+      imageCache.png[addr] = `${ICON_LINK}${img}`;
+    else if (img.includes('.svg') && !imageCache.svg[addr])
+      imageCache.svg[addr] = `${ICON_LINK}${img}`;
+  });
   folderNames.forEach(folderName => {
     const distFiles = fs.readdirSync(`${MAIN_SRC}/${folderName}`);
     const readFile = JSON.parse(
@@ -20,35 +35,23 @@ function generateMasterFile() {
     });
 
     if (trimmedOffBurner.length > 0) {
-      const images = fs.readdirSync(IMG_SRC);
       trimmedOffBurner.forEach(item => {
-        const matchedImagePng = images.find(img => {
-          return (
-            img.includes(`${utils.toChecksumAddress(item.address)}`) &&
-            img.includes('.png')
-          );
-        });
-        const matchedImage = images.find(img => {
-          return (
-            img.includes(`${utils.toChecksumAddress(item.address)}`) &&
-            img.includes('.svg')
-          );
-        });
+        const address = utils.toChecksumAddress(item.address);
+        const matchedImagePng = imageCache.png[address];
+        const matchedImage = imageCache.svg[address];
         mainArr.push({
           network: folderName,
           symbol: item.symbol,
           name: item.name,
           decimals: item.decimals,
-          contract_address: utils.toChecksumAddress(item.address),
+          contract_address: address,
           icon: !!matchedImage
-            ? `${ICON_LINK}${matchedImage}`
+            ? matchedImage
             : !!matchedImagePng
-            ? `${ICON_LINK}${matchedImagePng}`
+            ? matchedImagePng
             : '',
-          icon_png: !!matchedImagePng ? `${ICON_LINK}${matchedImagePng}` : '',
-          link: `${CONTRACT_LINK}${folderName}/${utils.toChecksumAddress(
-            item.address
-          )}.json`,
+          icon_png: !!matchedImagePng ? matchedImagePng : '',
+          link: `${CONTRACT_LINK}${folderName}/${address}.json`,
           website: item.website
         });
       });
