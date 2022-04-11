@@ -1,5 +1,5 @@
 const fs = require('fs');
-const icons = './path-to-file';
+const icons = fs.readdirSync('./').find(f => f.includes('PNG'));
 const actualIcons = fs.readdirSync(icons);
 const web3 = require('web3');
 const utils = web3.utils;

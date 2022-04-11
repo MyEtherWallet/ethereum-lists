@@ -13,7 +13,8 @@
     "test:checkMasterFile": "node checkMasterFile.js",
     "test": "npm run test:checkToken; npm run test:checkContract; npm run test:checkNft; npm run test:checkMasterFile",
     "compile": "node compile.js",
-    "precommit": "pretty-quick --staged"
+    "precommit": "pretty-quick --staged",
+    "clean": "rm notinlist.json maticTokens.json ethTokens.json bscTokens.json; node clean.js"
   },
   "license": "ISC",
   "bugs": {
