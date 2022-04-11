@@ -11,6 +11,7 @@ const whitelist = [
   'checkContract.js',
   'checkDirectory.js',
   'checkLogos.js',
+  'clean.js',
   'checkMasterFile.js',
   'checkNfts.js',
   'checkToken.js',
