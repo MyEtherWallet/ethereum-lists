@@ -51,7 +51,6 @@ function generateMissingToken() {
     '0xef68e7c694f40c8202821edf525de3782458639f-eth',
     '0x85e076361cc813a908ff672f9bad1541474402b2-eth', // TEL token migrated
     '0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A-eth', // contract getting included from icons
-    '0xacfc95585d80ab62f67a14c566c1b7a49fe91167-eth', // not erc tokens
     '0x71850b7e9ee3f13ab46d67167341e4bdc905eef9-eth', // not erc tokens
     '0x1C5b760F133220855340003B43cC9113EC494823-eth', // self destructed
     '0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A-eth', // ????
