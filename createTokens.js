@@ -9,7 +9,9 @@ const networks = {
   matic: 'maticTokens.json',
   bsc: 'bscTokens.json'
 };
+
 const cache = {};
+let tokenCount = 0;
 
 function createToken(obj) {
   if (!cache.eth) {
@@ -18,18 +20,18 @@ function createToken(obj) {
     nets.forEach(network => {
       const tokens = JSON.parse(fs.readFileSync(networks[network]));
       tokens.forEach(token => {
-        const address = token.address
-          .substring(token.address.indexOf('0x'), token.address.length)
-          .replace(/\s/g, '');
+        const address = utils.toChecksumAddress(token.address);
         cache[network] = {
-          [utils.toChecksumAddress(address)]: token,
+          [address]: token,
           ...cache[network]
         };
       });
+      console.log('%s cashed', network);
     });
   }
-  const address = utils.toChecksumAddress(obj.address.replace(/\s/g, ''));
+  const address = utils.toChecksumAddress(obj.address);
   const token = cache[obj.network][address];
+
   if (token) {
     const tokenTemp = {
       symbol: '',
@@ -79,11 +81,13 @@ function createToken(obj) {
       JSON.stringify(newTokenCopy)
     );
     console.log(`Successfully created: ${obj.address} in ${obj.network}`);
+    tokenCount++;
   }
 }
 
 function parseTokens() {
   notInList.forEach(i => createToken(i));
+  console.log('%s tokens processed', tokenCount);
 }
 
 timer(parseTokens);

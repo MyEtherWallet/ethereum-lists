@@ -15,12 +15,14 @@ exports.timer = fn => {
   time /= 60;
   const h = time;
   const mls = ms ? `${ms}ms` : '';
-  const secounds = s ? `${s}s ` : '';
+  const seconds = s ? `${s}s ` : '';
   const minutes = m ? `${m}m ` : '';
   const hours = h ? `${h}h ` : ' ';
-  console.log(`Completed in:${hours}${minutes}${secounds}${mls}`);
+  console.log(`Completed in:${hours}${minutes}${seconds}${mls}`);
 };
 
 exports.isAddress = address => {
   return address && utils.isHexStrict(address) && utils.isAddress(address);
 };
+
+exports.print = val => `${JSON.stringify(val, null, 2)}\n`;

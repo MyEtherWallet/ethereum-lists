@@ -6,10 +6,10 @@ const bsc = 'https://tokens.coingecko.com/binance-smart-chain/all.json';
 const matic = 'https://tokens.coingecko.com/polygon-pos/all.json';
 const eth = 'https://tokens.coingecko.com/ethereum/all.json';
 const fetch = require('node-fetch');
-const { timer, isAddress } = require('./utils');
+const { timer, isAddress, print } = require('./utils');
 
 const cache = {};
-
+let processedCount = 0;
 function fileProcessor(address, obj) {
   if (!cache[obj.network]) {
     console.log(`Caching network: ${obj.network}`);
@@ -26,7 +26,7 @@ function fileProcessor(address, obj) {
   }
   const token = cache[obj.network][address];
   if (!token) {
-    console.log(`processed: ${address} in ${obj.network}`);
+    processedCount++;
     return obj;
   }
   const validAddress =
@@ -36,7 +36,7 @@ function fileProcessor(address, obj) {
       ? true
       : false;
   if (!validAddress) {
-    console.log(`processed: ${address} in ${obj.network}`);
+    processedCount++;
     return obj;
   }
 }
@@ -103,7 +103,8 @@ function generateMissingToken() {
       console.log('errored:', obj.address);
     }
   });
-  fs.writeFileSync('notinlist.json', JSON.stringify(notInList));
+  console.log('processed %s files', processedCount);
+  fs.writeFileSync('notinlist.json', print(notInList));
   fetch(bsc)
     .then(res => {
       return res.json();
@@ -111,7 +112,7 @@ function generateMissingToken() {
     .then(data => {
       fs.writeFileSync(
         'bscTokens.json',
-        JSON.stringify(data.tokens.filter(t => isAddress(t.address)))
+        print(data.tokens.filter(t => isAddress(t.address)))
       );
       console.log('Success on fetching data for bsc');
     })
@@ -125,7 +126,7 @@ function generateMissingToken() {
     .then(data => {
       fs.writeFileSync(
         'maticTokens.json',
-        JSON.stringify(data.tokens.filter(t => isAddress(t.address)))
+        print(data.tokens.filter(t => isAddress(t.address)))
       );
       console.log('Success on fetching data for matic');
     })
@@ -139,7 +140,7 @@ function generateMissingToken() {
     .then(data => {
       fs.writeFileSync(
         'ethTokens.json',
-        JSON.stringify(data.tokens.filter(t => isAddress(t.address)))
+        print(data.tokens.filter(t => isAddress(t.address)))
       );
       console.log('Success on fetching data for eth');
     })

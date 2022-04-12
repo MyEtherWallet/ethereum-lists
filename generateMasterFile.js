@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { print } = require('./utils');
 const utils = require('web3').utils;
 const MAIN_SRC = './dist/tokens';
 const IMG_SRC = './src/icons';
@@ -58,7 +59,7 @@ function generateMasterFile() {
     }
   });
 
-  fs.writeFileSync('./dist/master-file.json', JSON.stringify(mainArr));
+  fs.writeFileSync('./dist/master-file.json', print(mainArr));
 }
 
 module.exports = generateMasterFile;
