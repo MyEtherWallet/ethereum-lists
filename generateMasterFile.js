@@ -26,7 +26,7 @@ function generateMasterFile() {
     else if (img.includes('.svg') && !imageCache.svg[addr])
       imageCache.svg[addr] = `${ICON_LINK}${img}`;
     else if (!img.includes('.png') && !img.includes('.svg'))
-      console.log('\nBad File Type:\n%', img);
+      console.log('\nBad File Type:\n%s', img);
   });
   folderNames.forEach(folderName => {
     const distFiles = fs.readdirSync(`${MAIN_SRC}/${folderName}`);
