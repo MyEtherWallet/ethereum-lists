@@ -1,6 +1,6 @@
 const fs = require('fs');
 const Web3 = require('web3');
-const { timer } = require('./utils');
+const { timer, print } = require('./utils');
 const utils = Web3.utils;
 const notInListPath = './notinlist.json';
 const notInList = JSON.parse(fs.readFileSync(notInListPath));
@@ -78,7 +78,8 @@ function createToken(obj) {
       `./src/tokens/${obj.network}/${utils.toChecksumAddress(
         obj.address
       )}.json`,
-      JSON.stringify(newTokenCopy)
+      print(newTokenCopy),
+      { encoding: 'utf-8' }
     );
     console.log(`Successfully created: ${obj.address} in ${obj.network}`);
     tokenCount++;
