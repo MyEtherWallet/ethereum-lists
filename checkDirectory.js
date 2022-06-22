@@ -31,7 +31,8 @@ const whitelist = [
   'src',
   'validateObject.js',
   '.vscode',
-  'utils.js'
+  'utils.js',
+  'checkMissingLinks.js'
 ];
 
 function checkDirectory() {
