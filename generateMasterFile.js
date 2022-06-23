@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { print } = require('./utils');
+const { print, getAddress } = require('./utils');
 const utils = require('web3').utils;
 const MAIN_SRC = './dist/tokens';
 const IMG_SRC = './src/icons';
@@ -14,12 +14,7 @@ function generateMasterFile() {
   const images = fs.readdirSync(IMG_SRC);
   const imageCache = { png: {}, svg: {} };
   images.forEach(img => {
-    let addr = img;
-    if (addr.includes('-0x')) {
-      addr = addr.split('-0x')[1].split('.');
-      addr = `0x${addr[0].split('-')[0]}`;
-      addr = addr.split('_')[0];
-    }
+    let addr = getAddress(img);
 
     if (img.includes('.png') && !imageCache.png[addr])
       imageCache.png[addr] = `${ICON_LINK}${img}`;
