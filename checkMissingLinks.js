@@ -9,6 +9,7 @@ const iconsDir = fs.readdirSync('./src/icons', { encoding: 'utf-8' });
 const master = JSON.parse(masterFile);
 const nets = ['eth', 'matic', 'bnb'];
 
+console.log('Missing Links:');
 master.forEach(i => {
   if (
     !i.icon &&
@@ -23,6 +24,7 @@ master.forEach(i => {
   }
 });
 
+console.log('Unused Icons:');
 iconsDir.forEach(i => {
   i = getAddress(i);
   if (!i) return;
