@@ -11799,6 +11799,38 @@
     }
   },
   {
+    "symbol": "IZZZY",
+    "name": "IzzzyCoin",
+    "type": "ERC20",
+    "address": "0xA198c90fd67c5d3e96C830a18705C8705F3ae3b0",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://izzzy.xyz/",
+    "logo": {
+      "src": "https://i.imgur.com/MelH9Nj.png",
+      "width": "128px",
+      "height": "128px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "contact@izzzy.xyz", "url": "https://izzzy.xyz/" },
+    "social": {
+      "discord": "https://discord.gg/RMka34MTEC",
+      "github": "https://github.com/izzzy-xyz",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "https://www.linkedin.com/company/izzzy/",
+      "slack": "",
+      "twitter": "https://twitter.com/izzzy_xyz",
+      "blog": "",
+      "chat": "",
+      "facebook": "",
+      "forum": "",
+      "reddit": "",
+      "telegram": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "JAGUAR",
     "name": "JaguarSwap",
     "type": "ERC20",
@@ -26495,6 +26527,33 @@
     }
   },
   {
+    "symbol": "XEN",
+    "name": "XEN Crypto",
+    "type": "ERC20",
+    "address": "0x2AB0e9e4eE70FFf1fB9D67031E44F6410170d00e",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "XEND",
     "name": "Xend Finance",
     "type": "ERC20",
@@ -26771,6 +26830,33 @@
     "address": "0xD921F8318cfd786baB1ea7492673F053c518Ac04",
     "ens_address": "",
     "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "XSGD",
+    "name": "XSGD",
+    "type": "ERC20",
+    "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+    "ens_address": "",
+    "decimals": 6,
     "website": "",
     "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
