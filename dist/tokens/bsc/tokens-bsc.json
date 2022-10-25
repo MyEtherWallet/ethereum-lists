@@ -34108,6 +34108,38 @@
     }
   },
   {
+    "symbol": "IOM",
+    "name": "Jupyter",
+    "type": "BEP20",
+    "address": "0xD6ea4ec77fB7e0d5c331F9109f00CcEdE255b9C8",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://jupyter.tech",
+    "logo": {
+      "src": "https://bscscan.com/token/images/jupyter_32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@jupyter.tech", "url": "https://jupyter.tech" },
+    "social": {
+      "blog": "https://jupyter.tech/tutorials",
+      "chat": "https://t.me/jupyterofficial",
+      "discord": "",
+      "facebook": "https://www.facebook.com/JupyterToken/",
+      "github": "https://github.com/jupyter-network",
+      "instagram": "https://www.instagram.com/jupytertoken/",
+      "telegram": "https://t.me/jupyterofficial",
+      "twitter": "https://twitter.com/younive87630435",
+      "forum": "",
+      "gitter": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "IONZ",
     "name": "IONZ",
     "type": "ERC20",
@@ -44233,6 +44265,41 @@
     }
   },
   {
+    "symbol": "MOTF",
+    "name": "Museum Of The Future",
+    "type": "BEP20",
+    "address": "0x22B01399ABC321f409DC694A1548653d77838E9E",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://museumofthefuture.tech/",
+    "logo": {
+      "src": "https://museumofthefuture.tech/images/logo32.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "marketing@museumofthefuture.tech",
+      "url": "https://museumofthefuture.tech"
+    },
+    "social": {
+      "blog": "https://medium.com/@motftoken",
+      "chat": "https://t.me/Motfgroup",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/motftoken",
+      "gitter": "",
+      "instagram": "https://www.instagram/motftoken",
+      "linkedin": "",
+      "reddit": "https://reddit.com/r/motftoken",
+      "slack": "",
+      "telegram": "https://t.me/Motftoken",
+      "twitter": "https://twitter.com/motftoken/",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "MOVE",
     "name": "MarketMove",
     "type": "ERC20",
@@ -46298,6 +46365,38 @@
       "telegram": "",
       "twitter": "",
       "youtube": ""
+    }
+  },
+  {
+    "symbol": "NDB",
+    "name": "NDB",
+    "type": "BEP20",
+    "address": "0xf8028b65005B0B45f76988d2A77910186E7af4eF",
+    "ens_address": "",
+    "decimals": 12,
+    "website": "https://ndb.money",
+    "logo": {
+      "src": "https://bscscan.com/token/images/ndbmoney_32.png",
+      "width": "32",
+      "height": "32",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "info@ndb.money", "url": "https://help.nyyu.io" },
+    "social": {
+      "blog": "https://medium.com/@ndbmoney",
+      "chat": "",
+      "discord": "",
+      "facebook": "https://www.facebook.com/ndbtechnology",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/ndbtechnology",
+      "linkedin": "https://www.linkedin.com/company/ndbtechnology",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/ndbtechnology",
+      "twitter": "https://twitter.com/ndbmoney",
+      "youtube": "https://www.youtube.com/c/NDBplus"
     }
   },
   {
@@ -51751,6 +51850,41 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "PIGGY",
+    "address": "0x4947880C81dC23C8bfE2E66Cda1b5fbeF583ac4c",
+    "decimals": 9,
+    "name": "Pink Piggy",
+    "type": "BEP20",
+    "ens_address": "",
+    "website": "https://www.pinkpiggy.org/",
+    "logo": {
+      "src": "https://ibb.co/d4BPSVq",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "contact@pinkpiggy.org",
+      "url": "https://www.pinkpiggy.org/"
+    },
+    "social": {
+      "blog": "https://bitcointalk.org/index.php?topic=5397349.msg60047239#msg60047239",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "https://github.com/pinkpiggybsc",
+      "gitter": "",
+      "instagram": "https://instagram.com/pinkpiggybsc",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/PinkPiggyPortal",
+      "twitter": "https://twitter.com/pinkpiggybsc",
       "youtube": ""
     }
   },
@@ -61495,6 +61629,41 @@
       "slack": "",
       "telegram": "",
       "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "SHICO",
+    "name": "Shiba Coffee Token",
+    "type": "BEP20",
+    "address": "0x5191e3E1D5249A485a5d876b709B05E011b9D7A9",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "http://shibacoffeetoken.com",
+    "logo": {
+      "src": "https://i.ibb.co/gT46K0H/IMG-20220531-162818.png",
+      "width": "32px",
+      "height": "32px",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "shibacoffeetoken@gmail.com",
+      "url": "http://shibacoffeetoken.com"
+    },
+    "social": {
+      "blog": "",
+      "chat": "https://t.me/ShibaCoffeeToken",
+      "discord": "https://discord.gg/xTSnSzYSe6",
+      "facebook": "https://facebook.com/ShibaCoffeeToken",
+      "forum": "https://bitcointalk.org/index.php?topic=5389910.0",
+      "github": "https://github.com/ShibaCoffeeToken",
+      "gitter": "",
+      "instagram": "https://www.instagram.com/ShibaCoffeeToken",
+      "linkedin": "",
+      "reddit": "https://www.reddit.com/user/ShibaCoffeeToken",
+      "slack": "",
+      "telegram": "https://t.me/ShibaCoffeeToken",
+      "twitter": "https://twitter.com/Shiba_Coffee_",
       "youtube": ""
     }
   },
