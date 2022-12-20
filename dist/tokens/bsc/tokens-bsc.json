@@ -81271,6 +81271,33 @@
   },
   {
     "symbol": "USDT",
+    "name": "Tether USD  Wormhole",
+    "type": "ERC20",
+    "address": "0x524bC91Dc82d6b90EF29F76A3ECAaBAffFD490Bc",
+    "ens_address": "",
+    "decimals": 6,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "USDT",
     "name": "Tether USD",
     "type": "BEP20",
     "address": "0x55d398326f99059fF775485246999027B3197955",
