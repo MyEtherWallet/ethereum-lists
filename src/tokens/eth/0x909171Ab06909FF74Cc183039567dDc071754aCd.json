@@ -1,35 +1,36 @@
 {
-"symbol": "PLSU",
-"name": "Pulse UNITY Token",
-"type": "ERC20",
-"address": "0x909171Ab06909FF74Cc183039567dDc071754aCd",
-"ens_address": "",
-"decimals": 18,
-"website": "https://pulseunity.com",
-"logo": "{
-"src": "https://img1.wsimg.com/isteam/ip/807686ed-b578-4aa5-8515-74002c34a085/android-chrome-192x192.png/:/rs=w:134,h:134,cg:true,m/cr=w:134,h:134/qt=q:100/ll",
-"width": "32px",
-"height": "32px",
-"ipfs_hash": "ipfs://bdecb04fd983890772160bdba6f70d9e1ee363afb6ee75e56fb5c9b0ad548c5c"
-},
-"support": {
-"email": "admin@pulseunity.com",
-"url": "https://pulseunity.com"
-},
-"social": {
-"blog": "https://pulseunity.com/blog",
-"chat": "https://t.me/pulseunity1",
-"discord": "",
-"facebook": "https://www.facebook.com/pulseunity1",
-"forum": "",
-"github": "https://github.com/YOUengine",
-"gitter": "",
-"instagram": "https://www.instagram.com/pulseunity1/",
-"linkedin": "https://www.linkedin.com/company/pulse-unity/?viewAsMember=true",
-"reddit": "",
-"slack": "",
-"telegram": "https://t.me/YouEngineGroup",
-"twitter": "https://www.twitter.com/pulseunity69",
-"youtube": "https://https://www.youtube.com/channel/UCWF7lnY49eXNFfDjTFqFNRg"
+  "symbol": "PLSU",
+  "name": "Pulse UNITY Token",
+  "type": "ERC20",
+  "address": "0x909171Ab06909FF74Cc183039567dDc071754aCd",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://pulseunity.com",
+  "logo": {
+    "src": "https://img1.wsimg.com/isteam/ip/807686ed-b578-4aa5-8515-74002c34a085/android-chrome-192x192.png/:/rs=w:134,h:134,cg:true,m/cr=w:134,h:134/qt=q:100/ll",
+    "width": "32px",
+    "height": "32px",
+    "ipfs_hash": "ipfs://bdecb04fd983890772160bdba6f70d9e1ee363afb6ee75e56fb5c9b0ad548c5c"
+  },
+  "support": {
+    "email": "admin@pulseunity.com",
+    "url": "https://pulseunity.com"
+  },
+  "social": {
+    "blog": "https://pulseunity.com/blog",
+    "chat": "https://t.me/pulseunity1",
+    "discord": "",
+    "facebook": "https://www.facebook.com/pulseunity1",
+    "forum": "",
+    "github": "https://github.com/YOUengine",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/pulseunity1/",
+    "linkedin": "https://www.linkedin.com/company/pulse-unity/?viewAsMember=true",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/YouEngineGroup",
+    "twitter": "https://www.twitter.com/pulseunity69",
+    "youtube": "https://www.youtube.com/channel/UCWF7lnY49eXNFfDjTFqFNRg"
+  }
 }
-}
+
