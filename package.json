@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
+    "url": "https://github.com/MyEtherWallet/ethereum-lists.git"
   },
   "scripts": {
     "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '!{dist}/**/**/*.min.json' './{js,json}' '!./node_modules'",

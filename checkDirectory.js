@@ -19,13 +19,13 @@ const whitelist = [
   'dist',
   'generateMasterFile.js',
   'node_modules',
-  'package-lock.json',
   'package.json',
   'recreateFiles.js',
   'renameToChecksum.js',
   'src',
   'stale.yml',
-  'validateObject.js'
+  'validateObject.js',
+  'yarn.lock'
 ];
 
 function checkDirectory() {
