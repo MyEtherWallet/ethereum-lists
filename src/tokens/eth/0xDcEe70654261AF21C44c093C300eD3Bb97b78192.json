@@ -1,0 +1,35 @@
+{
+"symbol": "wOETH",
+"name": "Wrapped OETH",
+"type": "ERC20",
+"address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+"ens_address": "woeth.eth",
+"decimals": 18,
+"website": "https://oeth.com",
+"logo": {
+"src": "https://github.com/OriginProtocol/origin-website/blob/master/static/img/coins/woeth-32x32.png",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "peter@originprotocol.com",
+"url": "originprotocol.com"
+},
+"social": {
+"blog": "https://blog.originprotocol.com/",
+"chat": "https://t.me/originprotocol",
+"discord": "https://discord.com/invite/ogn",
+"facebook": "https://www.facebook.com/originprotocol/",
+"forum": "",
+"github": "https://github.com/originprotocol",
+"gitter": "",
+"instagram": "https://instagram.com/originprotocol",
+"linkedin": "https://www.linkedin.com/company/originprotocol/",
+"reddit": "https://www.reddit.com/r/originprotocol/",
+"slack": "",
+"telegram": "https://t.me/originprotocol",
+"twitter": "https://twitter.com/OriginProtocol",
+"youtube": "https://www.youtube.com/c/originprotocol"
+}
+}
