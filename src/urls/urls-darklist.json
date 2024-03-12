@@ -12,10 +12,6 @@
     "comment": "Phishing: Fake WalletConnect Stealing private keys."
   },
   {
-    "id": "allnodedap.com",
-    "comment": "Phishing: Fake node `validation` Stealing private keys."
-  },
-  {
     "id": "backendweb.online",
     "comment": "Phishing: Mainnet Stealing private keys."
   },
@@ -188,10 +184,6 @@
     "comment": "Phish. Raiden. Fake crowdsale site"
   },
   {
-    "id": "artoken.co",
-    "comment": "Phish. Artoken. Fake crowdsale site"
-  },
-  {
     "id": "stormtoken.site",
     "comment": "Phish. Storm. Fake crowdsale site"
   },
@@ -320,15 +312,7 @@
     "comment": "Phish: Bittrex. Fake site stealing private keys."
   },
   {
-    "id": "alrswap.io",
-    "comment": "Phish: Airswap. Fake crowdsale site"
-  },
-  {
     "id": "airswap.cc",
-    "comment": "Phish: Airswap. Fake crowdsale site"
-  },
-  {
-    "id": "airswaptoken.com",
     "comment": "Phish: Airswap. Fake crowdsale site"
   },
   {
@@ -660,10 +644,6 @@
     "comment": "Phish: smartcontract.com fake crowdsale site."
   },
   {
-    "id": "air-token.com",
-    "comment": "Phish: airtoken.com fake crowdsale site. HTTrack fingerprint"
-  },
-  {
     "id": "centra.credit",
     "comment": "Phish: centra.tech fake crowdsale site. Paid Google ad"
   },
@@ -674,10 +654,6 @@
   {
     "id": "0xtoken.io",
     "comment": "Phish: phishing private key by pretending 0x swap"
-  },
-  {
-    "id": "augurproject.co",
-    "comment": "Phish: phishing private key by pretending airdrop of augur"
   },
   {
     "id": "bittrex.comze.com",
@@ -760,10 +736,6 @@
     "comment": "Fake Address/Site: https://smartcontract.com/link"
   },
   {
-    "id": "aragonproject.io",
-    "comment": "Fake Address/Site: Aragon"
-  },
-  {
     "id": "aragon.im",
     "comment": "Fake Address/Site: Aragon, stealing keys, sending airdrop DM's in Slacks"
   },
@@ -774,10 +746,6 @@
   {
     "id": "aventus.group",
     "comment": "Fake Address/Site: Aventus.io"
-  },
-  {
-    "id": "atlant.solutions",
-    "comment": "Fake Address/Site: Atlant.io"
   },
   {
     "id": "change-bank.org",
@@ -1138,10 +1106,6 @@
   {
     "id": "karbon.vacau.com",
     "comment": "Scam site of karbon.io"
-  },
-  {
-    "id": "account-kigo.net",
-    "comment": ""
   },
   {
     "id": "bitcoin-wallet.net",
