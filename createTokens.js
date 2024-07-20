@@ -43,8 +43,8 @@ function createToken(obj) {
       website: '',
       logo: {
         src: '',
-        width: '',
-        height: '',
+        inline-size: '',
+        block-size: '',
         ipfs_hash: ''
       },
       support: {
