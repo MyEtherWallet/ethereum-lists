@@ -1,4 +1,5 @@
- run-name: giga
+giga
+run-name: giga
  
  # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
@@ -11,8 +12,10 @@
 name: Deno
 
 on:
-  push:
+  push
     branches: ["master"]
+    run
+    
   pull_request:
     branches: ["master"]
 
