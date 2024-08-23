@@ -13,6 +13,7 @@ const constraints = {
         'akroma',
         'ath',
         'bsc',
+        'base',
         'clo',
         'egem',
         'ella',
