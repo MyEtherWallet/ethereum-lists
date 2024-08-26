@@ -41,7 +41,13 @@ const constraints = {
         'tt',
         'ubq',
         'web',
-        'wtc'
+        'wtc',
+        'aa',
+        'aat',
+        'amoy',
+        'coti',
+        'holesky',
+        'xdc'
       ]
     },
     type: 'string'
