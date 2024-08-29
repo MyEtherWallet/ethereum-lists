@@ -1,6 +1,5 @@
 const fs = require('fs');
-const icons = fs.readdirSync('./').find(f => f.includes('PNG'));
-const actualIcons = fs.readdirSync(icons);
+const actualIcons = fs.readdirSync('./src/icons');
 const web3 = require('web3');
 const utils = web3.utils;
 actualIcons.forEach(item => {
@@ -25,15 +24,15 @@ actualIcons.forEach(item => {
         address
       )}${ending}`;
       if (checksummed !== item) {
-        fs.rename(`${icons}/${item}`, `${icons}/${checksummed}`, err => {
+        fs.rename(`./src/icons/${item}`, `./src/icons/${checksummed}`, err => {
           if (err) throw err;
           console.log(
-            `Renamed: ${icons}/${item} to ${icons}/${checksummed} succesfully`
+            `Renamed: ./src/icons/${item} to ./src/icons/${checksummed} succesfully`
           );
         });
       }
     } catch (e) {
-      console.log('Errored on: ', item);
+      console.log('Errored on:', item, e);
       return;
     }
   }
