@@ -1,10 +1,11 @@
-const ethIcons = './src/icons';
+const ethIcons = './icons';
 const web3 = require('web3');
 const utils = web3.utils;
 const fs = require('fs');
 const bsc = 'https://tokens.coingecko.com/binance-smart-chain/all.json';
 const matic = 'https://tokens.coingecko.com/polygon-pos/all.json';
 const eth = 'https://tokens.coingecko.com/ethereum/all.json';
+const base = 'https://tokens.coingecko.com/base/all.json';
 const fetch = require('node-fetch');
 const { timer, isAddress, print } = require('./utils');
 
@@ -91,7 +92,7 @@ function generateMissingToken() {
           const processedFile = fileProcessor(addr, obj);
           if (processedFile) notInList.push(processedFile);
         } else {
-          const attemptNetworks = ['eth', 'bsc', 'matic'];
+          const attemptNetworks = ['eth', 'bsc', 'matic', 'base'];
           attemptNetworks.forEach(item => {
             const copyObj = { ...obj, network: item };
             const processedFile = fileProcessor(addr, copyObj);
@@ -146,6 +147,20 @@ function generateMissingToken() {
     })
     .catch(e => {
       console.log('Error on fetching data for eth');
+    });
+  fetch(base)
+    .then(res => {
+      return res.json();
+    })
+    .then(data => {
+      fs.writeFileSync(
+        'baseTokens.json',
+        print(data.tokens.filter(t => isAddress(t.address)))
+      );
+      console.log('Success on fetching data for base');
+    })
+    .catch(e => {
+      console.log('Error on fetching data for base');
     });
 }
 timer(generateMissingToken);

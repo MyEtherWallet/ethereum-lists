@@ -7,7 +7,8 @@ const notInList = JSON.parse(fs.readFileSync(notInListPath));
 const networks = {
   eth: 'ethTokens.json',
   matic: 'maticTokens.json',
-  bsc: 'bscTokens.json'
+  bsc: 'bscTokens.json',
+  base: 'baseTokens.json'
 };
 
 const cache = {};
@@ -16,7 +17,7 @@ let tokenCount = 0;
 function createToken(obj) {
   if (!cache.eth) {
     console.log('Caching tokens');
-    let nets = ['eth', 'matic', 'bsc'];
+    let nets = ['eth', 'matic', 'bsc', 'base'];
     nets.forEach(network => {
       const tokens = JSON.parse(fs.readFileSync(networks[network]));
       tokens.forEach(token => {
