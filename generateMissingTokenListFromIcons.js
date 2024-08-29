@@ -1,4 +1,4 @@
-const ethIcons = './icons';
+const ethIcons = './src/icons';
 const web3 = require('web3');
 const utils = web3.utils;
 const fs = require('fs');
