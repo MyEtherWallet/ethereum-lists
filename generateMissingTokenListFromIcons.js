@@ -3,7 +3,7 @@ const web3 = require('web3');
 const utils = web3.utils;
 const fs = require('fs');
 const bsc = 'https://tokens.coingecko.com/binance-smart-chain/all.json';
-const matic = 'https://tokens.coingecko.com/polygon-pos/all.json';
+const pol = 'https://tokens.coingecko.com/polygon-pos/all.json';
 const eth = 'https://tokens.coingecko.com/ethereum/all.json';
 const base = 'https://tokens.coingecko.com/base/all.json';
 const fetch = require('node-fetch');
@@ -48,7 +48,7 @@ function generateMissingToken() {
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-eth',
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
     '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-bsc',
-    '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-matic',
+    '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-pol',
     '0xef68e7c694f40c8202821edf525de3782458639f-eth',
     '0x85e076361cc813a908ff672f9bad1541474402b2-eth', // TEL token migrated
     '0xd4260e4Bfb354259F5e30279cb0D7F784Ea5f37A-eth', // contract getting included from icons
@@ -92,7 +92,7 @@ function generateMissingToken() {
           const processedFile = fileProcessor(addr, obj);
           if (processedFile) notInList.push(processedFile);
         } else {
-          const attemptNetworks = ['eth', 'bsc', 'matic', 'base'];
+          const attemptNetworks = ['eth', 'bsc', 'pol', 'base'];
           attemptNetworks.forEach(item => {
             const copyObj = { ...obj, network: item };
             const processedFile = fileProcessor(addr, copyObj);
@@ -120,19 +120,19 @@ function generateMissingToken() {
     .catch(e => {
       console.log('Error on fetching data for bsc');
     });
-  fetch(matic)
+  fetch(pol)
     .then(res => {
       return res.json();
     })
     .then(data => {
       fs.writeFileSync(
-        'maticTokens.json',
+        'polTokens.json',
         print(data.tokens.filter(t => isAddress(t.address)))
       );
-      console.log('Success on fetching data for matic');
+      console.log('Success on fetching data for pol');
     })
     .catch(e => {
-      console.log('Error on fetching data for matic');
+      console.log('Error on fetching data for pol');
     });
   fetch(eth)
     .then(res => {

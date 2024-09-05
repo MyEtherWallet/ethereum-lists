@@ -28,7 +28,7 @@ const constraints = {
         'iolite',
         'kov',
         'mix',
-        'matic',
+        'pol',
         'music',
         'pirl',
         'poa',

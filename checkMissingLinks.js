@@ -7,7 +7,7 @@ const {
 const masterFile = fs.readFileSync('./dist/master-file.json');
 const iconsDir = fs.readdirSync('./src/icons', { encoding: 'utf-8' });
 const master = JSON.parse(masterFile);
-const nets = ['eth', 'matic', 'bsc', 'base'];
+const nets = ['eth', 'pol', 'bsc', 'base'];
 
 console.log('Missing Links:');
 master.forEach(i => {
