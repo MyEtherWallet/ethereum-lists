@@ -1,27 +1,27 @@
 {
-  "symbol": "PAW",
-  "name": "PAW",
+  "symbol": "wPAW",
+  "name": "Wrapped PAW",
   "type": "ERC20",
   "address": "0xc11158c5dA9db1D553ED28f0C2BA1CbEDD42CFcb",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
-  "support": { "email": "", "url": "" },
+  "website": "https://pawchain.net",
+  "logo": { "src": "https://s2.coinmarketcap.com/static/img/coins/200x200/23404.png", "width": "200", "height": "200", "ipfs_hash": "" },
+  "support": { "email": "team@pawchain.net", "url": "" },
   "social": {
-    "blog": "",
+    "blog": "https://pawchain.net/blog",
     "chat": "",
-    "discord": "",
+    "discord": "https://discord.gg/pawecosystem",
     "facebook": "",
     "forum": "",
     "github": "",
     "gitter": "",
     "instagram": "",
     "linkedin": "",
-    "reddit": "",
+    "reddit": "https://www.reddit.com/r/PAWTechnology/",
     "slack": "",
-    "telegram": "",
-    "twitter": "",
-    "youtube": ""
+    "telegram": "https://t.me/pawecosystem",
+    "twitter": "https://x.com/PAWChain",
+    "youtube": "https://www.youtube.com/@pawecosystem"
   }
 }
