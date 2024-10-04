@@ -1,15 +1,15 @@
 {
 "symbol": "SPCTR",
-"address": "0xB29E475B69F843046A757747943C00DCe8a3d982",
-"decimals": 9,
 "name": "Spectre (SPCTR)",
 "type": "ERC20",
+"address": "0xB29E475B69F843046A757747943C00DCe8a3d982",
 "ens_address": "",
+"decimals": 9,
 "website": "https://spectre.quest/",
 "logo": {
 "src": "https://i.ibb.co/8rxRtsN/Spectre-256.png",
-"width": "256",
-"height": "256",
+"width": "256px",
+"height": "256px",
 "ipfs_hash": ""
 },
 "support": {
@@ -19,6 +19,7 @@
 "social": {
 "blog": "",
 "chat": "",
+"discord": "",
 "facebook": "",
 "forum": "",
 "github": "",
