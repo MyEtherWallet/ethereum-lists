@@ -1,0 +1,35 @@
+{
+  "name": "ethereum-lists",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyEtherWallet/ethereum-lists.git"
+  },
+  "scripts": {
+    "lint": "prettier --config ./.prettierrc --ignore-path ./.prettierignore --write '{src,dist}/**/*.json' '{src}/**/**/*.json' '*./{js,json}' --loglevel warn",
+    "test:checkToken": "node checkToken.js",
+    "test:checkContract": "node checkContract.js",
+    "test:checkNft": "node checkNfts.js",
+    "test:checkMasterFile": "node checkMasterFile.js",
+    "test": "npm run test:checkToken; npm run test:checkContract; npm run test:checkNft; npm run test:checkMasterFile",
+    "compile": "node compile.js",
+    "precommit": "pretty-quick --staged",
+    "clean": "rm notinlist.json maticTokens.json ethTokens.json bscTokens.json; node clean.js"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyEtherWallet/ethereum-lists/issues"
+  },
+  "homepage": "https://github.com/MyEtherWallet/ethereum-lists#readme",
+  "devDependencies": {
+    "eslint-plugin-json": "^1.2.1",
+    "husky": "^0.14.3",
+    "pretty-quick": "^1.6.0",
+    "web3": "^1.8.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "prettier": "^1.14.2",
+    "validate.js": "^0.13.1"
+  }
+}

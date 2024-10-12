@@ -26,7 +26,7 @@ function createToken(obj) {
           ...cache[network]
         };
       });
-      console.log('%s cashed', network);
+      console.log('%s cached', network);
     });
   }
   const address = utils.toChecksumAddress(obj.address);
