@@ -32,7 +32,8 @@ const whitelist = [
   'validateObject.js',
   '.vscode',
   'utils.js',
-  'checkMissingLinks.js'
+  'checkMissingLinks.js',
+  'generateFromCoingecko.js'
 ];
 
 function checkDirectory() {
