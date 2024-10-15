@@ -1,1 +1,27 @@
-{"symbol":"WRBTC","name":"Wrapped RBTC on RSK","type":"ERC20","address":"0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0","ens_address":"","decimals":18,"website":"","logo":{"src":"","width":"","height":"","ipfs_hash":""},"support":{"email":"","url":""},"social":{"blog":"","chat":"","discord":"","facebook":"","forum":"","github":"","gitter":"","instagram":"","linkedin":"","reddit":"","slack":"","telegram":"","twitter":"","youtube":""}}
+{
+  "symbol": "WRBTC",
+  "name": "Wrapped RBTC on RSK",
+  "type": "ERC20",
+  "address": "0x967F8799aF07dF1534d48A95a5C9FEBE92c53AE0",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "discord": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
