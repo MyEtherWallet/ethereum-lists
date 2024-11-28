@@ -5,8 +5,8 @@
   "address": "0x38C2a4a7330b22788374B8Ff70BBa513C8D848cA",
   "ens_address": "",
   "decimals": 18,
-  "website": "",
-  "logo": { "src": "https://res.cloudinary.com/dk1kgznug/image/upload/fl_preserve_transparency/v1732781070/truf-token-wallet-logo_pdvm9n.jpg", "width": "", "height": "", "ipfs_hash": "" },
+  "website": "https://truflation.com",
+  "logo": { "src": "https://res.cloudinary.com/dk1kgznug/image/upload/fl_preserve_transparency/v1732781070/truf-token-wallet-logo_pdvm9n.jpg", "width": "68px", "height": "68px", "ipfs_hash": "" },
   "support": { "email": "", "url": "" },
   "social": {
     "blog": "",
@@ -21,7 +21,7 @@
     "reddit": "",
     "slack": "",
     "telegram": "",
-    "twitter": "",
+    "twitter": "https://x.com/truflation",
     "youtube": ""
   }
 }
