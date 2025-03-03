@@ -30,6 +30,7 @@ const constraints = {
         'kov',
         'mix',
         'pol',
+        'op',
         'matic',
         'music',
         'pirl',

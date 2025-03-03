@@ -6,6 +6,7 @@ const bsc = 'https://tokens.coingecko.com/binance-smart-chain/all.json';
 const pol = 'https://tokens.coingecko.com/polygon-pos/all.json';
 const eth = 'https://tokens.coingecko.com/ethereum/all.json';
 const base = 'https://tokens.coingecko.com/base/all.json';
+const op = 'https://tokens.coingecko.com/optimistic-ethereum/all.json';
 const fetch = require('node-fetch');
 const { timer, isAddress, print } = require('./utils');
 
@@ -92,7 +93,7 @@ function generateMissingToken() {
           const processedFile = fileProcessor(addr, obj);
           if (processedFile) notInList.push(processedFile);
         } else {
-          const attemptNetworks = ['eth', 'bsc', 'pol', 'base'];
+          const attemptNetworks = ['eth', 'bsc', 'pol', 'base', 'op'];
           attemptNetworks.forEach(item => {
             const copyObj = { ...obj, network: item };
             const processedFile = fileProcessor(addr, copyObj);
@@ -161,6 +162,20 @@ function generateMissingToken() {
     })
     .catch(e => {
       console.log('Error on fetching data for base');
+    });
+  fetch(op)
+    .then(res => {
+      return res.json();
+    })
+    .then(data => {
+      fs.writeFileSync(
+        'opTokens.json',
+        print(data.tokens.filter(t => isAddress(t.address)))
+      );
+      console.log('Success on fetching data for op');
+    })
+    .catch(e => {
+      console.log('Error on fetching data for op');
     });
 }
 timer(generateMissingToken);

@@ -8,7 +8,8 @@ const networks = {
   eth: 'ethTokens.json',
   pol: 'polTokens.json',
   bsc: 'bscTokens.json',
-  base: 'baseTokens.json'
+  base: 'baseTokens.json',
+  op: 'opTokens.json'
 };
 
 const cache = {};
@@ -17,7 +18,7 @@ let tokenCount = 0;
 function createToken(obj) {
   if (!cache.eth) {
     console.log('Caching tokens');
-    let nets = ['eth', 'pol', 'bsc', 'base'];
+    let nets = ['eth', 'pol', 'bsc', 'base', 'op'];
     nets.forEach(network => {
       const tokens = JSON.parse(fs.readFileSync(networks[network]));
       tokens.forEach(token => {
