@@ -1,0 +1,35 @@
+{
+"symbol": "OETH",
+"name": "Origin Ether",
+"type": "ERC20",
+"address": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+"ens_address": "origineth.eth",
+"decimals": 18,
+"website": "https://oeth.com",
+"logo": {
+"src": "https://github.com/OriginProtocol/origin-website/blob/master/static/img/coins/oeth-32x32.png",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "peter@originprotocol.com",
+"url": "originprotocol.com"
+},
+"social": {
+"blog": "https://blog.originprotocol.com/",
+"chat": "https://t.me/originprotocol",
+"discord": "https://discord.com/invite/ogn",
+"facebook": "https://www.facebook.com/originprotocol/",
+"forum": "",
+"github": "https://github.com/originprotocol",
+"gitter": "",
+"instagram": "https://instagram.com/originprotocol",
+"linkedin": "https://www.linkedin.com/company/originprotocol/",
+"reddit": "https://www.reddit.com/r/originprotocol/",
+"slack": "",
+"telegram": "https://t.me/originprotocol",
+"twitter": "https://twitter.com/OriginProtocol",
+"youtube": "https://www.youtube.com/c/originprotocol"
+}
+}
