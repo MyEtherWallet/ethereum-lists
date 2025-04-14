@@ -1,7 +1,7 @@
 # Ethereum-lists
 
 [![Travis (.org)](https://img.shields.io/travis/MyEtherWallet/ethereum-lists.svg)](https://travis-ci.org/MyEtherWallet/ethereum-lists)
-[![GitHub](https://img.shields.io/github/license/MyEtherWallet/ethereum-lists.svg)](https://github.com/MyEtherWallet/ethereum-lists/)
+[![GitHub](https://img.shields.io/github/license/MyEtherWallet/ethereum-lists.svg)](https://github.com/MyEtherWallet/ethereum-lists/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/MyEtherWallet/ethereum-lists.svg)](https://github.com/MyEtherWallet/ethereum-lists)
 
 A repository for maintaining lists of things like malicious URLs, fake token addresses, and so forth. We love lists.
