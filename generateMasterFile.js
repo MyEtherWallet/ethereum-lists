@@ -56,6 +56,20 @@ function generateMasterFile() {
     }
   });
 
+  mainArr.push({
+    network: 'btc',
+    symbol: 'BTC',
+    name: 'Bitcoin',
+    decimals: 8,
+    contract_address: '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee',
+    icon:
+      'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/btc.svg',
+    icon_png:
+      'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/btc.png',
+    link: '',
+    website: ''
+  });
+
   fs.writeFileSync('./dist/master-file.json', print(mainArr));
 }
 
