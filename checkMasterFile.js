@@ -51,18 +51,24 @@ const constraints = {
         'coti',
         'holesky',
         'xdc',
-        'btc' // cross chain
+        'btc', // cross chain
+        'sol',
+        'dot'
       ]
     },
     type: 'string'
   },
   contract_address: function(value) {
-    if (web3.utils.isAddress(value)) {
+    if (
+      web3.utils.isAddress(value) ||
+      /^[1-9A-HJ-NP-Za-km-z]{32,44}$/.test(value) ||
+      /^1[a-zA-Z0-9]{47}$/.test(value)
+    ) {
       return null;
     }
     return {
       presence: { message: 'Token Address missing' },
-      length: { is: 42 }
+      length: { minimum: 32 }
     };
   },
   icon: {

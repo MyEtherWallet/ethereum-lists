@@ -66,28 +66,28 @@ function generateMasterFile() {
         const mainURL =
           'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/';
 
-        console.log(addr.split('-'));
+        if (addr.length < 32) return;
         mainArr.push({
           network: isSol ? 'sol' : isDot ? 'dot' : 'sol',
           symbol: symbol,
           name: symbol,
           decimals: 0,
           contract_address: addr,
-          icon: `${mainURL}${
+          icon: `${
             imageCache.png[addr]
               ? imageCache.png[addr]
               : imageCache.svg[addr]
               ? imageCache.svg[addr]
               : ''
           }`,
-          icon_png: `${mainURL}${
+          icon_png: `${
             imageCache.png[addr]
               ? imageCache.png[addr]
               : imageCache.svg[addr]
               ? imageCache.svg[addr]
               : ''
           }`,
-          link: `${mainURL}${
+          link: `${
             imageCache.png[addr]
               ? imageCache.png[addr]
               : imageCache.svg[addr]
