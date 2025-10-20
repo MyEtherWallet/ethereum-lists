@@ -21,6 +21,7 @@ const whitelist = [
   'dist',
   'generateCSV.js',
   'generateMasterFile.js',
+  'generateSolMasterFile.js',
   'generateMissingTokenListFromIcons.js',
   'node_modules',
   'package-lock.json',

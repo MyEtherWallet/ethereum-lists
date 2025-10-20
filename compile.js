@@ -3,6 +3,7 @@ const createFiles = require('./createFiles');
 const recreateFiles = require('./recreateFiles');
 const renameToChecksum = require('./renameToChecksum');
 const generateMasterFile = require('./generateMasterFile');
+const generateSolMasterFile = require('./generateSolMasterFile');
 
 function compile() {
   try {
@@ -17,6 +18,8 @@ function compile() {
     console.log('Renamed files to checksum!');
     generateMasterFile();
     console.log('Generate master-file');
+    generateSolMasterFile();
+    console.log('Generate sol-master-file');
     console.log('Done');
   } catch (error) {
     console.log(error);
