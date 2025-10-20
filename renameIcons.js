@@ -1,6 +1,7 @@
 const fs = require('fs');
 const actualIcons = fs.readdirSync('./src/icons');
 const web3 = require('web3');
+const { isAddress } = require('./utils');
 const utils = web3.utils;
 actualIcons.forEach(item => {
   if (
@@ -20,6 +21,7 @@ actualIcons.forEach(item => {
       const address = item.substr(addressStart + 1, 42);
       const symbol = item.substr(0, addressStart);
       const ending = item.substring(addressStart + 43, item.length);
+      if (!isAddress(address)) return;
       const checksummed = `${symbol}-${utils.toChecksumAddress(
         address
       )}${ending}`;
@@ -32,7 +34,7 @@ actualIcons.forEach(item => {
         });
       }
     } catch (e) {
-      console.log('Errored on:', item, e);
+      console.log('Errored on:', item);
       return;
     }
   }

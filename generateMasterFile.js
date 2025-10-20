@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { print, getAddress } = require('./utils');
+const { print, getAddress, isAddress } = require('./utils');
 const utils = require('web3').utils;
 const MAIN_SRC = './dist/tokens';
 const IMG_SRC = './src/icons';
@@ -55,7 +55,50 @@ function generateMasterFile() {
       });
     }
   });
+  [...Object.keys(imageCache.png), ...Object.keys(imageCache.svg)].forEach(
+    addr => {
+      // non-evm address
+      if (!isAddress(addr)) {
+        const isSol = /^[1-9A-HJ-NP-Za-km-z]{32,44}$/.test(addr);
+        const isDot = /^1[a-zA-Z0-9]{47}$/.test(addr);
+        const split = addr.split('-');
+        const symbol = split[0];
+        const mainURL =
+          'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/';
 
+        console.log(addr.split('-'));
+        mainArr.push({
+          network: isSol ? 'sol' : isDot ? 'dot' : 'sol',
+          symbol: symbol,
+          name: symbol,
+          decimals: 0,
+          contract_address: addr,
+          icon: `${mainURL}${
+            imageCache.png[addr]
+              ? imageCache.png[addr]
+              : imageCache.svg[addr]
+              ? imageCache.svg[addr]
+              : ''
+          }`,
+          icon_png: `${mainURL}${
+            imageCache.png[addr]
+              ? imageCache.png[addr]
+              : imageCache.svg[addr]
+              ? imageCache.svg[addr]
+              : ''
+          }`,
+          link: `${mainURL}${
+            imageCache.png[addr]
+              ? imageCache.png[addr]
+              : imageCache.svg[addr]
+              ? imageCache.svg[addr]
+              : ''
+          }`,
+          website: ''
+        });
+      }
+    }
+  );
   mainArr.push({
     network: 'btc',
     symbol: 'BTC',
