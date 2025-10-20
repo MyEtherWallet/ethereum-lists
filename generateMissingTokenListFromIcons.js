@@ -102,7 +102,7 @@ function generateMissingToken() {
         }
       }
     } else {
-      console.log('errored:', obj.address);
+      console.log('errored:', obj);
     }
   });
   console.log('processed %s files', processedCount);

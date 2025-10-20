@@ -50,7 +50,8 @@ const constraints = {
         'amoy',
         'coti',
         'holesky',
-        'xdc'
+        'xdc',
+        'btc' // cross chain
       ]
     },
     type: 'string'

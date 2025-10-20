@@ -66,7 +66,8 @@ function generateMasterFile() {
       'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/btc.svg',
     icon_png:
       'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/btc.png',
-    link: '',
+    link:
+      'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/btc.svg',
     website: ''
   });
 
