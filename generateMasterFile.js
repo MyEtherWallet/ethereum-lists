@@ -57,22 +57,26 @@ function generateMasterFile() {
   });
   [...Object.keys(imageCache.png), ...Object.keys(imageCache.svg)].forEach(
     addr => {
+      const split = addr.split('-');
+      if (split.length < 2) return;
+      const actualAddress = split[1].substring(0, split[1].length - 4);
+
       // non-evm address
-      if (!isAddress(addr)) {
-        const isSol = /^[1-9A-HJ-NP-Za-km-z]{32,44}$/.test(addr);
-        const isDot = /^1[a-zA-Z0-9]{47}$/.test(addr);
-        const split = addr.split('-');
+      if (!isAddress(actualAddress)) {
+        const isSol = /^[1-9A-HJ-NP-Za-km-z]{32,44}$/.test(actualAddress);
+        const isDot = /^1[a-zA-Z0-9]{47}$/.test(actualAddress);
+
         const symbol = split[0];
         const mainURL =
           'https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/';
 
-        if (addr.length < 32) return;
+        if (actualAddress.length < 32) return;
         mainArr.push({
           network: isSol ? 'sol' : isDot ? 'dot' : 'sol',
           symbol: symbol,
           name: symbol,
           decimals: 0,
-          contract_address: addr,
+          contract_address: actualAddress,
           icon: `${
             imageCache.png[addr]
               ? imageCache.png[addr]
