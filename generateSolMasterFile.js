@@ -68,8 +68,8 @@ async function generateSolMasterFile() {
 
     mainArr.push({
       network,
-      symbol: symbol,
-      name: name,
+      symbol: symbol ? symbol : symbolFromIcon,
+      name: name ? name : symbolFromIcon,
       decimals,
       contract_address: address,
       icon: icon,
