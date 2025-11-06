@@ -6304,6 +6304,33 @@
     }
   },
   {
+    "symbol": "COMMON",
+    "name": "Common",
+    "type": "ERC20",
+    "address": "0x4c87da04887a1F9F21F777E3A8dD55C3C9f84701",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "COMP",
     "name": "Compound",
     "type": "ERC20",
@@ -20508,6 +20535,33 @@
       "height": "",
       "ipfs_hash": ""
     },
+    "support": { "email": "", "url": "" },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "",
+      "twitter": "",
+      "youtube": ""
+    }
+  },
+  {
+    "symbol": "SURGE",
+    "name": "Surge",
+    "type": "ERC20",
+    "address": "0xedB6970B7BE5A522cFf14c8b679a2D813FF97b4D",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "",
+    "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
     "support": { "email": "", "url": "" },
     "social": {
       "blog": "",
