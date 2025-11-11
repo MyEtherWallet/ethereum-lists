@@ -27,7 +27,10 @@ async function generateSolMasterFile() {
       if (split.length < 2) {
         return;
       }
-      const actualAddress = split[1].substring(0, split[1].length - 4);
+      const actualAddress = split[split.length - 1].substring(
+        0,
+        split[split.length - 1].length - 4
+      );
       return actualAddress;
     })
     .filter(undef => !!undef);
@@ -57,7 +60,7 @@ async function generateSolMasterFile() {
       ...Object.keys(imageCache.svg)
     ].find(iconKey => iconKey.includes(address));
     const split = matchedIcon.split('-');
-    const symbolFromIcon = split[0];
+    const symbolFromIcon = split.slice(0, split.length - 1).join('-');
 
     const network = 'sol';
     const icon = imageCache.png[matchedIcon]
