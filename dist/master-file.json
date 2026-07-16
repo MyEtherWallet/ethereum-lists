@@ -16754,6 +16754,17 @@
   },
   {
     "network": "bsc",
+    "symbol": "$KAMIRAI",
+    "name": "Kamirai",
+    "decimals": 18,
+    "contract_address": "0x12bfe0251Eb64c6e26d1A264673593D6164ca213",
+    "icon": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KAMIRAI-0x12bfe0251Eb64c6e26d1A264673593D6164ca213-bsc.png",
+    "icon_png": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/icons/KAMIRAI-0x12bfe0251Eb64c6e26d1A264673593D6164ca213-bsc.png",
+    "link": "https://raw.githubusercontent.com/MyEtherWallet/ethereum-lists/master/src/tokens/bsc/0x12bfe0251Eb64c6e26d1A264673593D6164ca213.json",
+    "website": "https://www.kamirai.io/"
+  },
+  {
+    "network": "bsc",
     "symbol": "0XMR",
     "name": "0xMonero",
     "decimals": 18,

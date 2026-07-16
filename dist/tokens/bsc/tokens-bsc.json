@@ -27,6 +27,38 @@
     }
   },
   {
+    "symbol": "$KAMIRAI",
+    "name": "Kamirai",
+    "type": "BEP20",
+    "address": "0x12bfe0251Eb64c6e26d1A264673593D6164ca213",
+    "ens_address": "",
+    "decimals": 18,
+    "website": "https://www.kamirai.io/",
+    "logo": {
+      "src": "https://kamirai-token-progress-dashboard.vercel.app/brand/KAMIRAI-0x12bfe0251Eb64c6e26d1A264673593D6164ca213-bsc.png",
+      "width": "128px",
+      "height": "128px",
+      "ipfs_hash": ""
+    },
+    "support": { "email": "kami@kamirai.io", "url": "https://www.kamirai.io/" },
+    "social": {
+      "blog": "",
+      "chat": "https://t.me/KamiraiGroup",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/KamiraiGroup",
+      "twitter": "https://x.com/KamiraiOfficial",
+      "youtube": ""
+    }
+  },
+  {
     "symbol": "0XMR",
     "name": "0xMonero",
     "type": "ERC20",
